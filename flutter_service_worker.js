@@ -3,24 +3,23 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "assets/AssetManifest.bin": "a3d922a0b0bb96200631d1d9f758ce7d",
-"assets/AssetManifest.json": "2efbb41d7877d10aac9d091f58ccd7b9",
+  "assets/AssetManifest.bin": "a76939b7de20ada77bcddd8ee8b19e0b",
+"assets/AssetManifest.json": "b025a02307a11cc916299553db1289f7",
 "assets/FontManifest.json": "dc3d03800ccca4601324923c0b1d6d57",
-"assets/fonts/MaterialIcons-Regular.otf": "f4ad06f7bc8e47eb1646092e9693210d",
+"assets/fonts/MaterialIcons-Regular.otf": "cd37fa8a771cec76d471e9fe48536bde",
+"assets/images/bristol.jpg": "c5fc9d0ca50e9b97c072fb76aed82c0c",
+"assets/images/pexels-plage.jpg": "f300ae6d407debd679e21f8838f14c98",
 "assets/NOTICES": "44dd2230e3cd0af0b25efca7863d4988",
 "assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "57d849d738900cfd590e9adc7e208250",
 "assets/shaders/ink_sparkle.frag": "92666cc97576adbea2e2d3061a953137",
-"canvaskit/canvaskit.js": "971260b2fcb9a1c3b5fd69fb698cf9ba",
-"canvaskit/canvaskit.wasm": "abce7d16c081c21404dfa6bcc0235972",
 "favicon.png": "5dcef449791fa27946b3d35ad8803796",
-"flutter.js": "a85fcf6324d3c4d3ae3be1ae4931e9c5",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
-"index.html": "53a2ddd63cc7e86f36997362f3215e9f",
-"/": "53a2ddd63cc7e86f36997362f3215e9f",
-"main.dart.js": "a0a838e36eb4b661b32627a5529c0113",
+"index.html": "c99fe143143c076ec62c1e10fa7d64bc",
+"/": "c99fe143143c076ec62c1e10fa7d64bc",
+"main.dart.js": "16ebd79377fe02313c692809f3dbbeb1",
 "manifest.json": "4c921479443df6bff2209abc222825a5",
 "version.json": "bb4dfe6bc3d2b80e18954fd8b08cb0e8"
 };
