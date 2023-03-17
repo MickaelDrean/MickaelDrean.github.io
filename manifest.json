@@ -1,6 +1,6 @@
 {
-    "name": "widgets_interactifs",
-    "short_name": "widgets_interactifs",
+    "name": "mvp_player_only",
+    "short_name": "mvp_player_only",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
