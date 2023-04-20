@@ -26,15 +26,15 @@
                 "L'invitation est de créer le contour de ce creuset bienveillant dont je viens de vous parler, de ritualiser l'ouverture de cet espace particulier, en nous accueillant en équivalence dans une ronde.",
                 "Un accueil qui commence par notre présence, à nous mêmes, au groupe.",
                 "Une présence que nous partageons dans le contact des mains, dans les regards.",
-                "La musique va nous aider à créer du commun en nous proposant sa cadence."
+                "La Musique va nous aider à créer du commun en nous proposant sa cadence."
             ],
-            "musique": {
+            "Musique": {
                "title": "13-97 - IBF - When You Smile - Flack, Roberta",
                "path": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-2.mp3"
             },
-            "video": {
+            "Video": {
                 "title":"",
-                "url": "https://cdn.pixabay.com/vimeo/803732906/Roseaux%20-%20152740.mp4?width=640&hash=4cdf2375f86628b94c81dfbe1e40e597e653ab02"
+                "path": "https://cdn.pixabay.com/vimeo/803732906/Roseaux%20-%20152740.mp4?width=640&hash=4cdf2375f86628b94c81dfbe1e40e597e653ab02"
             }
         },
         {
@@ -46,13 +46,13 @@
                 "L'invitation est d'oser se lancer dans le monde, et d'aller à la rencontre de la diversité qui s'offre à nos regards dans ce groupe",
                 "La marche se fait vers l'avant, en posant le talon en premier."
             ],
-            "musique":{
+            "Musique":{
                 "title":  "01-61 - All You Need Is Love - The Beatles",
                 "path": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-2.mp3"
             },
-            "video": {
+            "Video": {
                 "title":"",
-                "url": "https://cdn.pixabay.com/vimeo/153555258/Monde%20-%201992.mp4?width=640&hash=5e099653996c71187b004527af34897d5e28d2b2"
+                "path": "https://cdn.pixabay.com/vimeo/153555258/Monde%20-%201992.mp4?width=640&hash=5e099653996c71187b004527af34897d5e28d2b2"
             }
         },
         {
@@ -60,19 +60,19 @@
             "description": [
                 "Nous allons continuer à explorer la diversité du groupe, en nous rencontrons dans une marche à deux.",
                 "L'invitation est de vous coordonner sur un rythme commun : une coordination rythmique.",
-                "L'invitation dans cette marche est, en partant de vos présences, de vos énergies respectives, de vous ajuster, de vous coordonner sur la base du rythme de la musique, et trouver l'intensité et la direction qui vous conviennent.",
-                "Invitez une personne, établissez une connexion et, quand la musique commence prenez le temps de laisser le rythme vous imprégner de trouver votre marche commune.",
+                "L'invitation dans cette marche est, en partant de vos présences, de vos énergies respectives, de vous ajuster, de vous coordonner sur la base du rythme de la Musique, et trouver l'intensité et la direction qui vous conviennent.",
+                "Invitez une personne, établissez une connexion et, quand la Musique commence prenez le temps de laisser le rythme vous imprégner de trouver votre marche commune.",
                 "Il y aura des changements pour explorer cette diversité. Quand je dirais on change, une pression des mains et on quitte la personne et on va vers une autre personne.",
-                "L'invitation est d'établir une connexion privilégiée avec un compagnon ET comme la musique va nous le rappeler, nous sommes tous ensemble maintenant dans ce creuset.",
+                "L'invitation est d'établir une connexion privilégiée avec un compagnon ET comme la Musique va nous le rappeler, nous sommes tous ensemble maintenant dans ce creuset.",
                 "La proposition c'est de rester en connexion aussi avec le reste des compagnons."
             ],
-            "musique": {
+            "Musique": {
                 "title": "01-51 - IBF - All Together Now - The Beatles",
                 "path": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-2.mp3"
             },
-            "video": {
+            "Video": {
                 "title":"",
-                "url": "https://cdn.pixabay.com/vimeo/798555662/Pluie%20-%20150531.mp4?width=640&hash=735dfd9d804d71cb94b777a574a9c96c87e1e1ca"
+                "path": "https://cdn.pixabay.com/vimeo/798555662/Pluie%20-%20150531.mp4?width=640&hash=735dfd9d804d71cb94b777a574a9c96c87e1e1ca"
             }
         }
     ]
