@@ -1,6 +1,6 @@
 {
-    "name": "mvp_player_only",
-    "short_name": "mvp_player_only",
+    "name": "vivenciapp",
+    "short_name": "vivenciapp",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
