@@ -1,0 +1,48 @@
+{
+    "Version_date": "21-12-2023 23h",
+    "ChangeLog": [
+
+        {
+            "Date" : "12-12-2023",
+            "Description": [
+                "Selection d'un exercice - Ajustement des tailles",
+                "Selection d'un exercice - Gestion de l'enregistrement de la consigne a partir des éléments prédéfinis"
+            ]
+        },
+
+        {
+            "Date" :"19-12-2023",
+            "Description": [
+                "Selection d'un exercice - Capacité de visualiser la vidéo demo si elle est défini"
+            ]
+        },
+
+        {
+            "Date" :"07-11-2023",
+            "Description": [
+                "Editeur d'animation - Capacitié à sélectionner une séquence pendant l'édition et alignement de la partie de droite",
+                "Editeur d'animation - Capacitié à ajouter les textes prédéfinis à la création de la séquence"
+            ]
+        },
+        {
+            "Date" :"02-11-2023",
+            "Description": [
+                "Refactoring du code - Architecture en layer v0.1, ajout des premiers repository et documentation v0.1"
+            ]
+        },
+        {
+            "Date" :"24-07-2023",
+            "Description": [
+                "Bug : Le player audio ne fonctionnait pas sous web - passage à un autre plugin",
+                "Semble corrigé sur Web, a vérifier windows/linux & co"
+            ]
+        },
+        {
+            "Date" :"21-07-2023",
+            "Description": [
+                "Feature : Player Audio lors de la sélection d'un exercice",
+                "Bugs : Divers bugs lors de la sélection des séquences/musics puis reselection d'autres exercices"
+            ]
+        }
+    ]
+}
