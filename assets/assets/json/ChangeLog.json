@@ -1,9 +1,21 @@
 {
-    "Version_date": "21-12-2023 23h",
+    "Version_date": "22-12-2023 22h",
     "ChangeLog": [
-
         {
-            "Date" : "12-12-2023",
+            "Date" : "22-12-2023",
+            "Description": [
+                "Profil audio visible en entier",
+                "Correction bug rendu graphique avec zone grise"
+            ]
+        },
+        {
+            "Date" : "21-12-2023",
+            "Description": [
+                "Ajout de la zone Audio type SoundCloud dans l'éditeur"
+            ]
+        },
+        {
+            "Date" : "20-12-2023",
             "Description": [
                 "Selection d'un exercice - Ajustement des tailles",
                 "Selection d'un exercice - Gestion de l'enregistrement de la consigne a partir des éléments prédéfinis"
