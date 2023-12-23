@@ -119442,7 +119442,7 @@ i=o.z
 i===$&&A.b()
 h=t.N
 s=6
-return A.n(A.bu6(A.eo(i[0],0,null),A.aD(["Access-Control-Allow-Origin","*","Access-Control-Allow-Credentials","true"],h,h)),$async$AG)
+return A.n(A.bu6(A.eo(i[0],0,null),A.aD(["Access-Control-Allow-Origin","*"],h,h)),$async$AG)
 case 6:n=b
 i=n
 m=A.btN(J.b8(A.br0(i.e).c.a,"charset")).fk(0,i.w)
