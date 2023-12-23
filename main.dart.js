@@ -32124,7 +32124,7 @@ arZ:function arZ(a,b){this.a=a
 this.b=b},
 jg:function jg(a,b){this.a=a
 this.b=b},
-bu6(a,b){return A.aYg(new A.aYX(a,b),t.Wd)},
+bu6(a){return A.aYg(new A.aYX(a,null),t.Wd)},
 aYg(a,b){return A.bsI(a,b,b)},
 bsI(a,b,c){var s=0,r=A.r(c),q,p=2,o,n=[],m,l,k
 var $async$aYg=A.t(function(d,e){if(d===1){o=e
@@ -110068,7 +110068,6 @@ yv(a,b,c){return this.avP(a,b,c)},
 avP(a,b,c){var s=0,r=A.r(t.Wd),q,p=this,o,n
 var $async$yv=A.t(function(d,e){if(d===1)return A.o(e,r)
 while(true)switch(s){case 0:o=A.bmK(a,b)
-if(c!=null)o.r.M(0,c)
 n=A
 s=3
 return A.n(p.iC(0,o),$async$yv)
@@ -119435,31 +119434,30 @@ return A.n(p.m(),$async$m)
 case 3:q.aJ()
 return A.p(null,r)}})
 return A.q($async$m,r)},
-AG(){var s=0,r=A.r(t.H),q=1,p,o=this,n,m,l,k,j,i,h,g,f
+AG(){var s=0,r=A.r(t.H),q=1,p,o=this,n,m,l,k,j,i,h,g
 var $async$AG=A.t(function(a,b){if(a===1){p=b
 s=q}while(true)switch(s){case 0:q=3
 i=o.z
 i===$&&A.b()
-h=t.N
 s=6
-return A.n(A.bu6(A.eo(i[0],0,null),A.aD(["Access-Control-Allow-Origin","*"],h,h)),$async$AG)
+return A.n(A.bu6(A.eo(i[0],0,null)),$async$AG)
 case 6:n=b
 i=n
 m=A.btN(J.b8(A.br0(i.e).c.a,"charset")).fk(0,i.w)
 i=o.r
 i===$&&A.b()
-l=A.aD(["json",m,"totalSamples",i],h,t.z)
-h=t.a
+l=A.aD(["json",m,"totalSamples",i],t.N,t.z)
+i=t.a
 s=7
-return A.n(A.bbU(A.bkm(),l,null,h,h),$async$AG)
+return A.n(A.bbU(A.bkm(),l,null,i,i),$async$AG)
 case 7:k=b
 o.a8(new A.aOX(o,k))
 q=1
 s=5
 break
 case 3:q=2
-f=p
-j=A.ab(f)
+g=p
+j=A.ab(g)
 i=o.z
 i===$&&A.b()
 A.bG("Impossible to get "+i[0]+" : "+A.i(j))
