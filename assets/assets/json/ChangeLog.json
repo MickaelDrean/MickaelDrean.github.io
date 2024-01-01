@@ -1,6 +1,15 @@
 {
-    "Version_date": "23-12-2023 18h30",
+    "Version_date": "01-01-2024 15h30",
     "ChangeLog": [
+
+        {
+            "Date" : "01-01-2024",
+            "Description": [
+                "Remplacement des combobox de sélection exercices/musiques par des éléments permettant la recherche (avec filtrage affichage)",
+                "Bug affichage/alignement sur les éléments de sélection des textes prédéfinis pour un exercice"
+            ]
+        },
+
         {
             "Date" : "22-12-2023",
             "Description": [
