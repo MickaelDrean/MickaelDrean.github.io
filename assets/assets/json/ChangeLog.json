@@ -1,7 +1,13 @@
 {
-    "Version_date": "01-01-2024 15h30",
+    "Version_date": "18-01-2024 14h",
     "ChangeLog": [
-
+        {
+            "Date" : "18-01-2024",
+            "Description": [
+                "Modifications pour afficher le titre",
+                "Remplacements de mots en dur par des clés"
+            ]
+        },
         {
             "Date" : "01-01-2024",
             "Description": [
