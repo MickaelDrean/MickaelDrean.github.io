@@ -1,6 +1,11 @@
 {
-    "Version_date": "18-01-2024 14h",
-    "ChangeLog": [
+    "Version_date": "22-01-2024 22h",
+    "ChangeLog": [ {
+        "Date" : "22-01-2024",
+        "Description": [
+            "Modifications de l'IHM de l'éditeur - non terminé"
+        ]
+    },
         {
             "Date" : "18-01-2024",
             "Description": [
