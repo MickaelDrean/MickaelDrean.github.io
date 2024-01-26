@@ -121419,9 +121419,9 @@ if(p==null)p=""
 s=q.i(a,"filename")
 if(s==null)s=""
 r=q.i(a,"lastOpened")
-if(r==null)r=""
+if(r==null)r=Date.now()
 q=q.i(a,"sessionDate")
-return new A.ij(p,s,r,q==null?"":q)},
+return new A.ij(p,s,r,q==null?Date.now():q)},
 $S:789}
 A.aFl.prototype={
 $2(a,b){return B.e.bV(b.c,a.c)},
