@@ -1,11 +1,18 @@
 {
-    "Version_date": "22-01-2024 22h",
-    "ChangeLog": [ {
-        "Date" : "22-01-2024",
-        "Description": [
-            "Modifications de l'IHM de l'éditeur - non terminé"
-        ]
-    },
+    "Version_date": "29-01-2024 18h30",
+    "ChangeLog": [ 
+        {
+            "Date" : "29-01-2024",
+            "Description": [
+                "Reprise waveform audio et capacité play/pause depuis liste des séquences ( quelques bugs résiduels à corriger )"
+            ]
+        },
+        {
+            "Date" : "22-01-2024",
+            "Description": [
+                "Modifications de l'IHM de l'éditeur - non terminé"
+            ]
+        },
         {
             "Date" : "18-01-2024",
             "Description": [
