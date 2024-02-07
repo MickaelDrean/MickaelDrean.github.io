@@ -1,723 +1,393 @@
 {
-    "Catalogue": "MED_INITIATION",
-
-    "VersionCatalogue": "2021-04-07",
-
     "Language": "FR",
-
     "Title": "Identité et diversité",
-
-    "SessionDate": "2023/03/20",
-
-    "Instruction": [
-
+    "Date": "2023/03/20",
+    "Author": "Thierry CONTER",
+    "Presentation": [
         "L’identité peut se définir comme ce que chaque personne « est », face à tout autre système de réalité, à tout ce qui n’est pas elle.",
-
         "Notre identité est à l'origine celle de la dotation génétique reçue lors de notre conception. ",
-
         "L’interaction avec notre environnement naturel, familial, culturel, ... continuent à forger cette identité. Malgré la forte détermination du code génétique, l’individu se crée lui-même à chaque moment et, ceci, toute sa vie durant.",
-
         "Il y a un paradoxe d'ordre génétique concernant notre identité :",
-
         " - D'une part, la nature reproduit indéfiniment la même information, comme si elle voulait s'assurer que le message passe bien et de manière inaltérée . Nous humains avons 99,9% d'ADN en commun",
-
         " - D'autre part, la nature crée des individus uniques dont la diversité des apparences surprend par sa richesse et ses infinies variations. Ce sont les 0,1% qui font la différence, la diversité.",
-
         "",
-
         "Il y a à la fois une tendance forte à conserver un modèle commun, un même moule et en même temps à le diversifier pour s'adapter.",
-
         "D'un point de vue biologique, notre système immunitaire est le garant de la conservation de notre l’identité. Il est en vigilance maximale face à la présence d’un agent identifié comme étranger – endogène ou exogène. Sa mission est d’éliminer l’impropre, l’intrus et de conserver intact le propre, le même. Nous pouvons donc dire que le système immunitaire est destiné à préserver l’intégrité génétique de l’individu. Il constitue le système de défense qui assure et maintient l’identité biologique.",
-
         "Pour autant, il laisse s'implanter un riche microbiote dans notre système digestif.",
-
         "La survie de notre espèce est basée sur la rencontre de la différence vs consanguinité.",
-
         "",
-
         "A niveau psychologique ou philosophique, il y a également un paradoxe entre identité et diversité",
-
         " - De notre identité naît la perception du différent. C’est à partir de se ressenti puissant du \"je suis un être unique\", que s’organise ma perception de ce qui est différent, de la diversité et que nous pouvons interagir avec cette diversité.",
-
         " - C'est à partir des expériences de rencontres, de mise en commun avec le différent, l’étranger que je peux renouveler mon identité, exprimer encore plus pleinement qui je suis.",
-
         "",
-
         "Ce que cherche à promouvoir la Biodanza : Aller vers la plus ample expression de soi, de son identité.",
-
         "Une des portes d'entrée est de multiplier ces expériences de rencontre, communion avec l'autre, avec cette diversité à travers la danse dans un cadre respectueux et bienveillant.",
-
         "Dans cette séance je vous propose d’aller explorer cette diversité."
-
     ],
-
     "Proposals": [
-
         {
             "Exercise": {
-
+                "Catalogue": "MED_INITIATION",
+                "VersionCatalogue": "2021-04-07",
                 "ID": "EX214",
-
-                "Title": "RONDE D'INITIATION (aussi nommée «RONDE D'INTEGRATION INITIALE»)"
-            },
-
-            "Instruction": [
-
-                "Je vous invite à former un espace circulaire.",
-
-                "Je vous propose de prendre un temps pour accueillir la diversité de notre communauté humaine.",
-
-                "Puis, quand c'est bon pour vous de rentrer en contact avec les compagnons à côté de vous, d'abord dans le regard puis dans les mains.",
-
-                "L'invitation quand  la Music commence est de percevoir la cadence qu'elle nous propose et de nous appuyer dessus,  de la marquer avec les pieds, pour trouver un rythme commun à tout le groupe.",
-
-                "Dans cette ronde, chacun d'entre nous à la possibilité de voir tous les autres. Ce que je vous propose, c'est d'en profiter pour nous accueillir en diversité dans un regard, dans un sourire. ",
-
-                "Quand la Music commence, nous nous mettrons en mouvement vers la droite."
-
-            ],
-
-            "Music": {
-
-                "ID": "13-97",
-
-                "OriginCode": "IBFC21-07",
-
-                "Title": "When You Smile",
-
-                "Artist": "Flack, Roberta",
-
-                "Path": "https://biodanza-dzv.fr/wp-content/uploads/2023/04/BDZMED/PI13/IBFC21%20-%2007%20-%20Flack,%20Roberta%20-%20When%20You%20Smile.wav",
-
-                "Duration": "03:41"
-            },
-
-            "Video": {
-
                 "Title": "RONDE D'INITIATION (aussi nommée «RONDE D'INTEGRATION INITIALE»)",
-
-                "Path": ""
-
+                "VideoID": "",
+                "VideoPath": ""
+            },
+            "Instruction": [
+                "Je vous invite à former un espace circulaire.",
+                "Je vous propose de prendre un temps pour accueillir la diversité de notre communauté humaine.",
+                "Puis, quand c'est bon pour vous de rentrer en contact avec les compagnons à côté de vous, d'abord dans le regard puis dans les mains.",
+                "L'invitation quand  la Music commence est de percevoir la cadence qu'elle nous propose et de nous appuyer dessus,  de la marquer avec les pieds, pour trouver un rythme commun à tout le groupe.",
+                "Dans cette ronde, chacun d'entre nous à la possibilité de voir tous les autres. Ce que je vous propose, c'est d'en profiter pour nous accueillir en diversité dans un regard, dans un sourire. ",
+                "Quand la Music commence, nous nous mettrons en mouvement vers la droite."
+            ],
+            "Music": {
+                "Catalogue": "MED_INITIATION",
+                "VersionCatalogue": "2021-04-07",
+                "ID": "13-97",
+                "OriginCode": "IBFC21-07",
+                "Title": "When You Smile",
+                "Artist": "Flack, Roberta",
+                "Path": "https://biodanza-dzv.fr/wp-content/uploads/2023/04/BDZMED/PI13/IBFC21%20-%2007%20-%20Flack,%20Roberta%20-%20When%20You%20Smile.wav",
+                "Duration": "03:41"
             }
-
         },
-
         {
-
             "Exercise": {
-
+                "Catalogue": "MED_INITIATION",
+                "VersionCatalogue": "2021-04-07",
                 "ID": "EX159",
-
-                "Title": "MARCHE AVEC MOTIVATION AFFECTIVE"
-            },
-
-            "Instruction": [
-
-                "*S'ouvrir à la diversité*, c'est **s'ouvrir au monde** qui nous entoure, à ce qui se peut se présenter à **moi** . C'est  avoir le regard et le coeur ouvert.\n\n",
-
-                ">L'invitation, c'est de marcher avec l'esprit ouvert au monde, en ressentant l'impulsion qui naît dans la poitrine à partir de l'émotion induite par la Music.",
-
-                " ",
-
-                " ",
-
-                "Les bras s'ouvrent lorsqu'on ressent l'élan (prêts à accueillir et à recevoir), la poitrine ouverte, décontracté, relâché.",
-
-                "Si c'est bon pour vous les échanges de regards et de sourires sont les bienvenus !"
-
-            ],
-
-            "Music": {
- 
-                "ID": "01-61",
-
-                "OriginCode": "HLB20-18",
-
-                "Title": "All You Need Is Love",
-
-                "Artist": "The Beatles",
-
-                "Path": "https://biodanza-dzv.fr/wp-content/uploads/2023/04/BDZMED/PI01/HLB20%20-%2018%20-%20The%20Beatles%20-%20All%20You%20Need%20Is%20Love.mp3",
-
-                "Duration": "03:50"
-
-            },
-
-            "Video": {
-
                 "Title": "MARCHE AVEC MOTIVATION AFFECTIVE",
-
-                "Path": "https://biodanza-dzv.fr/wp-content/uploads/2023/04/BDZMED/DVD1/DVD1_Exo28.mp4"
-
-            }
-
-        },
-
-        {
-
-            "Exercise": {
-
-                "ID": "EX035",
-
-                "Title": "COORDINATION RYTHMIQUE A DEUX (appelée aussi marcher à deux)"
-
-            },        
-
-            "Instruction": [
-
-                "Sur ce chemin de la vie, je vais vous proposer une promenade à deux pour partager cette ouverture, cette capacité d'accueil.",
-
-                "L'invitation dans cette marche est, de vous ajuster, sur la base du rythme de la Music, et trouver l'intensité et la direction qui vous conviennent."
-
-            ],
-
-            "Music": {
-   
-                "ID": "01-51",
-
-                "OriginCode": "IBFC20-03",
-                
-                "Title": "All Together Now",
-
-                "Artist": "The Beatles",
-
-                "Path": "https://biodanza-dzv.fr/wp-content/uploads/2023/04/BDZMED/PI01/IBFC20%20-%2003%20-%20The%20Beatles%20-%20All%20Together%20Now.mp3",
-
-                "Duration": "02:10"
-
+                "VideoID": "DVD1_Exo28",
+                "VideoPath": "https://biodanza-dzv.fr/wp-content/uploads/2023/04/BDZMED/DVD1/DVD1_Exo28.mp4"
             },
-
-            "Video": {
-
-                "Title": "COORDINATION RYTHMIQUE A DEUX (appelée aussi marcher à deux)",
-
-                "Path": "https://biodanza-dzv.fr/wp-content/uploads/2023/04/BDZMED/DVD1/DVD1_Exo02.mp4"
-
+            "Instruction": [
+                "*S'ouvrir à la diversité*, c'est **s'ouvrir au monde** qui nous entoure, à ce qui se peut se présenter à **moi** . C'est  avoir le regard et le coeur ouvert.",
+                ">L'invitation, c'est de marcher avec l'esprit ouvert au monde, en ressentant l'impulsion qui naît dans la poitrine à partir de l'émotion induite par la Music.",
+                " ",
+                " ",
+                "Les bras s'ouvrent lorsqu'on ressent l'élan (prêts à accueillir et à recevoir), la poitrine ouverte, décontracté, relâché.",
+                "Si c'est bon pour vous les échanges de regards et de sourires sont les bienvenus !"
+            ],
+            "Music": {
+                "Catalogue": "MED_INITIATION",
+                "VersionCatalogue": "2021-04-07",
+                "ID": "01-61",
+                "OriginCode": "HLB20-18",
+                "Title": "All You Need Is Love",
+                "Artist": "The Beatles",
+                "Path": "https://biodanza-dzv.fr/wp-content/uploads/2023/04/BDZMED/PI01/HLB20%20-%2018%20-%20The%20Beatles%20-%20All%20You%20Need%20Is%20Love.mp3",
+                "Duration": "03:50"
             }
-
         },
-
         {
-
             "Exercise": {
-
+                "Catalogue": "MED_INITIATION",
+                "VersionCatalogue": "2021-04-07",
+                "ID": "EX035",
+                "Title": "COORDINATION RYTHMIQUE A DEUX (appelée aussi marcher à deux)",
+                "VideoID": "DVD1_Exo02",
+                "VideoPath": "https://biodanza-dzv.fr/wp-content/uploads/2023/04/BDZMED/DVD1/DVD1_Exo02.mp4"
+            },        
+            "Instruction": [
+                "Sur ce chemin de la vie, je vais vous proposer une promenade à deux pour partager cette ouverture, cette capacité d'accueil.",
+                "L'invitation dans cette marche est, de vous ajuster, sur la base du rythme de la Music, et trouver l'intensité et la direction qui vous conviennent."
+            ],
+            "Music": {
+                "Catalogue": "MED_INITIATION",
+                "VersionCatalogue": "2021-04-07",
+                "ID": "01-51",
+                "OriginCode": "IBFC20-03",
+                "Title": "All Together Now",
+                "Artist": "The Beatles",
+                "Path": "https://biodanza-dzv.fr/wp-content/uploads/2023/04/BDZMED/PI01/IBFC20%20-%2003%20-%20The%20Beatles%20-%20All%20Together%20Now.mp3",
+                "Duration": "02:10"
+            }
+        },
+        {
+            "Exercise": {
+                "Catalogue": "MED_INITIATION",
+                "VersionCatalogue": "2021-04-07",
                 "ID": "EX147",
-
-                "Title": "JEUX DE VITALITE"
-
+                "Title": "JEUX DE VITALITE",
+                "VideoID": "",
+                "VideoPath": ""
             },   
             
             "Instruction": [
-
                 "Nous allons continuer à explorer la diversité. Cette fois la proposition est d'expérimenter l'ouverture aux changements qu'ils soient de compagnons ou de rythme de la Music.",
-
                 "Je vous invite à former des petits groupes et comme pour la danse précédente de prendre le temps de vous connecter, de trouver un rythme commun avant de vous mettre en chemin.",
-
                 "Quand je dirai, changer pous reformez de nouveaux groupes."
-
             ],
-
             "Music": {
-   
+                "Catalogue": "MED_INITIATION",
+                "VersionCatalogue": "2021-04-07",
                 "ID": "09-47",
-
                 "OriginCode": "HLB28-20",
-
                 "Title": "Ob-la-di-ob-la-da Extended Dance Mix",
-
                 "Artist": "Inner Circle",
-
                 "Path": "https://biodanza-dzv.fr/wp-content/uploads/2023/04/BDZMED/PI09/HLBC28%20-%2020%20-%20Inner%20Circle%20-%20Ob-La-di-Ob-la-da%20Extended%20Dance%20Mix.mp3",
-
                 "Duration": "04:02"
-
-            },
-
-            "Video": {
-
-                "Title": "JEUX DE VITALITE",
-
-                "Path": ""
-
             }
-
         },
-
         {
-
             "Exercise": {
-
+                "Catalogue": "MED_INITIATION",
+                "VersionCatalogue": "2021-04-07",
                 "ID": "EX147",
-
-                "Title": "JEUX DE VITALITE"
-
-            },   
-
-            "Instruction": [
-
-                "S'ouvrir à la  diversité, jouer, se sentir vivants ensemble !",
-
-                "Nous allons réaliser un jeu. Le jeu s'inspire de situations que nos parents et grands parents ont connu que l'on connait de moins en moins. C'est les situations du bal du village. Les situations folkloriques, les festnoz de Bretagne, avec les situations de rondes, de tunnels, de trains, de farandoles, tout ce qui brasse dans une communauté l'énergie vitale, vivante d'une communauté. Nous allons former des couples improbables. (Ronde) Un dedans, un dehors. Ca va créer un peu de chaos. Nous commençons tous avec le bras droit.",
-
-                "La farandole c'est pour le début. Puis tunnel, pour passer sous le tunnel."
-
-            ],
-
-            "Music": {
-   
-                "ID": "03-03",
-
-                "OriginCode": "HLB02-09",
-
-                "Title": "Born To Dance",
-
-                "Artist": "Anderson, Jon",
-
-                "Path": "https://biodanza-dzv.fr/wp-content/uploads/2023/04/BDZMED/PI03/HLB02%20-%2009%20-%20Anderson,%20Jon%20-%20Born%20To%20Dance.mp3",
-
-                "Duration": "03:36"
-
-            },
-
-            "Video": {
-
                 "Title": "JEUX DE VITALITE",
-
-                "Path": ""
-
+                "VideoID": "",
+                "VideoPath": ""
+            },   
+            "Instruction": [
+                "S'ouvrir à la  diversité, jouer, se sentir vivants ensemble !",
+                "Nous allons réaliser un jeu. Le jeu s'inspire de situations que nos parents et grands parents ont connu que l'on connait de moins en moins. C'est les situations du bal du village. Les situations folkloriques, les festnoz de Bretagne, avec les situations de rondes, de tunnels, de trains, de farandoles, tout ce qui brasse dans une communauté l'énergie vitale, vivante d'une communauté. Nous allons former des couples improbables. (Ronde) Un dedans, un dehors. Ca va créer un peu de chaos. Nous commençons tous avec le bras droit.",
+                "La farandole c'est pour le début. Puis tunnel, pour passer sous le tunnel."
+            ],
+            "Music": {
+                "Catalogue": "MED_INITIATION",
+                "VersionCatalogue": "2021-04-07",
+                "ID": "03-03",
+                "OriginCode": "HLB02-09",
+                "Title": "Born To Dance",
+                "Artist": "Anderson, Jon",
+                "Path": "https://biodanza-dzv.fr/wp-content/uploads/2023/04/BDZMED/PI03/HLB02%20-%2009%20-%20Anderson,%20Jon%20-%20Born%20To%20Dance.mp3",
+                "Duration": "03:36"
             }
-
         },
-
         {
-
-            "Exercise": {
-
+            "Exercise": {    
+                "Catalogue": "MED_INITIATION",
+                "VersionCatalogue": "2021-04-07",
                 "ID": "EX043",
-
-                "Title": "DANSE CREATIVE A DEUX"
-
-            },
-
-            "Instruction": [
-
-                "Dans le Petit Prince, le renard demande \"apprivoise moi\". Si tu m'apprivoise, tu seras pour moi unique au monde. Je serai pour toi unique au monde.",
-
-                "Apprivoiser le différent, l'étranger pour me découvrir, pour potentiellement renouveller mon identité. ",
-
-                "C'est la proposition de cette danse créative à deux.",
-
-                "L'invitation est de rentrer à deux dans une danse créative expressive avec des variations de distance, de vitesse, d'intensité en prenant soin de rester connectés en permanence à soi, à l'autre à la Music."
-
-            ],
-
-            "Music": {
-
-                "ID": "12-57",
-
-                "OriginCode": "HLBC27-60",
-
-                "Title": "The Postman's Dreams",
-
-                "Artist": "OST Il Postino",
-
-                "Path": "https://biodanza-dzv.fr/wp-content/uploads/2023/04/BDZMED/PI12/HLBC27%20-%2060%20-%20OST%20The%20Postman%20(Il%20Postino)%20-%20The%20Postman%27s%20Dreams.mp3",
-
-                "Duration": "03:20"
-
-            },
-
-            "Video": {
-
                 "Title": "DANSE CREATIVE A DEUX",
-
-                "Path": ""
-
+                "VideoID": "",
+                "VideoPath": ""
+            },
+            "Instruction": [
+                "Dans le Petit Prince, le renard demande \"apprivoise moi\". Si tu m'apprivoise, tu seras pour moi unique au monde. Je serai pour toi unique au monde.",
+                "Apprivoiser le différent, l'étranger pour me découvrir, pour potentiellement renouveller mon identité. ",
+                "C'est la proposition de cette danse créative à deux.",
+                "L'invitation est de rentrer à deux dans une danse créative expressive avec des variations de distance, de vitesse, d'intensité en prenant soin de rester connectés en permanence à soi, à l'autre à la Music."
+            ],
+            "Music": {
+                "Catalogue": "MED_INITIATION",
+                "VersionCatalogue": "2021-04-07",
+                "ID": "12-57",
+                "OriginCode": "HLBC27-60",
+                "Title": "The Postman's Dreams",
+                "Artist": "OST Il Postino",
+                "Path": "https://biodanza-dzv.fr/wp-content/uploads/2023/04/BDZMED/PI12/HLBC27%20-%2060%20-%20OST%20The%20Postman%20(Il%20Postino)%20-%20The%20Postman%27s%20Dreams.mp3",
+                "Duration": "03:20"
             }
-
         },
-
         {
             "Exercise": {
-
+                "Catalogue": "MED_INITIATION",
+                "VersionCatalogue": "2021-04-07",
                 "ID": "EX239",
-
-                "Title": "VALEUR (aussi appelée: Protection de la valeur)"
-
+                "Title": "VALEUR (aussi appelée: Protection de la valeur)",
+                "VideoID": "DVD4_Exo03",
+                "VideoPath": "https://biodanza-dzv.fr/wp-content/uploads/2023/04/BDZMED/DVD4/DVD4_Exo03.mp4"
             },
-
             "Instruction": [
-
                 "Pour aller sereinement au contact de la diversité, j'ai besoin de percevoir, de reconnaître ma propre valeur.",
-
                 "Depuis l'aube de l'histoire de l'humanité à nos jours, le vocabulaire gestuel de l'humain est imprégné de «postures» et de gestes à caractère éternel. Ces gestes archétypiques se retrouvent sur les bas-reliefs des églises et autres temples, dans les sculptures, les peintures et les fresques, traversant toutes les cultures, toutes les civilisations et surtout le temps.",
-
                 "Ce sont des gestes qui font sens pour tous les humains que nous sommes.",
-
                 "L'invitation dans cette danse est de se connecter à sa propre valeur, d'en prendre soin, de la protéger. Et pour cette connection, cette protection, un geste archetypal et la Music vont nous aider.",
-
                 "A partir de la PG d'Identité, les poings fermés, bras tendus, tête droite et attitude sereine. Les bras se croisent avec lenteur et fermeté sur la poitrine, dans l'acte de retenir un pouvoir et de défendre une valeur intérieure.",
-
                 "Les yeux regardent vers l'avant et les pieds sont légèrement écartés.",
-
                 "Nous écarterons doucemnt les bras pour revenir dans la position d'origine."
-
             ],
-
             "Music": {
-
+                "Catalogue": "MED_INITIATION",
+                "VersionCatalogue": "2021-04-07",
                 "ID": "04-61",
-
                 "OriginCode": "IBF15-01",
-
                 "Title": "Einleitung (Introduction) - Also sprach Zarathustra op.30",
-
                 "Artist": "Strauss, Richard (1864-1949)",
-
                 "Path": "https://biodanza-dzv.fr/wp-content/uploads/2023/04/BDZMED/PI04/IBF15%20-%2001%20-%20Strauss,%20Richard%20(Zubin%20Mehta%20-%20Los%20Angeles%20Philharmonic)%20-%20Einleitung%20-%20Also%20sprach%20Zarathustra%20op.30.mp3",
-
                 "Duration": "01:57"
-
-            },
-
-            "Video": {
-
-                "Title": "VALEUR (aussi appelée: Protection de la valeur)",
-
-                "Path": "https://biodanza-dzv.fr/wp-content/uploads/2023/04/BDZMED/DVD4/DVD4_Exo03.mp4"
-
             }
-
         },
-
         {
             "Exercise": {
-
+                "Catalogue": "MED_INITIATION",
+                "VersionCatalogue": "2021-04-07",
                 "ID": "EX239",
-
-                "Title": "VALEUR (aussi appelée: Protection de la valeur)"
-
-            },
-
-            "Instruction": [
-
-                "Je remettrais la Music. La proposition est de réaliser votre dans de protrection de la valeur."
-
-            ],
-
-            "Music": {
-
-                "ID": "04-61",
-
-                "OriginCode": "IBF15-01",
-
-                "Title": "Einleitung (Introduction) - Also sprach Zarathustra op.30",
-
-                "Artist": "Strauss, Richard (1864-1949)",
-
-                "Path": "https://biodanza-dzv.fr/wp-content/uploads/2023/04/BDZMED/PI04/IBF15%20-%2001%20-%20Strauss,%20Richard%20(Zubin%20Mehta%20-%20Los%20Angeles%20Philharmonic)%20-%20Einleitung%20-%20Also%20sprach%20Zarathustra%20op.30.mp3",
-
-                "Duration": "01:57"
-
-            },
-
-            "Video": {
-
                 "Title": "VALEUR (aussi appelée: Protection de la valeur)",
-
-                "Path": "https://biodanza-dzv.fr/wp-content/uploads/2023/04/BDZMED/DVD4/DVD4_Exo03.mp4"
-
+                "VideoID": "DVD4_Exo03",
+                "VideoPath": "https://biodanza-dzv.fr/wp-content/uploads/2023/04/BDZMED/DVD4/DVD4_Exo03.mp4"
+            },
+            "Instruction": [
+                "Je remettrais la Music. La proposition est de réaliser votre dans de protrection de la valeur."
+            ],
+            "Music": {
+                "Catalogue": "MED_INITIATION",
+                "VersionCatalogue": "2021-04-07",
+                "ID": "04-61",
+                "OriginCode": "IBF15-01",
+                "Title": "Einleitung (Introduction) - Also sprach Zarathustra op.30",
+                "Artist": "Strauss, Richard (1864-1949)",
+                "Path": "https://biodanza-dzv.fr/wp-content/uploads/2023/04/BDZMED/PI04/IBF15%20-%2001%20-%20Strauss,%20Richard%20(Zubin%20Mehta%20-%20Los%20Angeles%20Philharmonic)%20-%20Einleitung%20-%20Also%20sprach%20Zarathustra%20op.30.mp3",
+                "Duration": "01:57"
             }
-
         },
-
         {
-
             "Exercise": {
-
+                "Catalogue": "MED_INITIATION",
+                "VersionCatalogue": "2021-04-07",
                 "ID": "EX173",
-
-                "Title": "MOUVEMENT SEGMENTAIRE DES EPAULES"
-
-            },
-
-            "Instruction": [
-
-                "Ce qui peut nous limiter dans notre capacité à exprimer pleinement qui nous sommes, à nous ouvrir à la diversité, ce sont les tensions musculaires. ",
-
-                "Nos muscles du haut du dos et la région pectorale accumulent de telles tensions, comme une cuirasse qui nous empêche de regarder devant nous et d'oser poursuivre notre chemin, qui nous limite dans notre capacité à rencontrer l'autre.",
-
-                "Pour vous aider à vous libérer de ce poids  je vous propose un mouvement segmentaire des épaules.",
-
-                "Une bonne base, les genoux souples, la bouche entrouverte pour éviter de mettre des tensions au niveau du cou.",
-
-                "Nous réalisons  des rotations successives et continues des épaules de l'avant vers l'arrière avec l'intention de se libérer d'un état de tension, d'un poids excessif.",
-
-                "Les yeux se ferment."
-
-            ],
-
-            "Music": {
-
-                "ID": "01-38",
-
-                "OriginCode": "IBF09-19",
-
-                "Title": "Adagio - Concerto Brandebourgeois 1 - 2, F-Dur BWV 1046",
-
-                "Artist": "Bach, Johann Sebastian (1685-1750)",
-
-                "Path": "https://biodanza-dzv.fr/wp-content/uploads/2023/04/BDZMED/PI01/IBF09%20-%2019%20-%20Bach%20(Herbert%20Münchner%20-%20Südwest-Studioorchester)%20-%20Adagio%20-%20Concerto%20Brandebourgeois%201%20-%202,%20%20F-Dur%20BWV%201046.mp3",
-
-                "Duration": "04:06"
-
-            },
-
-            "Video": {
-
                 "Title": "MOUVEMENT SEGMENTAIRE DES EPAULES",
-
-                "Path": "https://biodanza-dzv.fr/wp-content/uploads/2023/04/BDZMED/DVD1/DVD1_Exo35.mp4"
-
+                "VideoID": "DVD1_Exo35",
+                "VideoPath": "https://biodanza-dzv.fr/wp-content/uploads/2023/04/BDZMED/DVD1/DVD1_Exo35.mp4"
+            },
+            "Instruction": [
+                "Ce qui peut nous limiter dans notre capacité à exprimer pleinement qui nous sommes, à nous ouvrir à la diversité, ce sont les tensions musculaires. ",
+                "Nos muscles du haut du dos et la région pectorale accumulent de telles tensions, comme une cuirasse qui nous empêche de regarder devant nous et d'oser poursuivre notre chemin, qui nous limite dans notre capacité à rencontrer l'autre.",
+                "Pour vous aider à vous libérer de ce poids  je vous propose un mouvement segmentaire des épaules.",
+                "Une bonne base, les genoux souples, la bouche entrouverte pour éviter de mettre des tensions au niveau du cou.",
+                "Nous réalisons  des rotations successives et continues des épaules de l'avant vers l'arrière avec l'intention de se libérer d'un état de tension, d'un poids excessif.",
+                "Les yeux se ferment."
+            ],
+            "Music": {
+                "Catalogue": "MED_INITIATION",
+                "VersionCatalogue": "2021-04-07",
+                "ID": "01-38",
+                "OriginCode": "IBF09-19",
+                "Title": "Adagio - Concerto Brandebourgeois 1 - 2, F-Dur BWV 1046",
+                "Artist": "Bach, Johann Sebastian (1685-1750)",
+                "Path": "https://biodanza-dzv.fr/wp-content/uploads/2023/04/BDZMED/PI01/IBF09%20-%2019%20-%20Bach%20(Herbert%20Münchner%20-%20Südwest-Studioorchester)%20-%20Adagio%20-%20Concerto%20Brandebourgeois%201%20-%202,%20%20F-Dur%20BWV%201046.mp3",
+                "Duration": "04:06"
             }
-
         },
-
         {
-
             "Exercise": {
-
+                "Catalogue": "MED_INITIATION",
+                "VersionCatalogue": "2021-04-07",
                 "ID": "EX176",
-                
-                "Title": "MOUVEMENT SEGMENTAIRE DU COU"
-
-            },
-
-            "Instruction": [
-
-                "Le cou qui supporte au quotidien notre tête est également une région d'accumulation de tensions. ",
-
-                "Dissoudre les tensions au niveau  du cou nous permet de nous abandonner, de profiter de ce que la vie peut nous offrir sans préocupations de jugements et de préjugés.",
-
-                "Pour dissoudre ces tensions, je vais vous proposer maintenant ce que nous appelons un mouvement segmentaire du cou.",
-
-                "Une base stable, les genoux relâchés, la machoire relâchés. Sur la Music je vous invite à tourner le cou toujours dans le même sens lentement et sans jamais forcer.",
-
-                "Les yeux sont fermés.",
-
-                "L'invitation est de s'abandonner à cette rotation."
-
-            ],
-
-            "Music": {
-
-                "ID": "02-69",
-
-                "OriginCode": "HLBC27-01",
-
-                "Title": "Because",
-
-                "Artist": "Mehmari, André / Ozzetti, Ná",
-
-                "Path": "https://biodanza-dzv.fr/wp-content/uploads/2023/04/BDZMED/PI02/HLBC27%20-%2001%20-%20Mehmari,%20André%20&%20Ozzetti,%20Ná%20-%20Because.mp3",
-
-                "Duration": "03:16"
-
-            },
-
-            "Video": {
-
                 "Title": "MOUVEMENT SEGMENTAIRE DU COU",
-
-                "Path": "https://biodanza-dzv.fr/wp-content/uploads/2023/04/BDZMED/DVD1/DVD1_Exo34.mp4"
-
+                "VideoID": "DVD1_Exo34",
+                "VideoPath": "https://biodanza-dzv.fr/wp-content/uploads/2023/04/BDZMED/DVD1/DVD1_Exo34.mp4"
+            },
+            "Instruction": [
+                "Le cou qui supporte au quotidien notre tête est également une région d'accumulation de tensions. ",
+                "Dissoudre les tensions au niveau  du cou nous permet de nous abandonner, de profiter de ce que la vie peut nous offrir sans préocupations de jugements et de préjugés.",
+                "Pour dissoudre ces tensions, je vais vous proposer maintenant ce que nous appelons un mouvement segmentaire du cou.",
+                "Une base stable, les genoux relâchés, la machoire relâchés. Sur la Music je vous invite à tourner le cou toujours dans le même sens lentement et sans jamais forcer.",
+                "Les yeux sont fermés.",
+                "L'invitation est de s'abandonner à cette rotation."
+            ],
+            "Music": {
+                "Catalogue": "MED_INITIATION",
+                "VersionCatalogue": "2021-04-07",
+                "ID": "02-69",
+                "OriginCode": "HLBC27-01",
+                "Title": "Because",
+                "Artist": "Mehmari, André / Ozzetti, Ná",
+                "Path": "https://biodanza-dzv.fr/wp-content/uploads/2023/04/BDZMED/PI02/HLBC27%20-%2001%20-%20Mehmari,%20André%20&%20Ozzetti,%20Ná%20-%20Because.mp3",
+                "Duration": "03:16"
             }
-
         },
-
         {
-
             "Exercise": {
-
+                "Catalogue": "MED_INITIATION",
+                "VersionCatalogue": "2021-04-07",
                 "ID": "EX215",
-                
-                "Title": "RONDE DE BERCEMENT"
-
-            },
-
-            "Instruction": [
-
-                "Libérer nos tensions nous amène vers une sensation de plus grande harmonie, de plus grande ouverture à la vie, à la diversité.",
-
-                "C'est cette ouverture que je vous invite à partager maintenant avec tous les compagnons.",
-
-                "Ronde, se tenir par la main et vous rapprocher jusqu'à ce que les épaules se touchent. Chacun est dans sa base, le contact est présent  sans peser sur l'autre, les jambes dans l'écartements du bassin, les articulations sont souples, les épaules et la nuques sont relachées, la bouche est entre ouverte. Au commencement de la Music, le corps oscille délicatement dans un balancement en harmonie. ",
-
-                "A la fin de la Music rester dans cette proximité"
-
-            ],
-
-            "Music": {
-
-                "ID": "07-94",
-
-                "OriginCode": "HLB29-58",
-
-                "Title": "Lullaby",
-
-                "Artist": "Pink Martini",
-
-                "Path": "https://biodanza-dzv.fr/wp-content/uploads/2023/04/BDZMED/PI07/HLBC28%20-%2078%20-%20Pink%20Martini%20-%20Lullaby.mp3",
-
-                "Duration": "02:11"
-
-            },
-
-            "Video": {
-
                 "Title": "RONDE DE BERCEMENT",
-
-                "Path": ""
-
+                "VideoID": "",
+                "VideoPath": ""
+            },
+            "Instruction": [
+                "Libérer nos tensions nous amène vers une sensation de plus grande harmonie, de plus grande ouverture à la vie, à la diversité.",
+                "C'est cette ouverture que je vous invite à partager maintenant avec tous les compagnons.",
+                "Ronde, se tenir par la main et vous rapprocher jusqu'à ce que les épaules se touchent. Chacun est dans sa base, le contact est présent  sans peser sur l'autre, les jambes dans l'écartements du bassin, les articulations sont souples, les épaules et la nuques sont relachées, la bouche est entre ouverte. Au commencement de la Music, le corps oscille délicatement dans un balancement en harmonie. ",
+                "A la fin de la Music rester dans cette proximité"
+            ],
+            "Music": {
+                "Catalogue": "MED_INITIATION",
+                "VersionCatalogue": "2021-04-07",
+                "ID": "07-94",
+                "OriginCode": "HLB29-58",
+                "Title": "Lullaby",
+                "Artist": "Pink Martini",
+                "Path": "https://biodanza-dzv.fr/wp-content/uploads/2023/04/BDZMED/PI07/HLBC28%20-%2078%20-%20Pink%20Martini%20-%20Lullaby.mp3",
+                "Duration": "02:11"
             }
-
         },
-
         {
-
             "Exercise": {
-
+                "Catalogue": "MED_INITIATION",
+                "VersionCatalogue": "2021-04-07",
                 "ID": "EX201",
-                
-                "Title": "RENCONTRES FUGACES"
-
-            },           
-
-            "Instruction": [
-
-                "Une grande respiration, ouvrez délicatement les yeux, reculer progressivement, doucement jusqu'à quitter délicatement les mains des compagnons.",
-
-                "Il suffit d’un regard, il suffit d’un premier pas, d’une main qui se tend pour que l'inconnu, l'autre me devienne familier.",
-
-                "Ce que je vous propose maintenant c'est de rencontrer les autres compagnons, dans un flux constant, en étant totalement présent à chaque rencontre.",
-
-                "Lorsque la Music va commencer nous allons tendre la main pour nous saluer, honorer nos présences, notre valeur, une seconde, un instant fugace et qui pourtant s’inscrit dans qui je suis et qui je deviens.",
-
-                "Les deux tentent la même main (la droite ou la gauche). Le toucher est sensible léger. La rencontre est fugace et intense."
-
-            ],
-
-            "Music": {
-
-                "ID": "04-99",
-
-                "OriginCode": "IBF11-05",
-
-                "Title": "Evening Falls …",
-
-                "Artist": "Enya",
-
-                "Path": "https://biodanza-dzv.fr/wp-content/uploads/2023/04/BDZMED/PI04/IBF11%20-%2005%20-%20Enya%20-%20Evening%20Falls....mp3",
-
-                "Duration": "03:49"
-
-            },
-
-            "Video": {
-
                 "Title": "RENCONTRES FUGACES",
-
-                "Path": ""
-
+                "VideoID": "",
+                "VideoPath": ""
+            },           
+            "Instruction": [
+                "Une grande respiration, ouvrez délicatement les yeux, reculer progressivement, doucement jusqu'à quitter délicatement les mains des compagnons.",
+                "Il suffit d’un regard, il suffit d’un premier pas, d’une main qui se tend pour que l'inconnu, l'autre me devienne familier.",
+                "Ce que je vous propose maintenant c'est de rencontrer les autres compagnons, dans un flux constant, en étant totalement présent à chaque rencontre.",
+                "Lorsque la Music va commencer nous allons tendre la main pour nous saluer, honorer nos présences, notre valeur, une seconde, un instant fugace et qui pourtant s’inscrit dans qui je suis et qui je deviens.",
+                "Les deux tentent la même main (la droite ou la gauche). Le toucher est sensible léger. La rencontre est fugace et intense."
+            ],
+            "Music": {
+                "Catalogue": "MED_INITIATION",
+                "VersionCatalogue": "2021-04-07",
+                "ID": "04-99",
+                "OriginCode": "IBF11-05",
+                "Title": "Evening Falls …",
+                "Artist": "Enya",
+                "Path": "https://biodanza-dzv.fr/wp-content/uploads/2023/04/BDZMED/PI04/IBF11%20-%2005%20-%20Enya%20-%20Evening%20Falls....mp3",
+                "Duration": "03:49"
             }
-
         },
-
         {
-
             "Exercise": {
-
+                "Catalogue": "MED_INITIATION",
+                "VersionCatalogue": "2021-04-07",
                 "ID": "EX209",
-                
-                "Title": "RONDE D'ACTIVATION"
-
-            },
-
-            "Instruction": [
-
-                "Invitation à regoûter au rythme partagé, peut-être de sentir ce qui s'est renouvellé en nous au contact de cette diversité, de découvrir le regard neuf de nos compagnons après  ce voyage."
-
-            ],
-
-            "Music": {
-
-                "ID": "12-08",
-
-                "OriginCode": "HLB03-10",
-
-                "Title": "Tango To Evora",
-
-                "Artist": "McKennitt, Loreena",
-
-                "Path": "https://biodanza-dzv.fr/wp-content/uploads/2023/04/BDZMED/PI12/HLB03%20-%2010%20-%20McKennitt,%20Loreena%20-%20Tango%20for%20Evora.mp3",
-
-                "Duration": "04:09"
-
-            },
-
-            "Video": {
-
                 "Title": "RONDE D'ACTIVATION",
-
-                "Path": ""
-
-            }
-
-        },
-
-        {
-
-            "Exercise": {
-
-                "ID": "EX224",
-                
-                "Title": "RONDE FINALE"
-
+                "VideoID": "",
+                "VideoPath": ""
             },
-
             "Instruction": [
-
-                "\"Déployez vos ailes\" nous dit la musique. Je vous souhaite de continuer à les déployer pour explorer, goûter la diversité qui nous entoure comme autant d'opportunités d'aller vers la plus ample expression de nous-mêmes."
-
+                "Invitation à regoûter au rythme partagé, peut-être de sentir ce qui s'est renouvellé en nous au contact de cette diversité, de découvrir le regard neuf de nos compagnons après  ce voyage."
             ],
-
             "Music": {
-
-                "ID": "05-28",
-
-                "OriginCode": "HLBC27-10",
-
-                "Title": "Fly With Me (Lenas Sång) (Vocal Leyla Yilbar-Norgren)",
-
-                "Artist": "OST Så som i Himmelen (La Chorale du Bonheur)",
-
-                "Path": "https://biodanza-dzv.fr/wp-content/uploads/2023/04/BDZMED/PI05/HLBC27%20-%2010%20-%20OST%20Så%20som%20i%20Himmelen%20(Stefan%20Nilsson)%20-%20Fly%20With%20Me%20(Lenas%20sång)%20(Vocal%20Leyla%20Yilbar-Norgren).mp3",
-
-                "Duration": "04:56"
-
-            },
-
-            "Video": {
-
-                "Title": "RONDE FINALE",
-
-                "Path": ""
-
+                "Catalogue": "MED_INITIATION",
+                "VersionCatalogue": "2021-04-07",
+                "ID": "12-08",
+                "OriginCode": "HLB03-10",
+                "Title": "Tango To Evora",
+                "Artist": "McKennitt, Loreena",
+                "Path": "https://biodanza-dzv.fr/wp-content/uploads/2023/04/BDZMED/PI12/HLB03%20-%2010%20-%20McKennitt,%20Loreena%20-%20Tango%20for%20Evora.mp3",
+                "Duration": "04:09"
             }
-
+        },
+        {
+            "Exercise": {
+                "Catalogue": "MED_INITIATION",
+                "VersionCatalogue": "2021-04-07",
+                "ID": "EX224",
+                "Title": "RONDE FINALE",
+                "VideoID": "",
+                "VideoPath": ""
+            },
+            "Instruction": [
+                "\"Déployez vos ailes\" nous dit la musique. Je vous souhaite de continuer à les déployer pour explorer, goûter la diversité qui nous entoure comme autant d'opportunités d'aller vers la plus ample expression de nous-mêmes."
+            ],
+            "Music": {
+                "Catalogue": "MED_INITIATION",
+                "VersionCatalogue": "2021-04-07",
+                "ID": "05-28",
+                "OriginCode": "HLBC27-10",
+                "Title": "Fly With Me (Lenas Sång) (Vocal Leyla Yilbar-Norgren)",
+                "Artist": "OST Så som i Himmelen (La Chorale du Bonheur)",
+                "Path": "https://biodanza-dzv.fr/wp-content/uploads/2023/04/BDZMED/PI05/HLBC27%20-%2010%20-%20OST%20Så%20som%20i%20Himmelen%20(Stefan%20Nilsson)%20-%20Fly%20With%20Me%20(Lenas%20sång)%20(Vocal%20Leyla%20Yilbar-Norgren).mp3",
+                "Duration": "04:56"
+            }
         }
-
     ]
-
 }
-

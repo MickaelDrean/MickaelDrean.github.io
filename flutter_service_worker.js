@@ -3,7 +3,7 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 
-const RESOURCES = {"assets/assets/json/AnimationDefaultSession.json": "ee40da861a4de716c93d081c368a2f09",
+const RESOURCES = {"assets/assets/json/AnimationDefaultSession.json": "24a067aba3f46523b0cb5b18f0f475bd",
 "assets/assets/json/sample.json": "001678c4b5465177ca4d73a15f931ffe",
 "assets/assets/json/AnimationDefault.json": "0e589720dfdb715fba45e64f6601e8e1",
 "assets/assets/json/CatalogueMED-230614223321.json": "c85182284861fa9eb04b35545476b85c",
@@ -24,8 +24,8 @@ const RESOURCES = {"assets/assets/json/AnimationDefaultSession.json": "ee40da861
 "assets/packages/wakelock_plus/assets/no_sleep.js": "7748a45cd593f33280669b29c2c8919a",
 "assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "89ed8f4e49bcdfc0b5bfc9b24591e347",
 "manifest.json": "ed0e9854775aac57af882d70e0572d11",
-"index.html": "48710c1ab06af5ba0a7f5bdfbc5ac036",
-"/": "48710c1ab06af5ba0a7f5bdfbc5ac036",
+"index.html": "77ee8ecb2b0aa036e53af5d268b1716a",
+"/": "77ee8ecb2b0aa036e53af5d268b1716a",
 "canvaskit/chromium/canvaskit.wasm": "c6d9da7c7123272fbd22bc0fcaa2ad4f",
 "canvaskit/chromium/canvaskit.js": "43787ac5098c648979c27c13c6f804c3",
 "canvaskit/chromium/canvaskit.js.symbols": "14b500e4ddcb3c5f46d1af587d15165b",
