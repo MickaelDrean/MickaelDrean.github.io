@@ -1,6 +1,12 @@
 {
-    "Version_date": "29-01-2024 18h30",
+    "Version_date": "13-02-2024 21h30",
     "ChangeLog": [ 
+        {
+            "Date" : "13-02-2024",
+            "Description": [
+                "Sélection indépendante entre consigne et audio"
+            ]
+        },
         {
             "Date" : "29-01-2024",
             "Description": [
