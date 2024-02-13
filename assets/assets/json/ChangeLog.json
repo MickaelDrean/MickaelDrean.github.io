@@ -1,10 +1,11 @@
 {
-    "Version_date": "13-02-2024 21h30",
+    "Version_date": "13-02-2024 21h45",
     "ChangeLog": [ 
         {
             "Date" : "13-02-2024",
             "Description": [
-                "Sélection indépendante entre consigne et audio"
+                "Sélection indépendante entre consigne et audio",
+                "Correction bugs zone blanche à droite lors d'un double clic - pb d'exception"
             ]
         },
         {

@@ -121043,9 +121043,10 @@ p=a.b
 o=a.c
 A.b3("onChangeSequence indexConsigne :  "+p+" et indexMusique : "+o)
 if(p!==-1)q.d=p
-if(o!==-1){q.e=o
-q.c[o].d.r=!0}p=q.d
-if(!b.d)b.a.$1(new A.vX(q,p,o))
+else{p=q.d
+if(p===-1){q.d=0
+p=0}}if(o!==-1){q.e=o
+q.c[o].d.r=!0}if(!b.d)b.a.$1(new A.vX(q,p,o))
 return A.n(null,r)}})
 return A.o($async$Rw,r)},
 aIZ(a,b){var s,r,q,p,o
