@@ -1,6 +1,12 @@
 {
-    "Version_date": "13-02-2024 21h45",
-    "ChangeLog": [ 
+    "Version_date": "25-02-2024 17h",
+    "ChangeLog": [
+        {
+            "Date" : "25-02-2024",
+            "Description": [
+                "Le double clic relance l'audio du début"
+            ]
+        },
         {
             "Date" : "13-02-2024",
             "Description": [
