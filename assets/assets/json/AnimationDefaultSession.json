@@ -31,8 +31,10 @@
                 "VersionCatalogue": "2021-04-07",
                 "ID": "EX214",
                 "Title": "RONDE D'INITIATION (aussi nommée «RONDE D'INTEGRATION INITIALE»)",
-                "VideoID": "",
-                "VideoPath": ""
+                "Video": {
+                    "VideoID": "",
+                    "VideoPath": ""
+                }
             },
             "Instruction": [
                 "Je vous invite à former un espace circulaire.",
@@ -51,7 +53,19 @@
                 "Artist": "Flack, Roberta",
                 "Path": "https://biodanza-dzv.fr/wp-content/uploads/2023/04/BDZMED/PI13/IBFC21%20-%2007%20-%20Flack,%20Roberta%20-%20When%20You%20Smile.wav",
                 "Duration": "03:41"
-            }
+            },
+            "MusicAlternatives": [
+                "Music": {
+                    "Catalogue": "",
+                    "VersionCatalogue": "",
+                    "ID": "",
+                    "OriginCode": "",
+                    "Title": "",
+                    "Artist": "",
+                    "Path": "",
+                    "Duration": ""
+                },                
+            ]
         },
         {
             "Exercise": {
@@ -59,8 +73,10 @@
                 "VersionCatalogue": "2021-04-07",
                 "ID": "EX159",
                 "Title": "MARCHE AVEC MOTIVATION AFFECTIVE",
-                "VideoID": "DVD1_Exo28",
-                "VideoPath": "https://biodanza-dzv.fr/wp-content/uploads/2023/04/BDZMED/DVD1/DVD1_Exo28.mp4"
+                "Video": {
+                    "VideoID": "DVD1_Exo28",
+                    "VideoPath": "https://biodanza-dzv.fr/wp-content/uploads/2023/04/BDZMED/DVD1/DVD1_Exo28.mp4"
+                }
             },
             "Instruction": [
                 "*S'ouvrir à la diversité*, c'est **s'ouvrir au monde** qui nous entoure, à ce qui se peut se présenter à **moi** . C'est  avoir le regard et le coeur ouvert.",
@@ -79,16 +95,29 @@
                 "Artist": "The Beatles",
                 "Path": "https://biodanza-dzv.fr/wp-content/uploads/2023/04/BDZMED/PI01/HLB20%20-%2018%20-%20The%20Beatles%20-%20All%20You%20Need%20Is%20Love.mp3",
                 "Duration": "03:50"
-            }
-        },
+            },
+            "MusicAlternatives": [
+                "Music": {
+                    "Catalogue": "",
+                    "VersionCatalogue": "",
+                    "ID": "",
+                    "OriginCode": "",
+                    "Title": "",
+                    "Artist": "",
+                    "Path": "",
+                    "Duration": ""
+                },                
+            ]        },
         {
             "Exercise": {
                 "Catalogue": "MED_INITIATION",
                 "VersionCatalogue": "2021-04-07",
                 "ID": "EX035",
                 "Title": "COORDINATION RYTHMIQUE A DEUX (appelée aussi marcher à deux)",
-                "VideoID": "DVD1_Exo02",
-                "VideoPath": "https://biodanza-dzv.fr/wp-content/uploads/2023/04/BDZMED/DVD1/DVD1_Exo02.mp4"
+                "Video": {
+                    "VideoID": "DVD1_Exo02",
+                    "VideoPath": "https://biodanza-dzv.fr/wp-content/uploads/2023/04/BDZMED/DVD1/DVD1_Exo02.mp4"
+                }
             },        
             "Instruction": [
                 "Sur ce chemin de la vie, je vais vous proposer une promenade à deux pour partager cette ouverture, cette capacité d'accueil.",
@@ -103,16 +132,29 @@
                 "Artist": "The Beatles",
                 "Path": "https://biodanza-dzv.fr/wp-content/uploads/2023/04/BDZMED/PI01/IBFC20%20-%2003%20-%20The%20Beatles%20-%20All%20Together%20Now.mp3",
                 "Duration": "02:10"
-            }
-        },
+            },
+            "MusicAlternatives": [
+                "Music": {
+                    "Catalogue": "",
+                    "VersionCatalogue": "",
+                    "ID": "",
+                    "OriginCode": "",
+                    "Title": "",
+                    "Artist": "",
+                    "Path": "",
+                    "Duration": ""
+                },                
+            ]        },
         {
             "Exercise": {
                 "Catalogue": "MED_INITIATION",
                 "VersionCatalogue": "2021-04-07",
                 "ID": "EX147",
                 "Title": "JEUX DE VITALITE",
-                "VideoID": "",
-                "VideoPath": ""
+                "Video": {
+                    "VideoID": "",
+                    "VideoPath": ""
+                }
             },   
             
             "Instruction": [
@@ -129,7 +171,19 @@
                 "Artist": "Inner Circle",
                 "Path": "https://biodanza-dzv.fr/wp-content/uploads/2023/04/BDZMED/PI09/HLBC28%20-%2020%20-%20Inner%20Circle%20-%20Ob-La-di-Ob-la-da%20Extended%20Dance%20Mix.mp3",
                 "Duration": "04:02"
-            }
+            },
+            "MusicAlternatives": [
+                "Music": {
+                    "Catalogue": "",
+                    "VersionCatalogue": "",
+                    "ID": "",
+                    "OriginCode": "",
+                    "Title": "",
+                    "Artist": "",
+                    "Path": "",
+                    "Duration": ""
+                },                
+            ]
         },
         {
             "Exercise": {
@@ -137,8 +191,10 @@
                 "VersionCatalogue": "2021-04-07",
                 "ID": "EX147",
                 "Title": "JEUX DE VITALITE",
-                "VideoID": "",
-                "VideoPath": ""
+                "Video": {
+                    "VideoID": "",
+                    "VideoPath": ""
+                }
             },   
             "Instruction": [
                 "S'ouvrir à la  diversité, jouer, se sentir vivants ensemble !",
@@ -162,8 +218,10 @@
                 "VersionCatalogue": "2021-04-07",
                 "ID": "EX043",
                 "Title": "DANSE CREATIVE A DEUX",
-                "VideoID": "",
-                "VideoPath": ""
+                "Video": {
+                    "VideoID": "",
+                    "VideoPath": ""
+                }
             },
             "Instruction": [
                 "Dans le Petit Prince, le renard demande \"apprivoise moi\". Si tu m'apprivoise, tu seras pour moi unique au monde. Je serai pour toi unique au monde.",
@@ -188,8 +246,10 @@
                 "VersionCatalogue": "2021-04-07",
                 "ID": "EX239",
                 "Title": "VALEUR (aussi appelée: Protection de la valeur)",
-                "VideoID": "DVD4_Exo03",
-                "VideoPath": "https://biodanza-dzv.fr/wp-content/uploads/2023/04/BDZMED/DVD4/DVD4_Exo03.mp4"
+                "Video": {
+                    "VideoID": "DVD4_Exo03",
+                    "VideoPath": "https://biodanza-dzv.fr/wp-content/uploads/2023/04/BDZMED/DVD4/DVD4_Exo03.mp4"
+                }
             },
             "Instruction": [
                 "Pour aller sereinement au contact de la diversité, j'ai besoin de percevoir, de reconnaître ma propre valeur.",
@@ -217,8 +277,10 @@
                 "VersionCatalogue": "2021-04-07",
                 "ID": "EX239",
                 "Title": "VALEUR (aussi appelée: Protection de la valeur)",
-                "VideoID": "DVD4_Exo03",
-                "VideoPath": "https://biodanza-dzv.fr/wp-content/uploads/2023/04/BDZMED/DVD4/DVD4_Exo03.mp4"
+                "Video": {
+                    "VideoID": "DVD4_Exo03",
+                    "VideoPath": "https://biodanza-dzv.fr/wp-content/uploads/2023/04/BDZMED/DVD4/DVD4_Exo03.mp4"
+                }
             },
             "Instruction": [
                 "Je remettrais la Music. La proposition est de réaliser votre dans de protrection de la valeur."
@@ -232,7 +294,19 @@
                 "Artist": "Strauss, Richard (1864-1949)",
                 "Path": "https://biodanza-dzv.fr/wp-content/uploads/2023/04/BDZMED/PI04/IBF15%20-%2001%20-%20Strauss,%20Richard%20(Zubin%20Mehta%20-%20Los%20Angeles%20Philharmonic)%20-%20Einleitung%20-%20Also%20sprach%20Zarathustra%20op.30.mp3",
                 "Duration": "01:57"
-            }
+            },
+            "MusicAlternatives": [
+                "Music": {
+                    "Catalogue": "",
+                    "VersionCatalogue": "",
+                    "ID": "",
+                    "OriginCode": "",
+                    "Title": "",
+                    "Artist": "",
+                    "Path": "",
+                    "Duration": ""
+                },                
+            ]
         },
         {
             "Exercise": {
@@ -240,8 +314,10 @@
                 "VersionCatalogue": "2021-04-07",
                 "ID": "EX173",
                 "Title": "MOUVEMENT SEGMENTAIRE DES EPAULES",
-                "VideoID": "DVD1_Exo35",
-                "VideoPath": "https://biodanza-dzv.fr/wp-content/uploads/2023/04/BDZMED/DVD1/DVD1_Exo35.mp4"
+                "Video": {
+                    "VideoID": "DVD1_Exo35",
+                    "VideoPath": "https://biodanza-dzv.fr/wp-content/uploads/2023/04/BDZMED/DVD1/DVD1_Exo35.mp4"
+                }
             },
             "Instruction": [
                 "Ce qui peut nous limiter dans notre capacité à exprimer pleinement qui nous sommes, à nous ouvrir à la diversité, ce sont les tensions musculaires. ",
@@ -268,8 +344,10 @@
                 "VersionCatalogue": "2021-04-07",
                 "ID": "EX176",
                 "Title": "MOUVEMENT SEGMENTAIRE DU COU",
-                "VideoID": "DVD1_Exo34",
-                "VideoPath": "https://biodanza-dzv.fr/wp-content/uploads/2023/04/BDZMED/DVD1/DVD1_Exo34.mp4"
+                "Video": {
+                    "VideoID": "DVD1_Exo34",
+                    "VideoPath": "https://biodanza-dzv.fr/wp-content/uploads/2023/04/BDZMED/DVD1/DVD1_Exo34.mp4"
+                }
             },
             "Instruction": [
                 "Le cou qui supporte au quotidien notre tête est également une région d'accumulation de tensions. ",
@@ -288,7 +366,19 @@
                 "Artist": "Mehmari, André / Ozzetti, Ná",
                 "Path": "https://biodanza-dzv.fr/wp-content/uploads/2023/04/BDZMED/PI02/HLBC27%20-%2001%20-%20Mehmari,%20André%20&%20Ozzetti,%20Ná%20-%20Because.mp3",
                 "Duration": "03:16"
-            }
+            },
+            "MusicAlternatives": [
+                "Music": {
+                    "Catalogue": "",
+                    "VersionCatalogue": "",
+                    "ID": "",
+                    "OriginCode": "",
+                    "Title": "",
+                    "Artist": "",
+                    "Path": "",
+                    "Duration": ""
+                },                
+            ]
         },
         {
             "Exercise": {
@@ -296,8 +386,10 @@
                 "VersionCatalogue": "2021-04-07",
                 "ID": "EX215",
                 "Title": "RONDE DE BERCEMENT",
-                "VideoID": "",
-                "VideoPath": ""
+                "Video": {
+                    "VideoID": "",
+                    "VideoPath": ""
+                }
             },
             "Instruction": [
                 "Libérer nos tensions nous amène vers une sensation de plus grande harmonie, de plus grande ouverture à la vie, à la diversité.",
@@ -314,7 +406,19 @@
                 "Artist": "Pink Martini",
                 "Path": "https://biodanza-dzv.fr/wp-content/uploads/2023/04/BDZMED/PI07/HLBC28%20-%2078%20-%20Pink%20Martini%20-%20Lullaby.mp3",
                 "Duration": "02:11"
-            }
+            },
+            "MusicAlternatives": [
+                "Music": {
+                    "Catalogue": "",
+                    "VersionCatalogue": "",
+                    "ID": "",
+                    "OriginCode": "",
+                    "Title": "",
+                    "Artist": "",
+                    "Path": "",
+                    "Duration": ""
+                },                
+            ]
         },
         {
             "Exercise": {
@@ -322,8 +426,10 @@
                 "VersionCatalogue": "2021-04-07",
                 "ID": "EX201",
                 "Title": "RENCONTRES FUGACES",
-                "VideoID": "",
-                "VideoPath": ""
+                "Video": {
+                    "VideoID": "",
+                    "VideoPath": ""
+                }
             },           
             "Instruction": [
                 "Une grande respiration, ouvrez délicatement les yeux, reculer progressivement, doucement jusqu'à quitter délicatement les mains des compagnons.",
@@ -341,7 +447,19 @@
                 "Artist": "Enya",
                 "Path": "https://biodanza-dzv.fr/wp-content/uploads/2023/04/BDZMED/PI04/IBF11%20-%2005%20-%20Enya%20-%20Evening%20Falls....mp3",
                 "Duration": "03:49"
-            }
+            },
+            "MusicAlternatives": [
+                "Music": {
+                    "Catalogue": "",
+                    "VersionCatalogue": "",
+                    "ID": "",
+                    "OriginCode": "",
+                    "Title": "",
+                    "Artist": "",
+                    "Path": "",
+                    "Duration": ""
+                },                
+            ]
         },
         {
             "Exercise": {
@@ -349,8 +467,10 @@
                 "VersionCatalogue": "2021-04-07",
                 "ID": "EX209",
                 "Title": "RONDE D'ACTIVATION",
-                "VideoID": "",
-                "VideoPath": ""
+                "Video": {
+                    "VideoID": "",
+                    "VideoPath": ""
+                }
             },
             "Instruction": [
                 "Invitation à regoûter au rythme partagé, peut-être de sentir ce qui s'est renouvellé en nous au contact de cette diversité, de découvrir le regard neuf de nos compagnons après  ce voyage."
@@ -364,7 +484,19 @@
                 "Artist": "McKennitt, Loreena",
                 "Path": "https://biodanza-dzv.fr/wp-content/uploads/2023/04/BDZMED/PI12/HLB03%20-%2010%20-%20McKennitt,%20Loreena%20-%20Tango%20for%20Evora.mp3",
                 "Duration": "04:09"
-            }
+            },
+            "MusicAlternatives": [
+                "Music": {
+                    "Catalogue": "",
+                    "VersionCatalogue": "",
+                    "ID": "",
+                    "OriginCode": "",
+                    "Title": "",
+                    "Artist": "",
+                    "Path": "",
+                    "Duration": ""
+                },                
+            ]
         },
         {
             "Exercise": {
@@ -372,8 +504,10 @@
                 "VersionCatalogue": "2021-04-07",
                 "ID": "EX224",
                 "Title": "RONDE FINALE",
-                "VideoID": "",
-                "VideoPath": ""
+                "Video": {
+                    "VideoID": "",
+                    "VideoPath": ""
+                }
             },
             "Instruction": [
                 "\"Déployez vos ailes\" nous dit la musique. Je vous souhaite de continuer à les déployer pour explorer, goûter la diversité qui nous entoure comme autant d'opportunités d'aller vers la plus ample expression de nous-mêmes."
@@ -387,7 +521,19 @@
                 "Artist": "OST Så som i Himmelen (La Chorale du Bonheur)",
                 "Path": "https://biodanza-dzv.fr/wp-content/uploads/2023/04/BDZMED/PI05/HLBC27%20-%2010%20-%20OST%20Så%20som%20i%20Himmelen%20(Stefan%20Nilsson)%20-%20Fly%20With%20Me%20(Lenas%20sång)%20(Vocal%20Leyla%20Yilbar-Norgren).mp3",
                 "Duration": "04:56"
-            }
+            },
+            "MusicAlternatives": [
+                "Music": {
+                    "Catalogue": "",
+                    "VersionCatalogue": "",
+                    "ID": "",
+                    "OriginCode": "",
+                    "Title": "",
+                    "Artist": "",
+                    "Path": "",
+                    "Duration": ""
+                },                
+            ]
         }
     ]
 }
