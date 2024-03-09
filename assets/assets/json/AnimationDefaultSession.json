@@ -55,7 +55,7 @@
                 "Duration": "03:41"
             },
             "MusicAlternatives": [
-                "Music": {
+                {
                     "Catalogue": "",
                     "VersionCatalogue": "",
                     "ID": "",
@@ -64,7 +64,7 @@
                     "Artist": "",
                     "Path": "",
                     "Duration": ""
-                },                
+                }                
             ]
         },
         {
@@ -97,7 +97,7 @@
                 "Duration": "03:50"
             },
             "MusicAlternatives": [
-                "Music": {
+                {
                     "Catalogue": "",
                     "VersionCatalogue": "",
                     "ID": "",
@@ -106,8 +106,9 @@
                     "Artist": "",
                     "Path": "",
                     "Duration": ""
-                },                
-            ]        },
+                }                
+            ]        
+        },
         {
             "Exercise": {
                 "Catalogue": "MED_INITIATION",
@@ -134,7 +135,7 @@
                 "Duration": "02:10"
             },
             "MusicAlternatives": [
-                "Music": {
+                {
                     "Catalogue": "",
                     "VersionCatalogue": "",
                     "ID": "",
@@ -143,8 +144,9 @@
                     "Artist": "",
                     "Path": "",
                     "Duration": ""
-                },                
-            ]        },
+                }                
+            ]        
+        },
         {
             "Exercise": {
                 "Catalogue": "MED_INITIATION",
@@ -173,7 +175,7 @@
                 "Duration": "04:02"
             },
             "MusicAlternatives": [
-                "Music": {
+                {
                     "Catalogue": "",
                     "VersionCatalogue": "",
                     "ID": "",
@@ -182,7 +184,7 @@
                     "Artist": "",
                     "Path": "",
                     "Duration": ""
-                },                
+                }                
             ]
         },
         {
@@ -210,7 +212,19 @@
                 "Artist": "Anderson, Jon",
                 "Path": "https://biodanza-dzv.fr/wp-content/uploads/2023/04/BDZMED/PI03/HLB02%20-%2009%20-%20Anderson,%20Jon%20-%20Born%20To%20Dance.mp3",
                 "Duration": "03:36"
-            }
+            },
+            "MusicAlternatives": [
+                {
+                    "Catalogue": "",
+                    "VersionCatalogue": "",
+                    "ID": "",
+                    "OriginCode": "",
+                    "Title": "",
+                    "Artist": "",
+                    "Path": "",
+                    "Duration": ""
+                }                
+            ]
         },
         {
             "Exercise": {    
@@ -238,7 +252,19 @@
                 "Artist": "OST Il Postino",
                 "Path": "https://biodanza-dzv.fr/wp-content/uploads/2023/04/BDZMED/PI12/HLBC27%20-%2060%20-%20OST%20The%20Postman%20(Il%20Postino)%20-%20The%20Postman%27s%20Dreams.mp3",
                 "Duration": "03:20"
-            }
+            },
+            "MusicAlternatives": [
+                {
+                    "Catalogue": "",
+                    "VersionCatalogue": "",
+                    "ID": "",
+                    "OriginCode": "",
+                    "Title": "",
+                    "Artist": "",
+                    "Path": "",
+                    "Duration": ""
+                }                
+            ]
         },
         {
             "Exercise": {
@@ -269,7 +295,19 @@
                 "Artist": "Strauss, Richard (1864-1949)",
                 "Path": "https://biodanza-dzv.fr/wp-content/uploads/2023/04/BDZMED/PI04/IBF15%20-%2001%20-%20Strauss,%20Richard%20(Zubin%20Mehta%20-%20Los%20Angeles%20Philharmonic)%20-%20Einleitung%20-%20Also%20sprach%20Zarathustra%20op.30.mp3",
                 "Duration": "01:57"
-            }
+            },
+            "MusicAlternatives": [
+                {
+                    "Catalogue": "",
+                    "VersionCatalogue": "",
+                    "ID": "",
+                    "OriginCode": "",
+                    "Title": "",
+                    "Artist": "",
+                    "Path": "",
+                    "Duration": ""
+                }                
+            ]
         },
         {
             "Exercise": {
@@ -296,7 +334,7 @@
                 "Duration": "01:57"
             },
             "MusicAlternatives": [
-                "Music": {
+                {
                     "Catalogue": "",
                     "VersionCatalogue": "",
                     "ID": "",
@@ -305,7 +343,7 @@
                     "Artist": "",
                     "Path": "",
                     "Duration": ""
-                },                
+                }            
             ]
         },
         {
@@ -336,7 +374,19 @@
                 "Artist": "Bach, Johann Sebastian (1685-1750)",
                 "Path": "https://biodanza-dzv.fr/wp-content/uploads/2023/04/BDZMED/PI01/IBF09%20-%2019%20-%20Bach%20(Herbert%20Münchner%20-%20Südwest-Studioorchester)%20-%20Adagio%20-%20Concerto%20Brandebourgeois%201%20-%202,%20%20F-Dur%20BWV%201046.mp3",
                 "Duration": "04:06"
-            }
+            },
+            "MusicAlternatives": [
+                {
+                    "Catalogue": "",
+                    "VersionCatalogue": "",
+                    "ID": "",
+                    "OriginCode": "",
+                    "Title": "",
+                    "Artist": "",
+                    "Path": "",
+                    "Duration": ""
+                }             
+            ]        
         },
         {
             "Exercise": {
@@ -368,7 +418,7 @@
                 "Duration": "03:16"
             },
             "MusicAlternatives": [
-                "Music": {
+                {
                     "Catalogue": "",
                     "VersionCatalogue": "",
                     "ID": "",
@@ -377,7 +427,7 @@
                     "Artist": "",
                     "Path": "",
                     "Duration": ""
-                },                
+                }               
             ]
         },
         {
@@ -408,7 +458,7 @@
                 "Duration": "02:11"
             },
             "MusicAlternatives": [
-                "Music": {
+                {
                     "Catalogue": "",
                     "VersionCatalogue": "",
                     "ID": "",
@@ -417,7 +467,7 @@
                     "Artist": "",
                     "Path": "",
                     "Duration": ""
-                },                
+                }                
             ]
         },
         {
@@ -449,7 +499,7 @@
                 "Duration": "03:49"
             },
             "MusicAlternatives": [
-                "Music": {
+                {
                     "Catalogue": "",
                     "VersionCatalogue": "",
                     "ID": "",
@@ -458,7 +508,7 @@
                     "Artist": "",
                     "Path": "",
                     "Duration": ""
-                },                
+                }            
             ]
         },
         {
@@ -486,7 +536,7 @@
                 "Duration": "04:09"
             },
             "MusicAlternatives": [
-                "Music": {
+                {
                     "Catalogue": "",
                     "VersionCatalogue": "",
                     "ID": "",
@@ -495,7 +545,7 @@
                     "Artist": "",
                     "Path": "",
                     "Duration": ""
-                },                
+                }               
             ]
         },
         {
@@ -523,7 +573,7 @@
                 "Duration": "04:56"
             },
             "MusicAlternatives": [
-                "Music": {
+                {
                     "Catalogue": "",
                     "VersionCatalogue": "",
                     "ID": "",
@@ -532,7 +582,7 @@
                     "Artist": "",
                     "Path": "",
                     "Duration": ""
-                },                
+                }             
             ]
         }
     ]
