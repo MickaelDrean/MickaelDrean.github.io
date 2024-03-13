@@ -27,8 +27,10 @@
     "Proposals": [
         {
             "Exercise": {
-                "Catalogue": "MED_INITIATION",
-                "VersionCatalogue": "2021-04-07",
+                "Catalogue": {
+                    "Name": "MED_INITIATION",
+                    "Version": "2021-04-07"
+                },
                 "ID": "EX214",
                 "Title": "RONDE D'INITIATION (aussi nommée «RONDE D'INTEGRATION INITIALE»)",
                 "Video": {
@@ -45,8 +47,10 @@
                 "Quand la Music commence, nous nous mettrons en mouvement vers la droite."
             ],
             "Music": {
-                "Catalogue": "MED_INITIATION",
-                "VersionCatalogue": "2021-04-07",
+                "Catalogue": {
+                    "Name": "MED_INITIATION",
+                    "Version": "2021-04-07"
+                },
                 "ID": "13-97",
                 "OriginCode": "IBFC21-07",
                 "Title": "When You Smile",
@@ -56,8 +60,10 @@
             },
             "MusicAlternatives": [
                 {
-                    "Catalogue": "",
-                    "VersionCatalogue": "",
+                    "Catalogue": {
+                        "Name": "",
+                        "Version": ""
+                    },
                     "ID": "",
                     "OriginCode": "",
                     "Title": "",
@@ -69,8 +75,10 @@
         },
         {
             "Exercise": {
-                "Catalogue": "MED_INITIATION",
-                "VersionCatalogue": "2021-04-07",
+                "Catalogue": {
+                    "Name": "MED_INITIATION",
+                    "Version": "2021-04-07"
+                },
                 "ID": "EX159",
                 "Title": "MARCHE AVEC MOTIVATION AFFECTIVE",
                 "Video": {
@@ -87,8 +95,10 @@
                 "Si c'est bon pour vous les échanges de regards et de sourires sont les bienvenus !"
             ],
             "Music": {
-                "Catalogue": "MED_INITIATION",
-                "VersionCatalogue": "2021-04-07",
+                "Catalogue": {
+                    "Name": "MED_INITIATION",
+                    "Version": "2021-04-07"
+                },
                 "ID": "01-61",
                 "OriginCode": "HLB20-18",
                 "Title": "All You Need Is Love",
@@ -98,8 +108,10 @@
             },
             "MusicAlternatives": [
                 {
-                    "Catalogue": "",
-                    "VersionCatalogue": "",
+                    "Catalogue": {
+                        "Name": "",
+                        "Version": ""
+                    },
                     "ID": "",
                     "OriginCode": "",
                     "Title": "",
@@ -111,8 +123,10 @@
         },
         {
             "Exercise": {
-                "Catalogue": "MED_INITIATION",
-                "VersionCatalogue": "2021-04-07",
+                "Catalogue": {
+                    "Name": "MED_INITIATION",
+                    "Version": "2021-04-07"
+                },
                 "ID": "EX035",
                 "Title": "COORDINATION RYTHMIQUE A DEUX (appelée aussi marcher à deux)",
                 "Video": {
@@ -125,8 +139,10 @@
                 "L'invitation dans cette marche est, de vous ajuster, sur la base du rythme de la Music, et trouver l'intensité et la direction qui vous conviennent."
             ],
             "Music": {
-                "Catalogue": "MED_INITIATION",
-                "VersionCatalogue": "2021-04-07",
+                "Catalogue": {
+                    "Name": "MED_INITIATION",
+                    "Version": "2021-04-07"
+                },
                 "ID": "01-51",
                 "OriginCode": "IBFC20-03",
                 "Title": "All Together Now",
@@ -136,8 +152,10 @@
             },
             "MusicAlternatives": [
                 {
-                    "Catalogue": "",
-                    "VersionCatalogue": "",
+                    "Catalogue": {
+                        "Name": "",
+                        "Version": ""
+                    },
                     "ID": "",
                     "OriginCode": "",
                     "Title": "",
@@ -149,8 +167,10 @@
         },
         {
             "Exercise": {
-                "Catalogue": "MED_INITIATION",
-                "VersionCatalogue": "2021-04-07",
+                "Catalogue": {
+                    "Name": "MED_INITIATION",
+                    "Version": "2021-04-07"
+                },
                 "ID": "EX147",
                 "Title": "JEUX DE VITALITE",
                 "Video": {
@@ -165,8 +185,10 @@
                 "Quand je dirai, changer pous reformez de nouveaux groupes."
             ],
             "Music": {
-                "Catalogue": "MED_INITIATION",
-                "VersionCatalogue": "2021-04-07",
+                "Catalogue": {
+                    "Name": "MED_INITIATION",
+                    "Version": "2021-04-07"
+                },
                 "ID": "09-47",
                 "OriginCode": "HLB28-20",
                 "Title": "Ob-la-di-ob-la-da Extended Dance Mix",
@@ -176,8 +198,10 @@
             },
             "MusicAlternatives": [
                 {
-                    "Catalogue": "",
-                    "VersionCatalogue": "",
+                    "Catalogue": {
+                        "Name": "",
+                        "Version": ""
+                    },
                     "ID": "",
                     "OriginCode": "",
                     "Title": "",
@@ -189,8 +213,10 @@
         },
         {
             "Exercise": {
-                "Catalogue": "MED_INITIATION",
-                "VersionCatalogue": "2021-04-07",
+                "Catalogue": {
+                    "Name": "MED_INITIATION",
+                    "Version": "2021-04-07"
+                },
                 "ID": "EX147",
                 "Title": "JEUX DE VITALITE",
                 "Video": {
@@ -204,8 +230,10 @@
                 "La farandole c'est pour le début. Puis tunnel, pour passer sous le tunnel."
             ],
             "Music": {
-                "Catalogue": "MED_INITIATION",
-                "VersionCatalogue": "2021-04-07",
+                "Catalogue": {
+                    "Name": "MED_INITIATION",
+                    "Version": "2021-04-07"
+                },
                 "ID": "03-03",
                 "OriginCode": "HLB02-09",
                 "Title": "Born To Dance",
@@ -215,8 +243,10 @@
             },
             "MusicAlternatives": [
                 {
-                    "Catalogue": "",
-                    "VersionCatalogue": "",
+                    "Catalogue": {
+                        "Name": "",
+                        "Version": ""
+                    },
                     "ID": "",
                     "OriginCode": "",
                     "Title": "",
@@ -228,8 +258,10 @@
         },
         {
             "Exercise": {    
-                "Catalogue": "MED_INITIATION",
-                "VersionCatalogue": "2021-04-07",
+                "Catalogue": {
+                    "Name": "MED_INITIATION",
+                    "Version": "2021-04-07"
+                },
                 "ID": "EX043",
                 "Title": "DANSE CREATIVE A DEUX",
                 "Video": {
@@ -244,8 +276,10 @@
                 "L'invitation est de rentrer à deux dans une danse créative expressive avec des variations de distance, de vitesse, d'intensité en prenant soin de rester connectés en permanence à soi, à l'autre à la Music."
             ],
             "Music": {
-                "Catalogue": "MED_INITIATION",
-                "VersionCatalogue": "2021-04-07",
+                "Catalogue": {
+                    "Name": "MED_INITIATION",
+                    "Version": "2021-04-07"
+                },
                 "ID": "12-57",
                 "OriginCode": "HLBC27-60",
                 "Title": "The Postman's Dreams",
@@ -255,8 +289,10 @@
             },
             "MusicAlternatives": [
                 {
-                    "Catalogue": "",
-                    "VersionCatalogue": "",
+                    "Catalogue": {
+                        "Name": "",
+                        "Version": ""
+                    },
                     "ID": "",
                     "OriginCode": "",
                     "Title": "",
@@ -268,8 +304,10 @@
         },
         {
             "Exercise": {
-                "Catalogue": "MED_INITIATION",
-                "VersionCatalogue": "2021-04-07",
+                "Catalogue": {
+                    "Name": "MED_INITIATION",
+                    "Version": "2021-04-07"
+                },
                 "ID": "EX239",
                 "Title": "VALEUR (aussi appelée: Protection de la valeur)",
                 "Video": {
@@ -287,8 +325,10 @@
                 "Nous écarterons doucemnt les bras pour revenir dans la position d'origine."
             ],
             "Music": {
-                "Catalogue": "MED_INITIATION",
-                "VersionCatalogue": "2021-04-07",
+                "Catalogue": {
+                    "Name": "MED_INITIATION",
+                    "Version": "2021-04-07"
+                },
                 "ID": "04-61",
                 "OriginCode": "IBF15-01",
                 "Title": "Einleitung (Introduction) - Also sprach Zarathustra op.30",
@@ -298,8 +338,10 @@
             },
             "MusicAlternatives": [
                 {
-                    "Catalogue": "",
-                    "VersionCatalogue": "",
+                    "Catalogue": {
+                        "Name": "",
+                        "Version": ""
+                    },
                     "ID": "",
                     "OriginCode": "",
                     "Title": "",
@@ -311,8 +353,10 @@
         },
         {
             "Exercise": {
-                "Catalogue": "MED_INITIATION",
-                "VersionCatalogue": "2021-04-07",
+                "Catalogue": {
+                    "Name": "MED_INITIATION",
+                    "Version": "2021-04-07"
+                },
                 "ID": "EX239",
                 "Title": "VALEUR (aussi appelée: Protection de la valeur)",
                 "Video": {
@@ -324,8 +368,10 @@
                 "Je remettrais la Music. La proposition est de réaliser votre dans de protrection de la valeur."
             ],
             "Music": {
-                "Catalogue": "MED_INITIATION",
-                "VersionCatalogue": "2021-04-07",
+                "Catalogue": {
+                    "Name": "MED_INITIATION",
+                    "Version": "2021-04-07"
+                },
                 "ID": "04-61",
                 "OriginCode": "IBF15-01",
                 "Title": "Einleitung (Introduction) - Also sprach Zarathustra op.30",
@@ -335,8 +381,10 @@
             },
             "MusicAlternatives": [
                 {
-                    "Catalogue": "",
-                    "VersionCatalogue": "",
+                    "Catalogue": {
+                        "Name": "",
+                        "Version": ""
+                    },
                     "ID": "",
                     "OriginCode": "",
                     "Title": "",
@@ -348,8 +396,10 @@
         },
         {
             "Exercise": {
-                "Catalogue": "MED_INITIATION",
-                "VersionCatalogue": "2021-04-07",
+                "Catalogue": {
+                    "Name": "MED_INITIATION",
+                    "Version": "2021-04-07"
+                },
                 "ID": "EX173",
                 "Title": "MOUVEMENT SEGMENTAIRE DES EPAULES",
                 "Video": {
@@ -366,8 +416,10 @@
                 "Les yeux se ferment."
             ],
             "Music": {
-                "Catalogue": "MED_INITIATION",
-                "VersionCatalogue": "2021-04-07",
+                "Catalogue": {
+                    "Name": "MED_INITIATION",
+                    "Version": "2021-04-07"
+                },
                 "ID": "01-38",
                 "OriginCode": "IBF09-19",
                 "Title": "Adagio - Concerto Brandebourgeois 1 - 2, F-Dur BWV 1046",
@@ -377,8 +429,10 @@
             },
             "MusicAlternatives": [
                 {
-                    "Catalogue": "",
-                    "VersionCatalogue": "",
+                    "Catalogue": {
+                        "Name": "",
+                        "Version": ""
+                    },
                     "ID": "",
                     "OriginCode": "",
                     "Title": "",
@@ -390,8 +444,10 @@
         },
         {
             "Exercise": {
-                "Catalogue": "MED_INITIATION",
-                "VersionCatalogue": "2021-04-07",
+                "Catalogue": {
+                    "Name": "MED_INITIATION",
+                    "Version": "2021-04-07"
+                },
                 "ID": "EX176",
                 "Title": "MOUVEMENT SEGMENTAIRE DU COU",
                 "Video": {
@@ -408,8 +464,10 @@
                 "L'invitation est de s'abandonner à cette rotation."
             ],
             "Music": {
-                "Catalogue": "MED_INITIATION",
-                "VersionCatalogue": "2021-04-07",
+                "Catalogue": {
+                    "Name": "MED_INITIATION",
+                    "Version": "2021-04-07"
+                },
                 "ID": "02-69",
                 "OriginCode": "HLBC27-01",
                 "Title": "Because",
@@ -419,8 +477,10 @@
             },
             "MusicAlternatives": [
                 {
-                    "Catalogue": "",
-                    "VersionCatalogue": "",
+                    "Catalogue": {
+                        "Name": "",
+                        "Version": ""
+                    },
                     "ID": "",
                     "OriginCode": "",
                     "Title": "",
@@ -432,8 +492,10 @@
         },
         {
             "Exercise": {
-                "Catalogue": "MED_INITIATION",
-                "VersionCatalogue": "2021-04-07",
+                "Catalogue": {
+                    "Name": "MED_INITIATION",
+                    "Version": "2021-04-07"
+                },
                 "ID": "EX215",
                 "Title": "RONDE DE BERCEMENT",
                 "Video": {
@@ -448,8 +510,10 @@
                 "A la fin de la Music rester dans cette proximité"
             ],
             "Music": {
-                "Catalogue": "MED_INITIATION",
-                "VersionCatalogue": "2021-04-07",
+                "Catalogue": {
+                    "Name": "MED_INITIATION",
+                    "Version": "2021-04-07"
+                },
                 "ID": "07-94",
                 "OriginCode": "HLB29-58",
                 "Title": "Lullaby",
@@ -459,8 +523,10 @@
             },
             "MusicAlternatives": [
                 {
-                    "Catalogue": "",
-                    "VersionCatalogue": "",
+                    "Catalogue": {
+                        "Name": "",
+                        "Version": ""
+                    },
                     "ID": "",
                     "OriginCode": "",
                     "Title": "",
@@ -472,8 +538,10 @@
         },
         {
             "Exercise": {
-                "Catalogue": "MED_INITIATION",
-                "VersionCatalogue": "2021-04-07",
+                "Catalogue": {
+                    "Name": "MED_INITIATION",
+                    "Version": "2021-04-07"
+                },
                 "ID": "EX201",
                 "Title": "RENCONTRES FUGACES",
                 "Video": {
@@ -489,8 +557,10 @@
                 "Les deux tentent la même main (la droite ou la gauche). Le toucher est sensible léger. La rencontre est fugace et intense."
             ],
             "Music": {
-                "Catalogue": "MED_INITIATION",
-                "VersionCatalogue": "2021-04-07",
+                "Catalogue": {
+                    "Name": "MED_INITIATION",
+                    "Version": "2021-04-07"
+                },
                 "ID": "04-99",
                 "OriginCode": "IBF11-05",
                 "Title": "Evening Falls …",
@@ -500,8 +570,10 @@
             },
             "MusicAlternatives": [
                 {
-                    "Catalogue": "",
-                    "VersionCatalogue": "",
+                    "Catalogue": {
+                        "Name": "",
+                        "Version": ""
+                    },
                     "ID": "",
                     "OriginCode": "",
                     "Title": "",
@@ -513,8 +585,10 @@
         },
         {
             "Exercise": {
-                "Catalogue": "MED_INITIATION",
-                "VersionCatalogue": "2021-04-07",
+                "Catalogue": {
+                    "Name": "MED_INITIATION",
+                    "Version": "2021-04-07"
+                },
                 "ID": "EX209",
                 "Title": "RONDE D'ACTIVATION",
                 "Video": {
@@ -526,8 +600,10 @@
                 "Invitation à regoûter au rythme partagé, peut-être de sentir ce qui s'est renouvellé en nous au contact de cette diversité, de découvrir le regard neuf de nos compagnons après  ce voyage."
             ],
             "Music": {
-                "Catalogue": "MED_INITIATION",
-                "VersionCatalogue": "2021-04-07",
+                "Catalogue": {
+                    "Name": "MED_INITIATION",
+                    "Version": "2021-04-07"
+                },
                 "ID": "12-08",
                 "OriginCode": "HLB03-10",
                 "Title": "Tango To Evora",
@@ -537,8 +613,10 @@
             },
             "MusicAlternatives": [
                 {
-                    "Catalogue": "",
-                    "VersionCatalogue": "",
+                    "Catalogue": {
+                        "Name": "",
+                        "Version": ""
+                    },
                     "ID": "",
                     "OriginCode": "",
                     "Title": "",
@@ -550,8 +628,10 @@
         },
         {
             "Exercise": {
-                "Catalogue": "MED_INITIATION",
-                "VersionCatalogue": "2021-04-07",
+                "Catalogue": {
+                    "Name": "MED_INITIATION",
+                    "Version": "2021-04-07"
+                },
                 "ID": "EX224",
                 "Title": "RONDE FINALE",
                 "Video": {
@@ -563,8 +643,10 @@
                 "\"Déployez vos ailes\" nous dit la musique. Je vous souhaite de continuer à les déployer pour explorer, goûter la diversité qui nous entoure comme autant d'opportunités d'aller vers la plus ample expression de nous-mêmes."
             ],
             "Music": {
-                "Catalogue": "MED_INITIATION",
-                "VersionCatalogue": "2021-04-07",
+                "Catalogue": {
+                    "Name": "MED_INITIATION",
+                    "Version": "2021-04-07"
+                },
                 "ID": "05-28",
                 "OriginCode": "HLBC27-10",
                 "Title": "Fly With Me (Lenas Sång) (Vocal Leyla Yilbar-Norgren)",
@@ -574,8 +656,10 @@
             },
             "MusicAlternatives": [
                 {
-                    "Catalogue": "",
-                    "VersionCatalogue": "",
+                    "Catalogue": {
+                        "Name": "",
+                        "Version": ""
+                    },
                     "ID": "",
                     "OriginCode": "",
                     "Title": "",
