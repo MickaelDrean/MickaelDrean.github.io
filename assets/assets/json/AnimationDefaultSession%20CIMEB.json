@@ -1,0 +1,606 @@
+{
+"Language": "FR",
+"Title": "Equilibre - Extension maximale - Ronde de fluidité",
+"Date": "2024/04/09",
+"Author": "Thierry CONTER",
+"Presentation": [
+    "Définitions :",
+    "L’équilibre se définit comme une situation dans laquelle les forces (tensions, poids, forces…) se compensent. Moi - Sol",
+    "L'équilibre se définit également comme une juste proportion entre des choses opposées ; état de stabilité ou d'harmonie qui en résulte (pour chacun équilibre seul avec d'autres personnes)",
+    "Pour vivre est-ce qu'il vaut mieux expirer ou inspirer ? ...",
+    "Notre organisme trouve pour nous en permanence le bon équilibre entre ces deux polarités.",
+    "Le déséquilibre se définit comme un manque d’équilibre.",
+    "Les deux faces de la même pièce : enlacés, complémentaires, se soutiennent et s’animent l’un l’autre :",
+    " - Équilibre dans le déséquilibre : la marche !",
+    " - Déséquilibre dans l'équilibre : moi, là assis.",
+    "Entre l’excès d’équilibre (rester dans l’immobilisme) et l’excès de déséquilibre (rester dans le chaos), il est intéressant de trouver un… équilibre ! (Retour à la case départ)",
+    "On parle d'équilibre dynamique. Réajustement permanent.",
+    "Un des bénéfices potentiel de la pratique de la Biodanza, c'est d'améliorer l'équilibre de vie : meilleure gestion des tensions, du stress, une amélioration de notre humeur de fond choix existentiel plus en phase avec nos aspirations profondes.",
+    "Équilibre de vie ? ",
+    " - Perceptions dedans / dehors",
+    " - Action - Repos",
+    " - Soi, les autres",
+    " - Polarité des instincts : exploration / nidification",
+    "L’hypothèse et l’observation faites par Rolando Toro le fondateur de la Biodanza, est qu'il n'y a pas de changement de l'équilibre de vie, ni d'évolution, qui ne soient accompagnés de changements du schéma corporel.",
+    "Notre posture corporelle, notre façon de nous mouvoir est en grande partie le résultat de notre histoire dans la relation que nous avons avec le monde. Notre posture dit du regard que nous portons sur la vie.",
+    "Et donc pour lui une des portes d’entrée vers cette recherche d'un équilibre de vie qui nous convienne mieux, c’est le mouvement et notamment l'équilibre !",
+    "D'un point de vue corporel, il définissait l'équilibre comme la capacité à conserver, de manière statique ou dynamique, une posture naturelle, sans déviation ni oscillation.",
+    "Comment notre organisme conserve-t-il son équilibre physique ?",
+    "Réception d'informations provenant :",
+    " - de la plante des pieds, des articulations et des muscles.",
+    " - des organes situés dans l’oreille interne, comme le système vestibulaire.",
+    " - des yeux : yeux ouverts quand mouvement, yeux à l'horizon quand mouvement lent",
+    " - la mémoire des situations : la répétition des danses, l'expérimentation un peu plus loin",
+    "(Études danseuses classique vs aviron - moins sensibles au vertige rotations.)",
+    "(Danseurs soufis : apprentissage, conscience corporelle, regard point fixe, bras pour équilibrer.)",
+    "Ma proposition dans cette séance, c'est dans nos danses, dans nos mouvements de percevoir, de rencontrer, d'expérimenter des nuances d'équilibres dynamique."
+],
+"Proposals": [
+    {
+        "Exercise": {
+            "Catalogue": {
+                "Name": "CIMEB 2012",
+                "Version": "01/01/2012"
+            },
+            "Id": "CIMEB12EX175",
+            "Title": "RONDE D'INITIATION (aussi nommée \"RONDE D'INTEGRATION INITIALE\")"
+        },
+        "Instruction": [
+            "Quelque chose d'important va prendre place, va commencer.",
+            ""
+        ],
+        "Music": {
+            "Catalogue": {
+                "Name": "CIMEB 2012",
+                "Version": "01/01/2012"
+            },
+            "Id": "01-07",
+            "OriginCode": "IBF01-07",
+            "Title": "Ballad Of Sir Frankie Crisp (Let It Roll)",
+            "Artist": "Harrison, George",
+            "Path": "https://biodanza-dzv.fr/wp-content/uploads/2023/04/BDZMED/PI02/IBF01%20-%2007%20-%20Harrison,%20George%20-%20Ballad%20Of%20Sir%20Frankie%20Crisp%20(Let%20It%20Roll).mp3",
+            "Duration": "12:49"
+        },
+        "MusicAlternatives": [
+            {
+                "Catalogue": {
+                    "Name": "",
+                    "Version": ""
+                },
+                "Id": "",
+                "OriginCode": "",
+                "Title": "",
+                "Artist": "",
+                "Path": "",
+                "Duration": ""
+            }
+        ]
+    },
+    {
+        "Exercise": {
+            "Catalogue": {
+                "Name": "CIMEB 2012",
+                "Version": "01/01/2012"
+            },
+            "Id": "CIMEB12EX157",
+            "Title": "MARCHE EN SYNERGIE (Marche synergique)"
+        },
+        "Instruction": [
+            "Marche naturelle, en musique car la marche est, en soi, intégrée et en synergie motrice. ",
+            "Le bras gauche bouge en synchronie avec la jambe droite et le bras droit en synchronie avec la jambe gauche. "
+        ],
+        "Music": {
+            "Catalogue": {
+                "Name": "CIMEB 2012",
+                "Version": "01/01/2012"
+            },
+            "Id": "06-22",
+            "OriginCode": "IBF06-22",
+            "Title": "When The Saints Go Marchin' In",
+            "Artist": "The New Orleans Banjo Band",
+            "Path": "https://biodanza-dzv.fr/wp-content/uploads/2023/04/BDZMED/PI13/IBF06%20-%2022%20-%20The%20New%20Orleans%20Banjo%20Band%20-%20When%20The%20Saints%20Go%20Marchin%27%20In.mp3",
+            "Duration": "12:39"
+        },
+        "MusicAlternatives": [
+            {
+                "Catalogue": {
+                    "Name": "",
+                    "Version": ""
+                },
+                "Id": "",
+                "OriginCode": "",
+                "Title": "",
+                "Artist": "",
+                "Path": "",
+                "Duration": ""
+            }
+        ]
+    },
+    {
+        "Exercise": {
+            "Catalogue": {
+                "Name": "CIMEB 2012",
+                "Version": "01/01/2012"
+            },
+            "Id": "CIMEB12EX121",
+            "Title": "COORDINATION RYTHMIQUE A DEUX (appelée aussi marcher à deux)"
+        },
+        "Instruction": [
+            "Marcher en parfaite coordination avec une autre personne, en maintenant le même rythme et une syntonie réciproque. ",
+            "Développer la capacité d'adaptation par la coordination avec l'autre et la sensibilisation à sa présence."
+        ],
+        "Music": {
+            "Catalogue": {
+                "Name": "CIMEB 2012",
+                "Version": "01/01/2012"
+            },
+            "Id": "06-07",
+            "OriginCode": "IBF06-07",
+            "Title": "Alexander's Rag Time",
+            "Artist": "The New Orleans Banjo Band",
+            "Path": "https://biodanza-dzv.fr/wp-content/uploads/2023/04/BDZMED/PI01/IBF06%20-%2007%20-%20The%20New%20Orleans%20Banjo%20Band%20-%20Alexander%27s%20Rag%20Time.mp3",
+            "Duration": "12:59"
+        },
+        "MusicAlternatives": [
+            {
+                "Catalogue": {
+                    "Name": "",
+                    "Version": ""
+                },
+                "Id": "",
+                "OriginCode": "",
+                "Title": "",
+                "Artist": "",
+                "Path": "",
+                "Duration": ""
+            }
+        ]
+    },
+    {
+        "Exercise": {
+            "Catalogue": {
+                "Name": "CIMEB 2012",
+                "Version": "01/01/2012"
+            },
+            "Id": "CIMEB12EX125",
+            "Title": "SYNCHRONISATION RYTHMIQUE A DEUX"
+        },
+        "Instruction": [
+            "Les deux personnes sont l'une face à l'autre et se tiennent par les deux mains, en se regardant dans les yeux. ",
+            "Dans cette position, elles alternent des mouvements rythmiques en lien avec la musique, de façon synergique et en réalisant des petits déplacements dans leur danse."
+        ],
+        "Music": {
+            "Catalogue": {
+                "Name": "CIMEB 2012",
+                "Version": "01/01/2012"
+            },
+            "Id": "06-15",
+            "OriginCode": "IBF06-15",
+            "Title": "Ain't She Sweet",
+            "Artist": "The New Orleans Banjo Band",
+            "Path": "https://biodanza-dzv.fr/wp-content/uploads/2023/04/BDZMED/PI01/IBF06%20-%2015%20-%20The%20New%20Orleans%20Banjo%20Band%20-%20Ain%27t%20She%20Sweet.mp3",
+            "Duration": "12:21"
+        },
+        "MusicAlternatives": [
+            {
+                "Catalogue": {
+                    "Name": "",
+                    "Version": ""
+                },
+                "Id": "",
+                "OriginCode": "",
+                "Title": "",
+                "Artist": "",
+                "Path": "",
+                "Duration": ""
+            }
+        ]
+    },
+    {
+        "Exercise": {
+            "Catalogue": {
+                "Name": "CIMEB 2012",
+                "Version": "01/01/2012"
+            },
+            "Id": "CIMEB12EX143",
+            "Title": "VARIATIONS RYTHMIQUES"
+        },
+        "Instruction": [
+            "La danse se crée sur la base de quatre mouvements :",
+            "1. marcher en rythme",
+            "2. sautiller en rythme avec synergie",
+            "3. sautiller en tournant sur soi (les bras ouverts)",
+            "4. sautiller avec ouverture latérale des jambes et des mouvements simultanés des bras qui s'ouvrent et se ferment sur la poitrine, en regardant alternativement le pied qui s'élève du sol."
+        ],
+        "Music": {
+            "Catalogue": {
+                "Name": "CIMEB 2012",
+                "Version": "01/01/2012"
+            },
+            "Id": "07-03",
+            "OriginCode": "IBF07-03",
+            "Title": "Tiger Rag",
+            "Artist": "The New Orleans Banjo Band",
+            "Path": "https://biodanza-dzv.fr/wp-content/uploads/2023/04/BDZMED/PI12/IBF07%20-%2003%20-%20The%20New%20Orleans%20Banjo%20Band%20-%20Tiger%20Rag.mp3",
+            "Duration": "12:11"
+        },
+        "MusicAlternatives": [
+            {
+                "Catalogue": {
+                    "Name": "",
+                    "Version": ""
+                },
+                "Id": "",
+                "OriginCode": "",
+                "Title": "",
+                "Artist": "",
+                "Path": "",
+                "Duration": ""
+            }
+        ]
+    },
+    {
+        "Exercise": {
+            "Catalogue": {
+                "Name": "CIMEB 2012",
+                "Version": "01/01/2012"
+            },
+            "Id": "CIMEB12EX117",
+            "Title": "LIBERATION DU MOUVEMENT"
+        },
+        "Instruction": [
+            "Explorer librement son expression par un mouvement libre, ample, total et spontané",
+            "Liberté de se mouvoir librement sans préoccupation de performance."
+        ],
+        "Music": {
+            "Catalogue": {
+                "Name": "CIMEB 2012",
+                "Version": "01/01/2012"
+            },
+            "Id": "07-09",
+            "OriginCode": "IBF07-09",
+            "Title": "Can't Buy Me Love",
+            "Artist": "The Beatles",
+            "Path": "https://biodanza-dzv.fr/wp-content/uploads/2023/04/BDZMED/PI03/IBF07%20-%2009%20-%20The%20Beatles%20-%20Can%27t%20Buy%20Me%20Love.mp3",
+            "Duration": "12:12"
+        },
+        "MusicAlternatives": [
+            {
+                "Catalogue": {
+                    "Name": "",
+                    "Version": ""
+                },
+                "Id": "",
+                "OriginCode": "",
+                "Title": "",
+                "Artist": "",
+                "Path": "",
+                "Duration": ""
+            }
+        ]
+    },
+    {
+        "Exercise": {
+            "Catalogue": {
+                "Name": "CIMEB 2012",
+                "Version": "01/01/2012"
+            },
+            "Id": "CIMEB12EX119",
+            "Title": "DANSE D'EXTENSION MAXIMALE"
+        },
+        "Instruction": [
+            "Mouvements avec l'ensemble du corps (bras et jambes), en exprimant les possibilités maximales d'extension et d'étirement.",
+            "Maîtrise continue du mouvement, du tonus et de l'équilibre. "
+        ],
+        "Music": {
+            "Catalogue": {
+                "Name": "CIMEB 2012",
+                "Version": "01/01/2012"
+            },
+            "Id": "08-14",
+            "OriginCode": "IBF08-14",
+            "Title": "Europa (Earth's Cry Heaven's Smile)",
+            "Artist": "Barbieri, Gato",
+            "Path": "https://biodanza-dzv.fr/wp-content/uploads/2023/04/BDZMED/PI04/IBF08%20-%2014%20-%20Barbieri,%20Gato%20-%20Europa%20(Earth%27s%20Cry%20Heaven%27s%20Smile).wav",
+            "Duration": "12:50"
+        },
+        "MusicAlternatives": [
+            {
+                "Catalogue": {
+                    "Name": "",
+                    "Version": ""
+                },
+                "Id": "",
+                "OriginCode": "",
+                "Title": "",
+                "Artist": "",
+                "Path": "",
+                "Duration": ""
+            }
+        ]
+    },
+    {
+        "Exercise": {
+            "Catalogue": {
+                "Name": "CIMEB 2012",
+                "Version": "01/01/2012"
+            },
+            "Id": "CIMEB12EX082",
+            "Title": "DANSE D'EUTONIE (eutonie du doigt)"
+        },
+        "Instruction": [
+            "Avec les index unis, elles réalisent une danse lente et sensible avec des petits déplacements à pas courts qui lui confèrent de la légèreté. Les personnes sont invitées à maintenir les index unis pendant toute la danse, même lors des changements de position qui surviennent spontanément."
+        ],
+        "Music": {
+            "Catalogue": {
+                "Name": "CIMEB 2012",
+                "Version": "01/01/2012"
+            },
+            "Id": "17-04",
+            "OriginCode": "IBF17-04",
+            "Title": "L'horloge de ma vie",
+            "Artist": "Posit, Jean-Pierre",
+            "Path": "https://biodanza-dzv.fr/wp-content/uploads/2023/04/BDZMED/PI07/IBF17%20-%2004%20-%20Posit,%20Jean-Pierre%20-%20L%27horloge%20de%20ma%20vie.mp3",
+            "Duration": "12:43"
+        },
+        "MusicAlternatives": [
+            {
+                "Catalogue": {
+                    "Name": "",
+                    "Version": ""
+                },
+                "Id": "",
+                "OriginCode": "",
+                "Title": "",
+                "Artist": "",
+                "Path": "",
+                "Duration": ""
+            }
+        ]
+    },
+    {
+        "Exercise": {
+            "Catalogue": {
+                "Name": "CIMEB 2012",
+                "Version": "01/01/2012"
+            },
+            "Id": "CIMEB12EX131",
+            "Title": "FLUIDITE : SERIE III"
+        },
+        "Instruction": [
+            "Augmenter l'équilibre dynamique et la perception de la propre énergie.",
+            "1 Position Initiale",
+            "La même que celle décrite pour la Série 1.",
+            "2 Première Étape",
+            "Le bras droit (coude fléchi) et la jambe droite (genou fléchi) se lèvent en même temps jusqu'à ce que le coude et le genou se touchent. Le pied en position légèrement \"flex\" (pointe du pied vers le haut) et paume de la main vers l'avant (position Yang). Le poids du corps repose sur la jambe gauche légèrement fléchie. On répète le même mouvement avec l'autre jambe et l'autre bras.",
+            "On répète ce mouvement un certain nombre de fois, alternant la droite et la gauche.",
+            "3 Deuxième Étape",
+            "Les bras s'ouvrent sur le côté, à la hauteur des épaules et dans l'alignement de celles-ci. On réalise alors un mouvement inspiré des ailes de moulin à vent, accompagné de rotations et flexion de la taille vers l'avant, l'arrière, la droite et la gauche. Les jambes légèrement fléchies restent flexibles pour accompagner le mouvement du reste du corps.",
+            "On répète ce mouvement un certain nombre de fois."
+        ],
+        "Music": {
+            "Catalogue": {
+                "Name": "CIMEB 2012",
+                "Version": "01/01/2012"
+            },
+            "Id": "16-09",
+            "OriginCode": "IBF16-09",
+            "Title": "Ouverture [Part]",
+            "Artist": "OST Le Grand Bleu",
+            "Path": "https://biodanza-dzv.fr/wp-content/uploads/2023/04/BDZMED/PI09/IBF16%20-%2009%20-%20OST%20Le%20Grand%20Bleu%20-%20Ouverture%20[Part].wav",
+            "Duration": "12:29"
+        },
+        "MusicAlternatives": [
+            {
+                "Catalogue": {
+                    "Name": "",
+                    "Version": ""
+                },
+                "Id": "",
+                "OriginCode": "",
+                "Title": "",
+                "Artist": "",
+                "Path": "",
+                "Duration": ""
+            }
+        ]
+    },
+    {
+        "Exercise": {
+            "Catalogue": {
+                "Name": "CIMEB 2012",
+                "Version": "01/01/2012"
+            },
+            "Id": "CIMEB12EX128",
+            "Title": "DANSE LIBRE DE FLUIDITE"
+        },
+        "Instruction": [
+            "Les personnes se déplacent dans un mouvement lent et harmonieux de tout le corps et pas seulement des jambes. ",
+            "La synergie (jambes/tronc) est respectée, les mouvements sont ronds et les déplacements de la base (pieds) se font dans un jeu d'équilibre et de déséquilibre subtil."
+        ],
+        "Music": {
+            "Catalogue": {
+                "Name": "CIMEB 2012",
+                "Version": "01/01/2012"
+            },
+            "Id": "09-20",
+            "OriginCode": "IBF09-20",
+            "Title": "Oxygène, Pt. 1",
+            "Artist": "Jarre, Jean-Michel",
+            "Path": "https://biodanza-dzv.fr/wp-content/uploads/2023/04/BDZMED/PI09/IBF09%20-%2020%20-%20Jarre,%20Jean-Michel%20-%20Oxygène,%20Pt.%201.mp3",
+            "Duration": "12:41"
+        },
+        "MusicAlternatives": [
+            {
+                "Catalogue": {
+                    "Name": "",
+                    "Version": ""
+                },
+                "Id": "",
+                "OriginCode": "",
+                "Title": "",
+                "Artist": "",
+                "Path": "",
+                "Duration": ""
+            }
+        ]
+    },
+    {
+        "Exercise": {
+            "Catalogue": {
+                "Name": "CIMEB 2012",
+                "Version": "01/01/2012"
+            },
+            "Id": "CIMEB12EX176",
+            "Title": "RONDE DE BERCEMENT"
+        },
+        "Instruction": [
+            "Osciller doucement en syntonie avec le groupe dans son ensemble."
+        ],
+        "Music": {
+            "Catalogue": {
+                "Name": "CIMEB 2012",
+                "Version": "01/01/2012"
+            },
+            "Id": "11-08",
+            "OriginCode": "IBF11-08",
+            "Title": "Magie d'amour",
+            "Artist": "Posit, Jean-Pierre",
+            "Path": "https://biodanza-dzv.fr/wp-content/uploads/2023/04/BDZMED/PI08/IBF11%20-%2008%20-%20Posit,%20Jean-Pierre%20-%20Magie%20d%27Amour.flac",
+            "Duration": "12:43"
+        },
+        "MusicAlternatives": [
+            {
+                "Catalogue": {
+                    "Name": "",
+                    "Version": ""
+                },
+                "Id": "",
+                "OriginCode": "",
+                "Title": "",
+                "Artist": "",
+                "Path": "",
+                "Duration": ""
+            }
+        ]
+    },
+    {
+        "Exercise": {
+            "Catalogue": {
+                "Name": "CIMEB 2012",
+                "Version": "01/01/2012"
+            },
+            "Id": "CIMEB12EX163",
+            "Title": "RENCONTRES AVEC ETREINTE"
+        },
+        "Instruction": [
+            ""
+        ],
+        "Music": {
+            "Catalogue": {
+                "Name": "CIMEB 2012",
+                "Version": "01/01/2012"
+            },
+            "Id": "10-11",
+            "OriginCode": "IBF10-11",
+            "Title": "Nobody Does It Better (vocal Carly Simon)",
+            "Artist": "OST The Spy Who Loved Me",
+            "Path": "https://biodanza-dzv.fr/wp-content/uploads/2023/04/BDZMED/PI09/IBF10%20-%2011%20-%20OST%20James%20Bond%20-%20Nobody%20Does%20It%20Better%20(vocal%20Carly%20Simon).mp3",
+            "Duration": "12:30"
+        },
+        "MusicAlternatives": [
+            {
+                "Catalogue": {
+                    "Name": "",
+                    "Version": ""
+                },
+                "Id": "",
+                "OriginCode": "",
+                "Title": "",
+                "Artist": "",
+                "Path": "",
+                "Duration": ""
+            }
+        ]
+    },
+    {
+        "Exercise": {
+            "Catalogue": {
+                "Name": "CIMEB 2012",
+                "Version": "01/01/2012"
+            },
+            "Id": "CIMEB12EX221",
+            "Title": "DANSE D'ACTIVATION A DEUX"
+        },
+        "Instruction": [
+            ""
+        ],
+        "Music": {
+            "Catalogue": {
+                "Name": "CIMEB 2012",
+                "Version": "01/01/2012"
+            },
+            "Id": "14-03",
+            "OriginCode": "IBF14-03",
+            "Title": "The Girl From Ipanema (feat. Astrud Gilberto)",
+            "Artist": "Getz, Stan / Gilberto, João",
+            "Path": "https://biodanza-dzv.fr/wp-content/uploads/2023/04/BDZMED/PI12/IBF14%20-%2003%20-%20Getz,%20Stan%20&%20Gilberto,%20João%20-%20The%20Girl%20From%20Ipanema%20(feat.%20Astrud%20Gilberto).mp3",
+            "Duration": "12:16"
+        },
+        "MusicAlternatives": [
+            {
+                "Catalogue": {
+                    "Name": "",
+                    "Version": ""
+                },
+                "Id": "",
+                "OriginCode": "",
+                "Title": "",
+                "Artist": "",
+                "Path": "",
+                "Duration": ""
+            }
+        ]
+    },
+    {
+        "Exercise": {
+            "Catalogue": {
+                "Name": "CIMEB 2012",
+                "Version": "01/01/2012"
+            },
+            "Id": "CIMEB12EX173",
+            "Title": "RONDE D'ACTIVATION"
+        },
+        "Instruction": [
+            ""
+        ],
+        "Music": {
+            "Catalogue": {
+                "Name": "CIMEB 2012",
+                "Version": "01/01/2012"
+            },
+            "Id": "01-11",
+            "OriginCode": "IBF01-11",
+            "Title": "Tema de Amor de Gabriela",
+            "Artist": "Costa, Gal / Jobim, Tom",
+            "Path": "https://biodanza-dzv.fr/wp-content/uploads/2023/04/BDZMED/PI12/IBF01%20-%2011%20-%20OST%20Gabriela%20(Costa,%20Gal%20&%20Jobim,%20Tom)%20-%20Tema%20de%20Amor%20de%20Gabriela.mp3",
+            "Duration": "12:04"
+        },
+        "MusicAlternatives": [
+            {
+                "Catalogue": {
+                    "Name": "",
+                    "Version": ""
+                },
+                "Id": "",
+                "OriginCode": "",
+                "Title": "",
+                "Artist": "",
+                "Path": "",
+                "Duration": ""
+            }
+        ]
+    }
+]
+}
+

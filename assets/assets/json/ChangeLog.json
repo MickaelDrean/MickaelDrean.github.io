@@ -1,6 +1,13 @@
 {
-    "Version_date": "25-02-2024 18h",
+    "Version_date": "16-04-2024 18h",
     "ChangeLog": [
+        {
+            "Date" : "16-04-2024",
+            "Description": [
+                "Export/Import de séance",
+                "Lire ou éditer depuis les animations récentes"
+            ]
+        },
         {
             "Date" : "25-02-2024",
             "Description": [
