@@ -1,12 +1,20 @@
 {
-    "Version_date": "24-04-2024 19h",
-    "ChangeLog": [ {
-        "Date" : "24-04-2024",
-        "Description": [
-            "Selection par double clic dans les animations récentes ( page animation / page éditeur )" ,
-            "Mise en évidence de la proposition dont on visualise la consigne"
-        ]
-    },
+    "Version_date": "29-04-2024 19h",
+    "ChangeLog": [
+        {
+            "Date" : "29-04-2024",
+            "Description": [
+                "Modifications du design" ,
+                "Factorisation de code pour les Tiles (lignes) propositions."
+            ]
+        },
+        {
+            "Date" : "24-04-2024",
+            "Description": [
+                "Selection par double clic dans les animations récentes ( page animation / page éditeur )" ,
+                "Mise en évidence de la proposition dont on visualise la consigne"
+            ]
+        },
         {
             "Date" : "16-04-2024",
             "Description": [
