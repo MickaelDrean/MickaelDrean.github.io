@@ -103216,8 +103216,8 @@ gSJ(){return"Version from "},
 gQI(){return"Latest Addition: "},
 gP6(){return"Catalogue instructions"},
 gP9(){return"Observations during the exercice"},
-gP8(){return"Ajout d'observations"},
-gP7(){return"Taper ici pour ajouter une observation"},
+gP8(){return"Add observations"},
+gP7(){return"Enter your observations"},
 ghV(a){return"add"},
 gR6(){return"No XXX available"},
 gGl(){return"introduction"},
@@ -103231,7 +103231,7 @@ gHW(){return"remark"},
 gPA(){return"Enter your own instruction and/or add part of the catalogue instructions ..."},
 gSq(){return"Edit observations"},
 gSp(){return"View catalogue instructions"},
-gSr(){return"Editer la proposition"},
+gSr(){return"Edit proposition"},
 gIb(){return"To be Done"}}
 A.Rb.prototype={
 gz8(){return"dd/MM/yy"},
@@ -103284,8 +103284,8 @@ gSJ(){return"Versi\xf3n del "},
 gQI(){return"\xdaltimas incorporaciones: "},
 gP6(){return"Instrucciones del cat\xe1logo"},
 gP9(){return"Observaciones durante el ejercicio"},
-gP8(){return"Ajout d'observations"},
-gP7(){return"Taper ici pour ajouter une observation"},
+gP8(){return"A\xf1adir observaciones"},
+gP7(){return"Escriba sus observaciones"},
 ghV(a){return"a\xf1adir"},
 gR6(){return"Ninguna XXX disponible"},
 gGl(){return"introducci\xf3n"},
@@ -103353,7 +103353,7 @@ gQI(){return"Derniers ajouts : "},
 gP6(){return"Consignes catalogues"},
 gP9(){return"Observations pendant l'exercice"},
 gP8(){return"Ajout d'observations"},
-gP7(){return"Taper ici pour ajouter une observation"},
+gP7(){return"Entrez vos observations"},
 ghV(a){return"ajouter"},
 gR6(){return"XXX non disponible"},
 gGl(){return"introduction"},
@@ -118926,7 +118926,7 @@ l=A.aj(a,B.p,h).gHW()
 k=t.p
 e=A.bZ(A.bd(A.a([c,B.cv,A.bZ(A.Am(A.bd(A.a([s,r,q,p,o,n,m,j.nW(l,i)],k),B.b2,B.t,B.Z,B.v),i,i,B.a_),f.a.b/3,b.a.a-100)],k),B.m,B.t,B.o,B.v),d.a.b-100,e.a.a-100)
 return A.agT(A.a([A.lq(!1,A.ax(A.aj(a,B.p,h).gqR(),i,i,i,i,i,i,i),B.h,i,i,i,i,i,new A.aDi(a),i,i)],k),e,g)},
-nW(a,b){var s=null,r=A.ax(a,s,s,s,B.f9,s,s,s)
+nW(a,b){var s=null,r=A.ax(a.toUpperCase(),s,s,s,B.f9,s,s,s)
 return A.bd(A.a([r,B.ajR,B.cv],t.p),B.b2,B.t,B.Z,B.v)}}
 A.aDi.prototype={
 $0(){A.ew(this.a,!1).w8(t.X)},
