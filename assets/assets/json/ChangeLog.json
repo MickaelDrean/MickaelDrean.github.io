@@ -1,6 +1,12 @@
 {
-    "Version_date": "30-04-2024 22h45",
+    "Version_date": "01-05-2024 17h30",
     "ChangeLog": [
+        {
+            "Date" : "01-05-2024",
+            "Description": [
+                "Capacité à afficher les consignes catalogues"
+            ]
+        },
         {
             "Date" : "30-04-2024",
             "Description": [
