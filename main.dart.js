@@ -118282,7 +118282,7 @@ return new A.oq(s.i(a,"Id"),s.i(a,"Exercise_id"),s.i(a,"Music_id"),new A.ek().js
 $S:752}
 A.akk.prototype={
 $1(a){var s=J.ap(a),r=A.lX(s.i(a,"Id")),q=A.lX(s.i(a,"Name"))
-return new A.iI(r,A.lX(s.i(a,"Category")),q,new A.ek().js(s.i(a,"Introduction")),new A.ek().js(s.i(a,"description")),new A.ek().js(s.i(a,"Objective")),new A.ek().js(s.i(a,"Poetic_element")),new A.ek().js(s.i(a,"Existential_projection")),new A.ek().js(s.i(a,"Definition")),new A.ek().js(s.i(a,"Observation")),new A.ek().js(s.i(a,"Remark")))},
+return new A.iI(r,A.lX(s.i(a,"Category")),q,new A.ek().js(s.i(a,"Introduction")),new A.ek().js(s.i(a,"Description")),new A.ek().js(s.i(a,"Objective")),new A.ek().js(s.i(a,"Poetic_element")),new A.ek().js(s.i(a,"Existential_projection")),new A.ek().js(s.i(a,"Definition")),new A.ek().js(s.i(a,"Observation")),new A.ek().js(s.i(a,"Remark")))},
 $S:753}
 A.akl.prototype={
 $1(a){var s,r,q,p,o,n,m,l,k="Duration",j="BPM",i="Music_Sha256",h=J.ap(a),g=A.lX(h.i(a,"Id")),f=A.lX(h.i(a,"Title")),e=A.lX(h.i(a,"Artist"))
