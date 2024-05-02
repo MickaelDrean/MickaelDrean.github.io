@@ -1,6 +1,13 @@
 {
-    "Version_date": "01-05-2024 17h30",
+    "Version_date": "02-05-2024 21h",
     "ChangeLog": [
+        {
+            "Date" : "02-05-2024",
+            "Description": [
+                "Modifications du titre, de la date, des consignes, ajout d'observations",
+                "Pas de consigne catalogue dans le player"
+            ]
+        },
         {
             "Date" : "01-05-2024",
             "Description": [

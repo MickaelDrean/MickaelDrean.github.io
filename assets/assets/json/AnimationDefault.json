@@ -1,6 +1,7 @@
 {
 
     "Title": "Identité et diversité",
+    "Date": "2024/04/09",
 
     "Description": [
 
@@ -80,7 +81,12 @@
 
                 "Path": ""
 
-            }
+            },
+
+            "Observation": [
+                "Observation 1",
+                "Observation 2"
+            ]
 
         },
 
