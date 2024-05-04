@@ -118673,7 +118673,7 @@ gXd(){if(this.d.a.a.length===0)return"Can't be empty"
 return null},
 gXe(){var s,r,q=this.e.a.a
 if(J.bL(q)===0)return"Must set a date"
-try{A.jb("yyyy-MM-dd",null).oh(q,!1,!1)}catch(r){s=A.a4(r)
+try{A.jb("yyyy/MM/dd",null).oh(q,!1,!1)}catch(r){s=A.a4(r)
 A.aJ("exception : "+A.h(s))
 return"Date format error"}return null}}
 A.alx.prototype={
