@@ -1,12 +1,13 @@
 {
-    "Version_date": "06-05-2024 15h30",
+    "Version_date": "06-05-2024 16h30",
     "ChangeLog": [
         {
             "Date" : "06-05-2024",
             "Description": [
                 "Amélioration dispose HomeSoundCloundController => plus d'exceptions",
                 "Correction Bug : lecture d'une musique en animation puis création d'une nouvelle séance.. une musique apparaissait",
-                "Suppression du bouton 'chargement d'une séance par défaut"
+                "Suppression du bouton 'chargement d'une séance par défaut",
+                "Passage de la description de la thématique de séance en 1 seule ligne"
             ]
         },
         {
