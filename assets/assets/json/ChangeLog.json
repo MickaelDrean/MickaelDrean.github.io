@@ -1,6 +1,15 @@
 {
-    "Version_date": "06-05-2024 21h15",
+    "Version_date": "07-05-2024 19h",
     "ChangeLog": [
+
+        {
+            "Date" : "07-05-2024",
+            "Description": [
+                "Gestion des blocs chainés - Animation / Sequence / AudioCubit / InstructionCubit",
+                "Ajout date création animation pour les récents"
+            ]
+        },
+
         {
             "Date" : "06-05-2024",
             "Description": [
