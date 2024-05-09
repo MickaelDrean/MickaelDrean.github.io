@@ -1,7 +1,12 @@
 {
-    "Version_date": "07-05-2024 19h",
+    "Version_date": "09-05-2024 20h30",
     "ChangeLog": [
-
+        {
+            "Date" : "09-05-2024",
+            "Description": [
+                "correction de divers bugs : mise en évidence, texte consign"
+            ]
+        },
         {
             "Date" : "07-05-2024",
             "Description": [
