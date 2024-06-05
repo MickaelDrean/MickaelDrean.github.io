@@ -1,10 +1,11 @@
 {
-    "Version_date": "05-06-2024 09h",
+    "Version_date": "05-06-2024 16h15",
     "ChangeLog": [
         {
             "Date" : "05-06-2024",
             "Description": [
-                "Correction bug selection initial dans la table exercice"
+                "Correction bug selection initial dans la table exercice",
+                "Bug icone sorting sur colonne numerique"
             ]
         },
         {
