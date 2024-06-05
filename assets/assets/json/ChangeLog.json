@@ -1,6 +1,65 @@
 {
-    "Version_date": "12-05-2024 12h",
+    "Version_date": "05-06-2024 09h",
     "ChangeLog": [
+        {
+            "Date" : "05-06-2024",
+            "Description": [
+                "Correction bug selection initial dans la table exercice"
+            ]
+        },
+        {
+            "Date" : "04-06-2024",
+            "Description": [
+                "Ajout table exercice",
+                "Refactoring fenetre choix d'une proposition",
+                "Ajout icone danseur",
+                "Ajout visibilité consignes depuis la table exercice",
+                "Correction bug scroll & mauvais icone table exercice",
+                "Internationnalisation des labels & tooltip de tables music & exercice",
+                "Ajout player audio pour la musique sélectionnée"
+            ]
+        },
+        {
+            "Date" : "01-06-2024",
+            "Description": [
+                "Recherche d'une musique - capacité à ramener la sélection et à être sélectionné quand on ouvre la fenetre"
+            ]
+        },
+        {
+            "Date" : "29-05-2024",
+            "Description": [
+                "Recherche d'une musique - amélioration de l'IHM",
+                "Supprimer les boutons démos en mode animation",
+                "Ajout prototype d'un système de notification"
+            ]
+        },
+        {
+            "Date" : "28-05-2024",
+            "Description": [
+                "Proposition d'une dialog de recherche d'une musique"
+            ]
+        },
+        {
+            "Date" : "22-05-2024",
+            "Description": [
+                "Edition de la consigne en Android et Web",
+                "Taille de la zone lorsque les consignes catalogues sont grande"
+            ]
+        },
+        {
+            "Date" : "15-05-2024",
+            "Description": [
+                "Gestion de la suppression de la proposition mise en évidence"
+            ]
+        },
+        {
+            "Date" : "13-05-2024",
+            "Description": [
+                "Texte du bouton save/create pour la création/modification d'une proposition",
+                "Regression double clic pour jouer la musique",
+                "Capacité à éditer la consigne directement dans la zone de consigne"
+            ]
+        },
         {
             "Date" : "12-05-2024",
             "Description": [
