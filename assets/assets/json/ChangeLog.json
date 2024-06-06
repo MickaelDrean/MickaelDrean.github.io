@@ -1,6 +1,13 @@
 {
-    "Version_date": "05-06-2024 16h15",
+    "Version_date": "06-06-2024 11h05",
     "ChangeLog": [
+        {
+            "Date" : "06-06-2024",
+            "Description": [
+                "Recherche sur plusieurs mots à la manière de iTunes",
+                "Alignements des colonnes dans les tables musiques et exercices"
+            ]
+        },
         {
             "Date" : "05-06-2024",
             "Description": [
