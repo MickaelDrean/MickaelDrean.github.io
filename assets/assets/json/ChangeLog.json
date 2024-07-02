@@ -1,6 +1,71 @@
 {
-    "Version_date": "06-06-2024 22h",
+    "Version_date": "02-07-2024 21h",
     "ChangeLog": [
+        {
+            "Date" : "02-07-2024",
+            "Description": [
+                "Reprise layout global",
+                "Correction : le waiting widget visible quand pas de propositions",
+                "Reprise du workflow github"
+            ]
+        },
+        {
+            "Date" : "23-06-2024",
+            "Description": [
+                "Ajout system de log pour obtenir l'heure en face de chaque trace",
+                "Correction performance chargement audio/json audio"
+            ]
+        },
+        {
+            "Date" : "18-06-2024",
+            "Description": [
+                "Reprise du code pour la maximisation au démarrage de l'application"
+            ]
+        },
+        {
+            "Date" : "17-06-2024",
+            "Description": [
+                "Déplacement à gauche du bouton play dans le lecteur audio, compression et ajustements hauteur",
+                "Correction BPM"
+            ]
+        },
+        {
+            "Date" : "14-06-2024",
+            "Description": [
+                "Modification séance - réglages interface - sauvegarde thème - bug saisie date",
+                "Mode animation - suppression démos - couleurs icône déplacement + tooltip"
+            ]
+        },
+        {
+            "Date" : "10-06-2024",
+            "Description": [
+                "Dialog music - Slider toujours visible",
+                "Dialog music - restauration BPM pour musiques précédentes et suivantes",
+                "Compression graphique du player audio et des listes de propositions",
+                "Démarrage de l'application en taille maximum"
+            ]
+        },
+        {
+            "Date" : "09-06-2024",
+            "Description": [
+                "Dialog music - Slider de progression de la musique"
+            ]
+        },
+        {
+            "Date" : "08-06-2024",
+            "Description": [
+                "Dialog music - suppression BPM central",
+                "Dialog music - ajustement pour overflow pixel"
+            ]
+        },
+        {
+            "Date" : "07-06-2024",
+            "Description": [
+                "Affichage BPM au centre",
+                "Mise à jour du titre de la musique au centre lors du changement de musique",
+                "Ne pas afficher le slider si pas de musique jouée"
+            ]
+        },
         {
             "Date" : "06-06-2024",
             "Description": [
