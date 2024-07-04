@@ -1,6 +1,12 @@
 {
-    "Version_date": "02-07-2024 21h",
+    "Version_date": "04-07-2024 21h",
     "ChangeLog": [
+        {
+            "Date" : "04-07-2024",
+            "Description": [
+                "Correction double audio"
+            ]
+        },
         {
             "Date" : "02-07-2024",
             "Description": [
