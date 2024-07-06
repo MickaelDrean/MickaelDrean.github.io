@@ -1,6 +1,13 @@
 {
-    "Version_date": "04-07-2024 21h",
+    "Version_date": "06-07-2024 17h30",
     "ChangeLog": [
+        {
+            "Date" : "06-07-2024",
+            "Description": [
+                "Capacité à compresser les list tiles utilisées pour les propositions",
+                "Ajoute de la permière version de la page séance dans le code (non ajouté dans l'appli pour l'instant)"
+            ]
+        },
         {
             "Date" : "04-07-2024",
             "Description": [
