@@ -1,10 +1,11 @@
 {
-    "Version_date": "08-07-2024 18h30",
+    "Version_date": "08-07-2024 18h45",
     "ChangeLog": [
         {
             "Date" : "08-07-2024",
             "Description": [
-                "Ajout de la page séance"
+                "Ajout de la page séance",
+                "Correction du pb de page blanche en web"
             ]
         },
         {
