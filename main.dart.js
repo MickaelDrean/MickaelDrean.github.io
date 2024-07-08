@@ -124041,7 +124041,7 @@ else q=s.f?A.b3p(new A.aAH(s),p.gt(q),B.P,!1):A.b3q(new A.aAI(s),p.gt(q),B.P,new
 return q},
 a5z(a,b){var s,r,q,p,o,n,m=this,l=null,k=m.e,j=k!=null?A.lo(k,new A.aAL(b)):l,i=j!=null&&J.ai(j,"selected")
 A.bg("isSelected : "+A.i(i))
-s=m.abg(a,b)
+s=m.f?l:m.abg(a,b)
 r=t.p
 q=A.bo(A.a([A.ac(b.a,1,l,l,l,B.akR,l,l,l)],r),B.n,B.q,B.V,l)
 p=b.e
