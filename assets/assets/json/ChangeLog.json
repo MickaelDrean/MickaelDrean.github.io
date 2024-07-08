@@ -1,6 +1,12 @@
 {
-    "Version_date": "06-07-2024 17h30",
+    "Version_date": "08-07-2024 18h30",
     "ChangeLog": [
+        {
+            "Date" : "08-07-2024",
+            "Description": [
+                "Ajout de la page séance"
+            ]
+        },
         {
             "Date" : "06-07-2024",
             "Description": [
