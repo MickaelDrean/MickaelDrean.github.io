@@ -1,11 +1,12 @@
 {
-    "Version_date": "11-07-2024 18h45",
+    "Version_date": "11-07-2024 21h20",
     "ChangeLog": [
         {
             "Date" : "11-07-2024",
             "Description": [
                 "Reprise par la page 'Séance",
-                "Code quality : remove all unused import"
+                "Code quality : remove all unused import",
+                "Code quality : print replaced with VivenciLogger & somme immutable issues"
             ]
         },
         {
