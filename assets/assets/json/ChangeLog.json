@@ -1,6 +1,13 @@
 {
-    "Version_date": "08-07-2024 18h45",
+    "Version_date": "11-07-2024 18h45",
     "ChangeLog": [
+        {
+            "Date" : "11-07-2024",
+            "Description": [
+                "Reprise par la page 'Séance",
+                "Code quality : remove all unused import"
+            ]
+        },
         {
             "Date" : "08-07-2024",
             "Description": [
