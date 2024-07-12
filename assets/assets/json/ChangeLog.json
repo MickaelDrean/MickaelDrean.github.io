@@ -1,10 +1,11 @@
 {
-    "Version_date": "12-07-2024 17h50",
+    "Version_date": "12-07-2024 19h30",
     "ChangeLog": [
         {
             "Date" : "12-07-2024",
             "Description": [
-                "Mise en place des pages de transitions"
+                "Mise en place des pages de transitions",
+                "Page catalogue - base"
             ]
         },
         {
