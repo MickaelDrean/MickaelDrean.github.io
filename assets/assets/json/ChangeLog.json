@@ -1,6 +1,12 @@
 {
-    "Version_date": "12-07-2024 19h30",
-    "ChangeLog": [
+    "Version_date": "13-07-2024 20h15",
+    "ChangeLog": [ {
+        "Date" : "13-07-2024",
+        "Description": [
+            "Ajustement padding entre fleche de l'expensible et la slide bar",
+            "Fonction duplication d'une séance"
+        ]
+    },
         {
             "Date" : "12-07-2024",
             "Description": [
