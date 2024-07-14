@@ -1,11 +1,12 @@
 {
-    "Version_date": "14-07-2024 21h45",
+    "Version_date": "14-07-2024 23h",
     "ChangeLog": [
         {
             "Date" : "14-07-2024",
             "Description": [
                 "Modifications page catalogue",
-                "Page Catalogue - premier niveau de filtrage"
+                "Page Catalogue - premier niveau de filtrage",
+                "Ajout de la capacité à jouer les musiques"
             ]
         },
         {
