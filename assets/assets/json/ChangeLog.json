@@ -1,6 +1,12 @@
 {
-    "Version_date": "14-07-2024 23h",
+    "Version_date": "15-07-2024 10h30",
     "ChangeLog": [
+        {
+            "Date" : "15-07-2024",
+            "Description": [
+                "Affichage de toutes les catégories de description d'un exercice"
+            ]
+        },
         {
             "Date" : "14-07-2024",
             "Description": [
