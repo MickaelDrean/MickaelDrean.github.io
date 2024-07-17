@@ -1,6 +1,12 @@
 {
-    "Version_date": "15-07-2024 10h30",
+    "Version_date": "17-07-2024 12h",
     "ChangeLog": [
+        {
+            "Date" : "17-07-2024",
+            "Description": [
+                "Switch editor <-> player"
+            ]
+        },
         {
             "Date" : "15-07-2024",
             "Description": [
