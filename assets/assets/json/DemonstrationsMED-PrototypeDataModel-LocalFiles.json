@@ -1,0 +1,483 @@
+{
+"DemonstrationsCatalogues": [
+    {
+        "Name": "Vidéos démonstrations Ecole Méditerranée",
+        "Author": "Guy BELANGER",
+        "BuyLink": "https://www.biodanza-med.com/dvd",
+        "Creation_date": "01/01/2015",
+        "Last_update_date": "01/01/2015",
+        "Videos": [
+            {
+                "Exercise": "DANSE DE CONTACT MINIMUM (aussi nommée \"Danse de contact sensible\")",
+                "VideoFile": "/Users/Thierry/Video/BDZMED/DVD4/DVD4_Exo11.mp4",
+                "Copyright": "©Guy Bélanger 2015"
+            },
+            {
+                "Exercise": "DANSE DE TRANSPORT COEUR A COEUR",
+                "VideoFile": "/Users/Thierry/Video/BDZMED/DVD1/DVD1_Exo01.mp4",
+                "Copyright": "©Guy Bélanger 2015"
+            },
+            {
+                "Exercise": "DONNER ET RECEVOIR DU CONTENANT A DEUX (appelé aussi \"Bercer dans le giron\" ou encore \"Bercer l'autre\")",
+                "VideoFile": "/Users/Thierry/Video/BDZMED/DVD3/DVD3_Exo01.mp4",
+                "Copyright": "©Guy Bélanger 2015"
+            },
+            {
+                "Exercise": "PROTECTION AFFECTIVE AVEC CARESSES DES BRAS ET DE LA POITRINE",
+                "VideoFile": "/Users/Thierry/Video/BDZMED/DVD4/DVD4_Exo10.mp4",
+                "Copyright": "©Guy Bélanger 2015"
+            },
+            {
+                "Exercise": "DANSE YANG",
+                "VideoFile": "/Users/Thierry/Video/BDZMED/DVD4/DVD4_Exo01.mp4",
+                "Copyright": "©Guy Bélanger 2015"
+            },
+            {
+                "Exercise": "DANSE YIN",
+                "VideoFile": "/Users/Thierry/Video/BDZMED/DVD4/DVD4_Exo20.mp4",
+                "Copyright": "©Guy Bélanger 2015"
+            },
+            {
+                "Exercise": "DANSE YIN-YANG (aussi Danse d'Intégration Yin-Yang)",
+                "VideoFile": "/Users/Thierry/Video/BDZMED/DVD1/DVD1_Exo02.mp4",
+                "Copyright": "©Guy Bélanger 2015"
+            },
+            {
+                "Exercise": "DANSE DE BRAHMÂ",
+                "VideoFile": "/Users/Thierry/Video/BDZMED/DVD1/DVD1_Exo07.mp4",
+                "Copyright": "©Guy Bélanger 2015"
+            },
+            {
+                "Exercise": "DANSE DE LA CONSERVATION ET LE MYTHE DE VISHNU",
+                "VideoFile": "/Users/Thierry/Video/BDZMED/DVD1/DVD1_Exo08.mp4",
+                "Copyright": "©Guy Bélanger 2015"
+            },
+            {
+                "Exercise": "DANSE DES TRANSFORMATIONS ET LE MYTHE DE SHIVA",
+                "VideoFile": "/Users/Thierry/Video/BDZMED/DVD2/DVD2_Exo02.mp4",
+                "Copyright": "©Guy Bélanger 2015"
+            },
+            {
+                "Exercise": "DANSE DE L'HIPPOPOTAME",
+                "VideoFile": "/Users/Thierry/Video/BDZMED/DVD1/DVD1_Exo03.mp4",
+                "Copyright": "©Guy Bélanger 2015"
+            },
+            {
+                "Exercise": "DANSE DU HERON (aussi nommée Danse de la Grue)",
+                "VideoFile": "/Users/Thierry/Video/BDZMED/DVD1/DVD1_Exo04.mp4",
+                "Copyright": "©Guy Bélanger 2015"
+            },
+            {
+                "Exercise": "DANSE DU SERPENT",
+                "VideoFile": "/Users/Thierry/Video/BDZMED/DVD2/DVD2_Exo04.mp4",
+                "Copyright": "©Guy Bélanger 2015"
+            },
+            {
+                "Exercise": "DANSE DU TIGRE",
+                "VideoFile": "/Users/Thierry/Video/BDZMED/DVD3/DVD3_Exo02.mp4",
+                "Copyright": "©Guy Bélanger 2015"
+            },
+            {
+                "Exercise": "DANSE DE L'AMITIE",
+                "VideoFile": "/Users/Thierry/Video/BDZMED/DVD3/DVD3_Exo04.mp4",
+                "Copyright": "©Guy Bélanger 2015"
+            },
+            {
+                "Exercise": "DANSE DE LA CREATION",
+                "VideoFile": "/Users/Thierry/Video/BDZMED/DVD3/DVD3_Exo03.mp4",
+                "Copyright": "©Guy Bélanger 2015"
+            },
+            {
+                "Exercise": "DANSE DE LA SEMENCE",
+                "VideoFile": "/Users/Thierry/Video/BDZMED/DVD3/DVD3_Exo07.mp4",
+                "Copyright": "©Guy Bélanger 2015"
+            },
+            {
+                "Exercise": "DONNER ET RECEVOIR LA FLEUR",
+                "VideoFile": "/Users/Thierry/Video/BDZMED/DVD2/DVD2_Exo05.mp4",
+                "Copyright": "©Guy Bélanger 2015"
+            },
+            {
+                "Exercise": "ECLORE A LA VIE (Eclosion Epanouissement)",
+                "VideoFile": "/Users/Thierry/Video/BDZMED/DVD3/DVD3_Exo08.mp4",
+                "Copyright": "©Guy Bélanger 2015"
+            },
+            {
+                "Exercise": "CONNEXION A LA PROPRE FORCE",
+                "VideoFile": "/Users/Thierry/Video/BDZMED/DVD1/DVD1_Exo11.mp4",
+                "Copyright": "©Guy Bélanger 2015"
+            },
+            {
+                "Exercise": "DANSE DE FEU",
+                "VideoFile": "/Users/Thierry/Video/BDZMED/DVD1/DVD1_Exo19.mp4",
+                "Copyright": "©Guy Bélanger 2015"
+            },
+            {
+                "Exercise": "DANSE DE L'AIR",
+                "VideoFile": "/Users/Thierry/Video/BDZMED/DVD3/DVD3_Exo09.mp4",
+                "Copyright": "©Guy Bélanger 2015"
+            },
+            {
+                "Exercise": "DANSE DE L'EAU",
+                "VideoFile": "/Users/Thierry/Video/BDZMED/DVD1/DVD1_Exo15.mp4",
+                "Copyright": "©Guy Bélanger 2015"
+            },
+            {
+                "Exercise": "DANSE DE TERRE",
+                "VideoFile": "/Users/Thierry/Video/BDZMED/DVD3/DVD3_Exo10.mp4",
+                "Copyright": "©Guy Bélanger 2015"
+            },
+            {
+                "Exercise": "DANSE DE TERRE ET AIR",
+                "VideoFile": "/Users/Thierry/Video/BDZMED/DVD3/DVD3_Exo11.mp4",
+                "Copyright": "©Guy Bélanger 2015"
+            },
+            {
+                "Exercise": "DANSE D'OPPOSITION HARMONIQUE",
+                "VideoFile": "/Users/Thierry/Video/BDZMED/DVD2/DVD2_Exo07.mp4",
+                "Copyright": "©Guy Bélanger 2015"
+            },
+            {
+                "Exercise": "EUTONIE DE TOUT LE CORPS",
+                "VideoFile": "/Users/Thierry/Video/BDZMED/DVD1/DVD1_Exo18.mp4",
+                "Copyright": "©Guy Bélanger 2015"
+            },
+            {
+                "Exercise": "EUTONIE DES MAINS",
+                "VideoFile": "/Users/Thierry/Video/BDZMED/DVD1/DVD1_Exo10.mp4",
+                "Copyright": "©Guy Bélanger 2015"
+            },
+            {
+                "Exercise": "EUTONIE DES PIEDS",
+                "VideoFile": "/Users/Thierry/Video/BDZMED/DVD1/DVD1_Exo16.mp4",
+                "Copyright": "©Guy Bélanger 2015"
+            },
+            {
+                "Exercise": "EUTONIE EN GROUPE DE TROIS",
+                "VideoFile": "/Users/Thierry/Video/BDZMED/DVD1/DVD1_Exo17.mp4",
+                "Copyright": "©Guy Bélanger 2015"
+            },
+            {
+                "Exercise": "SYNTONIE SILENCIEUSE",
+                "VideoFile": "/Users/Thierry/Video/BDZMED/DVD3/DVD3_Exo12.mp4",
+                "Copyright": "©Guy Bélanger 2015"
+            },
+            {
+                "Exercise": "LIBERATION DU MOUVEMENT",
+                "VideoFile": "/Users/Thierry/Video/BDZMED/DVD1/DVD1_Exo14.mp4",
+                "Copyright": "©Guy Bélanger 2015"
+            },
+            {
+                "Exercise": "DANSE D'EXTENSION HARMONIQUE",
+                "VideoFile": "/Users/Thierry/Video/BDZMED/DVD3/DVD3_Exo13.mp4",
+                "Copyright": "©Guy Bélanger 2015"
+            },
+            {
+                "Exercise": "DANSE D'EXTENSION MAXIMALE",
+                "VideoFile": "/Users/Thierry/Video/BDZMED/DVD3/DVD3_Exo14.mp4",
+                "Copyright": "©Guy Bélanger 2015"
+            },
+            {
+                "Exercise": "ELASTICITE INTEGRATIVE",
+                "VideoFile": "/Users/Thierry/Video/BDZMED/DVD1/DVD1_Exo13.mp4",
+                "Copyright": "©Guy Bélanger 2015"
+            },
+            {
+                "Exercise": "COORDINATION RYTHMIQUE A DEUX (appelée aussi marcher à deux)",
+                "VideoFile": "/Users/Thierry/Video/BDZMED/DVD1/DVD1_Exo20.mp4",
+                "Copyright": "©Guy Bélanger 2015"
+            },
+            {
+                "Exercise": "SYNCHRONISATION MELODIQUE A DEUX",
+                "VideoFile": "/Users/Thierry/Video/BDZMED/DVD1/DVD1_Exo21.mp4",
+                "Copyright": "©Guy Bélanger 2015"
+            },
+            {
+                "Exercise": "DANSE DE FLUIDITE A DEUX",
+                "VideoFile": "/Users/Thierry/Video/BDZMED/DVD1/DVD1_Exo12.mp4",
+                "Copyright": "©Guy Bélanger 2015"
+            },
+            {
+                "Exercise": "DANSE DE FLUIDITE AVEC IMAGES",
+                "VideoFile": "/Users/Thierry/Video/BDZMED/DVD4/DVD4_Exo07.mp4",
+                "Copyright": "©Guy Bélanger 2015"
+            },
+            {
+                "Exercise": "DANSE LIBRE DE FLUIDITE",
+                "VideoFile": "/Users/Thierry/Video/BDZMED/DVD1/DVD1_Exo05.mp4",
+                "Copyright": "©Guy Bélanger 2015"
+            },
+            {
+                "Exercise": "FLUIDITE : SERIE I",
+                "VideoFile": "/Users/Thierry/Video/BDZMED/DVD4/DVD4_Exo14.mp4",
+                "Copyright": "©Guy Bélanger 2015"
+            },
+            {
+                "Exercise": "FLUIDITE : SERIE II",
+                "VideoFile": "/Users/Thierry/Video/BDZMED/DVD4/DVD4_Exo05.mp4",
+                "Copyright": "©Guy Bélanger 2015"
+            },
+            {
+                "Exercise": "FLUIDITE : SERIE III",
+                "VideoFile": "/Users/Thierry/Video/BDZMED/DVD2/DVD2_Exo08.mp4",
+                "Copyright": "©Guy Bélanger 2015"
+            },
+            {
+                "Exercise": "INTEGRATION CENESTHESIQUE DES TROIS CENTRES",
+                "VideoFile": "/Users/Thierry/Video/BDZMED/DVD2/DVD2_Exo09.mp4",
+                "Copyright": "©Guy Bélanger 2015"
+            },
+            {
+                "Exercise": "INTEGRATION MOTRICE DES TROIS CENTRES",
+                "VideoFile": "/Users/Thierry/Video/BDZMED/DVD2/DVD2_Exo01.mp4",
+                "Copyright": "©Guy Bélanger 2015"
+            },
+            {
+                "Exercise": "DANSE RYTHMIQUE",
+                "VideoFile": "/Users/Thierry/Video/BDZMED/DVD1/DVD1_Exo22.mp4",
+                "Copyright": "©Guy Bélanger 2015"
+            },
+            {
+                "Exercise": "DANSE RYTHMIQUE AVEC MOUVEMENTS CENTRAUX",
+                "VideoFile": "/Users/Thierry/Video/BDZMED/DVD4/DVD4_Exo17.mp4",
+                "Copyright": "©Guy Bélanger 2015"
+            },
+            {
+                "Exercise": "DANSE RYTHMIQUE AVEC MOUVEMENTS PERIPHERIQUES",
+                "VideoFile": "/Users/Thierry/Video/BDZMED/DVD3/DVD3_Exo18.mp4",
+                "Copyright": "©Guy Bélanger 2015"
+            },
+            {
+                "Exercise": "DANSE RYTHMIQUE EXPRESSIVE",
+                "VideoFile": "/Users/Thierry/Video/BDZMED/DVD3/DVD3_Exo16.mp4",
+                "Copyright": "©Guy Bélanger 2015"
+            },
+            {
+                "Exercise": "DEPLACEMENT AVEC LEGERETE (danse expressive avec légèreté)",
+                "VideoFile": "/Users/Thierry/Video/BDZMED/DVD3/DVD3_Exo17.mp4",
+                "Copyright": "©Guy Bélanger 2015"
+            },
+            {
+                "Exercise": "INTERPRETATION DE LA MELODIE (aussi nommée \"Danse expressive mélodique\")",
+                "VideoFile": "/Users/Thierry/Video/BDZMED/DVD3/DVD3_Exo15.mp4",
+                "Copyright": "©Guy Bélanger 2015"
+            },
+            {
+                "Exercise": "SAUT SYNERGIQUE",
+                "VideoFile": "/Users/Thierry/Video/BDZMED/DVD4/DVD4_Exo18.mp4",
+                "Copyright": "©Guy Bélanger 2015"
+            },
+            {
+                "Exercise": "VARIATIONS RYTHMIQUES",
+                "VideoFile": "/Users/Thierry/Video/BDZMED/DVD4/DVD4_Exo12.mp4",
+                "Copyright": "©Guy Bélanger 2015"
+            },
+            {
+                "Exercise": "JEU DE L'EVENTAIL CHINOIS EN COUPLE",
+                "VideoFile": "/Users/Thierry/Video/BDZMED/DVD4/DVD4_Exo09.mp4",
+                "Copyright": "©Guy Bélanger 2015"
+            },
+            {
+                "Exercise": "MARCHE AVEC DETERMINATION",
+                "VideoFile": "/Users/Thierry/Video/BDZMED/DVD1/DVD1_Exo09.mp4",
+                "Copyright": "©Guy Bélanger 2015"
+            },
+            {
+                "Exercise": "MARCHE AVEC MOTIVATION AFFECTIVE",
+                "VideoFile": "/Users/Thierry/Video/BDZMED/DVD3/DVD3_Exo05.mp4",
+                "Copyright": "©Guy Bélanger 2015"
+            },
+            {
+                "Exercise": "MARCHE EN SYNERGIE (Marche synergique)",
+                "VideoFile": "/Users/Thierry/Video/BDZMED/DVD3/DVD3_Exo06.mp4",
+                "Copyright": "©Guy Bélanger 2015"
+            },
+            {
+                "Exercise": "MARCHE PHYSIOLOGIQUE",
+                "VideoFile": "/Users/Thierry/Video/BDZMED/DVD4/DVD4_Exo22.mp4",
+                "Copyright": "©Guy Bélanger 2015"
+            },
+            {
+                "Exercise": "MARCHER EN EXALTANT LA PROPRE PRESENCE (Appelée aussi \"Illumination de sa propre présence\" ou encore \"Marche avec majesté\")",
+                "VideoFile": "/Users/Thierry/Video/BDZMED/DVD1/DVD1_Exo27.mp4",
+                "Copyright": "©Guy Bélanger 2015"
+            },
+            {
+                "Exercise": "DANSE DE BRAS SENSIBLES",
+                "VideoFile": "/Users/Thierry/Video/BDZMED/DVD4/DVD4_Exo21.mp4",
+                "Copyright": "©Guy Bélanger 2015"
+            },
+            {
+                "Exercise": "MOUVEMENT SEGMENTAIRE BRAS-POITRINE",
+                "VideoFile": "/Users/Thierry/Video/BDZMED/DVD1/DVD1_Exo24.mp4",
+                "Copyright": "©Guy Bélanger 2015"
+            },
+            {
+                "Exercise": "MOUVEMENT SEGMENTAIRE DE LA CEINTURE (nom poétique : le Jonc)",
+                "VideoFile": "/Users/Thierry/Video/BDZMED/DVD1/DVD1_Exo23.mp4",
+                "Copyright": "©Guy Bélanger 2015"
+            },
+            {
+                "Exercise": "MOUVEMENT SEGMENTAIRE DES EPAULES",
+                "VideoFile": "/Users/Thierry/Video/BDZMED/DVD4/DVD4_Exo13.mp4",
+                "Copyright": "©Guy Bélanger 2015"
+            },
+            {
+                "Exercise": "MOUVEMENT SEGMENTAIRE DES HANCHES (aussi appelé \"du bassin\" ou \"du pelvis\")",
+                "VideoFile": "/Users/Thierry/Video/BDZMED/DVD3/DVD3_Exo19.mp4",
+                "Copyright": "©Guy Bélanger 2015"
+            },
+            {
+                "Exercise": "MOUVEMENT SEGMENTAIRE DU COU",
+                "VideoFile": "/Users/Thierry/Video/BDZMED/DVD4/DVD4_Exo02.mp4",
+                "Copyright": "©Guy Bélanger 2015"
+            },
+            {
+                "Exercise": "MOUVEMENT SEGMENTAIRE BRAS/POITRINE A DEUX",
+                "VideoFile": "/Users/Thierry/Video/BDZMED/DVD1/DVD1_Exo25.mp4",
+                "Copyright": "©Guy Bélanger 2015"
+            },
+            {
+                "Exercise": "MOUVEMENT SEGMENTAIRE DES EPAULES A DEUX",
+                "VideoFile": "/Users/Thierry/Video/BDZMED/DVD4/DVD4_Exo08.mp4",
+                "Copyright": "©Guy Bélanger 2015"
+            },
+            {
+                "Exercise": "MOUVEMENT SEGMENTAIRE DU COU A DEUX",
+                "VideoFile": "/Users/Thierry/Video/BDZMED/DVD3/DVD3_Exo21.mp4",
+                "Copyright": "©Guy Bélanger 2015"
+            },
+            {
+                "Exercise": "A LA RENCONTRE DU FRERE",
+                "VideoFile": "/Users/Thierry/Video/BDZMED/DVD4/DVD4_Exo20.mp4",
+                "Copyright": "©Guy Bélanger 2015"
+            },
+            {
+                "Exercise": "AUTODONATION (indiquée seulement pour les femmes)",
+                "VideoFile": "/Users/Thierry/Video/BDZMED/DVD1/DVD1_Exo26.mp4",
+                "Copyright": "©Guy Bélanger 2015"
+            },
+            {
+                "Exercise": "CONNEXION AU PRIMORDIAL",
+                "VideoFile": "/Users/Thierry/Video/BDZMED/DVD1/DVD1_Exo28.mp4",
+                "Copyright": "©Guy Bélanger 2015"
+            },
+            {
+                "Exercise": "CONNEXION AVEC L'INFINI",
+                "VideoFile": "/Users/Thierry/Video/BDZMED/DVD1/DVD1_Exo30.mp4",
+                "Copyright": "©Guy Bélanger 2015"
+            },
+            {
+                "Exercise": "CONNEXION CIEL-TERRE",
+                "VideoFile": "/Users/Thierry/Video/BDZMED/DVD1/DVD1_Exo29.mp4",
+                "Copyright": "©Guy Bélanger 2015"
+            },
+            {
+                "Exercise": "DEMANDER",
+                "VideoFile": "/Users/Thierry/Video/BDZMED/DVD1/DVD1_Exo32.mp4",
+                "Copyright": "©Guy Bélanger 2015"
+            },
+            {
+                "Exercise": "DETERMINATION",
+                "VideoFile": "/Users/Thierry/Video/BDZMED/DVD2/DVD2_Exo10.mp4",
+                "Copyright": "©Guy Bélanger 2015"
+            },
+            {
+                "Exercise": "DONNER – SE DONNER",
+                "VideoFile": "/Users/Thierry/Video/BDZMED/DVD1/DVD1_Exo33.mp4",
+                "Copyright": "©Guy Bélanger 2015"
+            },
+            {
+                "Exercise": "ELEVATION",
+                "VideoFile": "/Users/Thierry/Video/BDZMED/DVD1/DVD1_Exo35.mp4",
+                "Copyright": "©Guy Bélanger 2015"
+            },
+            {
+                "Exercise": "EVOCATION ET LIBERATION DE L'ENERGIE INTERIEURE",
+                "VideoFile": "/Users/Thierry/Video/BDZMED/DVD2/DVD2_Exo11.mp4",
+                "Copyright": "©Guy Bélanger 2015"
+            },
+            {
+                "Exercise": "EXPANSION (L'Homme Etoile)",
+                "VideoFile": "/Users/Thierry/Video/BDZMED/DVD1/DVD1_Exo31.mp4",
+                "Copyright": "©Guy Bélanger 2015"
+            },
+            {
+                "Exercise": "FLOTTER DANS LE LIQUIDE AMNIOTIQUE",
+                "VideoFile": "/Users/Thierry/Video/BDZMED/DVD1/DVD1_Exo34.mp4",
+                "Copyright": "©Guy Bélanger 2015"
+            },
+            {
+                "Exercise": "ILLUMINATION",
+                "VideoFile": "/Users/Thierry/Video/BDZMED/DVD2/DVD2_Exo13.mp4",
+                "Copyright": "©Guy Bélanger 2015"
+            },
+            {
+                "Exercise": "INSPIRATION",
+                "VideoFile": "/Users/Thierry/Video/BDZMED/DVD2/DVD2_Exo14.mp4",
+                "Copyright": "©Guy Bélanger 2015"
+            },
+            {
+                "Exercise": "INTEMPORALITE",
+                "VideoFile": "/Users/Thierry/Video/BDZMED/DVD4/DVD4_Exo04.mp4",
+                "Copyright": "©Guy Bélanger 2015"
+            },
+            {
+                "Exercise": "INTIMITE",
+                "VideoFile": "/Users/Thierry/Video/BDZMED/DVD3/DVD3_Exo21.mp4",
+                "Copyright": "©Guy Bélanger 2015"
+            },
+            {
+                "Exercise": "LE TRAVAIL",
+                "VideoFile": "/Users/Thierry/Video/BDZMED/DVD4/DVD4_Exo06.mp4",
+                "Copyright": "©Guy Bélanger 2015"
+            },
+            {
+                "Exercise": "MAGNETISME",
+                "VideoFile": "/Users/Thierry/Video/BDZMED/DVD4/DVD4_Exo16.mp4",
+                "Copyright": "©Guy Bélanger 2015"
+            },
+            {
+                "Exercise": "PROTEGER LA VIE",
+                "VideoFile": "/Users/Thierry/Video/BDZMED/DVD2/DVD2_Exo15.mp4",
+                "Copyright": "©Guy Bélanger 2015"
+            },
+            {
+                "Exercise": "RECEVOIR",
+                "VideoFile": "/Users/Thierry/Video/BDZMED/DVD2/DVD2_Exo16.mp4",
+                "Copyright": "©Guy Bélanger 2015"
+            },
+            {
+                "Exercise": "RECEVOIR LA GRACE",
+                "VideoFile": "/Users/Thierry/Video/BDZMED/DVD1/DVD1_Exo36.mp4",
+                "Copyright": "©Guy Bélanger 2015"
+            },
+            {
+                "Exercise": "VALEUR (aussi appelée: Protection de la valeur)",
+                "VideoFile": "/Users/Thierry/Video/BDZMED/DVD1/DVD1_Exo37.mp4",
+                "Copyright": "©Guy Bélanger 2015"
+            },
+            {
+                "Exercise": "RADICALISATION DE LA VIVENCIA MUSICALE (médiumnité musicale)",
+                "VideoFile": "/Users/Thierry/Video/BDZMED/DVD2/DVD2_Exo17.mp4",
+                "Copyright": "©Guy Bélanger 2015"
+            },
+            {
+                "Exercise": "REGRESSION A L'ETAT D'ENFANT PAR CARESSES DU VISAGE",
+                "VideoFile": "/Users/Thierry/Video/BDZMED/DVD2/DVD2_Exo19.mp4",
+                "Copyright": "©Guy Bélanger 2015"
+            },
+            {
+                "Exercise": "RESPIRATION ABDOMINALE",
+                "VideoFile": "/Users/Thierry/Video/BDZMED/DVD4/DVD4_Exo03.mp4",
+                "Copyright": "©Guy Bélanger 2015"
+            },
+            {
+                "Exercise": "RESPIRATION DANSANTE",
+                "VideoFile": "/Users/Thierry/Video/BDZMED/DVD1/DVD1_Exo38.mp4",
+                "Copyright": "©Guy Bélanger 2015"
+            }
+        ]
+    }
+]
+}
