@@ -1,6 +1,13 @@
 {
-    "Version_date": "17-07-2024 12h",
+    "Version_date": "20-07-2024 21h30",
     "ChangeLog": [
+        {
+            "Date" : "20-07-2024",
+            "Description": [
+                "Capacité à charger une fichier de conf au démarrage",
+                "Upgrade Model de donnée json d'une séance - ajout nom et version du catalog"
+            ]
+        },
         {
             "Date" : "17-07-2024",
             "Description": [
