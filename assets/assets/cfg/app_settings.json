@@ -1,0 +1,8 @@
+{
+    "cataloguePath": "assets/json/ERTMED-PrototypeDataModel-OnLineFiles.json",
+    "demoCataloguePath": "assets/json/DemonstrationCatalogueMED-230627064605_old.json",
+    "musicPath": "",
+    "online": "true",
+    "appDataDirectory": "",
+    "logFilePath": ""
+  }
