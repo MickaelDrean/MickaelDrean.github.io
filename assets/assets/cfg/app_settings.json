@@ -1,8 +1,14 @@
 {
-    "cataloguePath": "assets/json/ERTMED-PrototypeDataModel-OnLineFiles.json",
+    "cataloguePath": "assets/json/ERTMED-PrototypeDataModel.json",
     "demoCataloguePath": "assets/json/DemonstrationCatalogueMED-230627064605_old.json",
-    "musicPath": "",
-    "online": "true",
     "appDataDirectory": "",
-    "logFilePath": ""
+    "logFilePath": "",
+    "logLevel": "all",
+    "online": false,
+
+    "onlineMusicPath": "https://biodanza-dzv.fr/wp-content/uploads/2023/04/",
+    "onlineDemoPath": "",
+
+    "localMusicPath": "C:/WORK/Save_Site",
+    "localDemoPath": ""
   }
