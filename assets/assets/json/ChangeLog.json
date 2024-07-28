@@ -5,6 +5,7 @@
             "Date": "28-07-2024",
             "Description": [
                 "Refactoring audioplayer - centralisation du player audio .. 1 seule instance pour toute l'application",
+                "Capacité à jouer de l'audio en local",
                 "Refactoring nommage dans les séances json - plusieurs clés changées",
                 "Refactoring class music ( suppression AudioPropal )",
                 "Gestion du chargement de séances sans ref de catalogue ou avec incohérence de catalogue",
