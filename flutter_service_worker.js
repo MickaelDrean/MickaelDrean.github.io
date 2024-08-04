@@ -3,7 +3,7 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 
-const RESOURCES = {"flutter_bootstrap.js": "d31351584874a190cde1495a338a0485",
+const RESOURCES = {"flutter_bootstrap.js": "03e05031849b49ec7c60693a148ab426",
 "assets/assets/danse_icon.png": "86f412b277e052b60e721ba03ddbee13",
 "assets/assets/portugese.png": "43f2ff9e7759db969836d582ddb124d6",
 "assets/assets/english.png": "015a5fdbb9c32f341aac4d2084c462a0",
@@ -45,8 +45,8 @@ const RESOURCES = {"flutter_bootstrap.js": "d31351584874a190cde1495a338a0485",
 "assets/packages/wakelock_plus/assets/no_sleep.js": "7748a45cd593f33280669b29c2c8919a",
 "assets/packages/media_kit/assets/web/hls1.4.10.js": "1e36f4683b03af6692ad2542810f28bc",
 "flutter.js": "383e55f7f3cce5be08fcf1f3881f585c",
-"index.html": "74b58cec5559c817ed1800371e882069",
-"/": "74b58cec5559c817ed1800371e882069",
+"index.html": "121e6b3d7620d22eb70c4de90fa0df56",
+"/": "121e6b3d7620d22eb70c4de90fa0df56",
 "canvaskit/skwasm.worker.js": "bfb704a6c714a75da9ef320991e88b03",
 "canvaskit/skwasm.wasm": "4051bfc27ba29bf420d17aa0c3a98bce",
 "canvaskit/canvaskit.js.symbols": "74a84c23f5ada42fe063514c587968c6",
