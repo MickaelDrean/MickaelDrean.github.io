@@ -113528,12 +113528,11 @@ o=a.c
 n=$.aU().a
 n===$&&A.b()
 n.az(B.n,"onChangeSequence indexConsigne :  "+p+" et indexMusique : "+o,new A.U(Date.now(),0,!1))
-if(p!==-1){q.r=p
-n=p}else{n=q.r
-if(n===-1){q.r=0
-n=0}}if(o!==-1){q.w=o
-q.f[o].d.y=!0}else if(p===0){q.w=0
-q.f[0].d.y=!0}if(!b.d)b.a.$1(new A.IQ(q,n,o))
+if(p!==-1)q.r=p
+else{p=q.r
+if(p===-1){q.r=0
+p=0}}if(o!==-1){q.w=o
+q.f[o].d.y=!0}if(!b.d)b.a.$1(new A.IQ(q,p,o))
 return A.q(null,r)}})
 return A.r($async$PW,r)},
 aF2(a,b){var s,r,q,p,o=$.aU(),n=o.a
@@ -116173,8 +116172,10 @@ $0(){var s=this.a
 s.x.$2(this.b,s.c.b)},
 $S:0}
 A.arT.prototype={
-$0(){var s=this.a
-this.b.a70(s.w.f[s.d].d,new A.U(Date.now(),0,!1),B.r)},
+$0(){var s=this.a,r=s.w
+s=s.d
+this.b.a70(r.f[s].d,new A.U(Date.now(),0,!1),B.r)
+r.w=s},
 $S:0}
 A.arU.prototype={
 $0(){var s=this.a,r=s.w
