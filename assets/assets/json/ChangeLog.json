@@ -1,6 +1,12 @@
 {
-    "Version_date": "28-07-2024 21h30",
+    "Version_date": "23-08-2024 19h",
     "ChangeLog": [
+        {
+            "Date": "23-07-2024",
+            "Description": [
+                "Ajout de l'instruction spécifique dans la page catalogue et dans la table de sélection des musiques"
+            ]
+        },
         {
             "Date": "28-07-2024",
             "Description": [
