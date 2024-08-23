@@ -113711,8 +113711,9 @@ n=a.a
 s=n.f
 r=a.b
 if(!B.b.p(s,r)){q=a.c
-if(q==null)B.b.B(s,r)
-else{p=B.b.fP(s,q)
+if(q==null){B.b.B(s,r)
+n.w=0
+s[0].d.y=!0}else{p=B.b.fP(s,q)
 o.a.az(B.n,"Add sequence at index "+p,new A.U(Date.now(),0,!1))
 B.b.fQ(s,p+1,r)}}if(!b.d)b.a.$1(new A.lw(n,B.akp,r))},
 aFw(a,b){var s,r,q,p=$.aV(),o=p.a
