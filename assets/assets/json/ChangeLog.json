@@ -1,6 +1,16 @@
 {
-    "Version_date": "23-08-2024 19h",
+    "Version_date": "26-08-2024 21h",
     "ChangeLog": [
+        {
+            "Date": "26-08-2024",
+            "Description": [
+                "Sauvegarde des observations",
+                "Correction conf 'online' par défaut",
+                "Upgrade version flutter",
+                "Ajout durée total séance",
+                "Zone de la consigne plus large en édition"
+            ]
+        },
         {
             "Date": "23-07-2024",
             "Description": [
