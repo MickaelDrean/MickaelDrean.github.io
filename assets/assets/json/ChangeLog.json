@@ -1,6 +1,12 @@
 {
-    "Version_date": "26-08-2024 21h",
+    "Version_date": "27-08-2024 14h",
     "ChangeLog": [
+        {
+            "Date": "27-08-2024",
+            "Description": [
+                "Ajustement dev précédents : temps total séance + largeur zone consigne"
+            ]
+        },
         {
             "Date": "26-08-2024",
             "Description": [
