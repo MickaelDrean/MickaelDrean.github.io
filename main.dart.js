@@ -112994,6 +112994,7 @@ afa(a,b,c){var s=this,r=$.aV(),q=s.b
 r=r.a
 r===$&&A.b()
 r.az(B.n,"HomeSoundCloudController - "+q.b,new A.W(Date.now(),0,!1))
+s.c=s.b.d
 q=s.a.b
 r=q.ay
 s.x=new A.aT(r,A.k(r).h("aT<1>")).bV(new A.aqR(s))
