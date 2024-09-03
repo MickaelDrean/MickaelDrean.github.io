@@ -1,6 +1,12 @@
 {
-    "Version_date": "27-08-2024 14h",
+    "Version_date": "03-09-2024 21h",
     "ChangeLog": [
+        {
+            "Date": "03-09-2024",
+            "Description": [
+                "JSON Bulk Import"
+            ]
+        },
         {
             "Date": "27-08-2024",
             "Description": [
