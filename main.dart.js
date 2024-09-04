@@ -29690,12 +29690,12 @@ s.toString
 s=new A.eL(new A.jq(),s)
 s.jH("y")
 return s},
-b1J(a){var s=A.kR(a,A.nj(),null)
+iJ(a){var s=A.kR(a,A.nj(),null)
 s.toString
 s=new A.eL(new A.jq(),s)
 s.jH("yMd")
 return s},
-b1I(a){var s=A.kR(a,A.nj(),null)
+b1J(a){var s=A.kR(a,A.nj(),null)
 s.toString
 s=new A.eL(new A.jq(),s)
 s.jH("yMMMd")
@@ -29705,7 +29705,7 @@ s.toString
 s=new A.eL(new A.jq(),s)
 s.jH("yMMMM")
 return s},
-iJ(a){var s=A.kR(a,A.nj(),null)
+b1I(a){var s=A.kR(a,A.nj(),null)
 s.toString
 s=new A.eL(new A.jq(),s)
 s.jH("yMMMMEEEEd")
@@ -98520,7 +98520,7 @@ gn_(){return"yyyy/MM/dd"},
 FJ(a){return"Last opening : "+A.iJ(this.a).dZ(a)},
 Ed(a){return"Creation date : "+A.iJ(this.a).dZ(a)},
 AJ(a){return"Session date : "+A.iJ(this.a).dZ(a)},
-gIr(){return"validTxt to be set"},
+gIr(){return"Select directory"},
 gtP(){return"Cancel"},
 gyd(){return"Create"},
 gvX(){return"Save"},
@@ -98632,15 +98632,15 @@ EQ(a){return"Unable to identify the catalogue for this session: "+a},
 EO(a){return"The catalogue loaded in the application is different from the one used for the session: "+a},
 EP(a){return"Unexpected error during "+a+" loading."},
 gDS(){return"Clear all error messages"},
-gAG(){return"selectDirectoryDialogTitle to be set"},
-gDH(){return"bulkImportDialogTitle to be set"},
-gDI(){return"bulkImportDialogTxt to be set"}}
+gAG(){return"Select the directory containing the sessions"},
+gDH(){return"Import set of sessions"},
+gDI(){return"Import all sessions in JSON format contained in a directory"}}
 A.R4.prototype={
 gn_(){return"dd/MM/yyyy"},
 FJ(a){return"\xdaltima apertura: "+A.iJ(this.a).dZ(a)},
-Ed(a){return"Fecha de creaci\xf3n: "+A.iJ(this.a).dZ(a)},
-AJ(a){return"Fecha de la sesi\xf3n: "+A.iJ(this.a).dZ(a)},
-gIr(){return"validTxt to be set"},
+Ed(a){return"Fecha creaci\xf3n: "+A.iJ(this.a).dZ(a)},
+AJ(a){return"Fecha sesi\xf3n: "+A.iJ(this.a).dZ(a)},
+gIr(){return"Seleccionar directorio"},
 gtP(){return"Cancelar"},
 gyd(){return"Creer"},
 gvX(){return"Guardar"},
@@ -98752,15 +98752,15 @@ EQ(a){return"No se ha podido identificar el cat\xe1logo de esta sesi\xf3n: "+a},
 EO(a){return"El cat\xe1logo cargado en la aplicaci\xf3n es diferente del utilizado para la sesi\xf3n: "+a},
 EP(a){return"Error inesperado durante la carga de la sesi\xf3n: "+a},
 gDS(){return"Borrar todos los mensajes de error"},
-gAG(){return"selectDirectoryDialogTitle to be set"},
-gDH(){return"bulkImportDialogTitle to be set"},
-gDI(){return"bulkImportDialogTxt to be set"}}
+gAG(){return"Seleccione el directorio que contiene las sesiones"},
+gDH(){return"Importar conjunto de sesiones"},
+gDI(){return"Importar todas las sesiones en formato JSON contenidas en un directorio"}}
 A.R5.prototype={
 gn_(){return"dd/MM/yyyy"},
 FJ(a){return"Derni\xe8re ouverture : "+A.iJ(this.a).dZ(a)},
-Ed(a){return"Date de cr\xe9ation : "+A.iJ(this.a).dZ(a)},
-AJ(a){return"Date de la session : "+A.iJ(this.a).dZ(a)},
-gIr(){return"validTxt to be set"},
+Ed(a){return"Date cr\xe9ation : "+A.iJ(this.a).dZ(a)},
+AJ(a){return"Date session : "+A.iJ(this.a).dZ(a)},
+gIr(){return"S\xe9lectionner r\xe9pertoire"},
 gtP(){return"Annuler"},
 gyd(){return"Cr\xe9er"},
 gvX(){return"Sauvegarder"},
@@ -98872,15 +98872,15 @@ EQ(a){return"Impossible d'identifier le catalogue de cette s\xe9ance : "+a},
 EO(a){return"Le catalogue charg\xe9 dans l'application est diff\xe9rent de celui utilis\xe9 pour la s\xe9ance : "+a},
 EP(a){return"Erreur inatendue durant le chargement de la s\xe9ance : "+a},
 gDS(){return"Effacer tous les messages d'erreur"},
-gAG(){return"selectDirectoryDialogTitle to be set"},
-gDH(){return"bulkImportDialogTitle to be set"},
-gDI(){return"bulkImportDialogTxt to be set"}}
+gAG(){return"S\xe9lectionner le r\xe9pertoire contenant les s\xe9ances"},
+gDH(){return"Importer ensemble de s\xe9ances"},
+gDI(){return"Importer toutes les s\xe9ances au format JSON contenues dans un r\xe9pertoire"}}
 A.R6.prototype={
 gn_(){return"dd/MM/yyyy"},
 FJ(a){return"\xdaltima abertura: "+A.iJ(this.a).dZ(a)},
-Ed(a){return"Data de cria\xe7\xe3o: "+A.iJ(this.a).dZ(a)},
-AJ(a){return"Data da sess\xe3o: "+A.iJ(this.a).dZ(a)},
-gIr(){return"validTxt to be set"},
+Ed(a){return"Data cria\xe7\xe3o: "+A.iJ(this.a).dZ(a)},
+AJ(a){return"Data sess\xe3o: "+A.iJ(this.a).dZ(a)},
+gIr(){return"vSelecionar diret\xf3rio"},
 gtP(){return"Cancelar"},
 gyd(){return"Criar"},
 gvX(){return"Salvar"},
@@ -98992,9 +98992,9 @@ EQ(a){return"N\xe3o foi poss\xedvel identificar o cat\xe1logo para esta sess\xe3
 EO(a){return"O cat\xe1logo carregado na aplica\xe7\xe3o \xe9 diferente do utilizado para a sess\xe3o: "+a},
 EP(a){return"Erro inesperado no carregamento da sess\xe3o: "+a},
 gDS(){return"Limpar todas as mensagens de erro"},
-gAG(){return"selectDirectoryDialogTitle to be set"},
-gDH(){return"bulkImportDialogTitle to be set"},
-gDI(){return"bulkImportDialogTxt to be set"}}
+gAG(){return"Selecione o diret\xf3rio que cont\xe9m as sess\xf5es"},
+gDH(){return"Importar conjunto de sess\xf5es"},
+gDI(){return"Importar todas as sess\xf5es em formato JSON contidas num diret\xf3rio"}}
 A.b0x.prototype={
 $2(a,b){return this.a.a(a+b)},
 $S(){return this.a.h("0(0,0)")}}
@@ -104352,22 +104352,22 @@ A.bdt()
 s=this.a
 r=A.pL(s.CF("_"))
 if(A.Uy(r)){q=A.alg(r)
-p=A.b1J(r)
-o=A.b1I(r)
+p=A.iJ(r)
+o=A.b1J(r)
 n=A.alf(r)
-m=A.iJ(r)
+m=A.b1I(r)
 l=A.b1H(r)
 k=A.b1G(r)}else if(A.Uy(s.ge_(0))){q=A.alg(s.ge_(0))
-p=A.b1J(s.ge_(0))
-o=A.b1I(s.ge_(0))
+p=A.iJ(s.ge_(0))
+o=A.b1J(s.ge_(0))
 n=A.alf(s.ge_(0))
-m=A.iJ(s.ge_(0))
+m=A.b1I(s.ge_(0))
 l=A.b1H(s.ge_(0))
 k=A.b1G(s.ge_(0))}else{q=A.alg(h)
-p=A.b1J(h)
-o=A.b1I(h)
+p=A.iJ(h)
+o=A.b1J(h)
 n=A.alf(h)
-m=A.iJ(h)
+m=A.b1I(h)
 l=A.b1H(h)
 k=A.b1G(h)}if(A.b2K(r)){j=A.az0(r)
 i=A.b2J("00",r)}else if(A.b2K(s.ge_(0))){j=A.az0(s.ge_(0))
