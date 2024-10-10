@@ -99919,7 +99919,7 @@ gyP(){return"Pas de musique s\xe9lectionn\xe9e, cliquer ici pour s\xe9lectionner
 grE(){return"Rechercher ..."},
 gGF(){return"Aucun r\xe9sultat trouv\xe9 pour cette recherche"},
 gIf(){return"Trier par exercices s\xe9lectionn\xe9es"},
-gIj(){return"show exercise demo"},
+gIj(){return"Voir la d\xe9monstration de l'exercice"},
 gIg(){return"Trier par nom exercice"},
 gIi(){return"Trier par nom de cat\xe9gorie d'exercice"},
 gIh(){return"Trier par nom de catalogue"},
@@ -118549,7 +118549,7 @@ q.n(0,B.pc,A.R(a,B.f,p).gBu())
 q.n(0,B.pa,A.R(a,B.f,p).gBt())
 if(s.a.c.gu(0)===0)q=A.aa(A.R(a,B.f,p).gGI(),r,r,r,r,r,r,r,r)
 else{q=t.p
-q=A.bp(A.a([new A.aF(B.Sd,A.bf(A.a([new A.ca(15,B.a6,s.a8E(),r),new A.ca(10,B.a6,s.a96(),r),new A.ca(75,B.a6,A.aH(r,r,B.i,r,r,r,r,r,r,r,r,r,r),r)],q),B.n,B.p,B.N,r),r),new A.ca(70,B.a6,A.Gw(new A.aBx(s),J.c8(s.a.c.a),B.O,!1),r)],q),B.aQ,B.p,B.t,B.z)}return q},
+q=A.bp(A.a([new A.aF(B.Sd,A.bf(A.a([new A.ca(16,B.a6,s.a8E(),r),new A.ca(10,B.a6,s.a96(),r),new A.ca(74,B.a6,A.aH(r,r,B.i,r,r,r,r,r,r,r,r,r,r),r)],q),B.n,B.p,B.N,r),r),new A.ca(70,B.a6,A.Gw(new A.aBx(s),J.c8(s.a.c.a),B.O,!1),r)],q),B.aQ,B.p,B.t,B.z)}return q},
 aB7(a,b){var s,r,q,p,o=this,n=null,m=A.kq(o.a.d,new A.aBA(b)),l=m!=null&&J.ad(m,"selected"),k=o.c
 k.toString
 s=t.p
