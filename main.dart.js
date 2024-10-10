@@ -99703,9 +99703,9 @@ gB1(){return"Select the directory containing the sessions"},
 gE9(){return"Import set of sessions"},
 gEa(){return"Import all sessions in JSON format contained in a directory"},
 gBs(){return"Name"},
-gBr(){return"Creation Date"},
-gBu(){return"Session Date"},
-gBt(){return"Recent One"}}
+gBr(){return"Creation date"},
+gBu(){return"Session date"},
+gBt(){return"Last modification date"}}
 A.Rv.prototype={
 gn9(){return"dd/MM/yyyy"},
 G9(a){return"\xdaltima apertura: "+A.iN(this.a).e3(a)},
@@ -99827,10 +99827,10 @@ gEk(){return"Borrar todos los mensajes de error"},
 gB1(){return"Seleccione el directorio que contiene las sesiones"},
 gE9(){return"Importar conjunto de sesiones"},
 gEa(){return"Importar todas las sesiones en formato JSON contenidas en un directorio"},
-gBs(){return"Name"},
-gBr(){return"Creation Date"},
-gBu(){return"Session Date"},
-gBt(){return"Recent"}}
+gBs(){return"Nombre"},
+gBr(){return"Fecha de creaci\xf3n"},
+gBu(){return"Fecha de la sesi\xf3n"},
+gBt(){return"Fecha de \xfaltima modificaci\xf3n"}}
 A.Rw.prototype={
 gn9(){return"dd/MM/yyyy"},
 G9(a){return"Derni\xe8re ouverture : "+A.iN(this.a).e3(a)},
@@ -99952,10 +99952,10 @@ gEk(){return"Effacer tous les messages d'erreur"},
 gB1(){return"S\xe9lectionner le r\xe9pertoire contenant les s\xe9ances"},
 gE9(){return"Importer ensemble de s\xe9ances"},
 gEa(){return"Importer toutes les s\xe9ances au format JSON contenues dans un r\xe9pertoire"},
-gBs(){return"Name"},
-gBr(){return"Creation Date"},
-gBu(){return"Session Date"},
-gBt(){return"Recent One"}}
+gBs(){return"Nom"},
+gBr(){return"Date de cr\xe9ation"},
+gBu(){return"Date de la s\xe9ance"},
+gBt(){return"Date de modification"}}
 A.Rx.prototype={
 gn9(){return"dd/MM/yyyy"},
 G9(a){return"\xdaltima abertura: "+A.iN(this.a).e3(a)},
@@ -100077,10 +100077,10 @@ gEk(){return"Limpar todas as mensagens de erro"},
 gB1(){return"Selecione o diret\xf3rio que cont\xe9m as sess\xf5es"},
 gE9(){return"Importar conjunto de sess\xf5es"},
 gEa(){return"Importar todas as sess\xf5es em formato JSON contidas num diret\xf3rio"},
-gBs(){return"Name"},
-gBr(){return"Creation Date"},
-gBu(){return"Session Date"},
-gBt(){return"Recent"}}
+gBs(){return"Nome"},
+gBr(){return"Data de cria\xe7\xe3o"},
+gBu(){return"Data de sess\xe3o"},
+gBt(){return"Data da \xfaltima modifica\xe7\xe3o"}}
 A.b1u.prototype={
 $2(a,b){return this.a.a(a+b)},
 $S(){return this.a.h("0(0,0)")}}
