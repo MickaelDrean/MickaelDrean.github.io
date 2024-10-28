@@ -1,4 +1,5 @@
 {
+  "forceWebmail": false,
   "cataloguePath": "assets/json/ERTMED-PrototypeDataModel.json",
   "demoCataloguePath": "assets/json/DemonstrationCatalogueMED-230627064605_old.json",
   "appDataDirectory": "",
