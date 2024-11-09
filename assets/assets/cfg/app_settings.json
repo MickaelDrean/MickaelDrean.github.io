@@ -9,5 +9,6 @@
   "onlineMusicPath": "https://biodanza-dzv.fr/wp-content/uploads/2023/04/",
   "onlineDemoPath": "https://biodanza-dzv.fr/wp-content/uploads/2023/04/",
   "localMusicPath": "C:/WORK/Save_Site",
-  "localDemoPath": "C:/WORK/Save_Site"
+  "localDemoPath": "C:/WORK/Save_Site",
+  "disable_maximize_at_startup": false
 }
