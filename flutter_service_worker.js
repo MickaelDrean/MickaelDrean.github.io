@@ -4,7 +4,7 @@ const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 
 const RESOURCES = {"flutter.js": "f393d3c16b631f36852323de8e583132",
-"main.dart.js": "4db95b68c7ddcf77a66724f8a6cac6fd",
+"main.dart.js": "ac8dea32a5b88bbcca6d63900dae9e72",
 "assets/FontManifest.json": "7df10702a8c60a62e6694f43081d46e7",
 "assets/AssetManifest.bin": "ada3a528dd60ce36d84326e2c0dbd677",
 "assets/fonts/MaterialIcons-Regular.otf": "07292696d4d72377a965700e67795976",
@@ -40,7 +40,7 @@ const RESOURCES = {"flutter.js": "f393d3c16b631f36852323de8e583132",
 "assets/assets/portugese.png": "43f2ff9e7759db969836d582ddb124d6",
 "assets/assets/spanish.png": "f54a4d62d5f0b70d478170d636ca6f3d",
 "assets/assets/cfg/app_settings.json": "977a467f3c8c3e641b071c9008f37b1e",
-"assets/assets/cfg/hash.txt": "0e49dca60d47d28175756ad4c2e98ede",
+"assets/assets/cfg/hash.txt": "39ecd6cd35f043ea4ea98226e6129e6f",
 "assets/assets/danse_icon.png": "86f412b277e052b60e721ba03ddbee13",
 "assets/assets/logo.png": "b0842a081da65c324a122a7e1d61deb1",
 "assets/NOTICES": "b37550ece1826d7435471380a50f69db",
@@ -66,7 +66,7 @@ const RESOURCES = {"flutter.js": "f393d3c16b631f36852323de8e583132",
 "icons/Icon-maskable-512.png": "4c760115bd841a602e441ea349fa37e0",
 "favicon.png": "d0239789fe665a20ba5516876aa6dd6d",
 "version.json": "af34a2d7b3f0a6a4c310b49d497b5b9c",
-"flutter_bootstrap.js": "22a557095e8979bf186a6b4be0ef5e21"};
+"flutter_bootstrap.js": "5493e47b67cf74fb936c3407d79d256d"};
 // The application shell files that are downloaded before a service worker can
 // start.
 const CORE = ["main.dart.js",
