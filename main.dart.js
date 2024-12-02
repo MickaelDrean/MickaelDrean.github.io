@@ -118323,7 +118323,7 @@ $1(a){return this.a.a5C(a,this.b)},
 $S:161}
 A.akm.prototype={
 $1(a){var s=this.a.c
-if(s.aD(0,a)){s=s.i(0,a)
+if(s.i(0,a)!=null&&s.aD(0,a)){s=s.i(0,a)
 s.toString
 this.b.c.n(0,a,s)}},
 $S:265}
