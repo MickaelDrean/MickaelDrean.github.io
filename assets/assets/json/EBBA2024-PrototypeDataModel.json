@@ -1,7 +1,7 @@
 {
 "Catalogues": [
   {
-    "Name": "EBBA 2024",
+    "Name": "EBB 2022",
     "Author": "Pierre-Henri DELECOURT et Julie LEBRETON et EBBA",
     "Creation_date": "06/12/2024",
     "Last_update_date": "06/12/2024",
@@ -28741,15 +28741,15 @@
       {
         "Id": "PRP3588",
         "Exercise_id": "BDE 01-01",
-        "Music_id": "EBB2022-1209",
+        "Music_id": "EBB2024-0003",
         "Instruction": [
-          ""
+          "Ajout EBBA"
         ]
       },
       {
         "Id": "PRP3589",
         "Exercise_id": "BDE 01-01",
-        "Music_id": "EBB2022-1212",
+        "Music_id": "EBB2022-1209",
         "Instruction": [
           ""
         ]
@@ -28757,7 +28757,7 @@
       {
         "Id": "PRP3590",
         "Exercise_id": "BDE 01-01",
-        "Music_id": "EBB2022-1215",
+        "Music_id": "EBB2022-1212",
         "Instruction": [
           ""
         ]
@@ -28765,7 +28765,7 @@
       {
         "Id": "PRP3591",
         "Exercise_id": "BDE 01-01",
-        "Music_id": "EBB2022-1227",
+        "Music_id": "EBB2022-1215",
         "Instruction": [
           ""
         ]
@@ -28773,7 +28773,7 @@
       {
         "Id": "PRP3592",
         "Exercise_id": "BDE 01-01",
-        "Music_id": "EBB2022-1236",
+        "Music_id": "EBB2022-1227",
         "Instruction": [
           ""
         ]
@@ -28781,7 +28781,7 @@
       {
         "Id": "PRP3593",
         "Exercise_id": "BDE 01-01",
-        "Music_id": "EBB2022-1271",
+        "Music_id": "EBB2022-1236",
         "Instruction": [
           ""
         ]
@@ -28789,7 +28789,7 @@
       {
         "Id": "PRP3594",
         "Exercise_id": "BDE 01-01",
-        "Music_id": "EBB2022-1272",
+        "Music_id": "EBB2022-1271",
         "Instruction": [
           ""
         ]
@@ -28797,7 +28797,7 @@
       {
         "Id": "PRP3595",
         "Exercise_id": "BDE 01-01",
-        "Music_id": "EBB2022-1290",
+        "Music_id": "EBB2022-1272",
         "Instruction": [
           ""
         ]
@@ -28805,13 +28805,21 @@
       {
         "Id": "PRP3596",
         "Exercise_id": "BDE 01-01",
+        "Music_id": "EBB2022-1290",
+        "Instruction": [
+          ""
+        ]
+      },
+      {
+        "Id": "PRP3597",
+        "Exercise_id": "BDE 01-01",
         "Music_id": "EBB2022-1293",
         "Instruction": [
           "(HLB) Invite à participer avec la voix"
         ]
       },
       {
-        "Id": "PRP3597",
+        "Id": "PRP3598",
         "Exercise_id": "BDE 01-01",
         "Music_id": "EBB2022-1316",
         "Instruction": [
@@ -28819,7 +28827,7 @@
         ]
       },
       {
-        "Id": "PRP3598",
+        "Id": "PRP3599",
         "Exercise_id": "BDE 01-01",
         "Music_id": "EBB2022-1328",
         "Instruction": [
@@ -28827,7 +28835,7 @@
         ]
       },
       {
-        "Id": "PRP3599",
+        "Id": "PRP3600",
         "Exercise_id": "BDE 01-01",
         "Music_id": "EBB2022-2045",
         "Instruction": [
@@ -28835,7 +28843,7 @@
         ]
       },
       {
-        "Id": "PRP3600",
+        "Id": "PRP3601",
         "Exercise_id": "BDE 01-01",
         "Music_id": "EBB2022-1343",
         "Instruction": [
@@ -28843,7 +28851,7 @@
         ]
       },
       {
-        "Id": "PRP3601",
+        "Id": "PRP3602",
         "Exercise_id": "BDE 01-01",
         "Music_id": "EBB2022-1352",
         "Instruction": [
@@ -28851,7 +28859,7 @@
         ]
       },
       {
-        "Id": "PRP3602",
+        "Id": "PRP3603",
         "Exercise_id": "BDE 01-01",
         "Music_id": "EBB2022-1357",
         "Instruction": [
@@ -28859,7 +28867,7 @@
         ]
       },
       {
-        "Id": "PRP3603",
+        "Id": "PRP3604",
         "Exercise_id": "BDE 01-01",
         "Music_id": "EBB2022-2052",
         "Instruction": [
@@ -28867,7 +28875,7 @@
         ]
       },
       {
-        "Id": "PRP3604",
+        "Id": "PRP3605",
         "Exercise_id": "BDE 01-01",
         "Music_id": "EBB2022-1365",
         "Instruction": [
@@ -28875,7 +28883,7 @@
         ]
       },
       {
-        "Id": "PRP3605",
+        "Id": "PRP3606",
         "Exercise_id": "BDE 01-01",
         "Music_id": "EBB2022-1668",
         "Instruction": [
@@ -28883,7 +28891,7 @@
         ]
       },
       {
-        "Id": "PRP3606",
+        "Id": "PRP3607",
         "Exercise_id": "BDE 01-01",
         "Music_id": "EBB2022-1399",
         "Instruction": [
@@ -28891,7 +28899,7 @@
         ]
       },
       {
-        "Id": "PRP3607",
+        "Id": "PRP3608",
         "Exercise_id": "BDE 01-01",
         "Music_id": "EBB2022-1403",
         "Instruction": [
@@ -28899,7 +28907,7 @@
         ]
       },
       {
-        "Id": "PRP3608",
+        "Id": "PRP3609",
         "Exercise_id": "BDE 01-01",
         "Music_id": "EBB2022-1430",
         "Instruction": [
@@ -28907,7 +28915,7 @@
         ]
       },
       {
-        "Id": "PRP3609",
+        "Id": "PRP3610",
         "Exercise_id": "BDE 01-01",
         "Music_id": "EBB2022-1432",
         "Instruction": [
@@ -28915,7 +28923,7 @@
         ]
       },
       {
-        "Id": "PRP3610",
+        "Id": "PRP3611",
         "Exercise_id": "BDE 01-01",
         "Music_id": "EBB2022-1442",
         "Instruction": [
@@ -28923,7 +28931,7 @@
         ]
       },
       {
-        "Id": "PRP3611",
+        "Id": "PRP3612",
         "Exercise_id": "BDE 01-01",
         "Music_id": "EBB2022-1452",
         "Instruction": [
@@ -28931,7 +28939,7 @@
         ]
       },
       {
-        "Id": "PRP3612",
+        "Id": "PRP3613",
         "Exercise_id": "BDE 01-01",
         "Music_id": "EBB2022-1483",
         "Instruction": [
@@ -28939,7 +28947,7 @@
         ]
       },
       {
-        "Id": "PRP3613",
+        "Id": "PRP3614",
         "Exercise_id": "BDE 01-01",
         "Music_id": "EBB2022-1498",
         "Instruction": [
@@ -28947,7 +28955,7 @@
         ]
       },
       {
-        "Id": "PRP3614",
+        "Id": "PRP3615",
         "Exercise_id": "BDE 01-01",
         "Music_id": "EBB2022-1505",
         "Instruction": [
@@ -28955,7 +28963,7 @@
         ]
       },
       {
-        "Id": "PRP3615",
+        "Id": "PRP3616",
         "Exercise_id": "BDE 01-01",
         "Music_id": "EBB2022-1549",
         "Instruction": [
@@ -28963,7 +28971,7 @@
         ]
       },
       {
-        "Id": "PRP3616",
+        "Id": "PRP3617",
         "Exercise_id": "BDE 01-01",
         "Music_id": "EBB2022-1558",
         "Instruction": [
@@ -28971,7 +28979,7 @@
         ]
       },
       {
-        "Id": "PRP3617",
+        "Id": "PRP3618",
         "Exercise_id": "BDE 01-01",
         "Music_id": "EBB2022-1567",
         "Instruction": [
@@ -28979,7 +28987,7 @@
         ]
       },
       {
-        "Id": "PRP3618",
+        "Id": "PRP3619",
         "Exercise_id": "BDE 01-01",
         "Music_id": "EBB2022-1569",
         "Instruction": [
@@ -28987,7 +28995,7 @@
         ]
       },
       {
-        "Id": "PRP3619",
+        "Id": "PRP3620",
         "Exercise_id": "BDE 01-01",
         "Music_id": "EBB2022-1570",
         "Instruction": [
@@ -28995,7 +29003,7 @@
         ]
       },
       {
-        "Id": "PRP3620",
+        "Id": "PRP3621",
         "Exercise_id": "BDE 01-01",
         "Music_id": "EBB2022-1586",
         "Instruction": [
@@ -29003,7 +29011,7 @@
         ]
       },
       {
-        "Id": "PRP3621",
+        "Id": "PRP3622",
         "Exercise_id": "BDE 01-01",
         "Music_id": "EBB2022-1599",
         "Instruction": [
@@ -29011,7 +29019,7 @@
         ]
       },
       {
-        "Id": "PRP3622",
+        "Id": "PRP3623",
         "Exercise_id": "BDE 01-01",
         "Music_id": "EBB2022-1644",
         "Instruction": [
@@ -29019,7 +29027,7 @@
         ]
       },
       {
-        "Id": "PRP3623",
+        "Id": "PRP3624",
         "Exercise_id": "BDE 01-01",
         "Music_id": "EBB2022-1650",
         "Instruction": [
@@ -29027,7 +29035,7 @@
         ]
       },
       {
-        "Id": "PRP3624",
+        "Id": "PRP3625",
         "Exercise_id": "BDE 01-01",
         "Music_id": "EBB2022-1653",
         "Instruction": [
@@ -29035,7 +29043,7 @@
         ]
       },
       {
-        "Id": "PRP3625",
+        "Id": "PRP3626",
         "Exercise_id": "BDE 01-01",
         "Music_id": "EBB2022-1672",
         "Instruction": [
@@ -29043,7 +29051,7 @@
         ]
       },
       {
-        "Id": "PRP3626",
+        "Id": "PRP3627",
         "Exercise_id": "BDE 01-01",
         "Music_id": "EBB2022-1673",
         "Instruction": [
@@ -29051,7 +29059,7 @@
         ]
       },
       {
-        "Id": "PRP3627",
+        "Id": "PRP3628",
         "Exercise_id": "BDE 01-01",
         "Music_id": "EBB2022-2098",
         "Instruction": [
@@ -29059,7 +29067,7 @@
         ]
       },
       {
-        "Id": "PRP3628",
+        "Id": "PRP3629",
         "Exercise_id": "BDE 01-01",
         "Music_id": "EBB2022-2102",
         "Instruction": [
@@ -29067,7 +29075,7 @@
         ]
       },
       {
-        "Id": "PRP3629",
+        "Id": "PRP3630",
         "Exercise_id": "BDE 01-01",
         "Music_id": "EBB2022-1079",
         "Instruction": [
@@ -29075,7 +29083,7 @@
         ]
       },
       {
-        "Id": "PRP3630",
+        "Id": "PRP3631",
         "Exercise_id": "BDE 01-01",
         "Music_id": "EBB2022-1713",
         "Instruction": [
@@ -29083,7 +29091,7 @@
         ]
       },
       {
-        "Id": "PRP3631",
+        "Id": "PRP3632",
         "Exercise_id": "BDE 01-01",
         "Music_id": "EBB2022-1720",
         "Instruction": [
@@ -29091,7 +29099,7 @@
         ]
       },
       {
-        "Id": "PRP3632",
+        "Id": "PRP3633",
         "Exercise_id": "BDE 01-01",
         "Music_id": "EBB2022-1738",
         "Instruction": [
@@ -29099,7 +29107,7 @@
         ]
       },
       {
-        "Id": "PRP3633",
+        "Id": "PRP3634",
         "Exercise_id": "BDE 01-07",
         "Music_id": "EBB2022-1544",
         "Instruction": [
@@ -29107,7 +29115,7 @@
         ]
       },
       {
-        "Id": "PRP3634",
+        "Id": "PRP3635",
         "Exercise_id": "BDE 01-07",
         "Music_id": "EBB2022-1545",
         "Instruction": [
@@ -29115,7 +29123,7 @@
         ]
       },
       {
-        "Id": "PRP3635",
+        "Id": "PRP3636",
         "Exercise_id": "BDE 01-07",
         "Music_id": "EBB2022-0015",
         "Instruction": [
@@ -29123,7 +29131,7 @@
         ]
       },
       {
-        "Id": "PRP3636",
+        "Id": "PRP3637",
         "Exercise_id": "BDE 01-07",
         "Music_id": "EBB2022-1770",
         "Instruction": [
@@ -29131,7 +29139,7 @@
         ]
       },
       {
-        "Id": "PRP3637",
+        "Id": "PRP3638",
         "Exercise_id": "BDE 01-07",
         "Music_id": "EBB2022-0142",
         "Instruction": [
@@ -29139,7 +29147,7 @@
         ]
       },
       {
-        "Id": "PRP3638",
+        "Id": "PRP3639",
         "Exercise_id": "BDE 01-07",
         "Music_id": "EBB2022-0157",
         "Instruction": [
@@ -29147,7 +29155,7 @@
         ]
       },
       {
-        "Id": "PRP3639",
+        "Id": "PRP3640",
         "Exercise_id": "BDE 01-07",
         "Music_id": "EBB2022-1782",
         "Instruction": [
@@ -29155,7 +29163,7 @@
         ]
       },
       {
-        "Id": "PRP3640",
+        "Id": "PRP3641",
         "Exercise_id": "BDE 01-07",
         "Music_id": "EBB2022-1789",
         "Instruction": [
@@ -29163,7 +29171,7 @@
         ]
       },
       {
-        "Id": "PRP3641",
+        "Id": "PRP3642",
         "Exercise_id": "BDE 01-07",
         "Music_id": "EBB2022-0174",
         "Instruction": [
@@ -29171,7 +29179,7 @@
         ]
       },
       {
-        "Id": "PRP3642",
+        "Id": "PRP3643",
         "Exercise_id": "BDE 01-07",
         "Music_id": "EBB2022-1793",
         "Instruction": [
@@ -29179,7 +29187,7 @@
         ]
       },
       {
-        "Id": "PRP3643",
+        "Id": "PRP3644",
         "Exercise_id": "BDE 01-07",
         "Music_id": "EBB2022-0276",
         "Instruction": [
@@ -29187,7 +29195,7 @@
         ]
       },
       {
-        "Id": "PRP3644",
+        "Id": "PRP3645",
         "Exercise_id": "BDE 01-07",
         "Music_id": "EBB2022-1845",
         "Instruction": [
@@ -29195,7 +29203,7 @@
         ]
       },
       {
-        "Id": "PRP3645",
+        "Id": "PRP3646",
         "Exercise_id": "BDE 01-07",
         "Music_id": "EBB2022-0420",
         "Instruction": [
@@ -29203,7 +29211,7 @@
         ]
       },
       {
-        "Id": "PRP3646",
+        "Id": "PRP3647",
         "Exercise_id": "BDE 01-07",
         "Music_id": "EBB2022-0451",
         "Instruction": [
@@ -29211,7 +29219,7 @@
         ]
       },
       {
-        "Id": "PRP3647",
+        "Id": "PRP3648",
         "Exercise_id": "BDE 01-07",
         "Music_id": "EBB2022-1867",
         "Instruction": [
@@ -29219,7 +29227,7 @@
         ]
       },
       {
-        "Id": "PRP3648",
+        "Id": "PRP3649",
         "Exercise_id": "BDE 01-07",
         "Music_id": "EBB2022-0515",
         "Instruction": [
@@ -29227,7 +29235,7 @@
         ]
       },
       {
-        "Id": "PRP3649",
+        "Id": "PRP3650",
         "Exercise_id": "BDE 01-07",
         "Music_id": "EBB2022-0521",
         "Instruction": [
@@ -29235,7 +29243,7 @@
         ]
       },
       {
-        "Id": "PRP3650",
+        "Id": "PRP3651",
         "Exercise_id": "BDE 01-07",
         "Music_id": "EBB2022-0528",
         "Instruction": [
@@ -29243,7 +29251,7 @@
         ]
       },
       {
-        "Id": "PRP3651",
+        "Id": "PRP3652",
         "Exercise_id": "BDE 01-07",
         "Music_id": "EBB2022-1886",
         "Instruction": [
@@ -29251,7 +29259,7 @@
         ]
       },
       {
-        "Id": "PRP3652",
+        "Id": "PRP3653",
         "Exercise_id": "BDE 01-07",
         "Music_id": "EBB2022-1889",
         "Instruction": [
@@ -29259,7 +29267,7 @@
         ]
       },
       {
-        "Id": "PRP3653",
+        "Id": "PRP3654",
         "Exercise_id": "BDE 01-07",
         "Music_id": "EBB2022-0873",
         "Instruction": [
@@ -29267,7 +29275,7 @@
         ]
       },
       {
-        "Id": "PRP3654",
+        "Id": "PRP3655",
         "Exercise_id": "BDE 01-07",
         "Music_id": "EBB2022-1921",
         "Instruction": [
@@ -29275,7 +29283,7 @@
         ]
       },
       {
-        "Id": "PRP3655",
+        "Id": "PRP3656",
         "Exercise_id": "BDE 01-07",
         "Music_id": "EBB2022-0667",
         "Instruction": [
@@ -29283,7 +29291,7 @@
         ]
       },
       {
-        "Id": "PRP3656",
+        "Id": "PRP3657",
         "Exercise_id": "BDE 01-07",
         "Music_id": "EBB2022-1932",
         "Instruction": [
@@ -29291,7 +29299,7 @@
         ]
       },
       {
-        "Id": "PRP3657",
+        "Id": "PRP3658",
         "Exercise_id": "BDE 01-07",
         "Music_id": "EBB2022-0732",
         "Instruction": [
@@ -29299,7 +29307,7 @@
         ]
       },
       {
-        "Id": "PRP3658",
+        "Id": "PRP3659",
         "Exercise_id": "BDE 01-07",
         "Music_id": "EBB2022-0780",
         "Instruction": [
@@ -29307,7 +29315,7 @@
         ]
       },
       {
-        "Id": "PRP3659",
+        "Id": "PRP3660",
         "Exercise_id": "BDE 01-07",
         "Music_id": "EBB2022-0779",
         "Instruction": [
@@ -29315,7 +29323,7 @@
         ]
       },
       {
-        "Id": "PRP3660",
+        "Id": "PRP3661",
         "Exercise_id": "BDE 01-07",
         "Music_id": "EBB2022-0781",
         "Instruction": [
@@ -29323,7 +29331,7 @@
         ]
       },
       {
-        "Id": "PRP3661",
+        "Id": "PRP3662",
         "Exercise_id": "BDE 01-07",
         "Music_id": "EBB2022-0789",
         "Instruction": [
@@ -29331,7 +29339,7 @@
         ]
       },
       {
-        "Id": "PRP3662",
+        "Id": "PRP3663",
         "Exercise_id": "BDE 01-07",
         "Music_id": "EBB2022-0826",
         "Instruction": [
@@ -29339,7 +29347,7 @@
         ]
       },
       {
-        "Id": "PRP3663",
+        "Id": "PRP3664",
         "Exercise_id": "BDE 01-07",
         "Music_id": "EBB2022-0851",
         "Instruction": [
@@ -29347,7 +29355,7 @@
         ]
       },
       {
-        "Id": "PRP3664",
+        "Id": "PRP3665",
         "Exercise_id": "BDE 01-07",
         "Music_id": "EBB2022-0862",
         "Instruction": [
@@ -29356,7 +29364,7 @@
         ]
       },
       {
-        "Id": "PRP3665",
+        "Id": "PRP3666",
         "Exercise_id": "BDE 01-07",
         "Music_id": "EBB2022-0926",
         "Instruction": [
@@ -29364,17 +29372,9 @@
         ]
       },
       {
-        "Id": "PRP3666",
-        "Exercise_id": "BDE 01-07",
-        "Music_id": "EBB2022-0890",
-        "Instruction": [
-          ""
-        ]
-      },
-      {
         "Id": "PRP3667",
         "Exercise_id": "BDE 01-07",
-        "Music_id": "EBB2022-0894",
+        "Music_id": "EBB2022-0890",
         "Instruction": [
           ""
         ]
@@ -29382,7 +29382,7 @@
       {
         "Id": "PRP3668",
         "Exercise_id": "BDE 01-07",
-        "Music_id": "EBB2022-0935",
+        "Music_id": "EBB2022-0894",
         "Instruction": [
           ""
         ]
@@ -29390,7 +29390,7 @@
       {
         "Id": "PRP3669",
         "Exercise_id": "BDE 01-07",
-        "Music_id": "EBB2022-0958",
+        "Music_id": "EBB2022-0935",
         "Instruction": [
           ""
         ]
@@ -29398,7 +29398,7 @@
       {
         "Id": "PRP3670",
         "Exercise_id": "BDE 01-07",
-        "Music_id": "EBB2022-0993",
+        "Music_id": "EBB2022-0958",
         "Instruction": [
           ""
         ]
@@ -29406,7 +29406,7 @@
       {
         "Id": "PRP3671",
         "Exercise_id": "BDE 01-07",
-        "Music_id": "EBB2022-1013",
+        "Music_id": "EBB2022-0993",
         "Instruction": [
           ""
         ]
@@ -29414,7 +29414,7 @@
       {
         "Id": "PRP3672",
         "Exercise_id": "BDE 01-07",
-        "Music_id": "EBB2022-1047",
+        "Music_id": "EBB2022-1013",
         "Instruction": [
           ""
         ]
@@ -29422,7 +29422,7 @@
       {
         "Id": "PRP3673",
         "Exercise_id": "BDE 01-07",
-        "Music_id": "EBB2022-1124",
+        "Music_id": "EBB2022-1047",
         "Instruction": [
           ""
         ]
@@ -29430,7 +29430,7 @@
       {
         "Id": "PRP3674",
         "Exercise_id": "BDE 01-07",
-        "Music_id": "EBB2022-1138",
+        "Music_id": "EBB2022-1124",
         "Instruction": [
           ""
         ]
@@ -29438,7 +29438,7 @@
       {
         "Id": "PRP3675",
         "Exercise_id": "BDE 01-07",
-        "Music_id": "EBB2022-1148",
+        "Music_id": "EBB2022-1138",
         "Instruction": [
           ""
         ]
@@ -29446,7 +29446,7 @@
       {
         "Id": "PRP3676",
         "Exercise_id": "BDE 01-07",
-        "Music_id": "EBB2022-1155",
+        "Music_id": "EBB2022-1148",
         "Instruction": [
           ""
         ]
@@ -29454,7 +29454,7 @@
       {
         "Id": "PRP3677",
         "Exercise_id": "BDE 01-07",
-        "Music_id": "EBB2022-1283",
+        "Music_id": "EBB2022-1155",
         "Instruction": [
           ""
         ]
@@ -29462,13 +29462,21 @@
       {
         "Id": "PRP3678",
         "Exercise_id": "BDE 01-07",
+        "Music_id": "EBB2022-1283",
+        "Instruction": [
+          ""
+        ]
+      },
+      {
+        "Id": "PRP3679",
+        "Exercise_id": "BDE 01-07",
         "Music_id": "EBB2022-1285",
         "Instruction": [
           "(HLB) La musique contient des éléments de terre et d'eau"
         ]
       },
       {
-        "Id": "PRP3679",
+        "Id": "PRP3680",
         "Exercise_id": "BDE 01-07",
         "Music_id": "EBB2022-1587",
         "Instruction": [
@@ -29476,7 +29484,7 @@
         ]
       },
       {
-        "Id": "PRP3680",
+        "Id": "PRP3681",
         "Exercise_id": "BDE 01-07",
         "Music_id": "EBB2022-1436",
         "Instruction": [
@@ -29484,7 +29492,7 @@
         ]
       },
       {
-        "Id": "PRP3681",
+        "Id": "PRP3682",
         "Exercise_id": "BDE 01-07",
         "Music_id": "EBB2022-1492",
         "Instruction": [
@@ -29492,7 +29500,7 @@
         ]
       },
       {
-        "Id": "PRP3682",
+        "Id": "PRP3683",
         "Exercise_id": "BDE 01-07",
         "Music_id": "EBB2022-2001",
         "Instruction": [
@@ -29500,7 +29508,7 @@
         ]
       },
       {
-        "Id": "PRP3683",
+        "Id": "PRP3684",
         "Exercise_id": "BDE 01-07",
         "Music_id": "EBB2022-1676",
         "Instruction": [
@@ -29508,7 +29516,7 @@
         ]
       },
       {
-        "Id": "PRP3684",
+        "Id": "PRP3685",
         "Exercise_id": "BDE 01-12",
         "Music_id": "EBB2022-0011",
         "Instruction": [
@@ -29516,7 +29524,7 @@
         ]
       },
       {
-        "Id": "PRP3685",
+        "Id": "PRP3686",
         "Exercise_id": "BDE 01-12",
         "Music_id": "EBB2022-0091",
         "Instruction": [
@@ -29524,7 +29532,7 @@
         ]
       },
       {
-        "Id": "PRP3686",
+        "Id": "PRP3687",
         "Exercise_id": "BDE 01-12",
         "Music_id": "EBB2022-0100",
         "Instruction": [
@@ -29532,7 +29540,7 @@
         ]
       },
       {
-        "Id": "PRP3687",
+        "Id": "PRP3688",
         "Exercise_id": "BDE 01-12",
         "Music_id": "EBB2022-0624",
         "Instruction": [
@@ -29540,7 +29548,7 @@
         ]
       },
       {
-        "Id": "PRP3688",
+        "Id": "PRP3689",
         "Exercise_id": "BDE 01-12",
         "Music_id": "EBB2022-0111",
         "Instruction": [
@@ -29548,7 +29556,7 @@
         ]
       },
       {
-        "Id": "PRP3689",
+        "Id": "PRP3690",
         "Exercise_id": "BDE 01-12",
         "Music_id": "EBB2022-0112",
         "Instruction": [
@@ -29556,7 +29564,7 @@
         ]
       },
       {
-        "Id": "PRP3690",
+        "Id": "PRP3691",
         "Exercise_id": "BDE 01-12",
         "Music_id": "EBB2022-0990",
         "Instruction": [
@@ -29564,7 +29572,7 @@
         ]
       },
       {
-        "Id": "PRP3691",
+        "Id": "PRP3692",
         "Exercise_id": "BDE 01-12",
         "Music_id": "EBB2022-0196",
         "Instruction": [
@@ -29572,7 +29580,7 @@
         ]
       },
       {
-        "Id": "PRP3692",
+        "Id": "PRP3693",
         "Exercise_id": "BDE 01-12",
         "Music_id": "EBB2022-0359",
         "Instruction": [
@@ -29580,7 +29588,7 @@
         ]
       },
       {
-        "Id": "PRP3693",
+        "Id": "PRP3694",
         "Exercise_id": "BDE 01-12",
         "Music_id": "EBB2022-0553",
         "Instruction": [
@@ -29588,7 +29596,7 @@
         ]
       },
       {
-        "Id": "PRP3694",
+        "Id": "PRP3695",
         "Exercise_id": "BDE 01-12",
         "Music_id": "EBB2022-1900",
         "Instruction": [
@@ -29596,7 +29604,7 @@
         ]
       },
       {
-        "Id": "PRP3695",
+        "Id": "PRP3696",
         "Exercise_id": "BDE 01-12",
         "Music_id": "EBB2022-0586",
         "Instruction": [
@@ -29604,7 +29612,7 @@
         ]
       },
       {
-        "Id": "PRP3696",
+        "Id": "PRP3697",
         "Exercise_id": "BDE 01-12",
         "Music_id": "EBB2022-0593",
         "Instruction": [
@@ -29612,7 +29620,7 @@
         ]
       },
       {
-        "Id": "PRP3697",
+        "Id": "PRP3698",
         "Exercise_id": "BDE 01-12",
         "Music_id": "EBB2022-0596",
         "Instruction": [
@@ -29620,7 +29628,7 @@
         ]
       },
       {
-        "Id": "PRP3698",
+        "Id": "PRP3699",
         "Exercise_id": "BDE 01-12",
         "Music_id": "EBB2022-0597",
         "Instruction": [
@@ -29628,7 +29636,7 @@
         ]
       },
       {
-        "Id": "PRP3699",
+        "Id": "PRP3700",
         "Exercise_id": "BDE 01-12",
         "Music_id": "EBB2022-0607",
         "Instruction": [
@@ -29636,7 +29644,7 @@
         ]
       },
       {
-        "Id": "PRP3700",
+        "Id": "PRP3701",
         "Exercise_id": "BDE 01-12",
         "Music_id": "EBB2022-0608",
         "Instruction": [
@@ -29644,7 +29652,7 @@
         ]
       },
       {
-        "Id": "PRP3701",
+        "Id": "PRP3702",
         "Exercise_id": "BDE 01-12",
         "Music_id": "EBB2022-0610",
         "Instruction": [
@@ -29652,7 +29660,7 @@
         ]
       },
       {
-        "Id": "PRP3702",
+        "Id": "PRP3703",
         "Exercise_id": "BDE 01-12",
         "Music_id": "EBB2022-0609",
         "Instruction": [
@@ -29660,7 +29668,7 @@
         ]
       },
       {
-        "Id": "PRP3703",
+        "Id": "PRP3704",
         "Exercise_id": "BDE 01-12",
         "Music_id": "EBB2022-0412",
         "Instruction": [
@@ -29668,7 +29676,7 @@
         ]
       },
       {
-        "Id": "PRP3704",
+        "Id": "PRP3705",
         "Exercise_id": "BDE 01-12",
         "Music_id": "EBB2022-0621",
         "Instruction": [
@@ -29676,7 +29684,7 @@
         ]
       },
       {
-        "Id": "PRP3705",
+        "Id": "PRP3706",
         "Exercise_id": "BDE 01-12",
         "Music_id": "EBB2022-0622",
         "Instruction": [
@@ -29684,7 +29692,7 @@
         ]
       },
       {
-        "Id": "PRP3706",
+        "Id": "PRP3707",
         "Exercise_id": "BDE 01-12",
         "Music_id": "EBB2022-0638",
         "Instruction": [
@@ -29692,7 +29700,7 @@
         ]
       },
       {
-        "Id": "PRP3707",
+        "Id": "PRP3708",
         "Exercise_id": "BDE 01-12",
         "Music_id": "EBB2022-0668",
         "Instruction": [
@@ -29700,7 +29708,7 @@
         ]
       },
       {
-        "Id": "PRP3708",
+        "Id": "PRP3709",
         "Exercise_id": "BDE 01-12",
         "Music_id": "EBB2022-0575",
         "Instruction": [
@@ -29708,7 +29716,7 @@
         ]
       },
       {
-        "Id": "PRP3709",
+        "Id": "PRP3710",
         "Exercise_id": "BDE 01-12",
         "Music_id": "EBB2022-0698",
         "Instruction": [
@@ -29716,7 +29724,7 @@
         ]
       },
       {
-        "Id": "PRP3710",
+        "Id": "PRP3711",
         "Exercise_id": "BDE 01-12",
         "Music_id": "EBB2022-0706",
         "Instruction": [
@@ -29724,7 +29732,7 @@
         ]
       },
       {
-        "Id": "PRP3711",
+        "Id": "PRP3712",
         "Exercise_id": "BDE 01-12",
         "Music_id": "EBB2022-0720",
         "Instruction": [
@@ -29732,7 +29740,7 @@
         ]
       },
       {
-        "Id": "PRP3712",
+        "Id": "PRP3713",
         "Exercise_id": "BDE 01-12",
         "Music_id": "EBB2022-0738",
         "Instruction": [
@@ -29740,7 +29748,7 @@
         ]
       },
       {
-        "Id": "PRP3713",
+        "Id": "PRP3714",
         "Exercise_id": "BDE 01-12",
         "Music_id": "EBB2022-0784",
         "Instruction": [
@@ -29748,7 +29756,7 @@
         ]
       },
       {
-        "Id": "PRP3714",
+        "Id": "PRP3715",
         "Exercise_id": "BDE 01-12",
         "Music_id": "EBB2022-0791",
         "Instruction": [
@@ -29756,7 +29764,7 @@
         ]
       },
       {
-        "Id": "PRP3715",
+        "Id": "PRP3716",
         "Exercise_id": "BDE 01-12",
         "Music_id": "EBB2022-0796",
         "Instruction": [
@@ -29764,7 +29772,7 @@
         ]
       },
       {
-        "Id": "PRP3716",
+        "Id": "PRP3717",
         "Exercise_id": "BDE 01-12",
         "Music_id": "EBB2022-1640",
         "Instruction": [
@@ -29772,7 +29780,7 @@
         ]
       },
       {
-        "Id": "PRP3717",
+        "Id": "PRP3718",
         "Exercise_id": "BDE 01-12",
         "Music_id": "EBB2022-0799",
         "Instruction": [
@@ -29780,7 +29788,7 @@
         ]
       },
       {
-        "Id": "PRP3718",
+        "Id": "PRP3719",
         "Exercise_id": "BDE 01-12",
         "Music_id": "EBB2022-1479",
         "Instruction": [
@@ -29788,7 +29796,7 @@
         ]
       },
       {
-        "Id": "PRP3719",
+        "Id": "PRP3720",
         "Exercise_id": "BDE 01-12",
         "Music_id": "EBB2022-0832",
         "Instruction": [
@@ -29796,7 +29804,7 @@
         ]
       },
       {
-        "Id": "PRP3720",
+        "Id": "PRP3721",
         "Exercise_id": "BDE 01-12",
         "Music_id": "EBB2022-0865",
         "Instruction": [
@@ -29804,7 +29812,7 @@
         ]
       },
       {
-        "Id": "PRP3721",
+        "Id": "PRP3722",
         "Exercise_id": "BDE 01-12",
         "Music_id": "EBB2022-0975",
         "Instruction": [
@@ -29812,7 +29820,7 @@
         ]
       },
       {
-        "Id": "PRP3722",
+        "Id": "PRP3723",
         "Exercise_id": "BDE 01-12",
         "Music_id": "EBB2022-1022",
         "Instruction": [
@@ -29820,7 +29828,7 @@
         ]
       },
       {
-        "Id": "PRP3723",
+        "Id": "PRP3724",
         "Exercise_id": "BDE 01-12",
         "Music_id": "EBB2022-1221",
         "Instruction": [
@@ -29828,7 +29836,7 @@
         ]
       },
       {
-        "Id": "PRP3724",
+        "Id": "PRP3725",
         "Exercise_id": "BDE 01-12",
         "Music_id": "EBB2022-1115",
         "Instruction": [
@@ -29836,7 +29844,7 @@
         ]
       },
       {
-        "Id": "PRP3725",
+        "Id": "PRP3726",
         "Exercise_id": "BDE 01-12",
         "Music_id": "EBB2022-1152",
         "Instruction": [
@@ -29844,7 +29852,7 @@
         ]
       },
       {
-        "Id": "PRP3726",
+        "Id": "PRP3727",
         "Exercise_id": "BDE 01-12",
         "Music_id": "EBB2022-1156",
         "Instruction": [
@@ -29852,7 +29860,7 @@
         ]
       },
       {
-        "Id": "PRP3727",
+        "Id": "PRP3728",
         "Exercise_id": "BDE 01-12",
         "Music_id": "EBB2022-1187",
         "Instruction": [
@@ -29860,7 +29868,7 @@
         ]
       },
       {
-        "Id": "PRP3728",
+        "Id": "PRP3729",
         "Exercise_id": "BDE 01-12",
         "Music_id": "EBB2022-1234",
         "Instruction": [
@@ -29868,7 +29876,7 @@
         ]
       },
       {
-        "Id": "PRP3729",
+        "Id": "PRP3730",
         "Exercise_id": "BDE 01-12",
         "Music_id": "EBB2022-1293",
         "Instruction": [
@@ -29876,7 +29884,7 @@
         ]
       },
       {
-        "Id": "PRP3730",
+        "Id": "PRP3731",
         "Exercise_id": "BDE 01-12",
         "Music_id": "EBB2022-1612",
         "Instruction": [
@@ -29884,7 +29892,7 @@
         ]
       },
       {
-        "Id": "PRP3731",
+        "Id": "PRP3732",
         "Exercise_id": "BDE 01-12",
         "Music_id": "EBB2022-1483",
         "Instruction": [
@@ -29892,7 +29900,7 @@
         ]
       },
       {
-        "Id": "PRP3732",
+        "Id": "PRP3733",
         "Exercise_id": "BDE 01-12",
         "Music_id": "EBB2022-1502",
         "Instruction": [
@@ -29900,7 +29908,7 @@
         ]
       },
       {
-        "Id": "PRP3733",
+        "Id": "PRP3734",
         "Exercise_id": "BDE 01-12",
         "Music_id": "EBB2022-1549",
         "Instruction": [
@@ -29908,7 +29916,7 @@
         ]
       },
       {
-        "Id": "PRP3734",
+        "Id": "PRP3735",
         "Exercise_id": "BDE 01-12",
         "Music_id": "EBB2022-1568",
         "Instruction": [
@@ -29916,7 +29924,7 @@
         ]
       },
       {
-        "Id": "PRP3735",
+        "Id": "PRP3736",
         "Exercise_id": "BDE 01-12",
         "Music_id": "EBB2022-1572",
         "Instruction": [
@@ -29924,7 +29932,7 @@
         ]
       },
       {
-        "Id": "PRP3736",
+        "Id": "PRP3737",
         "Exercise_id": "BDE 01-12",
         "Music_id": "EBB2022-1599",
         "Instruction": [
@@ -29932,7 +29940,7 @@
         ]
       },
       {
-        "Id": "PRP3737",
+        "Id": "PRP3738",
         "Exercise_id": "BDE 01-12",
         "Music_id": "EBB2022-1613",
         "Instruction": [
@@ -29940,7 +29948,7 @@
         ]
       },
       {
-        "Id": "PRP3738",
+        "Id": "PRP3739",
         "Exercise_id": "BDE 01-12",
         "Music_id": "EBB2022-1614",
         "Instruction": [
@@ -29948,7 +29956,7 @@
         ]
       },
       {
-        "Id": "PRP3739",
+        "Id": "PRP3740",
         "Exercise_id": "BDE 01-12",
         "Music_id": "EBB2022-1636",
         "Instruction": [
@@ -29956,7 +29964,7 @@
         ]
       },
       {
-        "Id": "PRP3740",
+        "Id": "PRP3741",
         "Exercise_id": "BDE 01-12",
         "Music_id": "EBB2022-1647",
         "Instruction": [
@@ -29964,7 +29972,7 @@
         ]
       },
       {
-        "Id": "PRP3741",
+        "Id": "PRP3742",
         "Exercise_id": "BDE 01-12",
         "Music_id": "EBB2022-1670",
         "Instruction": [
@@ -29972,7 +29980,7 @@
         ]
       },
       {
-        "Id": "PRP3742",
+        "Id": "PRP3743",
         "Exercise_id": "BDE 01-12",
         "Music_id": "EBB2022-1665",
         "Instruction": [
@@ -29980,7 +29988,7 @@
         ]
       },
       {
-        "Id": "PRP3743",
+        "Id": "PRP3744",
         "Exercise_id": "BDE 01-12",
         "Music_id": "EBB2022-1678",
         "Instruction": [
@@ -29988,7 +29996,7 @@
         ]
       },
       {
-        "Id": "PRP3744",
+        "Id": "PRP3745",
         "Exercise_id": "BDE 01-12",
         "Music_id": "EBB2022-1712",
         "Instruction": [
@@ -29996,7 +30004,7 @@
         ]
       },
       {
-        "Id": "PRP3745",
+        "Id": "PRP3746",
         "Exercise_id": "BDE 01-12",
         "Music_id": "EBB2022-1728",
         "Instruction": [
@@ -30004,7 +30012,7 @@
         ]
       },
       {
-        "Id": "PRP3746",
+        "Id": "PRP3747",
         "Exercise_id": "BDE 01-12",
         "Music_id": "EBB2022-1741",
         "Instruction": [
@@ -30012,7 +30020,7 @@
         ]
       },
       {
-        "Id": "PRP3747",
+        "Id": "PRP3748",
         "Exercise_id": "BDE 01-30",
         "Music_id": "EBB2022-1285",
         "Instruction": [
@@ -30020,7 +30028,7 @@
         ]
       },
       {
-        "Id": "PRP3748",
+        "Id": "PRP3749",
         "Exercise_id": "BDE 01-09",
         "Music_id": "EBB2022-0134",
         "Instruction": [
@@ -30028,7 +30036,7 @@
         ]
       },
       {
-        "Id": "PRP3749",
+        "Id": "PRP3750",
         "Exercise_id": "BDE 01-09",
         "Music_id": "EBB2022-0138",
         "Instruction": [
@@ -30036,7 +30044,7 @@
         ]
       },
       {
-        "Id": "PRP3750",
+        "Id": "PRP3751",
         "Exercise_id": "BDE 01-09",
         "Music_id": "EBB2022-0142",
         "Instruction": [
@@ -30044,7 +30052,7 @@
         ]
       },
       {
-        "Id": "PRP3751",
+        "Id": "PRP3752",
         "Exercise_id": "BDE 01-09",
         "Music_id": "EBB2022-0173",
         "Instruction": [
@@ -30052,7 +30060,7 @@
         ]
       },
       {
-        "Id": "PRP3752",
+        "Id": "PRP3753",
         "Exercise_id": "BDE 01-09",
         "Music_id": "EBB2022-0211",
         "Instruction": [
@@ -30060,7 +30068,7 @@
         ]
       },
       {
-        "Id": "PRP3753",
+        "Id": "PRP3754",
         "Exercise_id": "BDE 01-09",
         "Music_id": "EBB2022-0250",
         "Instruction": [
@@ -30068,7 +30076,7 @@
         ]
       },
       {
-        "Id": "PRP3754",
+        "Id": "PRP3755",
         "Exercise_id": "BDE 01-09",
         "Music_id": "EBB2022-0504",
         "Instruction": [
@@ -30076,7 +30084,7 @@
         ]
       },
       {
-        "Id": "PRP3755",
+        "Id": "PRP3756",
         "Exercise_id": "BDE 01-09",
         "Music_id": "EBB2022-0627",
         "Instruction": [
@@ -30084,7 +30092,7 @@
         ]
       },
       {
-        "Id": "PRP3756",
+        "Id": "PRP3757",
         "Exercise_id": "BDE 01-09",
         "Music_id": "EBB2022-0663",
         "Instruction": [
@@ -30092,7 +30100,7 @@
         ]
       },
       {
-        "Id": "PRP3757",
+        "Id": "PRP3758",
         "Exercise_id": "BDE 01-09",
         "Music_id": "EBB2022-0704",
         "Instruction": [
@@ -30100,7 +30108,7 @@
         ]
       },
       {
-        "Id": "PRP3758",
+        "Id": "PRP3759",
         "Exercise_id": "BDE 01-09",
         "Music_id": "EBB2022-0734",
         "Instruction": [
@@ -30108,7 +30116,7 @@
         ]
       },
       {
-        "Id": "PRP3759",
+        "Id": "PRP3760",
         "Exercise_id": "BDE 01-09",
         "Music_id": "EBB2022-0781",
         "Instruction": [
@@ -30116,7 +30124,7 @@
         ]
       },
       {
-        "Id": "PRP3760",
+        "Id": "PRP3761",
         "Exercise_id": "BDE 01-09",
         "Music_id": "EBB2022-0890",
         "Instruction": [
@@ -30124,7 +30132,7 @@
         ]
       },
       {
-        "Id": "PRP3761",
+        "Id": "PRP3762",
         "Exercise_id": "BDE 01-09",
         "Music_id": "EBB2022-1013",
         "Instruction": [
@@ -30132,7 +30140,7 @@
         ]
       },
       {
-        "Id": "PRP3762",
+        "Id": "PRP3763",
         "Exercise_id": "BDE 01-09",
         "Music_id": "EBB2022-1042",
         "Instruction": [
@@ -30140,7 +30148,7 @@
         ]
       },
       {
-        "Id": "PRP3763",
+        "Id": "PRP3764",
         "Exercise_id": "BDE 01-09",
         "Music_id": "EBB2022-1047",
         "Instruction": [
@@ -30148,7 +30156,7 @@
         ]
       },
       {
-        "Id": "PRP3764",
+        "Id": "PRP3765",
         "Exercise_id": "BDE 01-09",
         "Music_id": "EBB2022-1076",
         "Instruction": [
@@ -30157,7 +30165,7 @@
         ]
       },
       {
-        "Id": "PRP3765",
+        "Id": "PRP3766",
         "Exercise_id": "BDE 01-09",
         "Music_id": "EBB2022-1112",
         "Instruction": [
@@ -30165,7 +30173,7 @@
         ]
       },
       {
-        "Id": "PRP3766",
+        "Id": "PRP3767",
         "Exercise_id": "BDE 01-09",
         "Music_id": "EBB2022-1127",
         "Instruction": [
@@ -30173,7 +30181,7 @@
         ]
       },
       {
-        "Id": "PRP3767",
+        "Id": "PRP3768",
         "Exercise_id": "BDE 01-09",
         "Music_id": "EBB2022-1151",
         "Instruction": [
@@ -30181,17 +30189,9 @@
         ]
       },
       {
-        "Id": "PRP3768",
-        "Exercise_id": "BDE 01-09",
-        "Music_id": "EBB2022-1346",
-        "Instruction": [
-          ""
-        ]
-      },
-      {
         "Id": "PRP3769",
         "Exercise_id": "BDE 01-09",
-        "Music_id": "EBB2022-1436",
+        "Music_id": "EBB2022-1346",
         "Instruction": [
           ""
         ]
@@ -30199,7 +30199,7 @@
       {
         "Id": "PRP3770",
         "Exercise_id": "BDE 01-09",
-        "Music_id": "EBB2022-1469",
+        "Music_id": "EBB2022-1436",
         "Instruction": [
           ""
         ]
@@ -30207,7 +30207,7 @@
       {
         "Id": "PRP3771",
         "Exercise_id": "BDE 01-09",
-        "Music_id": "EBB2022-1492",
+        "Music_id": "EBB2022-1469",
         "Instruction": [
           ""
         ]
@@ -30215,7 +30215,7 @@
       {
         "Id": "PRP3772",
         "Exercise_id": "BDE 01-09",
-        "Music_id": "EBB2022-2001",
+        "Music_id": "EBB2022-1492",
         "Instruction": [
           ""
         ]
@@ -30223,7 +30223,7 @@
       {
         "Id": "PRP3773",
         "Exercise_id": "BDE 01-09",
-        "Music_id": "EBB2022-1584",
+        "Music_id": "EBB2022-2001",
         "Instruction": [
           ""
         ]
@@ -30231,7 +30231,7 @@
       {
         "Id": "PRP3774",
         "Exercise_id": "BDE 01-09",
-        "Music_id": "EBB2022-1595",
+        "Music_id": "EBB2022-1584",
         "Instruction": [
           ""
         ]
@@ -30239,7 +30239,7 @@
       {
         "Id": "PRP3775",
         "Exercise_id": "BDE 01-09",
-        "Music_id": "EBB2022-1634",
+        "Music_id": "EBB2022-1595",
         "Instruction": [
           ""
         ]
@@ -30247,7 +30247,7 @@
       {
         "Id": "PRP3776",
         "Exercise_id": "BDE 01-09",
-        "Music_id": "EBB2022-1673",
+        "Music_id": "EBB2022-1634",
         "Instruction": [
           ""
         ]
@@ -30255,7 +30255,7 @@
       {
         "Id": "PRP3777",
         "Exercise_id": "BDE 01-09",
-        "Music_id": "EBB2022-1693",
+        "Music_id": "EBB2022-1673",
         "Instruction": [
           ""
         ]
@@ -30263,15 +30263,15 @@
       {
         "Id": "PRP3778",
         "Exercise_id": "BDE 01-09",
-        "Music_id": "EBB2022-1718",
+        "Music_id": "EBB2022-1693",
         "Instruction": [
           ""
         ]
       },
       {
         "Id": "PRP3779",
-        "Exercise_id": "BDE 01-08",
-        "Music_id": "EBB2022-0027",
+        "Exercise_id": "BDE 01-09",
+        "Music_id": "EBB2022-1718",
         "Instruction": [
           ""
         ]
@@ -30279,7 +30279,7 @@
       {
         "Id": "PRP3780",
         "Exercise_id": "BDE 01-08",
-        "Music_id": "EBB2022-0088",
+        "Music_id": "EBB2022-0027",
         "Instruction": [
           ""
         ]
@@ -30287,7 +30287,7 @@
       {
         "Id": "PRP3781",
         "Exercise_id": "BDE 01-08",
-        "Music_id": "EBB2022-0103",
+        "Music_id": "EBB2022-0088",
         "Instruction": [
           ""
         ]
@@ -30295,13 +30295,21 @@
       {
         "Id": "PRP3782",
         "Exercise_id": "BDE 01-08",
+        "Music_id": "EBB2022-0103",
+        "Instruction": [
+          ""
+        ]
+      },
+      {
+        "Id": "PRP3783",
+        "Exercise_id": "BDE 01-08",
         "Music_id": "EBB2022-0134",
         "Instruction": [
           "(HLB) Profonde dans la douceur et dans l'engagement"
         ]
       },
       {
-        "Id": "PRP3783",
+        "Id": "PRP3784",
         "Exercise_id": "BDE 01-08",
         "Music_id": "EBB2022-0135",
         "Instruction": [
@@ -30309,7 +30317,7 @@
         ]
       },
       {
-        "Id": "PRP3784",
+        "Id": "PRP3785",
         "Exercise_id": "BDE 01-08",
         "Music_id": "EBB2022-0221",
         "Instruction": [
@@ -30317,7 +30325,7 @@
         ]
       },
       {
-        "Id": "PRP3785",
+        "Id": "PRP3786",
         "Exercise_id": "BDE 01-08",
         "Music_id": "EBB2022-0222",
         "Instruction": [
@@ -30325,7 +30333,7 @@
         ]
       },
       {
-        "Id": "PRP3786",
+        "Id": "PRP3787",
         "Exercise_id": "BDE 01-08",
         "Music_id": "EBB2022-0224",
         "Instruction": [
@@ -30333,7 +30341,7 @@
         ]
       },
       {
-        "Id": "PRP3787",
+        "Id": "PRP3788",
         "Exercise_id": "BDE 01-08",
         "Music_id": "EBB2022-0341",
         "Instruction": [
@@ -30341,7 +30349,7 @@
         ]
       },
       {
-        "Id": "PRP3788",
+        "Id": "PRP3789",
         "Exercise_id": "BDE 01-08",
         "Music_id": "EBB2022-0360",
         "Instruction": [
@@ -30349,7 +30357,7 @@
         ]
       },
       {
-        "Id": "PRP3789",
+        "Id": "PRP3790",
         "Exercise_id": "BDE 01-08",
         "Music_id": "EBB2022-0436",
         "Instruction": [
@@ -30357,7 +30365,7 @@
         ]
       },
       {
-        "Id": "PRP3790",
+        "Id": "PRP3791",
         "Exercise_id": "BDE 01-08",
         "Music_id": "EBB2022-0517",
         "Instruction": [
@@ -30365,7 +30373,7 @@
         ]
       },
       {
-        "Id": "PRP3791",
+        "Id": "PRP3792",
         "Exercise_id": "BDE 01-08",
         "Music_id": "EBB2022-0587",
         "Instruction": [
@@ -30373,7 +30381,7 @@
         ]
       },
       {
-        "Id": "PRP3792",
+        "Id": "PRP3793",
         "Exercise_id": "BDE 01-08",
         "Music_id": "EBB2022-0598",
         "Instruction": [
@@ -30381,7 +30389,7 @@
         ]
       },
       {
-        "Id": "PRP3793",
+        "Id": "PRP3794",
         "Exercise_id": "BDE 01-08",
         "Music_id": "EBB2022-0674",
         "Instruction": [
@@ -30389,7 +30397,7 @@
         ]
       },
       {
-        "Id": "PRP3794",
+        "Id": "PRP3795",
         "Exercise_id": "BDE 01-08",
         "Music_id": "EBB2022-0701",
         "Instruction": [
@@ -30397,7 +30405,7 @@
         ]
       },
       {
-        "Id": "PRP3795",
+        "Id": "PRP3796",
         "Exercise_id": "BDE 01-08",
         "Music_id": "EBB2022-0745",
         "Instruction": [
@@ -30405,7 +30413,7 @@
         ]
       },
       {
-        "Id": "PRP3796",
+        "Id": "PRP3797",
         "Exercise_id": "BDE 01-08",
         "Music_id": "EBB2022-0767",
         "Instruction": [
@@ -30413,7 +30421,7 @@
         ]
       },
       {
-        "Id": "PRP3797",
+        "Id": "PRP3798",
         "Exercise_id": "BDE 01-08",
         "Music_id": "EBB2022-0872",
         "Instruction": [
@@ -30421,7 +30429,7 @@
         ]
       },
       {
-        "Id": "PRP3798",
+        "Id": "PRP3799",
         "Exercise_id": "BDE 01-08",
         "Music_id": "EBB2022-0876",
         "Instruction": [
@@ -30429,7 +30437,7 @@
         ]
       },
       {
-        "Id": "PRP3799",
+        "Id": "PRP3800",
         "Exercise_id": "BDE 01-08",
         "Music_id": "EBB2022-0943",
         "Instruction": [
@@ -30437,7 +30445,7 @@
         ]
       },
       {
-        "Id": "PRP3800",
+        "Id": "PRP3801",
         "Exercise_id": "BDE 01-08",
         "Music_id": "EBB2022-0984",
         "Instruction": [
@@ -30445,17 +30453,9 @@
         ]
       },
       {
-        "Id": "PRP3801",
-        "Exercise_id": "BDE 01-08",
-        "Music_id": "EBB2022-1014",
-        "Instruction": [
-          ""
-        ]
-      },
-      {
         "Id": "PRP3802",
         "Exercise_id": "BDE 01-08",
-        "Music_id": "EBB2022-1069",
+        "Music_id": "EBB2022-1014",
         "Instruction": [
           ""
         ]
@@ -30463,7 +30463,7 @@
       {
         "Id": "PRP3803",
         "Exercise_id": "BDE 01-08",
-        "Music_id": "EBB2022-1076",
+        "Music_id": "EBB2022-1069",
         "Instruction": [
           ""
         ]
@@ -30471,7 +30471,7 @@
       {
         "Id": "PRP3804",
         "Exercise_id": "BDE 01-08",
-        "Music_id": "EBB2022-1116",
+        "Music_id": "EBB2022-1076",
         "Instruction": [
           ""
         ]
@@ -30479,7 +30479,7 @@
       {
         "Id": "PRP3805",
         "Exercise_id": "BDE 01-08",
-        "Music_id": "EBB2022-1117",
+        "Music_id": "EBB2022-1116",
         "Instruction": [
           ""
         ]
@@ -30487,7 +30487,7 @@
       {
         "Id": "PRP3806",
         "Exercise_id": "BDE 01-08",
-        "Music_id": "EBB2022-1132",
+        "Music_id": "EBB2022-1117",
         "Instruction": [
           ""
         ]
@@ -30495,7 +30495,7 @@
       {
         "Id": "PRP3807",
         "Exercise_id": "BDE 01-08",
-        "Music_id": "EBB2022-1169",
+        "Music_id": "EBB2022-1132",
         "Instruction": [
           ""
         ]
@@ -30503,7 +30503,7 @@
       {
         "Id": "PRP3808",
         "Exercise_id": "BDE 01-08",
-        "Music_id": "EBB2022-1336",
+        "Music_id": "EBB2022-1169",
         "Instruction": [
           ""
         ]
@@ -30511,7 +30511,7 @@
       {
         "Id": "PRP3809",
         "Exercise_id": "BDE 01-08",
-        "Music_id": "EBB2022-1346",
+        "Music_id": "EBB2022-1336",
         "Instruction": [
           ""
         ]
@@ -30519,7 +30519,7 @@
       {
         "Id": "PRP3810",
         "Exercise_id": "BDE 01-08",
-        "Music_id": "EBB2022-1347",
+        "Music_id": "EBB2022-1346",
         "Instruction": [
           ""
         ]
@@ -30527,7 +30527,7 @@
       {
         "Id": "PRP3811",
         "Exercise_id": "BDE 01-08",
-        "Music_id": "EBB2022-1456",
+        "Music_id": "EBB2022-1347",
         "Instruction": [
           ""
         ]
@@ -30535,13 +30535,21 @@
       {
         "Id": "PRP3812",
         "Exercise_id": "BDE 01-08",
+        "Music_id": "EBB2022-1456",
+        "Instruction": [
+          ""
+        ]
+      },
+      {
+        "Id": "PRP3813",
+        "Exercise_id": "BDE 01-08",
         "Music_id": "EBB2022-1496",
         "Instruction": [
           "(HLB) Sensuelle et suavement chaloupée - séduction \"sans effort\""
         ]
       },
       {
-        "Id": "PRP3813",
+        "Id": "PRP3814",
         "Exercise_id": "BDE 01-08",
         "Music_id": "EBB2022-1524",
         "Instruction": [
@@ -30549,7 +30557,7 @@
         ]
       },
       {
-        "Id": "PRP3814",
+        "Id": "PRP3815",
         "Exercise_id": "BDE 01-08",
         "Music_id": "EBB2022-1311",
         "Instruction": [
@@ -30557,7 +30565,7 @@
         ]
       },
       {
-        "Id": "PRP3815",
+        "Id": "PRP3816",
         "Exercise_id": "BDE 01-08",
         "Music_id": "EBB2022-1529",
         "Instruction": [
@@ -30565,7 +30573,7 @@
         ]
       },
       {
-        "Id": "PRP3816",
+        "Id": "PRP3817",
         "Exercise_id": "BDE 01-08",
         "Music_id": "EBB2022-1686",
         "Instruction": [
@@ -30573,7 +30581,7 @@
         ]
       },
       {
-        "Id": "PRP3817",
+        "Id": "PRP3818",
         "Exercise_id": "BDE 01-08",
         "Music_id": "EBB2022-1696",
         "Instruction": [
@@ -30581,7 +30589,7 @@
         ]
       },
       {
-        "Id": "PRP3818",
+        "Id": "PRP3819",
         "Exercise_id": "BDE 01-25",
         "Music_id": "EBB2022-0848",
         "Instruction": [
@@ -30589,7 +30597,7 @@
         ]
       },
       {
-        "Id": "PRP3819",
+        "Id": "PRP3820",
         "Exercise_id": "BDE 01-25",
         "Music_id": "EBB2022-1014",
         "Instruction": [
@@ -30597,7 +30605,7 @@
         ]
       },
       {
-        "Id": "PRP3820",
+        "Id": "PRP3821",
         "Exercise_id": "BDE 01-31",
         "Music_id": "EBB2022-1189",
         "Instruction": [
@@ -30605,7 +30613,7 @@
         ]
       },
       {
-        "Id": "PRP3821",
+        "Id": "PRP3822",
         "Exercise_id": "BDE 01-31",
         "Music_id": "EBB2022-1382",
         "Instruction": [
@@ -30613,7 +30621,7 @@
         ]
       },
       {
-        "Id": "PRP3822",
+        "Id": "PRP3823",
         "Exercise_id": "BDE 01-31",
         "Music_id": "EBB2022-2089",
         "Instruction": [
@@ -30621,7 +30629,7 @@
         ]
       },
       {
-        "Id": "PRP3823",
+        "Id": "PRP3824",
         "Exercise_id": "BDE 01-18",
         "Music_id": "EBB2022-0230",
         "Instruction": [
@@ -30629,7 +30637,7 @@
         ]
       },
       {
-        "Id": "PRP3824",
+        "Id": "PRP3825",
         "Exercise_id": "BDE 01-18",
         "Music_id": "EBB2022-0015",
         "Instruction": [
@@ -30637,7 +30645,7 @@
         ]
       },
       {
-        "Id": "PRP3825",
+        "Id": "PRP3826",
         "Exercise_id": "BDE 01-18",
         "Music_id": "EBB2022-0016",
         "Instruction": [
@@ -30645,7 +30653,7 @@
         ]
       },
       {
-        "Id": "PRP3826",
+        "Id": "PRP3827",
         "Exercise_id": "BDE 01-18",
         "Music_id": "EBB2022-1754",
         "Instruction": [
@@ -30653,7 +30661,7 @@
         ]
       },
       {
-        "Id": "PRP3827",
+        "Id": "PRP3828",
         "Exercise_id": "BDE 01-18",
         "Music_id": "EBB2022-0067",
         "Instruction": [
@@ -30661,7 +30669,7 @@
         ]
       },
       {
-        "Id": "PRP3828",
+        "Id": "PRP3829",
         "Exercise_id": "BDE 01-18",
         "Music_id": "EBB2022-0138",
         "Instruction": [
@@ -30669,7 +30677,7 @@
         ]
       },
       {
-        "Id": "PRP3829",
+        "Id": "PRP3830",
         "Exercise_id": "BDE 01-18",
         "Music_id": "EBB2022-0257",
         "Instruction": [
@@ -30677,7 +30685,7 @@
         ]
       },
       {
-        "Id": "PRP3830",
+        "Id": "PRP3831",
         "Exercise_id": "BDE 01-18",
         "Music_id": "EBB2022-0314",
         "Instruction": [
@@ -30685,7 +30693,7 @@
         ]
       },
       {
-        "Id": "PRP3831",
+        "Id": "PRP3832",
         "Exercise_id": "BDE 01-18",
         "Music_id": "EBB2022-0334",
         "Instruction": [
@@ -30693,7 +30701,7 @@
         ]
       },
       {
-        "Id": "PRP3832",
+        "Id": "PRP3833",
         "Exercise_id": "BDE 01-18",
         "Music_id": "EBB2022-0358",
         "Instruction": [
@@ -30701,7 +30709,7 @@
         ]
       },
       {
-        "Id": "PRP3833",
+        "Id": "PRP3834",
         "Exercise_id": "BDE 01-18",
         "Music_id": "EBB2022-0573",
         "Instruction": [
@@ -30709,7 +30717,7 @@
         ]
       },
       {
-        "Id": "PRP3834",
+        "Id": "PRP3835",
         "Exercise_id": "BDE 01-18",
         "Music_id": "EBB2022-1094",
         "Instruction": [
@@ -30717,7 +30725,7 @@
         ]
       },
       {
-        "Id": "PRP3835",
+        "Id": "PRP3836",
         "Exercise_id": "BDE 01-18",
         "Music_id": "EBB2022-0663",
         "Instruction": [
@@ -30725,17 +30733,9 @@
         ]
       },
       {
-        "Id": "PRP3836",
-        "Exercise_id": "BDE 01-18",
-        "Music_id": "EBB2022-0704",
-        "Instruction": [
-          ""
-        ]
-      },
-      {
         "Id": "PRP3837",
         "Exercise_id": "BDE 01-18",
-        "Music_id": "EBB2022-0720",
+        "Music_id": "EBB2022-0704",
         "Instruction": [
           ""
         ]
@@ -30743,7 +30743,7 @@
       {
         "Id": "PRP3838",
         "Exercise_id": "BDE 01-18",
-        "Music_id": "EBB2022-0861",
+        "Music_id": "EBB2022-0720",
         "Instruction": [
           ""
         ]
@@ -30751,7 +30751,7 @@
       {
         "Id": "PRP3839",
         "Exercise_id": "BDE 01-18",
-        "Music_id": "EBB2022-0881",
+        "Music_id": "EBB2022-0861",
         "Instruction": [
           ""
         ]
@@ -30759,7 +30759,7 @@
       {
         "Id": "PRP3840",
         "Exercise_id": "BDE 01-18",
-        "Music_id": "EBB2022-0900",
+        "Music_id": "EBB2022-0881",
         "Instruction": [
           ""
         ]
@@ -30767,7 +30767,7 @@
       {
         "Id": "PRP3841",
         "Exercise_id": "BDE 01-18",
-        "Music_id": "EBB2022-0911",
+        "Music_id": "EBB2022-0900",
         "Instruction": [
           ""
         ]
@@ -30775,7 +30775,7 @@
       {
         "Id": "PRP3842",
         "Exercise_id": "BDE 01-18",
-        "Music_id": "EBB2022-1056",
+        "Music_id": "EBB2022-0911",
         "Instruction": [
           ""
         ]
@@ -30783,7 +30783,7 @@
       {
         "Id": "PRP3843",
         "Exercise_id": "BDE 01-18",
-        "Music_id": "EBB2022-1113",
+        "Music_id": "EBB2022-1056",
         "Instruction": [
           ""
         ]
@@ -30791,7 +30791,7 @@
       {
         "Id": "PRP3844",
         "Exercise_id": "BDE 01-18",
-        "Music_id": "EBB2022-1133",
+        "Music_id": "EBB2022-1113",
         "Instruction": [
           ""
         ]
@@ -30799,7 +30799,7 @@
       {
         "Id": "PRP3845",
         "Exercise_id": "BDE 01-18",
-        "Music_id": "EBB2022-1202",
+        "Music_id": "EBB2022-1133",
         "Instruction": [
           ""
         ]
@@ -30807,7 +30807,7 @@
       {
         "Id": "PRP3846",
         "Exercise_id": "BDE 01-18",
-        "Music_id": "EBB2022-1248",
+        "Music_id": "EBB2022-1202",
         "Instruction": [
           ""
         ]
@@ -30815,7 +30815,7 @@
       {
         "Id": "PRP3847",
         "Exercise_id": "BDE 01-18",
-        "Music_id": "EBB2022-0844",
+        "Music_id": "EBB2022-1248",
         "Instruction": [
           ""
         ]
@@ -30823,7 +30823,7 @@
       {
         "Id": "PRP3848",
         "Exercise_id": "BDE 01-18",
-        "Music_id": "EBB2022-1269",
+        "Music_id": "EBB2022-0844",
         "Instruction": [
           ""
         ]
@@ -30831,7 +30831,7 @@
       {
         "Id": "PRP3849",
         "Exercise_id": "BDE 01-18",
-        "Music_id": "EBB2022-1277",
+        "Music_id": "EBB2022-1269",
         "Instruction": [
           ""
         ]
@@ -30839,7 +30839,7 @@
       {
         "Id": "PRP3850",
         "Exercise_id": "BDE 01-18",
-        "Music_id": "EBB2022-1305",
+        "Music_id": "EBB2022-1277",
         "Instruction": [
           ""
         ]
@@ -30847,7 +30847,7 @@
       {
         "Id": "PRP3851",
         "Exercise_id": "BDE 01-18",
-        "Music_id": "EBB2022-1388",
+        "Music_id": "EBB2022-1305",
         "Instruction": [
           ""
         ]
@@ -30855,7 +30855,7 @@
       {
         "Id": "PRP3852",
         "Exercise_id": "BDE 01-18",
-        "Music_id": "EBB2022-1397",
+        "Music_id": "EBB2022-1388",
         "Instruction": [
           ""
         ]
@@ -30863,7 +30863,7 @@
       {
         "Id": "PRP3853",
         "Exercise_id": "BDE 01-18",
-        "Music_id": "EBB2022-1467",
+        "Music_id": "EBB2022-1397",
         "Instruction": [
           ""
         ]
@@ -30871,7 +30871,7 @@
       {
         "Id": "PRP3854",
         "Exercise_id": "BDE 01-18",
-        "Music_id": "EBB2022-1570",
+        "Music_id": "EBB2022-1467",
         "Instruction": [
           ""
         ]
@@ -30879,7 +30879,7 @@
       {
         "Id": "PRP3855",
         "Exercise_id": "BDE 01-18",
-        "Music_id": "EBB2022-1676",
+        "Music_id": "EBB2022-1570",
         "Instruction": [
           ""
         ]
@@ -30887,7 +30887,7 @@
       {
         "Id": "PRP3856",
         "Exercise_id": "BDE 01-18",
-        "Music_id": "EBB2022-1703",
+        "Music_id": "EBB2022-1676",
         "Instruction": [
           ""
         ]
@@ -30895,7 +30895,7 @@
       {
         "Id": "PRP3857",
         "Exercise_id": "BDE 01-18",
-        "Music_id": "EBB2022-2100",
+        "Music_id": "EBB2022-1703",
         "Instruction": [
           ""
         ]
@@ -30903,7 +30903,7 @@
       {
         "Id": "PRP3858",
         "Exercise_id": "BDE 01-18",
-        "Music_id": "EBB2022-1726",
+        "Music_id": "EBB2022-2100",
         "Instruction": [
           ""
         ]
@@ -30911,7 +30911,7 @@
       {
         "Id": "PRP3859",
         "Exercise_id": "BDE 01-18",
-        "Music_id": "EBB2022-1730",
+        "Music_id": "EBB2022-1726",
         "Instruction": [
           ""
         ]
@@ -30919,15 +30919,15 @@
       {
         "Id": "PRP3860",
         "Exercise_id": "BDE 01-18",
-        "Music_id": "EBB2022-1840",
+        "Music_id": "EBB2022-1730",
         "Instruction": [
           ""
         ]
       },
       {
         "Id": "PRP3861",
-        "Exercise_id": "BDE 01-13",
-        "Music_id": "EBB2022-0112",
+        "Exercise_id": "BDE 01-18",
+        "Music_id": "EBB2022-1840",
         "Instruction": [
           ""
         ]
@@ -30935,7 +30935,7 @@
       {
         "Id": "PRP3862",
         "Exercise_id": "BDE 01-13",
-        "Music_id": "EBB2022-0334",
+        "Music_id": "EBB2022-0112",
         "Instruction": [
           ""
         ]
@@ -30943,7 +30943,7 @@
       {
         "Id": "PRP3863",
         "Exercise_id": "BDE 01-13",
-        "Music_id": "EBB2022-0608",
+        "Music_id": "EBB2022-0334",
         "Instruction": [
           ""
         ]
@@ -30951,7 +30951,7 @@
       {
         "Id": "PRP3864",
         "Exercise_id": "BDE 01-13",
-        "Music_id": "EBB2022-0412",
+        "Music_id": "EBB2022-0608",
         "Instruction": [
           ""
         ]
@@ -30959,7 +30959,7 @@
       {
         "Id": "PRP3865",
         "Exercise_id": "BDE 01-13",
-        "Music_id": "EBB2022-1640",
+        "Music_id": "EBB2022-0412",
         "Instruction": [
           ""
         ]
@@ -30967,13 +30967,21 @@
       {
         "Id": "PRP3866",
         "Exercise_id": "BDE 01-13",
+        "Music_id": "EBB2022-1640",
+        "Instruction": [
+          ""
+        ]
+      },
+      {
+        "Id": "PRP3867",
+        "Exercise_id": "BDE 01-13",
         "Music_id": "EBB2022-0975",
         "Instruction": [
           "(HLB) Peut aussi être une ronde initiale - Salutations"
         ]
       },
       {
-        "Id": "PRP3867",
+        "Id": "PRP3868",
         "Exercise_id": "BDE 01-13",
         "Music_id": "EBB2022-0907",
         "Instruction": [
@@ -30981,7 +30989,7 @@
         ]
       },
       {
-        "Id": "PRP3868",
+        "Id": "PRP3869",
         "Exercise_id": "BDE 01-13",
         "Music_id": "EBB2022-1241",
         "Instruction": [
@@ -30989,7 +30997,7 @@
         ]
       },
       {
-        "Id": "PRP3869",
+        "Id": "PRP3870",
         "Exercise_id": "BDE 01-13",
         "Music_id": "EBB2022-1156",
         "Instruction": [
@@ -30997,7 +31005,7 @@
         ]
       },
       {
-        "Id": "PRP3870",
+        "Id": "PRP3871",
         "Exercise_id": "BDE 01-13",
         "Music_id": "EBB2022-1170",
         "Instruction": [
@@ -31005,7 +31013,7 @@
         ]
       },
       {
-        "Id": "PRP3871",
+        "Id": "PRP3872",
         "Exercise_id": "BDE 01-13",
         "Music_id": "EBB2022-1239",
         "Instruction": [
@@ -31013,7 +31021,7 @@
         ]
       },
       {
-        "Id": "PRP3872",
+        "Id": "PRP3873",
         "Exercise_id": "BDE 01-13",
         "Music_id": "EBB2022-1525",
         "Instruction": [
@@ -31021,17 +31029,9 @@
         ]
       },
       {
-        "Id": "PRP3873",
-        "Exercise_id": "BDE 01-13",
-        "Music_id": "EBB2022-1526",
-        "Instruction": [
-          ""
-        ]
-      },
-      {
         "Id": "PRP3874",
         "Exercise_id": "BDE 01-13",
-        "Music_id": "EBB2022-1683",
+        "Music_id": "EBB2022-1526",
         "Instruction": [
           ""
         ]
@@ -31039,13 +31039,21 @@
       {
         "Id": "PRP3875",
         "Exercise_id": "BDE 01-13",
+        "Music_id": "EBB2022-1683",
+        "Instruction": [
+          ""
+        ]
+      },
+      {
+        "Id": "PRP3876",
+        "Exercise_id": "BDE 01-13",
         "Music_id": "EBB2022-1728",
         "Instruction": [
           "(HLB) Particulièrement indiquées pour des rencontres ou rondes en fin de séance"
         ]
       },
       {
-        "Id": "PRP3876",
+        "Id": "PRP3877",
         "Exercise_id": "BDE 27-11",
         "Music_id": "EBB2022-0045",
         "Instruction": [
@@ -31053,7 +31061,7 @@
         ]
       },
       {
-        "Id": "PRP3877",
+        "Id": "PRP3878",
         "Exercise_id": "BDE 27-11",
         "Music_id": "EBB2022-0047",
         "Instruction": [
@@ -31061,7 +31069,7 @@
         ]
       },
       {
-        "Id": "PRP3878",
+        "Id": "PRP3879",
         "Exercise_id": "BDE 27-11",
         "Music_id": "EBB2022-0123",
         "Instruction": [
@@ -31069,7 +31077,7 @@
         ]
       },
       {
-        "Id": "PRP3879",
+        "Id": "PRP3880",
         "Exercise_id": "BDE 27-11",
         "Music_id": "EBB2022-0125",
         "Instruction": [
@@ -31077,7 +31085,7 @@
         ]
       },
       {
-        "Id": "PRP3880",
+        "Id": "PRP3881",
         "Exercise_id": "BDE 27-11",
         "Music_id": "EBB2022-0989",
         "Instruction": [
@@ -31085,7 +31093,7 @@
         ]
       },
       {
-        "Id": "PRP3881",
+        "Id": "PRP3882",
         "Exercise_id": "BDE 27-11",
         "Music_id": "EBB2022-0731",
         "Instruction": [
@@ -31093,17 +31101,9 @@
         ]
       },
       {
-        "Id": "PRP3882",
-        "Exercise_id": "BDE 27-11",
-        "Music_id": "EBB2022-0641",
-        "Instruction": [
-          ""
-        ]
-      },
-      {
         "Id": "PRP3883",
         "Exercise_id": "BDE 27-11",
-        "Music_id": "EBB2022-0808",
+        "Music_id": "EBB2022-0641",
         "Instruction": [
           ""
         ]
@@ -31111,7 +31111,7 @@
       {
         "Id": "PRP3884",
         "Exercise_id": "BDE 27-11",
-        "Music_id": "EBB2022-0810",
+        "Music_id": "EBB2022-0808",
         "Instruction": [
           ""
         ]
@@ -31119,7 +31119,7 @@
       {
         "Id": "PRP3885",
         "Exercise_id": "BDE 27-11",
-        "Music_id": "EBB2022-0815",
+        "Music_id": "EBB2022-0810",
         "Instruction": [
           ""
         ]
@@ -31127,7 +31127,7 @@
       {
         "Id": "PRP3886",
         "Exercise_id": "BDE 27-11",
-        "Music_id": "EBB2022-0811",
+        "Music_id": "EBB2022-0815",
         "Instruction": [
           ""
         ]
@@ -31135,7 +31135,7 @@
       {
         "Id": "PRP3887",
         "Exercise_id": "BDE 27-11",
-        "Music_id": "EBB2022-1135",
+        "Music_id": "EBB2022-0811",
         "Instruction": [
           ""
         ]
@@ -31143,7 +31143,7 @@
       {
         "Id": "PRP3888",
         "Exercise_id": "BDE 27-11",
-        "Music_id": "EBB2022-1304",
+        "Music_id": "EBB2022-1135",
         "Instruction": [
           ""
         ]
@@ -31151,15 +31151,15 @@
       {
         "Id": "PRP3889",
         "Exercise_id": "BDE 27-11",
-        "Music_id": "EBB2022-2043",
+        "Music_id": "EBB2022-1304",
         "Instruction": [
           ""
         ]
       },
       {
         "Id": "PRP3890",
-        "Exercise_id": "BDE 01-17",
-        "Music_id": "EBB2022-0067",
+        "Exercise_id": "BDE 27-11",
+        "Music_id": "EBB2022-2043",
         "Instruction": [
           ""
         ]
@@ -31167,7 +31167,7 @@
       {
         "Id": "PRP3891",
         "Exercise_id": "BDE 01-17",
-        "Music_id": "EBB2022-0641",
+        "Music_id": "EBB2022-0067",
         "Instruction": [
           ""
         ]
@@ -31175,13 +31175,21 @@
       {
         "Id": "PRP3892",
         "Exercise_id": "BDE 01-17",
+        "Music_id": "EBB2022-0641",
+        "Instruction": [
+          ""
+        ]
+      },
+      {
+        "Id": "PRP3893",
+        "Exercise_id": "BDE 01-17",
         "Music_id": "EBB2022-0656",
         "Instruction": [
           "(HLB) Très profonde - à utiliser pour des vivencias très spécifiques"
         ]
       },
       {
-        "Id": "PRP3893",
+        "Id": "PRP3894",
         "Exercise_id": "BDE 01-17",
         "Music_id": "EBB2022-0704",
         "Instruction": [
@@ -31189,7 +31197,7 @@
         ]
       },
       {
-        "Id": "PRP3894",
+        "Id": "PRP3895",
         "Exercise_id": "BDE 01-17",
         "Music_id": "EBB2022-0932",
         "Instruction": [
@@ -31197,7 +31205,7 @@
         ]
       },
       {
-        "Id": "PRP3895",
+        "Id": "PRP3896",
         "Exercise_id": "BDE 01-17",
         "Music_id": "EBB2022-1044",
         "Instruction": [
@@ -31205,7 +31213,7 @@
         ]
       },
       {
-        "Id": "PRP3896",
+        "Id": "PRP3897",
         "Exercise_id": "BDE 01-17",
         "Music_id": "EBB2022-1138",
         "Instruction": [
@@ -31213,7 +31221,7 @@
         ]
       },
       {
-        "Id": "PRP3897",
+        "Id": "PRP3898",
         "Exercise_id": "BDE 01-17",
         "Music_id": "EBB2022-1371",
         "Instruction": [
@@ -31221,7 +31229,7 @@
         ]
       },
       {
-        "Id": "PRP3898",
+        "Id": "PRP3899",
         "Exercise_id": "BDE 01-17",
         "Music_id": "EBB2022-1336",
         "Instruction": [
@@ -31229,7 +31237,7 @@
         ]
       },
       {
-        "Id": "PRP3899",
+        "Id": "PRP3900",
         "Exercise_id": "BDE 01-17",
         "Music_id": "EBB2022-1523",
         "Instruction": [
@@ -31237,7 +31245,7 @@
         ]
       },
       {
-        "Id": "PRP3900",
+        "Id": "PRP3901",
         "Exercise_id": "BDE 01-17",
         "Music_id": "EBB2022-1526",
         "Instruction": [
@@ -31245,7 +31253,7 @@
         ]
       },
       {
-        "Id": "PRP3901",
+        "Id": "PRP3902",
         "Exercise_id": "BDE 01-17",
         "Music_id": "EBB2022-1626",
         "Instruction": [
@@ -31253,7 +31261,7 @@
         ]
       },
       {
-        "Id": "PRP3902",
+        "Id": "PRP3903",
         "Exercise_id": "BDE 01-17",
         "Music_id": "EBB2022-1718",
         "Instruction": [
@@ -31261,7 +31269,7 @@
         ]
       },
       {
-        "Id": "PRP3903",
+        "Id": "PRP3904",
         "Exercise_id": "BDE 01-05",
         "Music_id": "EBB2022-1769",
         "Instruction": [
@@ -31269,7 +31277,7 @@
         ]
       },
       {
-        "Id": "PRP3904",
+        "Id": "PRP3905",
         "Exercise_id": "BDE 01-05",
         "Music_id": "EBB2022-0130",
         "Instruction": [
@@ -31277,7 +31285,7 @@
         ]
       },
       {
-        "Id": "PRP3905",
+        "Id": "PRP3906",
         "Exercise_id": "BDE 01-05",
         "Music_id": "EBB2022-0163",
         "Instruction": [
@@ -31285,7 +31293,7 @@
         ]
       },
       {
-        "Id": "PRP3906",
+        "Id": "PRP3907",
         "Exercise_id": "BDE 01-05",
         "Music_id": "EBB2022-0297",
         "Instruction": [
@@ -31293,7 +31301,7 @@
         ]
       },
       {
-        "Id": "PRP3907",
+        "Id": "PRP3908",
         "Exercise_id": "BDE 01-05",
         "Music_id": "EBB2022-0790",
         "Instruction": [
@@ -31301,7 +31309,7 @@
         ]
       },
       {
-        "Id": "PRP3908",
+        "Id": "PRP3909",
         "Exercise_id": "BDE 01-05",
         "Music_id": "EBB2022-1304",
         "Instruction": [
@@ -31309,7 +31317,7 @@
         ]
       },
       {
-        "Id": "PRP3909",
+        "Id": "PRP3910",
         "Exercise_id": "BDE 01-05",
         "Music_id": "EBB2022-2035",
         "Instruction": [
@@ -31317,7 +31325,7 @@
         ]
       },
       {
-        "Id": "PRP3910",
+        "Id": "PRP3911",
         "Exercise_id": "BDE 01-14",
         "Music_id": "EBB2022-1761",
         "Instruction": [
@@ -31325,7 +31333,7 @@
         ]
       },
       {
-        "Id": "PRP3911",
+        "Id": "PRP3912",
         "Exercise_id": "BDE 01-14",
         "Music_id": "EBB2022-0058",
         "Instruction": [
@@ -31333,7 +31341,7 @@
         ]
       },
       {
-        "Id": "PRP3912",
+        "Id": "PRP3913",
         "Exercise_id": "BDE 01-14",
         "Music_id": "EBB2022-0077",
         "Instruction": [
@@ -31341,7 +31349,7 @@
         ]
       },
       {
-        "Id": "PRP3913",
+        "Id": "PRP3914",
         "Exercise_id": "BDE 01-14",
         "Music_id": "EBB2022-0090",
         "Instruction": [
@@ -31349,7 +31357,7 @@
         ]
       },
       {
-        "Id": "PRP3914",
+        "Id": "PRP3915",
         "Exercise_id": "BDE 01-14",
         "Music_id": "EBB2022-0094",
         "Instruction": [
@@ -31357,7 +31365,7 @@
         ]
       },
       {
-        "Id": "PRP3915",
+        "Id": "PRP3916",
         "Exercise_id": "BDE 01-14",
         "Music_id": "EBB2022-0091",
         "Instruction": [
@@ -31365,7 +31373,7 @@
         ]
       },
       {
-        "Id": "PRP3916",
+        "Id": "PRP3917",
         "Exercise_id": "BDE 01-14",
         "Music_id": "EBB2022-0624",
         "Instruction": [
@@ -31373,7 +31381,7 @@
         ]
       },
       {
-        "Id": "PRP3917",
+        "Id": "PRP3918",
         "Exercise_id": "BDE 01-14",
         "Music_id": "EBB2022-0150",
         "Instruction": [
@@ -31381,7 +31389,7 @@
         ]
       },
       {
-        "Id": "PRP3918",
+        "Id": "PRP3919",
         "Exercise_id": "BDE 01-14",
         "Music_id": "EBB2022-0152",
         "Instruction": [
@@ -31389,7 +31397,7 @@
         ]
       },
       {
-        "Id": "PRP3919",
+        "Id": "PRP3920",
         "Exercise_id": "BDE 01-14",
         "Music_id": "EBB2022-1784",
         "Instruction": [
@@ -31397,7 +31405,7 @@
         ]
       },
       {
-        "Id": "PRP3920",
+        "Id": "PRP3921",
         "Exercise_id": "BDE 01-14",
         "Music_id": "EBB2022-0167",
         "Instruction": [
@@ -31405,7 +31413,7 @@
         ]
       },
       {
-        "Id": "PRP3921",
+        "Id": "PRP3922",
         "Exercise_id": "BDE 01-14",
         "Music_id": "EBB2022-0196",
         "Instruction": [
@@ -31413,7 +31421,7 @@
         ]
       },
       {
-        "Id": "PRP3922",
+        "Id": "PRP3923",
         "Exercise_id": "BDE 01-14",
         "Music_id": "EBB2022-0204",
         "Instruction": [
@@ -31421,7 +31429,7 @@
         ]
       },
       {
-        "Id": "PRP3923",
+        "Id": "PRP3924",
         "Exercise_id": "BDE 01-14",
         "Music_id": "EBB2022-0287",
         "Instruction": [
@@ -31429,7 +31437,7 @@
         ]
       },
       {
-        "Id": "PRP3924",
+        "Id": "PRP3925",
         "Exercise_id": "BDE 01-14",
         "Music_id": "EBB2022-0296",
         "Instruction": [
@@ -31437,7 +31445,7 @@
         ]
       },
       {
-        "Id": "PRP3925",
+        "Id": "PRP3926",
         "Exercise_id": "BDE 01-14",
         "Music_id": "EBB2022-0335",
         "Instruction": [
@@ -31445,7 +31453,7 @@
         ]
       },
       {
-        "Id": "PRP3926",
+        "Id": "PRP3927",
         "Exercise_id": "BDE 01-14",
         "Music_id": "EBB2022-0366",
         "Instruction": [
@@ -31453,7 +31461,7 @@
         ]
       },
       {
-        "Id": "PRP3927",
+        "Id": "PRP3928",
         "Exercise_id": "BDE 01-14",
         "Music_id": "EBB2022-0388",
         "Instruction": [
@@ -31462,7 +31470,7 @@
         ]
       },
       {
-        "Id": "PRP3928",
+        "Id": "PRP3929",
         "Exercise_id": "BDE 01-14",
         "Music_id": "EBB2022-0413",
         "Instruction": [
@@ -31470,7 +31478,7 @@
         ]
       },
       {
-        "Id": "PRP3929",
+        "Id": "PRP3930",
         "Exercise_id": "BDE 01-14",
         "Music_id": "EBB2022-1844",
         "Instruction": [
@@ -31478,7 +31486,7 @@
         ]
       },
       {
-        "Id": "PRP3930",
+        "Id": "PRP3931",
         "Exercise_id": "BDE 01-14",
         "Music_id": "EBB2022-1766",
         "Instruction": [
@@ -31486,7 +31494,7 @@
         ]
       },
       {
-        "Id": "PRP3931",
+        "Id": "PRP3932",
         "Exercise_id": "BDE 01-14",
         "Music_id": "EBB2022-0592",
         "Instruction": [
@@ -31494,7 +31502,7 @@
         ]
       },
       {
-        "Id": "PRP3932",
+        "Id": "PRP3933",
         "Exercise_id": "BDE 01-14",
         "Music_id": "EBB2022-0596",
         "Instruction": [
@@ -31502,7 +31510,7 @@
         ]
       },
       {
-        "Id": "PRP3933",
+        "Id": "PRP3934",
         "Exercise_id": "BDE 01-14",
         "Music_id": "EBB2022-0607",
         "Instruction": [
@@ -31510,7 +31518,7 @@
         ]
       },
       {
-        "Id": "PRP3934",
+        "Id": "PRP3935",
         "Exercise_id": "BDE 01-14",
         "Music_id": "EBB2022-0608",
         "Instruction": [
@@ -31518,7 +31526,7 @@
         ]
       },
       {
-        "Id": "PRP3935",
+        "Id": "PRP3936",
         "Exercise_id": "BDE 01-14",
         "Music_id": "EBB2022-0412",
         "Instruction": [
@@ -31526,7 +31534,7 @@
         ]
       },
       {
-        "Id": "PRP3936",
+        "Id": "PRP3937",
         "Exercise_id": "BDE 01-14",
         "Music_id": "EBB2022-0635",
         "Instruction": [
@@ -31534,7 +31542,7 @@
         ]
       },
       {
-        "Id": "PRP3937",
+        "Id": "PRP3938",
         "Exercise_id": "BDE 01-14",
         "Music_id": "EBB2022-0638",
         "Instruction": [
@@ -31542,7 +31550,7 @@
         ]
       },
       {
-        "Id": "PRP3938",
+        "Id": "PRP3939",
         "Exercise_id": "BDE 01-14",
         "Music_id": "EBB2022-0661",
         "Instruction": [
@@ -31550,7 +31558,7 @@
         ]
       },
       {
-        "Id": "PRP3939",
+        "Id": "PRP3940",
         "Exercise_id": "BDE 01-14",
         "Music_id": "EBB2022-0666",
         "Instruction": [
@@ -31558,7 +31566,7 @@
         ]
       },
       {
-        "Id": "PRP3940",
+        "Id": "PRP3941",
         "Exercise_id": "BDE 01-14",
         "Music_id": "EBB2022-0575",
         "Instruction": [
@@ -31566,7 +31574,7 @@
         ]
       },
       {
-        "Id": "PRP3941",
+        "Id": "PRP3942",
         "Exercise_id": "BDE 01-14",
         "Music_id": "EBB2022-0685",
         "Instruction": [
@@ -31574,7 +31582,7 @@
         ]
       },
       {
-        "Id": "PRP3942",
+        "Id": "PRP3943",
         "Exercise_id": "BDE 01-14",
         "Music_id": "EBB2022-0698",
         "Instruction": [
@@ -31582,7 +31590,7 @@
         ]
       },
       {
-        "Id": "PRP3943",
+        "Id": "PRP3944",
         "Exercise_id": "BDE 01-14",
         "Music_id": "EBB2022-1949",
         "Instruction": [
@@ -31590,7 +31598,7 @@
         ]
       },
       {
-        "Id": "PRP3944",
+        "Id": "PRP3945",
         "Exercise_id": "BDE 01-14",
         "Music_id": "EBB2022-1951",
         "Instruction": [
@@ -31598,7 +31606,7 @@
         ]
       },
       {
-        "Id": "PRP3945",
+        "Id": "PRP3946",
         "Exercise_id": "BDE 01-14",
         "Music_id": "EBB2022-1410",
         "Instruction": [
@@ -31606,7 +31614,7 @@
         ]
       },
       {
-        "Id": "PRP3946",
+        "Id": "PRP3947",
         "Exercise_id": "BDE 01-14",
         "Music_id": "EBB2022-0832",
         "Instruction": [
@@ -31614,7 +31622,7 @@
         ]
       },
       {
-        "Id": "PRP3947",
+        "Id": "PRP3948",
         "Exercise_id": "BDE 01-14",
         "Music_id": "EBB2022-0849",
         "Instruction": [
@@ -31622,7 +31630,7 @@
         ]
       },
       {
-        "Id": "PRP3948",
+        "Id": "PRP3949",
         "Exercise_id": "BDE 01-14",
         "Music_id": "EBB2022-0865",
         "Instruction": [
@@ -31630,7 +31638,7 @@
         ]
       },
       {
-        "Id": "PRP3949",
+        "Id": "PRP3950",
         "Exercise_id": "BDE 01-14",
         "Music_id": "EBB2022-0902",
         "Instruction": [
@@ -31638,7 +31646,7 @@
         ]
       },
       {
-        "Id": "PRP3950",
+        "Id": "PRP3951",
         "Exercise_id": "BDE 01-14",
         "Music_id": "EBB2022-1968",
         "Instruction": [
@@ -31646,7 +31654,7 @@
         ]
       },
       {
-        "Id": "PRP3951",
+        "Id": "PRP3952",
         "Exercise_id": "BDE 01-14",
         "Music_id": "EBB2022-0951",
         "Instruction": [
@@ -31654,7 +31662,7 @@
         ]
       },
       {
-        "Id": "PRP3952",
+        "Id": "PRP3953",
         "Exercise_id": "BDE 01-14",
         "Music_id": "EBB2022-0988",
         "Instruction": [
@@ -31662,7 +31670,7 @@
         ]
       },
       {
-        "Id": "PRP3953",
+        "Id": "PRP3954",
         "Exercise_id": "BDE 01-14",
         "Music_id": "EBB2022-1011",
         "Instruction": [
@@ -31670,7 +31678,7 @@
         ]
       },
       {
-        "Id": "PRP3954",
+        "Id": "PRP3955",
         "Exercise_id": "BDE 01-14",
         "Music_id": "EBB2022-1016",
         "Instruction": [
@@ -31678,7 +31686,7 @@
         ]
       },
       {
-        "Id": "PRP3955",
+        "Id": "PRP3956",
         "Exercise_id": "BDE 01-14",
         "Music_id": "EBB2022-1026",
         "Instruction": [
@@ -31686,7 +31694,7 @@
         ]
       },
       {
-        "Id": "PRP3956",
+        "Id": "PRP3957",
         "Exercise_id": "BDE 01-14",
         "Music_id": "EBB2022-1063",
         "Instruction": [
@@ -31694,7 +31702,7 @@
         ]
       },
       {
-        "Id": "PRP3957",
+        "Id": "PRP3958",
         "Exercise_id": "BDE 01-14",
         "Music_id": "EBB2022-1071",
         "Instruction": [
@@ -31702,7 +31710,7 @@
         ]
       },
       {
-        "Id": "PRP3958",
+        "Id": "PRP3959",
         "Exercise_id": "BDE 01-14",
         "Music_id": "EBB2022-1073",
         "Instruction": [
@@ -31710,7 +31718,7 @@
         ]
       },
       {
-        "Id": "PRP3959",
+        "Id": "PRP3960",
         "Exercise_id": "BDE 01-14",
         "Music_id": "EBB2022-1075",
         "Instruction": [
@@ -31718,7 +31726,7 @@
         ]
       },
       {
-        "Id": "PRP3960",
+        "Id": "PRP3961",
         "Exercise_id": "BDE 01-14",
         "Music_id": "EBB2022-1084",
         "Instruction": [
@@ -31726,7 +31734,7 @@
         ]
       },
       {
-        "Id": "PRP3961",
+        "Id": "PRP3962",
         "Exercise_id": "BDE 01-14",
         "Music_id": "EBB2022-1092",
         "Instruction": [
@@ -31734,7 +31742,7 @@
         ]
       },
       {
-        "Id": "PRP3962",
+        "Id": "PRP3963",
         "Exercise_id": "BDE 01-14",
         "Music_id": "EBB2022-2000",
         "Instruction": [
@@ -31742,7 +31750,7 @@
         ]
       },
       {
-        "Id": "PRP3963",
+        "Id": "PRP3964",
         "Exercise_id": "BDE 01-14",
         "Music_id": "EBB2022-1166",
         "Instruction": [
@@ -31750,7 +31758,7 @@
         ]
       },
       {
-        "Id": "PRP3964",
+        "Id": "PRP3965",
         "Exercise_id": "BDE 01-14",
         "Music_id": "EBB2022-2015",
         "Instruction": [
@@ -31758,7 +31766,7 @@
         ]
       },
       {
-        "Id": "PRP3965",
+        "Id": "PRP3966",
         "Exercise_id": "BDE 01-14",
         "Music_id": "EBB2022-2018",
         "Instruction": [
@@ -31766,7 +31774,7 @@
         ]
       },
       {
-        "Id": "PRP3966",
+        "Id": "PRP3967",
         "Exercise_id": "BDE 01-14",
         "Music_id": "EBB2022-1215",
         "Instruction": [
@@ -31774,7 +31782,7 @@
         ]
       },
       {
-        "Id": "PRP3967",
+        "Id": "PRP3968",
         "Exercise_id": "BDE 01-14",
         "Music_id": "EBB2022-1226",
         "Instruction": [
@@ -31782,7 +31790,7 @@
         ]
       },
       {
-        "Id": "PRP3968",
+        "Id": "PRP3969",
         "Exercise_id": "BDE 01-14",
         "Music_id": "EBB2022-2030",
         "Instruction": [
@@ -31790,17 +31798,9 @@
         ]
       },
       {
-        "Id": "PRP3969",
-        "Exercise_id": "BDE 01-14",
-        "Music_id": "EBB2022-1271",
-        "Instruction": [
-          ""
-        ]
-      },
-      {
         "Id": "PRP3970",
         "Exercise_id": "BDE 01-14",
-        "Music_id": "EBB2022-1272",
+        "Music_id": "EBB2022-1271",
         "Instruction": [
           ""
         ]
@@ -31808,7 +31808,7 @@
       {
         "Id": "PRP3971",
         "Exercise_id": "BDE 01-14",
-        "Music_id": "EBB2022-1281",
+        "Music_id": "EBB2022-1272",
         "Instruction": [
           ""
         ]
@@ -31816,7 +31816,7 @@
       {
         "Id": "PRP3972",
         "Exercise_id": "BDE 01-14",
-        "Music_id": "EBB2022-1290",
+        "Music_id": "EBB2022-1281",
         "Instruction": [
           ""
         ]
@@ -31824,7 +31824,7 @@
       {
         "Id": "PRP3973",
         "Exercise_id": "BDE 01-14",
-        "Music_id": "EBB2022-1345",
+        "Music_id": "EBB2022-1290",
         "Instruction": [
           ""
         ]
@@ -31832,7 +31832,7 @@
       {
         "Id": "PRP3974",
         "Exercise_id": "BDE 01-14",
-        "Music_id": "EBB2022-1365",
+        "Music_id": "EBB2022-1345",
         "Instruction": [
           ""
         ]
@@ -31840,13 +31840,21 @@
       {
         "Id": "PRP3975",
         "Exercise_id": "BDE 01-14",
+        "Music_id": "EBB2022-1365",
+        "Instruction": [
+          ""
+        ]
+      },
+      {
+        "Id": "PRP3976",
+        "Exercise_id": "BDE 01-14",
         "Music_id": "EBB2022-1368",
         "Instruction": [
           "(HLB) On peut partager avec le groupe, le sens des paroles de la chanson : Tout ce je demande à dieu, est que, lorsqu'elle viendra à moi, la mort décharnée, ne me trouve pas indifférente et sans avoir fait tout ce je pouvais. (Notion d'engagement pour la Vie). Célébrante, solidaire"
         ]
       },
       {
-        "Id": "PRP3976",
+        "Id": "PRP3977",
         "Exercise_id": "BDE 01-14",
         "Music_id": "EBB2022-1625",
         "Instruction": [
@@ -31854,7 +31862,7 @@
         ]
       },
       {
-        "Id": "PRP3977",
+        "Id": "PRP3978",
         "Exercise_id": "BDE 01-14",
         "Music_id": "EBB2022-1779",
         "Instruction": [
@@ -31862,7 +31870,7 @@
         ]
       },
       {
-        "Id": "PRP3978",
+        "Id": "PRP3979",
         "Exercise_id": "BDE 01-14",
         "Music_id": "EBB2022-1430",
         "Instruction": [
@@ -31870,7 +31878,7 @@
         ]
       },
       {
-        "Id": "PRP3979",
+        "Id": "PRP3980",
         "Exercise_id": "BDE 01-14",
         "Music_id": "EBB2022-1518",
         "Instruction": [
@@ -31878,7 +31886,7 @@
         ]
       },
       {
-        "Id": "PRP3980",
+        "Id": "PRP3981",
         "Exercise_id": "BDE 01-14",
         "Music_id": "EBB2022-1525",
         "Instruction": [
@@ -31886,7 +31894,7 @@
         ]
       },
       {
-        "Id": "PRP3981",
+        "Id": "PRP3982",
         "Exercise_id": "BDE 01-14",
         "Music_id": "EBB2022-1549",
         "Instruction": [
@@ -31894,7 +31902,7 @@
         ]
       },
       {
-        "Id": "PRP3982",
+        "Id": "PRP3983",
         "Exercise_id": "BDE 01-14",
         "Music_id": "EBB2022-1567",
         "Instruction": [
@@ -31902,7 +31910,7 @@
         ]
       },
       {
-        "Id": "PRP3983",
+        "Id": "PRP3984",
         "Exercise_id": "BDE 01-14",
         "Music_id": "EBB2022-1569",
         "Instruction": [
@@ -31910,7 +31918,7 @@
         ]
       },
       {
-        "Id": "PRP3984",
+        "Id": "PRP3985",
         "Exercise_id": "BDE 01-14",
         "Music_id": "EBB2022-1572",
         "Instruction": [
@@ -31918,7 +31926,7 @@
         ]
       },
       {
-        "Id": "PRP3985",
+        "Id": "PRP3986",
         "Exercise_id": "BDE 01-14",
         "Music_id": "EBB2022-1573",
         "Instruction": [
@@ -31926,7 +31934,7 @@
         ]
       },
       {
-        "Id": "PRP3986",
+        "Id": "PRP3987",
         "Exercise_id": "BDE 01-14",
         "Music_id": "EBB2022-1574",
         "Instruction": [
@@ -31934,7 +31942,7 @@
         ]
       },
       {
-        "Id": "PRP3987",
+        "Id": "PRP3988",
         "Exercise_id": "BDE 01-14",
         "Music_id": "EBB2022-1599",
         "Instruction": [
@@ -31942,7 +31950,7 @@
         ]
       },
       {
-        "Id": "PRP3988",
+        "Id": "PRP3989",
         "Exercise_id": "BDE 01-14",
         "Music_id": "EBB2022-1628",
         "Instruction": [
@@ -31950,7 +31958,7 @@
         ]
       },
       {
-        "Id": "PRP3989",
+        "Id": "PRP3990",
         "Exercise_id": "BDE 01-14",
         "Music_id": "EBB2022-1636",
         "Instruction": [
@@ -31958,7 +31966,7 @@
         ]
       },
       {
-        "Id": "PRP3990",
+        "Id": "PRP3991",
         "Exercise_id": "BDE 01-14",
         "Music_id": "EBB2022-1649",
         "Instruction": [
@@ -31966,7 +31974,7 @@
         ]
       },
       {
-        "Id": "PRP3991",
+        "Id": "PRP3992",
         "Exercise_id": "BDE 01-14",
         "Music_id": "EBB2022-1661",
         "Instruction": [
@@ -31974,7 +31982,7 @@
         ]
       },
       {
-        "Id": "PRP3992",
+        "Id": "PRP3993",
         "Exercise_id": "BDE 01-14",
         "Music_id": "EBB2022-1678",
         "Instruction": [
@@ -31982,7 +31990,7 @@
         ]
       },
       {
-        "Id": "PRP3993",
+        "Id": "PRP3994",
         "Exercise_id": "BDE 01-14",
         "Music_id": "EBB2022-1707",
         "Instruction": [
@@ -31990,7 +31998,7 @@
         ]
       },
       {
-        "Id": "PRP3994",
+        "Id": "PRP3995",
         "Exercise_id": "BDE 01-14",
         "Music_id": "EBB2022-1712",
         "Instruction": [
@@ -31998,7 +32006,7 @@
         ]
       },
       {
-        "Id": "PRP3995",
+        "Id": "PRP3996",
         "Exercise_id": "BDE 01-14",
         "Music_id": "EBB2022-1716",
         "Instruction": [
@@ -32006,7 +32014,7 @@
         ]
       },
       {
-        "Id": "PRP3996",
+        "Id": "PRP3997",
         "Exercise_id": "BDE 01-14",
         "Music_id": "EBB2022-1735",
         "Instruction": [
@@ -32014,7 +32022,7 @@
         ]
       },
       {
-        "Id": "PRP3997",
+        "Id": "PRP3998",
         "Exercise_id": "BDE 01-19",
         "Music_id": "EBB2022-0859",
         "Instruction": [
@@ -32022,7 +32030,7 @@
         ]
       },
       {
-        "Id": "PRP3998",
+        "Id": "PRP3999",
         "Exercise_id": "BDE 01-19",
         "Music_id": "EBB2022-1525",
         "Instruction": [
@@ -32030,7 +32038,7 @@
         ]
       },
       {
-        "Id": "PRP3999",
+        "Id": "PRP4000",
         "Exercise_id": "BDE 01-04",
         "Music_id": "EBB2022-0009",
         "Instruction": [
@@ -32038,7 +32046,7 @@
         ]
       },
       {
-        "Id": "PRP4000",
+        "Id": "PRP4001",
         "Exercise_id": "BDE 01-04",
         "Music_id": "EBB2022-0249",
         "Instruction": [
@@ -32046,7 +32054,7 @@
         ]
       },
       {
-        "Id": "PRP4001",
+        "Id": "PRP4002",
         "Exercise_id": "BDE 01-04",
         "Music_id": "EBB2022-0297",
         "Instruction": [
@@ -32054,7 +32062,7 @@
         ]
       },
       {
-        "Id": "PRP4002",
+        "Id": "PRP4003",
         "Exercise_id": "BDE 01-04",
         "Music_id": "EBB2022-0543",
         "Instruction": [
@@ -32062,7 +32070,7 @@
         ]
       },
       {
-        "Id": "PRP4003",
+        "Id": "PRP4004",
         "Exercise_id": "BDE 01-04",
         "Music_id": "EBB2022-1032",
         "Instruction": [
@@ -32070,7 +32078,7 @@
         ]
       },
       {
-        "Id": "PRP4004",
+        "Id": "PRP4005",
         "Exercise_id": "BDE 01-04",
         "Music_id": "EBB2022-1136",
         "Instruction": [
@@ -32078,7 +32086,7 @@
         ]
       },
       {
-        "Id": "PRP4005",
+        "Id": "PRP4006",
         "Exercise_id": "BDE 01-04",
         "Music_id": "EBB2022-1271",
         "Instruction": [
@@ -32086,7 +32094,7 @@
         ]
       },
       {
-        "Id": "PRP4006",
+        "Id": "PRP4007",
         "Exercise_id": "BDE 01-02",
         "Music_id": "EBB2022-0013",
         "Instruction": [
@@ -32094,7 +32102,7 @@
         ]
       },
       {
-        "Id": "PRP4007",
+        "Id": "PRP4008",
         "Exercise_id": "BDE 01-02",
         "Music_id": "EBB2022-0104",
         "Instruction": [
@@ -32102,7 +32110,7 @@
         ]
       },
       {
-        "Id": "PRP4008",
+        "Id": "PRP4009",
         "Exercise_id": "BDE 01-02",
         "Music_id": "EBB2022-0154",
         "Instruction": [
@@ -32110,7 +32118,7 @@
         ]
       },
       {
-        "Id": "PRP4009",
+        "Id": "PRP4010",
         "Exercise_id": "BDE 01-02",
         "Music_id": "EBB2022-0149",
         "Instruction": [
@@ -32118,7 +32126,7 @@
         ]
       },
       {
-        "Id": "PRP4010",
+        "Id": "PRP4011",
         "Exercise_id": "BDE 01-02",
         "Music_id": "EBB2022-0163",
         "Instruction": [
@@ -32126,7 +32134,7 @@
         ]
       },
       {
-        "Id": "PRP4011",
+        "Id": "PRP4012",
         "Exercise_id": "BDE 01-02",
         "Music_id": "EBB2022-0205",
         "Instruction": [
@@ -32134,7 +32142,7 @@
         ]
       },
       {
-        "Id": "PRP4012",
+        "Id": "PRP4013",
         "Exercise_id": "BDE 01-02",
         "Music_id": "EBB2022-0216",
         "Instruction": [
@@ -32142,7 +32150,7 @@
         ]
       },
       {
-        "Id": "PRP4013",
+        "Id": "PRP4014",
         "Exercise_id": "BDE 01-02",
         "Music_id": "EBB2022-0220",
         "Instruction": [
@@ -32150,7 +32158,7 @@
         ]
       },
       {
-        "Id": "PRP4014",
+        "Id": "PRP4015",
         "Exercise_id": "BDE 01-02",
         "Music_id": "EBB2022-0310",
         "Instruction": [
@@ -32158,7 +32166,7 @@
         ]
       },
       {
-        "Id": "PRP4015",
+        "Id": "PRP4016",
         "Exercise_id": "BDE 01-02",
         "Music_id": "EBB2022-0337",
         "Instruction": [
@@ -32166,7 +32174,7 @@
         ]
       },
       {
-        "Id": "PRP4016",
+        "Id": "PRP4017",
         "Exercise_id": "BDE 01-02",
         "Music_id": "EBB2022-0353",
         "Instruction": [
@@ -32174,7 +32182,7 @@
         ]
       },
       {
-        "Id": "PRP4017",
+        "Id": "PRP4018",
         "Exercise_id": "BDE 01-02",
         "Music_id": "EBB2022-0354",
         "Instruction": [
@@ -32182,7 +32190,7 @@
         ]
       },
       {
-        "Id": "PRP4018",
+        "Id": "PRP4019",
         "Exercise_id": "BDE 01-02",
         "Music_id": "EBB2022-0507",
         "Instruction": [
@@ -32190,7 +32198,7 @@
         ]
       },
       {
-        "Id": "PRP4019",
+        "Id": "PRP4020",
         "Exercise_id": "BDE 01-02",
         "Music_id": "EBB2022-0708",
         "Instruction": [
@@ -32198,7 +32206,7 @@
         ]
       },
       {
-        "Id": "PRP4020",
+        "Id": "PRP4021",
         "Exercise_id": "BDE 01-02",
         "Music_id": "EBB2022-0842",
         "Instruction": [
@@ -32206,7 +32214,7 @@
         ]
       },
       {
-        "Id": "PRP4021",
+        "Id": "PRP4022",
         "Exercise_id": "BDE 01-02",
         "Music_id": "EBB2022-0930",
         "Instruction": [
@@ -32214,7 +32222,7 @@
         ]
       },
       {
-        "Id": "PRP4022",
+        "Id": "PRP4023",
         "Exercise_id": "BDE 01-02",
         "Music_id": "EBB2022-0950",
         "Instruction": [
@@ -32222,7 +32230,7 @@
         ]
       },
       {
-        "Id": "PRP4023",
+        "Id": "PRP4024",
         "Exercise_id": "BDE 01-02",
         "Music_id": "EBB2022-1014",
         "Instruction": [
@@ -32230,7 +32238,7 @@
         ]
       },
       {
-        "Id": "PRP4024",
+        "Id": "PRP4025",
         "Exercise_id": "BDE 01-02",
         "Music_id": "EBB2022-1054",
         "Instruction": [
@@ -32238,7 +32246,7 @@
         ]
       },
       {
-        "Id": "PRP4025",
+        "Id": "PRP4026",
         "Exercise_id": "BDE 01-02",
         "Music_id": "EBB2022-1112",
         "Instruction": [
@@ -32246,7 +32254,7 @@
         ]
       },
       {
-        "Id": "PRP4026",
+        "Id": "PRP4027",
         "Exercise_id": "BDE 01-02",
         "Music_id": "EBB2022-1113",
         "Instruction": [
@@ -32254,7 +32262,7 @@
         ]
       },
       {
-        "Id": "PRP4027",
+        "Id": "PRP4028",
         "Exercise_id": "BDE 01-02",
         "Music_id": "EBB2022-1189",
         "Instruction": [
@@ -32263,7 +32271,7 @@
         ]
       },
       {
-        "Id": "PRP4028",
+        "Id": "PRP4029",
         "Exercise_id": "BDE 01-02",
         "Music_id": "EBB2022-1209",
         "Instruction": [
@@ -32271,7 +32279,7 @@
         ]
       },
       {
-        "Id": "PRP4029",
+        "Id": "PRP4030",
         "Exercise_id": "BDE 01-02",
         "Music_id": "EBB2022-1226",
         "Instruction": [
@@ -32279,7 +32287,7 @@
         ]
       },
       {
-        "Id": "PRP4030",
+        "Id": "PRP4031",
         "Exercise_id": "BDE 01-02",
         "Music_id": "EBB2022-1269",
         "Instruction": [
@@ -32287,7 +32295,7 @@
         ]
       },
       {
-        "Id": "PRP4031",
+        "Id": "PRP4032",
         "Exercise_id": "BDE 01-02",
         "Music_id": "EBB2022-1287",
         "Instruction": [
@@ -32295,7 +32303,7 @@
         ]
       },
       {
-        "Id": "PRP4032",
+        "Id": "PRP4033",
         "Exercise_id": "BDE 01-02",
         "Music_id": "EBB2022-1293",
         "Instruction": [
@@ -32303,7 +32311,7 @@
         ]
       },
       {
-        "Id": "PRP4033",
+        "Id": "PRP4034",
         "Exercise_id": "BDE 01-02",
         "Music_id": "EBB2022-1315",
         "Instruction": [
@@ -32311,7 +32319,7 @@
         ]
       },
       {
-        "Id": "PRP4034",
+        "Id": "PRP4035",
         "Exercise_id": "BDE 01-02",
         "Music_id": "EBB2022-1317",
         "Instruction": [
@@ -32319,7 +32327,7 @@
         ]
       },
       {
-        "Id": "PRP4035",
+        "Id": "PRP4036",
         "Exercise_id": "BDE 01-02",
         "Music_id": "EBB2022-1331",
         "Instruction": [
@@ -32327,7 +32335,7 @@
         ]
       },
       {
-        "Id": "PRP4036",
+        "Id": "PRP4037",
         "Exercise_id": "BDE 01-02",
         "Music_id": "EBB2022-1373",
         "Instruction": [
@@ -32335,7 +32343,7 @@
         ]
       },
       {
-        "Id": "PRP4037",
+        "Id": "PRP4038",
         "Exercise_id": "BDE 01-02",
         "Music_id": "EBB2022-1452",
         "Instruction": [
@@ -32343,7 +32351,7 @@
         ]
       },
       {
-        "Id": "PRP4038",
+        "Id": "PRP4039",
         "Exercise_id": "BDE 01-02",
         "Music_id": "EBB2022-1663",
         "Instruction": [
@@ -32351,7 +32359,7 @@
         ]
       },
       {
-        "Id": "PRP4039",
+        "Id": "PRP4040",
         "Exercise_id": "BDE 01-02",
         "Music_id": "EBB2022-1679",
         "Instruction": [
@@ -32359,7 +32367,7 @@
         ]
       },
       {
-        "Id": "PRP4040",
+        "Id": "PRP4041",
         "Exercise_id": "BDE 01-02",
         "Music_id": "EBB2022-1720",
         "Instruction": [
@@ -32367,7 +32375,7 @@
         ]
       },
       {
-        "Id": "PRP4041",
+        "Id": "PRP4042",
         "Exercise_id": "BDE 01-02",
         "Music_id": "EBB2022-1736",
         "Instruction": [
@@ -32375,7 +32383,7 @@
         ]
       },
       {
-        "Id": "PRP4042",
+        "Id": "PRP4043",
         "Exercise_id": "BDE 17-07",
         "Music_id": "EBB2022-0994",
         "Instruction": [
@@ -32383,7 +32391,7 @@
         ]
       },
       {
-        "Id": "PRP4043",
+        "Id": "PRP4044",
         "Exercise_id": "BDE 17-07",
         "Music_id": "EBB2022-1692",
         "Instruction": [
@@ -32391,7 +32399,7 @@
         ]
       },
       {
-        "Id": "PRP4044",
+        "Id": "PRP4045",
         "Exercise_id": "BDE 29-13",
         "Music_id": "EBB2022-0191",
         "Instruction": [
@@ -32399,7 +32407,7 @@
         ]
       },
       {
-        "Id": "PRP4045",
+        "Id": "PRP4046",
         "Exercise_id": "BDE 29-13",
         "Music_id": "EBB2022-0271",
         "Instruction": [
@@ -32407,7 +32415,7 @@
         ]
       },
       {
-        "Id": "PRP4046",
+        "Id": "PRP4047",
         "Exercise_id": "BDE 29-13",
         "Music_id": "EBB2022-1026",
         "Instruction": [
@@ -32415,7 +32423,7 @@
         ]
       },
       {
-        "Id": "PRP4047",
+        "Id": "PRP4048",
         "Exercise_id": "BDE 29-13",
         "Music_id": "EBB2022-1032",
         "Instruction": [
@@ -32423,7 +32431,7 @@
         ]
       },
       {
-        "Id": "PRP4048",
+        "Id": "PRP4049",
         "Exercise_id": "BDE 29-13",
         "Music_id": "EBB2022-1516",
         "Instruction": [
@@ -32431,7 +32439,7 @@
         ]
       },
       {
-        "Id": "PRP4049",
+        "Id": "PRP4050",
         "Exercise_id": "BDE 29-13",
         "Music_id": "EBB2022-1564",
         "Instruction": [
@@ -32439,7 +32447,7 @@
         ]
       },
       {
-        "Id": "PRP4050",
+        "Id": "PRP4051",
         "Exercise_id": "BDE 22-55",
         "Music_id": "EBB2022-1481",
         "Instruction": [
@@ -32447,7 +32455,7 @@
         ]
       },
       {
-        "Id": "PRP4051",
+        "Id": "PRP4052",
         "Exercise_id": "BDE 29-14",
         "Music_id": "EBB2022-0010",
         "Instruction": [
@@ -32455,7 +32463,7 @@
         ]
       },
       {
-        "Id": "PRP4052",
+        "Id": "PRP4053",
         "Exercise_id": "BDE 29-14",
         "Music_id": "EBB2022-0268",
         "Instruction": [
@@ -32463,7 +32471,7 @@
         ]
       },
       {
-        "Id": "PRP4053",
+        "Id": "PRP4054",
         "Exercise_id": "BDE 29-14",
         "Music_id": "EBB2022-0388",
         "Instruction": [
@@ -32471,7 +32479,7 @@
         ]
       },
       {
-        "Id": "PRP4054",
+        "Id": "PRP4055",
         "Exercise_id": "BDE 29-14",
         "Music_id": "EBB2022-0772",
         "Instruction": [
@@ -32479,7 +32487,7 @@
         ]
       },
       {
-        "Id": "PRP4055",
+        "Id": "PRP4056",
         "Exercise_id": "BDE 29-14",
         "Music_id": "EBB2022-0902",
         "Instruction": [
@@ -32487,7 +32495,7 @@
         ]
       },
       {
-        "Id": "PRP4056",
+        "Id": "PRP4057",
         "Exercise_id": "BDE 29-14",
         "Music_id": "EBB2022-1063",
         "Instruction": [
@@ -32495,7 +32503,7 @@
         ]
       },
       {
-        "Id": "PRP4057",
+        "Id": "PRP4058",
         "Exercise_id": "BDE 29-14",
         "Music_id": "EBB2022-1071",
         "Instruction": [
@@ -32503,7 +32511,7 @@
         ]
       },
       {
-        "Id": "PRP4058",
+        "Id": "PRP4059",
         "Exercise_id": "BDE 29-14",
         "Music_id": "EBB2022-2020",
         "Instruction": [
@@ -32511,7 +32519,7 @@
         ]
       },
       {
-        "Id": "PRP4059",
+        "Id": "PRP4060",
         "Exercise_id": "BDE 29-14",
         "Music_id": "EBB2022-1215",
         "Instruction": [
@@ -32519,7 +32527,7 @@
         ]
       },
       {
-        "Id": "PRP4060",
+        "Id": "PRP4061",
         "Exercise_id": "BDE 29-14",
         "Music_id": "EBB2022-1290",
         "Instruction": [
@@ -32527,7 +32535,7 @@
         ]
       },
       {
-        "Id": "PRP4061",
+        "Id": "PRP4062",
         "Exercise_id": "BDE 29-14",
         "Music_id": "EBB2022-1363",
         "Instruction": [
@@ -32535,7 +32543,7 @@
         ]
       },
       {
-        "Id": "PRP4062",
+        "Id": "PRP4063",
         "Exercise_id": "BDE 29-14",
         "Music_id": "EBB2022-1779",
         "Instruction": [
@@ -32543,7 +32551,7 @@
         ]
       },
       {
-        "Id": "PRP4063",
+        "Id": "PRP4064",
         "Exercise_id": "BDE 04-08",
         "Music_id": "EBB2022-0009",
         "Instruction": [
@@ -32551,7 +32559,7 @@
         ]
       },
       {
-        "Id": "PRP4064",
+        "Id": "PRP4065",
         "Exercise_id": "BDE 04-08",
         "Music_id": "EBB2022-0444",
         "Instruction": [
@@ -32559,7 +32567,7 @@
         ]
       },
       {
-        "Id": "PRP4065",
+        "Id": "PRP4066",
         "Exercise_id": "BDE 04-08",
         "Music_id": "EBB2022-0803",
         "Instruction": [
@@ -32567,7 +32575,7 @@
         ]
       },
       {
-        "Id": "PRP4066",
+        "Id": "PRP4067",
         "Exercise_id": "BDE 04-08",
         "Music_id": "EBB2022-0968",
         "Instruction": [
@@ -32575,7 +32583,7 @@
         ]
       },
       {
-        "Id": "PRP4067",
+        "Id": "PRP4068",
         "Exercise_id": "BDE 04-08",
         "Music_id": "EBB2022-1260",
         "Instruction": [
@@ -32583,7 +32591,7 @@
         ]
       },
       {
-        "Id": "PRP4068",
+        "Id": "PRP4069",
         "Exercise_id": "BDE 04-08",
         "Music_id": "EBB2022-1363",
         "Instruction": [
@@ -32591,7 +32599,7 @@
         ]
       },
       {
-        "Id": "PRP4069",
+        "Id": "PRP4070",
         "Exercise_id": "BDE 04-08",
         "Music_id": "EBB2022-1559",
         "Instruction": [
@@ -32599,7 +32607,7 @@
         ]
       },
       {
-        "Id": "PRP4070",
+        "Id": "PRP4071",
         "Exercise_id": "BDE 04-08",
         "Music_id": "EBB2022-1691",
         "Instruction": [
@@ -32607,7 +32615,7 @@
         ]
       },
       {
-        "Id": "PRP4071",
+        "Id": "PRP4072",
         "Exercise_id": "BDE 15-26",
         "Music_id": "EBB2022-0599",
         "Instruction": [
@@ -32615,7 +32623,7 @@
         ]
       },
       {
-        "Id": "PRP4072",
+        "Id": "PRP4073",
         "Exercise_id": "BDE 15-26",
         "Music_id": "EBB2022-1677",
         "Instruction": [
@@ -32623,7 +32631,7 @@
         ]
       },
       {
-        "Id": "PRP4073",
+        "Id": "PRP4074",
         "Exercise_id": "BDE 22-65",
         "Music_id": "EBB2022-0168",
         "Instruction": [
@@ -32631,7 +32639,7 @@
         ]
       },
       {
-        "Id": "PRP4074",
+        "Id": "PRP4075",
         "Exercise_id": "BDE 12-04",
         "Music_id": "EBB2022-1545",
         "Instruction": [
@@ -32639,7 +32647,7 @@
         ]
       },
       {
-        "Id": "PRP4075",
+        "Id": "PRP4076",
         "Exercise_id": "BDE 12-04",
         "Music_id": "EBB2022-0240",
         "Instruction": [
@@ -32647,7 +32655,7 @@
         ]
       },
       {
-        "Id": "PRP4076",
+        "Id": "PRP4077",
         "Exercise_id": "BDE 12-04",
         "Music_id": "EBB2022-0241",
         "Instruction": [
@@ -32655,7 +32663,7 @@
         ]
       },
       {
-        "Id": "PRP4077",
+        "Id": "PRP4078",
         "Exercise_id": "BDE 12-04",
         "Music_id": "EBB2022-0373",
         "Instruction": [
@@ -32663,7 +32671,7 @@
         ]
       },
       {
-        "Id": "PRP4078",
+        "Id": "PRP4079",
         "Exercise_id": "BDE 12-04",
         "Music_id": "EBB2022-0403",
         "Instruction": [
@@ -32671,7 +32679,7 @@
         ]
       },
       {
-        "Id": "PRP4079",
+        "Id": "PRP4080",
         "Exercise_id": "BDE 12-04",
         "Music_id": "EBB2022-1898",
         "Instruction": [
@@ -32679,7 +32687,7 @@
         ]
       },
       {
-        "Id": "PRP4080",
+        "Id": "PRP4081",
         "Exercise_id": "BDE 12-04",
         "Music_id": "EBB2022-0434",
         "Instruction": [
@@ -32687,7 +32695,7 @@
         ]
       },
       {
-        "Id": "PRP4081",
+        "Id": "PRP4082",
         "Exercise_id": "BDE 12-04",
         "Music_id": "EBB2022-1852",
         "Instruction": [
@@ -32695,7 +32703,7 @@
         ]
       },
       {
-        "Id": "PRP4082",
+        "Id": "PRP4083",
         "Exercise_id": "BDE 12-04",
         "Music_id": "EBB2022-0445",
         "Instruction": [
@@ -32703,7 +32711,7 @@
         ]
       },
       {
-        "Id": "PRP4083",
+        "Id": "PRP4084",
         "Exercise_id": "BDE 12-04",
         "Music_id": "EBB2022-0446",
         "Instruction": [
@@ -32711,7 +32719,7 @@
         ]
       },
       {
-        "Id": "PRP4084",
+        "Id": "PRP4085",
         "Exercise_id": "BDE 12-04",
         "Music_id": "EBB2022-0447",
         "Instruction": [
@@ -32719,7 +32727,7 @@
         ]
       },
       {
-        "Id": "PRP4085",
+        "Id": "PRP4086",
         "Exercise_id": "BDE 12-04",
         "Music_id": "EBB2022-0461",
         "Instruction": [
@@ -32727,7 +32735,7 @@
         ]
       },
       {
-        "Id": "PRP4086",
+        "Id": "PRP4087",
         "Exercise_id": "BDE 12-04",
         "Music_id": "EBB2022-0657",
         "Instruction": [
@@ -32735,7 +32743,7 @@
         ]
       },
       {
-        "Id": "PRP4087",
+        "Id": "PRP4088",
         "Exercise_id": "BDE 12-04",
         "Music_id": "EBB2022-0603",
         "Instruction": [
@@ -32743,7 +32751,7 @@
         ]
       },
       {
-        "Id": "PRP4088",
+        "Id": "PRP4089",
         "Exercise_id": "BDE 12-04",
         "Music_id": "EBB2022-0633",
         "Instruction": [
@@ -32751,7 +32759,7 @@
         ]
       },
       {
-        "Id": "PRP4089",
+        "Id": "PRP4090",
         "Exercise_id": "BDE 12-04",
         "Music_id": "EBB2022-0681",
         "Instruction": [
@@ -32759,7 +32767,7 @@
         ]
       },
       {
-        "Id": "PRP4090",
+        "Id": "PRP4091",
         "Exercise_id": "BDE 12-04",
         "Music_id": "EBB2022-0743",
         "Instruction": [
@@ -32767,7 +32775,7 @@
         ]
       },
       {
-        "Id": "PRP4091",
+        "Id": "PRP4092",
         "Exercise_id": "BDE 12-04",
         "Music_id": "EBB2022-0819",
         "Instruction": [
@@ -32775,7 +32783,7 @@
         ]
       },
       {
-        "Id": "PRP4092",
+        "Id": "PRP4093",
         "Exercise_id": "BDE 12-04",
         "Music_id": "EBB2022-0824",
         "Instruction": [
@@ -32783,7 +32791,7 @@
         ]
       },
       {
-        "Id": "PRP4093",
+        "Id": "PRP4094",
         "Exercise_id": "BDE 12-04",
         "Music_id": "EBB2022-0971",
         "Instruction": [
@@ -32791,7 +32799,7 @@
         ]
       },
       {
-        "Id": "PRP4094",
+        "Id": "PRP4095",
         "Exercise_id": "BDE 12-04",
         "Music_id": "EBB2022-0980",
         "Instruction": [
@@ -32799,7 +32807,7 @@
         ]
       },
       {
-        "Id": "PRP4095",
+        "Id": "PRP4096",
         "Exercise_id": "BDE 12-04",
         "Music_id": "EBB2022-0981",
         "Instruction": [
@@ -32807,7 +32815,7 @@
         ]
       },
       {
-        "Id": "PRP4096",
+        "Id": "PRP4097",
         "Exercise_id": "BDE 12-04",
         "Music_id": "EBB2022-0983",
         "Instruction": [
@@ -32815,7 +32823,7 @@
         ]
       },
       {
-        "Id": "PRP4097",
+        "Id": "PRP4098",
         "Exercise_id": "BDE 12-04",
         "Music_id": "EBB2022-0985",
         "Instruction": [
@@ -32823,7 +32831,7 @@
         ]
       },
       {
-        "Id": "PRP4098",
+        "Id": "PRP4099",
         "Exercise_id": "BDE 12-04",
         "Music_id": "EBB2022-0986",
         "Instruction": [
@@ -32831,7 +32839,7 @@
         ]
       },
       {
-        "Id": "PRP4099",
+        "Id": "PRP4100",
         "Exercise_id": "BDE 12-04",
         "Music_id": "EBB2022-0998",
         "Instruction": [
@@ -32839,7 +32847,7 @@
         ]
       },
       {
-        "Id": "PRP4100",
+        "Id": "PRP4101",
         "Exercise_id": "BDE 12-04",
         "Music_id": "EBB2022-1984",
         "Instruction": [
@@ -32847,7 +32855,7 @@
         ]
       },
       {
-        "Id": "PRP4101",
+        "Id": "PRP4102",
         "Exercise_id": "BDE 12-04",
         "Music_id": "EBB2022-1105",
         "Instruction": [
@@ -32857,7 +32865,7 @@
         ]
       },
       {
-        "Id": "PRP4102",
+        "Id": "PRP4103",
         "Exercise_id": "BDE 12-04",
         "Music_id": "EBB2022-1106",
         "Instruction": [
@@ -32865,17 +32873,9 @@
         ]
       },
       {
-        "Id": "PRP4103",
-        "Exercise_id": "BDE 12-04",
-        "Music_id": "EBB2022-1122",
-        "Instruction": [
-          ""
-        ]
-      },
-      {
         "Id": "PRP4104",
         "Exercise_id": "BDE 12-04",
-        "Music_id": "EBB2022-1127",
+        "Music_id": "EBB2022-1122",
         "Instruction": [
           ""
         ]
@@ -32883,7 +32883,7 @@
       {
         "Id": "PRP4105",
         "Exercise_id": "BDE 12-04",
-        "Music_id": "EBB2022-1146",
+        "Music_id": "EBB2022-1127",
         "Instruction": [
           ""
         ]
@@ -32891,7 +32891,7 @@
       {
         "Id": "PRP4106",
         "Exercise_id": "BDE 12-04",
-        "Music_id": "EBB2022-1208",
+        "Music_id": "EBB2022-1146",
         "Instruction": [
           ""
         ]
@@ -32899,7 +32899,7 @@
       {
         "Id": "PRP4107",
         "Exercise_id": "BDE 12-04",
-        "Music_id": "EBB2022-1383",
+        "Music_id": "EBB2022-1208",
         "Instruction": [
           ""
         ]
@@ -32907,13 +32907,21 @@
       {
         "Id": "PRP4108",
         "Exercise_id": "BDE 12-04",
+        "Music_id": "EBB2022-1383",
+        "Instruction": [
+          ""
+        ]
+      },
+      {
+        "Id": "PRP4109",
+        "Exercise_id": "BDE 12-04",
         "Music_id": "EBB2022-1335",
         "Instruction": [
           "(BA 2012) Synchronisation sensuelle"
         ]
       },
       {
-        "Id": "PRP4109",
+        "Id": "PRP4110",
         "Exercise_id": "BDE 12-04",
         "Music_id": "EBB2022-2050",
         "Instruction": [
@@ -32921,7 +32929,7 @@
         ]
       },
       {
-        "Id": "PRP4110",
+        "Id": "PRP4111",
         "Exercise_id": "BDE 12-04",
         "Music_id": "EBB2022-1353",
         "Instruction": [
@@ -32929,7 +32937,7 @@
         ]
       },
       {
-        "Id": "PRP4111",
+        "Id": "PRP4112",
         "Exercise_id": "BDE 12-04",
         "Music_id": "EBB2022-2051",
         "Instruction": [
@@ -32937,7 +32945,7 @@
         ]
       },
       {
-        "Id": "PRP4112",
+        "Id": "PRP4113",
         "Exercise_id": "BDE 12-04",
         "Music_id": "EBB2022-1359",
         "Instruction": [
@@ -32945,7 +32953,7 @@
         ]
       },
       {
-        "Id": "PRP4113",
+        "Id": "PRP4114",
         "Exercise_id": "BDE 12-04",
         "Music_id": "EBB2022-1372",
         "Instruction": [
@@ -32953,7 +32961,7 @@
         ]
       },
       {
-        "Id": "PRP4114",
+        "Id": "PRP4115",
         "Exercise_id": "BDE 12-04",
         "Music_id": "EBB2022-2059",
         "Instruction": [
@@ -32961,7 +32969,7 @@
         ]
       },
       {
-        "Id": "PRP4115",
+        "Id": "PRP4116",
         "Exercise_id": "BDE 12-04",
         "Music_id": "EBB2022-1424",
         "Instruction": [
@@ -32969,7 +32977,7 @@
         ]
       },
       {
-        "Id": "PRP4116",
+        "Id": "PRP4117",
         "Exercise_id": "BDE 12-04",
         "Music_id": "EBB2022-1493",
         "Instruction": [
@@ -32977,7 +32985,7 @@
         ]
       },
       {
-        "Id": "PRP4117",
+        "Id": "PRP4118",
         "Exercise_id": "BDE 12-04",
         "Music_id": "EBB2022-1510",
         "Instruction": [
@@ -32985,7 +32993,7 @@
         ]
       },
       {
-        "Id": "PRP4118",
+        "Id": "PRP4119",
         "Exercise_id": "BDE 12-04",
         "Music_id": "EBB2022-1511",
         "Instruction": [
@@ -32993,7 +33001,7 @@
         ]
       },
       {
-        "Id": "PRP4119",
+        "Id": "PRP4120",
         "Exercise_id": "BDE 12-04",
         "Music_id": "EBB2022-1513",
         "Instruction": [
@@ -33001,7 +33009,7 @@
         ]
       },
       {
-        "Id": "PRP4120",
+        "Id": "PRP4121",
         "Exercise_id": "BDE 12-04",
         "Music_id": "EBB2022-1519",
         "Instruction": [
@@ -33009,7 +33017,7 @@
         ]
       },
       {
-        "Id": "PRP4121",
+        "Id": "PRP4122",
         "Exercise_id": "BDE 12-04",
         "Music_id": "EBB2022-1603",
         "Instruction": [
@@ -33017,7 +33025,7 @@
         ]
       },
       {
-        "Id": "PRP4122",
+        "Id": "PRP4123",
         "Exercise_id": "BDE 12-04",
         "Music_id": "EBB2022-1604",
         "Instruction": [
@@ -33025,7 +33033,7 @@
         ]
       },
       {
-        "Id": "PRP4123",
+        "Id": "PRP4124",
         "Exercise_id": "BDE 12-04",
         "Music_id": "EBB2022-1682",
         "Instruction": [
@@ -33033,7 +33041,7 @@
         ]
       },
       {
-        "Id": "PRP4124",
+        "Id": "PRP4125",
         "Exercise_id": "BDE 12-04",
         "Music_id": "EBB2022-1677",
         "Instruction": [
@@ -33041,7 +33049,7 @@
         ]
       },
       {
-        "Id": "PRP4125",
+        "Id": "PRP4126",
         "Exercise_id": "BDE 12-04",
         "Music_id": "EBB2022-1685",
         "Instruction": [
@@ -33049,7 +33057,7 @@
         ]
       },
       {
-        "Id": "PRP4126",
+        "Id": "PRP4127",
         "Exercise_id": "BDE 12-04",
         "Music_id": "EBB2022-1686",
         "Instruction": [
@@ -33057,7 +33065,7 @@
         ]
       },
       {
-        "Id": "PRP4127",
+        "Id": "PRP4128",
         "Exercise_id": "BDE 12-04",
         "Music_id": "EBB2022-1695",
         "Instruction": [
@@ -33065,7 +33073,7 @@
         ]
       },
       {
-        "Id": "PRP4128",
+        "Id": "PRP4129",
         "Exercise_id": "BDE 12-05",
         "Music_id": "EBB2022-0033",
         "Instruction": [
@@ -33073,7 +33081,7 @@
         ]
       },
       {
-        "Id": "PRP4129",
+        "Id": "PRP4130",
         "Exercise_id": "BDE 12-05",
         "Music_id": "EBB2022-1762",
         "Instruction": [
@@ -33081,17 +33089,9 @@
         ]
       },
       {
-        "Id": "PRP4130",
-        "Exercise_id": "BDE 12-05",
-        "Music_id": "EBB2022-0070",
-        "Instruction": [
-          ""
-        ]
-      },
-      {
         "Id": "PRP4131",
         "Exercise_id": "BDE 12-05",
-        "Music_id": "EBB2022-0084",
+        "Music_id": "EBB2022-0070",
         "Instruction": [
           ""
         ]
@@ -33099,7 +33099,7 @@
       {
         "Id": "PRP4132",
         "Exercise_id": "BDE 12-05",
-        "Music_id": "EBB2022-0085",
+        "Music_id": "EBB2022-0084",
         "Instruction": [
           ""
         ]
@@ -33107,7 +33107,7 @@
       {
         "Id": "PRP4133",
         "Exercise_id": "BDE 12-05",
-        "Music_id": "EBB2022-0102",
+        "Music_id": "EBB2022-0085",
         "Instruction": [
           ""
         ]
@@ -33115,13 +33115,21 @@
       {
         "Id": "PRP4134",
         "Exercise_id": "BDE 12-05",
+        "Music_id": "EBB2022-0102",
+        "Instruction": [
+          ""
+        ]
+      },
+      {
+        "Id": "PRP4135",
+        "Exercise_id": "BDE 12-05",
         "Music_id": "EBB2022-0154",
         "Instruction": [
           "(HLB) Rythme sinueux et ondulant"
         ]
       },
       {
-        "Id": "PRP4135",
+        "Id": "PRP4136",
         "Exercise_id": "BDE 12-05",
         "Music_id": "EBB2022-0184",
         "Instruction": [
@@ -33129,7 +33137,7 @@
         ]
       },
       {
-        "Id": "PRP4136",
+        "Id": "PRP4137",
         "Exercise_id": "BDE 12-05",
         "Music_id": "EBB2022-0186",
         "Instruction": [
@@ -33137,7 +33145,7 @@
         ]
       },
       {
-        "Id": "PRP4137",
+        "Id": "PRP4138",
         "Exercise_id": "BDE 12-05",
         "Music_id": "EBB2022-0213",
         "Instruction": [
@@ -33145,7 +33153,7 @@
         ]
       },
       {
-        "Id": "PRP4138",
+        "Id": "PRP4139",
         "Exercise_id": "BDE 12-05",
         "Music_id": "EBB2022-1807",
         "Instruction": [
@@ -33153,7 +33161,7 @@
         ]
       },
       {
-        "Id": "PRP4139",
+        "Id": "PRP4140",
         "Exercise_id": "BDE 12-05",
         "Music_id": "EBB2022-0306",
         "Instruction": [
@@ -33161,7 +33169,7 @@
         ]
       },
       {
-        "Id": "PRP4140",
+        "Id": "PRP4141",
         "Exercise_id": "BDE 12-05",
         "Music_id": "EBB2022-1810",
         "Instruction": [
@@ -33169,7 +33177,7 @@
         ]
       },
       {
-        "Id": "PRP4141",
+        "Id": "PRP4142",
         "Exercise_id": "BDE 12-05",
         "Music_id": "EBB2022-1822",
         "Instruction": [
@@ -33177,7 +33185,7 @@
         ]
       },
       {
-        "Id": "PRP4142",
+        "Id": "PRP4143",
         "Exercise_id": "BDE 12-05",
         "Music_id": "EBB2022-0313",
         "Instruction": [
@@ -33185,7 +33193,7 @@
         ]
       },
       {
-        "Id": "PRP4143",
+        "Id": "PRP4144",
         "Exercise_id": "BDE 12-05",
         "Music_id": "EBB2022-0350",
         "Instruction": [
@@ -33193,7 +33201,7 @@
         ]
       },
       {
-        "Id": "PRP4144",
+        "Id": "PRP4145",
         "Exercise_id": "BDE 12-05",
         "Music_id": "EBB2022-0361",
         "Instruction": [
@@ -33201,7 +33209,7 @@
         ]
       },
       {
-        "Id": "PRP4145",
+        "Id": "PRP4146",
         "Exercise_id": "BDE 12-05",
         "Music_id": "EBB2022-1838",
         "Instruction": [
@@ -33209,7 +33217,7 @@
         ]
       },
       {
-        "Id": "PRP4146",
+        "Id": "PRP4147",
         "Exercise_id": "BDE 12-05",
         "Music_id": "EBB2022-0441",
         "Instruction": [
@@ -33217,7 +33225,7 @@
         ]
       },
       {
-        "Id": "PRP4147",
+        "Id": "PRP4148",
         "Exercise_id": "BDE 12-05",
         "Music_id": "EBB2022-0463",
         "Instruction": [
@@ -33225,7 +33233,7 @@
         ]
       },
       {
-        "Id": "PRP4148",
+        "Id": "PRP4149",
         "Exercise_id": "BDE 12-05",
         "Music_id": "EBB2022-0533",
         "Instruction": [
@@ -33233,7 +33241,7 @@
         ]
       },
       {
-        "Id": "PRP4149",
+        "Id": "PRP4150",
         "Exercise_id": "BDE 12-05",
         "Music_id": "EBB2022-0540",
         "Instruction": [
@@ -33241,7 +33249,7 @@
         ]
       },
       {
-        "Id": "PRP4150",
+        "Id": "PRP4151",
         "Exercise_id": "BDE 12-05",
         "Music_id": "EBB2022-0611",
         "Instruction": [
@@ -33249,7 +33257,7 @@
         ]
       },
       {
-        "Id": "PRP4151",
+        "Id": "PRP4152",
         "Exercise_id": "BDE 12-05",
         "Music_id": "EBB2022-1913",
         "Instruction": [
@@ -33257,7 +33265,7 @@
         ]
       },
       {
-        "Id": "PRP4152",
+        "Id": "PRP4153",
         "Exercise_id": "BDE 12-05",
         "Music_id": "EBB2022-1916",
         "Instruction": [
@@ -33265,7 +33273,7 @@
         ]
       },
       {
-        "Id": "PRP4153",
+        "Id": "PRP4154",
         "Exercise_id": "BDE 12-05",
         "Music_id": "EBB2022-0664",
         "Instruction": [
@@ -33273,7 +33281,7 @@
         ]
       },
       {
-        "Id": "PRP4154",
+        "Id": "PRP4155",
         "Exercise_id": "BDE 12-05",
         "Music_id": "EBB2022-0685",
         "Instruction": [
@@ -33281,7 +33289,7 @@
         ]
       },
       {
-        "Id": "PRP4155",
+        "Id": "PRP4156",
         "Exercise_id": "BDE 12-05",
         "Music_id": "EBB2022-1931",
         "Instruction": [
@@ -33289,7 +33297,7 @@
         ]
       },
       {
-        "Id": "PRP4156",
+        "Id": "PRP4157",
         "Exercise_id": "BDE 12-05",
         "Music_id": "EBB2022-0718",
         "Instruction": [
@@ -33297,7 +33305,7 @@
         ]
       },
       {
-        "Id": "PRP4157",
+        "Id": "PRP4158",
         "Exercise_id": "BDE 12-05",
         "Music_id": "EBB2022-0730",
         "Instruction": [
@@ -33305,7 +33313,7 @@
         ]
       },
       {
-        "Id": "PRP4158",
+        "Id": "PRP4159",
         "Exercise_id": "BDE 12-05",
         "Music_id": "EBB2022-0744",
         "Instruction": [
@@ -33313,7 +33321,7 @@
         ]
       },
       {
-        "Id": "PRP4159",
+        "Id": "PRP4160",
         "Exercise_id": "BDE 12-05",
         "Music_id": "EBB2022-0746",
         "Instruction": [
@@ -33321,7 +33329,7 @@
         ]
       },
       {
-        "Id": "PRP4160",
+        "Id": "PRP4161",
         "Exercise_id": "BDE 12-05",
         "Music_id": "EBB2022-0757",
         "Instruction": [
@@ -33329,7 +33337,7 @@
         ]
       },
       {
-        "Id": "PRP4161",
+        "Id": "PRP4162",
         "Exercise_id": "BDE 12-05",
         "Music_id": "EBB2022-0761",
         "Instruction": [
@@ -33337,7 +33345,7 @@
         ]
       },
       {
-        "Id": "PRP4162",
+        "Id": "PRP4163",
         "Exercise_id": "BDE 12-05",
         "Music_id": "EBB2022-0765",
         "Instruction": [
@@ -33345,7 +33353,7 @@
         ]
       },
       {
-        "Id": "PRP4163",
+        "Id": "PRP4164",
         "Exercise_id": "BDE 12-05",
         "Music_id": "EBB2022-0775",
         "Instruction": [
@@ -33353,7 +33361,7 @@
         ]
       },
       {
-        "Id": "PRP4164",
+        "Id": "PRP4165",
         "Exercise_id": "BDE 12-05",
         "Music_id": "EBB2022-0864",
         "Instruction": [
@@ -33361,7 +33369,7 @@
         ]
       },
       {
-        "Id": "PRP4165",
+        "Id": "PRP4166",
         "Exercise_id": "BDE 12-05",
         "Music_id": "EBB2022-0794",
         "Instruction": [
@@ -33369,7 +33377,7 @@
         ]
       },
       {
-        "Id": "PRP4166",
+        "Id": "PRP4167",
         "Exercise_id": "BDE 12-05",
         "Music_id": "EBB2022-0828",
         "Instruction": [
@@ -33377,7 +33385,7 @@
         ]
       },
       {
-        "Id": "PRP4167",
+        "Id": "PRP4168",
         "Exercise_id": "BDE 12-05",
         "Music_id": "EBB2022-0836",
         "Instruction": [
@@ -33385,7 +33393,7 @@
         ]
       },
       {
-        "Id": "PRP4168",
+        "Id": "PRP4169",
         "Exercise_id": "BDE 12-05",
         "Music_id": "EBB2022-0840",
         "Instruction": [
@@ -33393,7 +33401,7 @@
         ]
       },
       {
-        "Id": "PRP4169",
+        "Id": "PRP4170",
         "Exercise_id": "BDE 12-05",
         "Music_id": "EBB2022-0857",
         "Instruction": [
@@ -33401,7 +33409,7 @@
         ]
       },
       {
-        "Id": "PRP4170",
+        "Id": "PRP4171",
         "Exercise_id": "BDE 12-05",
         "Music_id": "EBB2022-0883",
         "Instruction": [
@@ -33409,7 +33417,7 @@
         ]
       },
       {
-        "Id": "PRP4171",
+        "Id": "PRP4172",
         "Exercise_id": "BDE 12-05",
         "Music_id": "EBB2022-0885",
         "Instruction": [
@@ -33417,7 +33425,7 @@
         ]
       },
       {
-        "Id": "PRP4172",
+        "Id": "PRP4173",
         "Exercise_id": "BDE 12-05",
         "Music_id": "EBB2022-0888",
         "Instruction": [
@@ -33425,7 +33433,7 @@
         ]
       },
       {
-        "Id": "PRP4173",
+        "Id": "PRP4174",
         "Exercise_id": "BDE 12-05",
         "Music_id": "EBB2022-0899",
         "Instruction": [
@@ -33433,7 +33441,7 @@
         ]
       },
       {
-        "Id": "PRP4174",
+        "Id": "PRP4175",
         "Exercise_id": "BDE 12-05",
         "Music_id": "EBB2022-0953",
         "Instruction": [
@@ -33441,7 +33449,7 @@
         ]
       },
       {
-        "Id": "PRP4175",
+        "Id": "PRP4176",
         "Exercise_id": "BDE 12-05",
         "Music_id": "EBB2022-0977",
         "Instruction": [
@@ -33449,7 +33457,7 @@
         ]
       },
       {
-        "Id": "PRP4176",
+        "Id": "PRP4177",
         "Exercise_id": "BDE 12-05",
         "Music_id": "EBB2022-0998",
         "Instruction": [
@@ -33457,7 +33465,7 @@
         ]
       },
       {
-        "Id": "PRP4177",
+        "Id": "PRP4178",
         "Exercise_id": "BDE 12-05",
         "Music_id": "EBB2022-1002",
         "Instruction": [
@@ -33465,7 +33473,7 @@
         ]
       },
       {
-        "Id": "PRP4178",
+        "Id": "PRP4179",
         "Exercise_id": "BDE 12-05",
         "Music_id": "EBB2022-1003",
         "Instruction": [
@@ -33473,7 +33481,7 @@
         ]
       },
       {
-        "Id": "PRP4179",
+        "Id": "PRP4180",
         "Exercise_id": "BDE 12-05",
         "Music_id": "EBB2022-1004",
         "Instruction": [
@@ -33481,7 +33489,7 @@
         ]
       },
       {
-        "Id": "PRP4180",
+        "Id": "PRP4181",
         "Exercise_id": "BDE 12-05",
         "Music_id": "EBB2022-1054",
         "Instruction": [
@@ -33489,7 +33497,7 @@
         ]
       },
       {
-        "Id": "PRP4181",
+        "Id": "PRP4182",
         "Exercise_id": "BDE 12-05",
         "Music_id": "EBB2022-1062",
         "Instruction": [
@@ -33497,7 +33505,7 @@
         ]
       },
       {
-        "Id": "PRP4182",
+        "Id": "PRP4183",
         "Exercise_id": "BDE 12-05",
         "Music_id": "EBB2022-1088",
         "Instruction": [
@@ -33505,7 +33513,7 @@
         ]
       },
       {
-        "Id": "PRP4183",
+        "Id": "PRP4184",
         "Exercise_id": "BDE 12-05",
         "Music_id": "EBB2022-1174",
         "Instruction": [
@@ -33513,7 +33521,7 @@
         ]
       },
       {
-        "Id": "PRP4184",
+        "Id": "PRP4185",
         "Exercise_id": "BDE 12-05",
         "Music_id": "EBB2022-2016",
         "Instruction": [
@@ -33521,7 +33529,7 @@
         ]
       },
       {
-        "Id": "PRP4185",
+        "Id": "PRP4186",
         "Exercise_id": "BDE 12-05",
         "Music_id": "EBB2022-1330",
         "Instruction": [
@@ -33529,7 +33537,7 @@
         ]
       },
       {
-        "Id": "PRP4186",
+        "Id": "PRP4187",
         "Exercise_id": "BDE 12-05",
         "Music_id": "EBB2022-1331",
         "Instruction": [
@@ -33537,7 +33545,7 @@
         ]
       },
       {
-        "Id": "PRP4187",
+        "Id": "PRP4188",
         "Exercise_id": "BDE 12-05",
         "Music_id": "EBB2022-1358",
         "Instruction": [
@@ -33545,7 +33553,7 @@
         ]
       },
       {
-        "Id": "PRP4188",
+        "Id": "PRP4189",
         "Exercise_id": "BDE 12-05",
         "Music_id": "EBB2022-1364",
         "Instruction": [
@@ -33553,7 +33561,7 @@
         ]
       },
       {
-        "Id": "PRP4189",
+        "Id": "PRP4190",
         "Exercise_id": "BDE 12-05",
         "Music_id": "EBB2022-2066",
         "Instruction": [
@@ -33561,7 +33569,7 @@
         ]
       },
       {
-        "Id": "PRP4190",
+        "Id": "PRP4191",
         "Exercise_id": "BDE 12-05",
         "Music_id": "EBB2022-1422",
         "Instruction": [
@@ -33569,7 +33577,7 @@
         ]
       },
       {
-        "Id": "PRP4191",
+        "Id": "PRP4192",
         "Exercise_id": "BDE 12-05",
         "Music_id": "EBB2022-1424",
         "Instruction": [
@@ -33577,7 +33585,7 @@
         ]
       },
       {
-        "Id": "PRP4192",
+        "Id": "PRP4193",
         "Exercise_id": "BDE 12-05",
         "Music_id": "EBB2022-1460",
         "Instruction": [
@@ -33585,7 +33593,7 @@
         ]
       },
       {
-        "Id": "PRP4193",
+        "Id": "PRP4194",
         "Exercise_id": "BDE 12-05",
         "Music_id": "EBB2022-1471",
         "Instruction": [
@@ -33593,7 +33601,7 @@
         ]
       },
       {
-        "Id": "PRP4194",
+        "Id": "PRP4195",
         "Exercise_id": "BDE 12-05",
         "Music_id": "EBB2022-1487",
         "Instruction": [
@@ -33601,7 +33609,7 @@
         ]
       },
       {
-        "Id": "PRP4195",
+        "Id": "PRP4196",
         "Exercise_id": "BDE 12-05",
         "Music_id": "EBB2022-1512",
         "Instruction": [
@@ -33609,7 +33617,7 @@
         ]
       },
       {
-        "Id": "PRP4196",
+        "Id": "PRP4197",
         "Exercise_id": "BDE 12-05",
         "Music_id": "EBB2022-1551",
         "Instruction": [
@@ -33617,7 +33625,7 @@
         ]
       },
       {
-        "Id": "PRP4197",
+        "Id": "PRP4198",
         "Exercise_id": "BDE 12-05",
         "Music_id": "EBB2022-1552",
         "Instruction": [
@@ -33625,7 +33633,7 @@
         ]
       },
       {
-        "Id": "PRP4198",
+        "Id": "PRP4199",
         "Exercise_id": "BDE 12-05",
         "Music_id": "EBB2022-1556",
         "Instruction": [
@@ -33633,7 +33641,7 @@
         ]
       },
       {
-        "Id": "PRP4199",
+        "Id": "PRP4200",
         "Exercise_id": "BDE 12-05",
         "Music_id": "EBB2022-1567",
         "Instruction": [
@@ -33641,7 +33649,7 @@
         ]
       },
       {
-        "Id": "PRP4200",
+        "Id": "PRP4201",
         "Exercise_id": "BDE 12-05",
         "Music_id": "EBB2022-1574",
         "Instruction": [
@@ -33649,7 +33657,7 @@
         ]
       },
       {
-        "Id": "PRP4201",
+        "Id": "PRP4202",
         "Exercise_id": "BDE 12-05",
         "Music_id": "EBB2022-1689",
         "Instruction": [
@@ -33657,7 +33665,7 @@
         ]
       },
       {
-        "Id": "PRP4202",
+        "Id": "PRP4203",
         "Exercise_id": "BDE 12-05",
         "Music_id": "EBB2022-1690",
         "Instruction": [
@@ -33665,7 +33673,7 @@
         ]
       },
       {
-        "Id": "PRP4203",
+        "Id": "PRP4204",
         "Exercise_id": "BDE 12-05",
         "Music_id": "EBB2022-1695",
         "Instruction": [
@@ -33673,7 +33681,7 @@
         ]
       },
       {
-        "Id": "PRP4204",
+        "Id": "PRP4205",
         "Exercise_id": "BDE 12-05",
         "Music_id": "EBB2022-1704",
         "Instruction": [
@@ -33681,7 +33689,7 @@
         ]
       },
       {
-        "Id": "PRP4205",
+        "Id": "PRP4206",
         "Exercise_id": "BDE 12-05",
         "Music_id": "EBB2022-1720",
         "Instruction": [
@@ -33689,7 +33697,7 @@
         ]
       },
       {
-        "Id": "PRP4206",
+        "Id": "PRP4207",
         "Exercise_id": "BDE 29-05",
         "Music_id": "EBB2022-0104",
         "Instruction": [
@@ -33697,7 +33705,7 @@
         ]
       },
       {
-        "Id": "PRP4207",
+        "Id": "PRP4208",
         "Exercise_id": "BDE 29-05",
         "Music_id": "EBB2022-0152",
         "Instruction": [
@@ -33705,7 +33713,7 @@
         ]
       },
       {
-        "Id": "PRP4208",
+        "Id": "PRP4209",
         "Exercise_id": "BDE 29-05",
         "Music_id": "EBB2022-0153",
         "Instruction": [
@@ -33713,7 +33721,7 @@
         ]
       },
       {
-        "Id": "PRP4209",
+        "Id": "PRP4210",
         "Exercise_id": "BDE 29-05",
         "Music_id": "EBB2022-1816",
         "Instruction": [
@@ -33721,7 +33729,7 @@
         ]
       },
       {
-        "Id": "PRP4210",
+        "Id": "PRP4211",
         "Exercise_id": "BDE 29-05",
         "Music_id": "EBB2022-1818",
         "Instruction": [
@@ -33729,7 +33737,7 @@
         ]
       },
       {
-        "Id": "PRP4211",
+        "Id": "PRP4212",
         "Exercise_id": "BDE 29-05",
         "Music_id": "EBB2022-0310",
         "Instruction": [
@@ -33737,7 +33745,7 @@
         ]
       },
       {
-        "Id": "PRP4212",
+        "Id": "PRP4213",
         "Exercise_id": "BDE 29-05",
         "Music_id": "EBB2022-0328",
         "Instruction": [
@@ -33745,7 +33753,7 @@
         ]
       },
       {
-        "Id": "PRP4213",
+        "Id": "PRP4214",
         "Exercise_id": "BDE 29-05",
         "Music_id": "EBB2022-0337",
         "Instruction": [
@@ -33753,7 +33761,7 @@
         ]
       },
       {
-        "Id": "PRP4214",
+        "Id": "PRP4215",
         "Exercise_id": "BDE 29-05",
         "Music_id": "EBB2022-0392",
         "Instruction": [
@@ -33761,7 +33769,7 @@
         ]
       },
       {
-        "Id": "PRP4215",
+        "Id": "PRP4216",
         "Exercise_id": "BDE 29-05",
         "Music_id": "EBB2022-0447",
         "Instruction": [
@@ -33769,7 +33777,7 @@
         ]
       },
       {
-        "Id": "PRP4216",
+        "Id": "PRP4217",
         "Exercise_id": "BDE 29-05",
         "Music_id": "EBB2022-0749",
         "Instruction": [
@@ -33777,7 +33785,7 @@
         ]
       },
       {
-        "Id": "PRP4217",
+        "Id": "PRP4218",
         "Exercise_id": "BDE 29-05",
         "Music_id": "EBB2022-0945",
         "Instruction": [
@@ -33785,7 +33793,7 @@
         ]
       },
       {
-        "Id": "PRP4218",
+        "Id": "PRP4219",
         "Exercise_id": "BDE 29-05",
         "Music_id": "EBB2022-0952",
         "Instruction": [
@@ -33793,7 +33801,7 @@
         ]
       },
       {
-        "Id": "PRP4219",
+        "Id": "PRP4220",
         "Exercise_id": "BDE 29-05",
         "Music_id": "EBB2022-1221",
         "Instruction": [
@@ -33801,7 +33809,7 @@
         ]
       },
       {
-        "Id": "PRP4220",
+        "Id": "PRP4221",
         "Exercise_id": "BDE 29-05",
         "Music_id": "EBB2022-1989",
         "Instruction": [
@@ -33809,7 +33817,7 @@
         ]
       },
       {
-        "Id": "PRP4221",
+        "Id": "PRP4222",
         "Exercise_id": "BDE 29-05",
         "Music_id": "EBB2022-2003",
         "Instruction": [
@@ -33817,7 +33825,7 @@
         ]
       },
       {
-        "Id": "PRP4222",
+        "Id": "PRP4223",
         "Exercise_id": "BDE 29-05",
         "Music_id": "EBB2022-1122",
         "Instruction": [
@@ -33825,7 +33833,7 @@
         ]
       },
       {
-        "Id": "PRP4223",
+        "Id": "PRP4224",
         "Exercise_id": "BDE 29-05",
         "Music_id": "EBB2022-1140",
         "Instruction": [
@@ -33833,7 +33841,7 @@
         ]
       },
       {
-        "Id": "PRP4224",
+        "Id": "PRP4225",
         "Exercise_id": "BDE 29-05",
         "Music_id": "EBB2022-1142",
         "Instruction": [
@@ -33841,7 +33849,7 @@
         ]
       },
       {
-        "Id": "PRP4225",
+        "Id": "PRP4226",
         "Exercise_id": "BDE 29-05",
         "Music_id": "EBB2022-1286",
         "Instruction": [
@@ -33849,7 +33857,7 @@
         ]
       },
       {
-        "Id": "PRP4226",
+        "Id": "PRP4227",
         "Exercise_id": "BDE 29-05",
         "Music_id": "EBB2022-2041",
         "Instruction": [
@@ -33857,7 +33865,7 @@
         ]
       },
       {
-        "Id": "PRP4227",
+        "Id": "PRP4228",
         "Exercise_id": "BDE 29-05",
         "Music_id": "EBB2022-1663",
         "Instruction": [
@@ -33865,7 +33873,7 @@
         ]
       },
       {
-        "Id": "PRP4228",
+        "Id": "PRP4229",
         "Exercise_id": "BDE 29-05",
         "Music_id": "EBB2022-1736",
         "Instruction": [
@@ -33873,7 +33881,7 @@
         ]
       },
       {
-        "Id": "PRP4229",
+        "Id": "PRP4230",
         "Exercise_id": "BDE 21-13",
         "Music_id": "EBB2022-9901",
         "Instruction": [
@@ -33881,7 +33889,7 @@
         ]
       },
       {
-        "Id": "PRP4230",
+        "Id": "PRP4231",
         "Exercise_id": "BDE 26-09",
         "Music_id": "EBB2022-0044",
         "Instruction": [
@@ -33889,7 +33897,7 @@
         ]
       },
       {
-        "Id": "PRP4231",
+        "Id": "PRP4232",
         "Exercise_id": "BDE 26-09",
         "Music_id": "EBB2022-0047",
         "Instruction": [
@@ -33897,7 +33905,7 @@
         ]
       },
       {
-        "Id": "PRP4232",
+        "Id": "PRP4233",
         "Exercise_id": "BDE 26-09",
         "Music_id": "EBB2022-0091",
         "Instruction": [
@@ -33905,7 +33913,7 @@
         ]
       },
       {
-        "Id": "PRP4233",
+        "Id": "PRP4234",
         "Exercise_id": "BDE 26-09",
         "Music_id": "EBB2022-0178",
         "Instruction": [
@@ -33913,7 +33921,7 @@
         ]
       },
       {
-        "Id": "PRP4234",
+        "Id": "PRP4235",
         "Exercise_id": "BDE 26-09",
         "Music_id": "EBB2022-0227",
         "Instruction": [
@@ -33921,7 +33929,7 @@
         ]
       },
       {
-        "Id": "PRP4235",
+        "Id": "PRP4236",
         "Exercise_id": "BDE 26-09",
         "Music_id": "EBB2022-0301",
         "Instruction": [
@@ -33929,7 +33937,7 @@
         ]
       },
       {
-        "Id": "PRP4236",
+        "Id": "PRP4237",
         "Exercise_id": "BDE 26-09",
         "Music_id": "EBB2022-1110",
         "Instruction": [
@@ -33937,7 +33945,7 @@
         ]
       },
       {
-        "Id": "PRP4237",
+        "Id": "PRP4238",
         "Exercise_id": "BDE 26-09",
         "Music_id": "EBB2022-0420",
         "Instruction": [
@@ -33945,7 +33953,7 @@
         ]
       },
       {
-        "Id": "PRP4238",
+        "Id": "PRP4239",
         "Exercise_id": "BDE 26-09",
         "Music_id": "EBB2022-0595",
         "Instruction": [
@@ -33953,7 +33961,7 @@
         ]
       },
       {
-        "Id": "PRP4239",
+        "Id": "PRP4240",
         "Exercise_id": "BDE 26-09",
         "Music_id": "EBB2022-0839",
         "Instruction": [
@@ -33961,7 +33969,7 @@
         ]
       },
       {
-        "Id": "PRP4240",
+        "Id": "PRP4241",
         "Exercise_id": "BDE 26-09",
         "Music_id": "EBB2022-0966",
         "Instruction": [
@@ -33969,7 +33977,7 @@
         ]
       },
       {
-        "Id": "PRP4241",
+        "Id": "PRP4242",
         "Exercise_id": "BDE 16-03",
         "Music_id": "EBB2022-0343",
         "Instruction": [
@@ -33977,7 +33985,7 @@
         ]
       },
       {
-        "Id": "PRP4242",
+        "Id": "PRP4243",
         "Exercise_id": "BDE 16-03",
         "Music_id": "EBB2022-0430",
         "Instruction": [
@@ -33985,7 +33993,7 @@
         ]
       },
       {
-        "Id": "PRP4243",
+        "Id": "PRP4244",
         "Exercise_id": "BDE 16-03",
         "Music_id": "EBB2022-0701",
         "Instruction": [
@@ -33993,7 +34001,7 @@
         ]
       },
       {
-        "Id": "PRP4244",
+        "Id": "PRP4245",
         "Exercise_id": "BDE 16-03",
         "Music_id": "EBB2022-0839",
         "Instruction": [
@@ -34001,7 +34009,7 @@
         ]
       },
       {
-        "Id": "PRP4245",
+        "Id": "PRP4246",
         "Exercise_id": "BDE 16-03",
         "Music_id": "EBB2022-1035",
         "Instruction": [
@@ -34009,7 +34017,7 @@
         ]
       },
       {
-        "Id": "PRP4246",
+        "Id": "PRP4247",
         "Exercise_id": "BDE 16-03",
         "Music_id": "EBB2022-1064",
         "Instruction": [
@@ -34017,7 +34025,7 @@
         ]
       },
       {
-        "Id": "PRP4247",
+        "Id": "PRP4248",
         "Exercise_id": "BDE 16-03",
         "Music_id": "EBB2022-1131",
         "Instruction": [
@@ -34025,7 +34033,7 @@
         ]
       },
       {
-        "Id": "PRP4248",
+        "Id": "PRP4249",
         "Exercise_id": "BDE 16-03",
         "Music_id": "EBB2022-1171",
         "Instruction": [
@@ -34033,7 +34041,7 @@
         ]
       },
       {
-        "Id": "PRP4249",
+        "Id": "PRP4250",
         "Exercise_id": "BDE 16-03",
         "Music_id": "EBB2022-1371",
         "Instruction": [
@@ -34041,7 +34049,7 @@
         ]
       },
       {
-        "Id": "PRP4250",
+        "Id": "PRP4251",
         "Exercise_id": "BDE 16-03",
         "Music_id": "EBB2022-1612",
         "Instruction": [
@@ -34049,7 +34057,7 @@
         ]
       },
       {
-        "Id": "PRP4251",
+        "Id": "PRP4252",
         "Exercise_id": "BDE 16-03",
         "Music_id": "EBB2022-1623",
         "Instruction": [
@@ -34057,7 +34065,7 @@
         ]
       },
       {
-        "Id": "PRP4252",
+        "Id": "PRP4253",
         "Exercise_id": "BDE 16-03",
         "Music_id": "EBB2022-1655",
         "Instruction": [
@@ -34065,7 +34073,7 @@
         ]
       },
       {
-        "Id": "PRP4253",
+        "Id": "PRP4254",
         "Exercise_id": "BDE 03-05",
         "Music_id": "EBB2022-0542",
         "Instruction": [
@@ -34073,7 +34081,7 @@
         ]
       },
       {
-        "Id": "PRP4254",
+        "Id": "PRP4255",
         "Exercise_id": "BDE 03-05",
         "Music_id": "EBB2022-0805",
         "Instruction": [
@@ -34081,7 +34089,7 @@
         ]
       },
       {
-        "Id": "PRP4255",
+        "Id": "PRP4256",
         "Exercise_id": "BDE 03-05",
         "Music_id": "EBB2022-0951",
         "Instruction": [
@@ -34089,7 +34097,7 @@
         ]
       },
       {
-        "Id": "PRP4256",
+        "Id": "PRP4257",
         "Exercise_id": "BDE 03-05",
         "Music_id": "EBB2022-1049",
         "Instruction": [
@@ -34097,7 +34105,7 @@
         ]
       },
       {
-        "Id": "PRP4257",
+        "Id": "PRP4258",
         "Exercise_id": "BDE 03-05",
         "Music_id": "EBB2022-1206",
         "Instruction": [
@@ -34105,7 +34113,7 @@
         ]
       },
       {
-        "Id": "PRP4258",
+        "Id": "PRP4259",
         "Exercise_id": "BDE 03-05",
         "Music_id": "EBB2022-1381",
         "Instruction": [
@@ -34113,7 +34121,7 @@
         ]
       },
       {
-        "Id": "PRP4259",
+        "Id": "PRP4260",
         "Exercise_id": "BDE 03-05",
         "Music_id": "EBB2022-1300",
         "Instruction": [
@@ -34121,7 +34129,7 @@
         ]
       },
       {
-        "Id": "PRP4260",
+        "Id": "PRP4261",
         "Exercise_id": "BDE 14-06",
         "Music_id": "EBB2022-1320",
         "Instruction": [
@@ -34129,7 +34137,7 @@
         ]
       },
       {
-        "Id": "PRP4261",
+        "Id": "PRP4262",
         "Exercise_id": "BDE 04-09",
         "Music_id": "EBB2022-0070",
         "Instruction": [
@@ -34137,7 +34145,7 @@
         ]
       },
       {
-        "Id": "PRP4262",
+        "Id": "PRP4263",
         "Exercise_id": "BDE 04-09",
         "Music_id": "EBB2022-0210",
         "Instruction": [
@@ -34145,7 +34153,7 @@
         ]
       },
       {
-        "Id": "PRP4263",
+        "Id": "PRP4264",
         "Exercise_id": "BDE 04-09",
         "Music_id": "EBB2022-1605",
         "Instruction": [
@@ -34153,7 +34161,7 @@
         ]
       },
       {
-        "Id": "PRP4264",
+        "Id": "PRP4265",
         "Exercise_id": "BDE 04-09",
         "Music_id": "EBB2022-0456",
         "Instruction": [
@@ -34161,7 +34169,7 @@
         ]
       },
       {
-        "Id": "PRP4265",
+        "Id": "PRP4266",
         "Exercise_id": "BDE 04-09",
         "Music_id": "EBB2022-0569",
         "Instruction": [
@@ -34169,7 +34177,7 @@
         ]
       },
       {
-        "Id": "PRP4266",
+        "Id": "PRP4267",
         "Exercise_id": "BDE 04-09",
         "Music_id": "EBB2022-1925",
         "Instruction": [
@@ -34177,7 +34185,7 @@
         ]
       },
       {
-        "Id": "PRP4267",
+        "Id": "PRP4268",
         "Exercise_id": "BDE 04-09",
         "Music_id": "EBB2022-0783",
         "Instruction": [
@@ -34185,7 +34193,7 @@
         ]
       },
       {
-        "Id": "PRP4268",
+        "Id": "PRP4269",
         "Exercise_id": "BDE 04-09",
         "Music_id": "EBB2022-0889",
         "Instruction": [
@@ -34193,7 +34201,7 @@
         ]
       },
       {
-        "Id": "PRP4269",
+        "Id": "PRP4270",
         "Exercise_id": "BDE 04-09",
         "Music_id": "EBB2022-1183",
         "Instruction": [
@@ -34201,7 +34209,7 @@
         ]
       },
       {
-        "Id": "PRP4270",
+        "Id": "PRP4271",
         "Exercise_id": "BDE 04-09",
         "Music_id": "EBB2022-1559",
         "Instruction": [
@@ -34209,7 +34217,7 @@
         ]
       },
       {
-        "Id": "PRP4271",
+        "Id": "PRP4272",
         "Exercise_id": "BDE 04-09",
         "Music_id": "EBB2022-1691",
         "Instruction": [
@@ -68722,6 +68730,19 @@
           ""
         ],
         "BPM": 99,
+        "Music_Sha256": ""
+      },
+      {
+        "Id": "EBB2024-0003",
+        "Title": "Qué Vendrá",
+        "Artist": "Zaz",
+        "Duration": "02:57",
+        "Origin_code": "HLB 29-01",
+        "File": "EBB/EBB2024-0003.mp3",
+        "Tags": [
+          ""
+        ],
+        "BPM": 88,
         "Music_Sha256": ""
       },
       {
