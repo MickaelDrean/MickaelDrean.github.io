@@ -1,7 +1,7 @@
 {
   "forceWebmail": false,
-  "cataloguePath": "assets/json/ERTMED-PrototypeDataModel.json",
-  "demoCataloguePath": "assets/json/DemonstrationsMED-PrototypeDataModel.json",
+  "cataloguePath": "assets/json/catalog/ERTMED-PrototypeDataModel.json",
+  "demoCataloguePath": "assets/json/demoCatalog/DemonstrationsMED-PrototypeDataModel.json",
   "appDataDirectory": "",
   "logFilePath": "",
   "logLevel": "all",
