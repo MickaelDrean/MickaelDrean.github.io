@@ -1,7 +1,7 @@
 {
   "forceWebmail": false,
   "cataloguePath": "assets/json/ERTMED-PrototypeDataModel.json",
-  "demoCataloguePath": "assets/json/DemonstrationCatalogueMED-230627064605_old.json",
+  "demoCataloguePath": "assets/json/DemonstrationsMED-PrototypeDataModel.json",
   "appDataDirectory": "",
   "logFilePath": "",
   "logLevel": "all",
@@ -10,5 +10,6 @@
   "onlineDemoPath": "https://biodanza-dzv.fr/wp-content/uploads/2023/04/",
   "localMusicPath": "C:/WORK/Save_Site",
   "localDemoPath": "C:/WORK/Save_Site",
-  "disable_maximize_at_startup": false
+  "disable_maximize_at_startup": false,
+  "multi_catalogue" : true
 }
