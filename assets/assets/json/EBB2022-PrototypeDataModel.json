@@ -5,6 +5,8 @@
     "Author": "Pierre-Henri DELECOURT et Julie LEBRETON",
     "Creation_date": "01/05/2022",
     "Last_update_date": "01/05/2022",
+    "Language": "FR",
+    "Demo_catalogue": "DemonstrationsMED-PrototypeDataModel-ForEBB.json",
     "Propositions": [
       {
         "Id": "PRP001",

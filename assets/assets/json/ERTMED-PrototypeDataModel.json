@@ -5,6 +5,8 @@
     "Author": "Hélène LEVY BENSEFT",
     "Creation_date": "07/04/2021",
     "Last_update_date": "07/04/2021",
+    "Language": "FR",
+    "Demo_catalogue": "DemonstrationsMED-PrototypeDataModel.json",
     "Propositions": [
       {
         "Id": "PRP001",

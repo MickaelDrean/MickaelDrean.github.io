@@ -1,10 +1,12 @@
 {
 "Catalogues": [
   {
-    "Name": "EBB 2022",
+    "Name": "EBBA 2024",
     "Author": "Pierre-Henri DELECOURT et Julie LEBRETON et EBBA",
     "Creation_date": "06/12/2024",
     "Last_update_date": "06/12/2024",
+    "Language": "FR",
+    "Demo_catalogue": "DemonstrationsMED-PrototypeDataModel-ForEBB.json",
     "Propositions": [
       {
         "Id": "PRP001",

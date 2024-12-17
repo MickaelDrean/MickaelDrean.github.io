@@ -5,6 +5,8 @@
     "Author": "Equipas CIMEB",
     "Creation_date": "01/02/2012",
     "Last_update_date": "01/02/2012",
+    "Language": "PT",
+    "Demo_catalogue": "DemonstrationsMED-PT-PrototypeDataModel.json",
     "Propositions": [
       {
         "Id": "PRP001",
