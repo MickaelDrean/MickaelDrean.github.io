@@ -6,6 +6,7 @@
     "Creation_date": "27/02/2024",
     "Last_update_date": "27/02/2024",
     "Language": "FR",
+    "Demo_catalogue": "DemonstrationsMED-PrototypeDataModel.json",
     "Propositions": [
       {
         "Id": "PRP001",
