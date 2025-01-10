@@ -12,5 +12,5 @@
   "localDemoPath": "C:/WORK/Save_Site",
   "disable_maximize_at_startup": false,
   "multi_catalogue": false,
-  "autosave": false
+  "autosave": true
 }
