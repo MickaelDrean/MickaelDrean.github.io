@@ -28,7 +28,7 @@ const RESOURCES = {"icons/Icon-maskable-192.png": "e9f836ce3e007e44c37633d1a78a7
 "assets/assets/json/catalog/CIMEB2012-DataBaseDataModel-OnLineFiles.json": "3aaa3331923a199f7cafcdbadec5bd06",
 "assets/assets/json/catalog/ERTMED-PrototypeDataModel-Windows.json": "229d5739efdd93b915fa8abd7045cdd2",
 "assets/assets/portugese.png": "43f2ff9e7759db969836d582ddb124d6",
-"assets/assets/cfg/hash.txt": "085e4dbb7828e03d33e91ae3f0225cd6",
+"assets/assets/cfg/hash.txt": "1ced9385da4f25084cf42fc10039cc1f",
 "assets/assets/cfg/app_settings.json": "fcfdfaee6bde8e6074b0707a0e24709a",
 "assets/assets/danse_icon.png": "2a102bd1e4a47de910497ceb623491e0",
 "assets/assets/spanish.png": "f54a4d62d5f0b70d478170d636ca6f3d",
@@ -65,8 +65,8 @@ const RESOURCES = {"icons/Icon-maskable-192.png": "e9f836ce3e007e44c37633d1a78a7
 "/": "335f88bdb0385c9c43abda72c01bc072",
 "flutter.js": "f393d3c16b631f36852323de8e583132",
 "favicon.png": "d0239789fe665a20ba5516876aa6dd6d",
-"flutter_bootstrap.js": "319cfee48645c8d1fac2dcd60d64bf2d",
-"main.dart.js": "bde4a03b25298094e50d4fc36a094a3f"};
+"flutter_bootstrap.js": "69bbc8fa285f2a7a5e415d3fb8051471",
+"main.dart.js": "76f9bbffc11ddf3f7a3b70c7aea1e720"};
 // The application shell files that are downloaded before a service worker can
 // start.
 const CORE = ["main.dart.js",
