@@ -33245,8 +33245,7 @@ aiG:function aiG(a){this.a=a},
 aiI:function aiI(a){this.a=a},
 aiJ:function aiJ(a){this.a=a},
 aiK:function aiK(a){this.a=a},
-aiB:function aiB(a,b){this.a=a
-this.b=b},
+aiB:function aiB(a){this.a=a},
 aiC:function aiC(a){this.a=a},
 aiD:function aiD(a){this.a=a},
 aiE:function aiE(){},
@@ -117574,21 +117573,21 @@ o=m.a
 s=l?2:4
 break
 case 2:o.ac(B.j,"onSave AnimationEvent rename",new A.O(Date.now(),0,!1))
-s=5
-return A.v(q.Bk(p.Q),$async$wj)
-case 5:l=p.Q
-o=q.ax.a
-o===$&&A.c()
-n=p.a
-m.a.ac(B.j,"Animation Repository will rename "+o+"/"+l+".json to "+o+"/"+n+".json",new A.O(Date.now(),0,!1))
-p.Q=p.a
-n=p.c
-n===$&&A.c()
+l=p.c
+l===$&&A.c()
 o=p.b
 o===$&&A.c()
-s=6
-return A.v(q.pa(p,n,o),$async$wj)
-case 6:s=3
+s=5
+return A.v(q.pa(p,l,o),$async$wj)
+case 5:s=6
+return A.v(q.Bk(p.Q),$async$wj)
+case 6:o=p.Q
+l=q.ax.a
+l===$&&A.c()
+n=p.a
+m.a.ac(B.j,"Animation Repository will rename "+l+"/"+o+".json to "+l+"/"+n+".json",new A.O(Date.now(),0,!1))
+p.Q=p.a
+s=3
 break
 case 4:o.ac(B.j,"onSave AnimationEvent save",new A.O(Date.now(),0,!1))
 s=7
@@ -117647,7 +117646,7 @@ s=2
 return A.v(q.mb(),$async$pa)
 case 2:p=e
 j=J.c4(p)
-k=j.hZ(p,new A.aiB(a,b))
+k=j.hZ(p,new A.aiB(a))
 if(A.a2(k,!0,k.$ti.h("w.E")).length>0){k=j.hZ(p,new A.aiC(a))
 o=new A.f8(k,new A.aiD(a),k.$ti.h("f8<1,m>")).ic(0,0,new A.aiE())
 a.a=a.a+" ("+(o+1)+")"}n=j.hZ(p,new A.aiF(a))
@@ -117738,7 +117737,7 @@ $1(a){return a.a===this.a.a},
 $S:61}
 A.aiB.prototype={
 $1(a){var s=A.bV("^"+A.yb(this.a.a)+"(\\s\\((\\d|[1-9]\\d)\\))?$",!0,!1,!1)
-return s.b.test(a.a)&&a.e!==this.b.a},
+return s.b.test(a.a)},
 $S:61}
 A.aiC.prototype={
 $1(a){var s=A.bV("^"+A.yb(this.a.a)+"(\\s\\((\\d|[1-9]\\d)\\))?$",!0,!1,!1)
