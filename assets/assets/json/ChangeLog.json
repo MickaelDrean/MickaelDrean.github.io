@@ -2,43 +2,101 @@
     "Version_date": "07-10-2024 21h",
     "ChangeLog": [
         {
+            "Name": "Beta3",
+            "Date": "11/02/2025",
+            "Description": [
+                {
+                    "language": "FR",
+                    "text": [
+                        "Trois modes pour créer/modifier une proposition : j'explore (catalogue), je sais (autocomplétion), j'affine (table avec écoute précédente et suivante)",
+                        "Amélioration fonctionnement de la liste des propositions : scroll automatique, déplacement proposition par raccourci clavier, mise en évidence de la proposition survolée",
+                        "Recherche avec mots clés, contenus de champs, ou expression exacte entre guillemets dans les séances et le catalogue",
+                        "Maintien visible des informations de la séances quand la fenêtre est retaillée",
+                        "Gestion des sauvegardes des informations d'une séance : automatique ou avec messages de confirmation",
+                        "Correction du renommage et de la suppression des séances"
+                    ]
+                },
+                {
+                    "language": "PT",
+                    "text": [
+                        "Três modos para criar/modificar uma proposta: eu exploro (catálogo), eu sei (autocompletar), eu aprimoro (tabela com escuta anterior e seguinte)",  
+                        "Melhoria no funcionamento da lista de propostas: rolagem automática, mover uma proposta por atalho de teclado, destacar a proposta sob o cursor",  
+                        "Pesquisa com palavras-chave, conteúdo de campos ou expressão exata entre aspas nas sessões e no catálogo",  
+                        "Manter visíveis as informações da sessão ao redimensionar a janela",  
+                        "Gerenciamento do salvamento das informações de uma sessão: automático ou com mensagens de confirmação",  
+                        "Correção da renomeação e exclusão de sessões"  
+                    ]
+                },
+                {
+                    "language": "ES",
+                    "text": [
+                        "Tres modos para crear/modificar una propuesta: exploro (catálogo), sé (autocompletado), refino (tabla con escucha de las músicas anterior y siguiente)",  
+                        "Mejorado el funcionamiento de la lista de propuestas: desplazamiento automático, mover una propuesta con atajo de teclado, resaltar la propuesta sobre la que se pasa el cursor",  
+                        "Búsqueda con palabras clave, contenido de campos o expresión exacta entre comillas en sesiones y en el catálogo",  
+                        "Mantener visible la información de la sesión al redimensionar la ventana",  
+                        "Gestión de guardado de información de una sesión: automática o con mensajes de confirmación",  
+                        "Corrección del cambio de nombre y eliminación de sesiones"  
+                    ]
+                },
+                {
+                    "language": "EN",
+                    "text": [
+                        "Three modes to create/modify a proposition: I explore (catalog), I know (autocomplete), I refine (table with previous and next proposition music listening)",  
+                        "Improved functionality of the propositions list: automatic scrolling, moving a proposition via keyboard shortcut, highlighting the hovered proposition",  
+                        "Search with keywords, field contents, or exact expression in quotes in session list aas weel as in the catalog",  
+                        "Session information remains visible when resizing the window",  
+                        "Management of session information saves: automatic or with confirmation messages",  
+                        "Fixed renaming and deleting sessions"
+                    ]
+                }
+            ]
+        },
+        {
             "Name": "Beta2",
-            "Date": "3/12/20224",
+            "Date": "3/12/2024",
             "Description": [
                 {
                     "language": "FR",
                     "text": [
                         "Ajout vision horizontale des séances",
                         "Ajout barre espace pour jouer/arrêter une musique dans une séance",
-                        "Correction …",
-                        "Correction …"
+                        "Correction fenêtre non visible sous Windows",
+                        "Mise en évidence lignes musiques et exercices dans le catalogue",
+                        "Plus possible de jouer deux musiques en même temps",
+                        "Ajout de racourcis clavier pour se déplacer dans les propositions"
                     ]
                 },
                 {
                     "language": "PT",
                     "text": [
-                        "PT - Ajout vision horizontale des séances",
-                        "PT - Ajout barre espace pour jouer/arrêter une musique dans une séance",
-                        "PT - Correction …",
-                        "PT - Correction …"
+                        "Adicionada visão horizontal das sessões",  
+                        "Adicionada barra de espaço para tocar/parar uma música em uma sessão",  
+                        "Corrigida a janela não visível no Windows",  
+                        "Destacadas as linhas de músicas e exercícios no catálogo",  
+                        "Não é mais possível tocar duas músicas ao mesmo tempo",  
+                        "Adicionados atalhos de teclado para navegar entre as propostas"
                     ]
                 },
                 {
                     "language": "ES",
                     "text": [
-                        "ES - Ajout vision horizontale des séances",
-                        "ES - Ajout barre espace pour jouer/arrêter une musique dans une séance",
-                        "ES - Correction …",
-                        "ES - Correction …"
+                        "Se agregó la vista horizontal de sesiones",  
+                        "Se agregó la barra espaciadora para reproducir/detener una pista de música en una sesión",  
+                        "Se corrigió el problema de la ventana no visible en Windows",  
+                        "Se resaltaron las líneas de música y ejercicios en el catálogo",  
+                        "Ya no es posible reproducir dos pistas de música al mismo tiempo",  
+                        "Se agregaron atajos de teclado para navegar entre las propuestas"
                     ]
                 },
                 {
                     "language": "EN",
                     "text": [
-                        "EN - Ajout vision horizontale des séances",
-                        "EN - Ajout barre espace pour jouer/arrêter une musique dans une séance",
-                        "EN - Correction …",
-                        "EN - Correction …"
+                        "Added horizontal view of sessions",  
+                        "Added spacebar to play/stop a music track in a session",  
+                        "Fixed window not visible on Windows",  
+                        "Highlighted music and exercise lines in the catalog",  
+                        "No longer possible to play two music tracks at the same time",  
+                        "Added keyboard shortcuts to navigate through propositions"
                     ]
                 }
             ]

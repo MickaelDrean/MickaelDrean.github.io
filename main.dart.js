@@ -102296,12 +102296,12 @@ gCq(){return"Save & exit"},
 gHe(){return"Confirmer closure"},
 gHd(){return"Are you sure you want to leave the application?"},
 gK1(){return"Delete session"},
-K0(a){return"Are you sure you want to delete the session: "+a},
+K0(a){return'Are you sure you want to delete the session "'+a+'"'},
 gJW(){return"Delete"},
 gwZ(){return"Unsaved changes"},
 gCl(){return"Do you want to apply and save the changes?"},
-xx(a,b){return"A session named "+a+" already exists.\nPlease confirm the renaming to "+b+"."},
-G0(a,b){return"Version "+a+" du "+b}}
+xx(a,b){return'A session named "'+a+'" already exists.\nPlease confirm the renaming to "'+b+'".'},
+G0(a,b){return"Version "+a+" from "+b}}
 A.ST.prototype={
 gkl(){return"dd/MM/yyyy"},
 I7(a){return"\xdaltima apertura: "+A.j8(this.a).du(a)},
@@ -102459,12 +102459,12 @@ gCq(){return"Guardar & salir"},
 gHe(){return"Confirmar cierre"},
 gHd(){return"\xbfEst\xe1s seguro de que quieres abandonar la aplicaci\xf3n?"},
 gK1(){return"Eliminar sesi\xf3n"},
-K0(a){return"\xbfEst\xe1 seguro de que desea eliminar la sesi\xf3n: "+a},
+K0(a){return'\xbfEst\xe1 seguro de que desea eliminar la sesi\xf3n "'+a+'"'},
 gJW(){return"Eliminar"},
 gwZ(){return"Cambios no guardados"},
 gCl(){return"\xbfDesea aplicar y guardar los cambios?"},
-xx(a,b){return"Ya existe una sesi\xf3n llamada "+a+".\n Por favor, confirme el cambio de nombre a "+b+"."},
-G0(a,b){return"Version "+a+" du "+b}}
+xx(a,b){return'Ya existe una sesi\xf3n llamada "'+a+'".\nPor favor, confirme el cambio de nombre a "'+b+'".'},
+G0(a,b){return"Versi\xf3n "+a+" de "+b}}
 A.SU.prototype={
 gkl(){return"dd/MM/yyyy"},
 I7(a){return"Derni\xe8re ouverture : "+A.j8(this.a).du(a)},
@@ -102622,11 +102622,11 @@ gCq(){return"Enregistrer et quitter"},
 gHe(){return"Confirmer la fermeture"},
 gHd(){return"\xcates-vous s\xfbr de vouloir quitter l'application ?"},
 gK1(){return"Suppression de s\xe9ance"},
-K0(a){return"Etes-vous sur de vouloir supprimer la s\xe9ance : "+a},
+K0(a){return'Etes-vous sur de vouloir supprimer la s\xe9ance "'+a+'"'},
 gJW(){return"Supprimer"},
 gwZ(){return"Changements non appliqu\xe9s"},
 gCl(){return"Voulez vous appliquer et enregistrer les changements ?"},
-xx(a,b){return"Il existe d\xe9j\xe0 une s\xe9ance "+a+".\n Veuillez confirmer le renommage en "+b+"."},
+xx(a,b){return'Il existe d\xe9j\xe0 une s\xe9ance "'+a+'".\nVeuillez confirmer le renommage en "'+b+'".'},
 G0(a,b){return"Version "+a+" du "+b}}
 A.SV.prototype={
 gkl(){return"dd/MM/yyyy"},
@@ -102785,12 +102785,12 @@ gCq(){return"Salvar & sair"},
 gHe(){return"Confirmar o fechamento"},
 gHd(){return"Tem certeza de que deseja sair do aplicativo?"},
 gK1(){return"Excluir sess\xe3o"},
-K0(a){return"Tem certeza que deseja excluir a sess\xe3o: "+a},
+K0(a){return'Tem certeza que deseja excluir a sess\xe3o "'+a+'"'},
 gJW(){return"Excluir"},
 gwZ(){return"Altera\xe7\xf5es n\xe3o salvas"},
 gCl(){return"Deseja aplicar e salvar as altera\xe7\xf5es?"},
-xx(a,b){return"J\xe1 existe uma sess\xe3o chamada "+a+".\n Por favor, confirme a renomea\xe7\xe3o para "+b+"."},
-G0(a,b){return"Version "+a+" du "+b}}
+xx(a,b){return'J\xe1 existe uma sess\xe3o chamada "'+a+'".\nPor favor, confirme a renomea\xe7\xe3o para "'+b+'".'},
+G0(a,b){return"Vers\xe3o "+a+" de "+b}}
 A.b6J.prototype={
 $2(a,b){return this.a.a(a+b)},
 $S(){return this.a.h("0(0,0)")}}
