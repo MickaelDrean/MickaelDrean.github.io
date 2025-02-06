@@ -117971,21 +117971,21 @@ o=m.a
 s=l?2:4
 break
 case 2:o.ab(B.j,"onSave AnimationEvent rename",new A.L(Date.now(),0,!1))
-l=p.c
-l===$&&A.c()
+s=5
+return A.v(q.BB(p.as),$async$wx)
+case 5:l=p.as
+o=q.ax.a
+o===$&&A.c()
+n=p.a
+m.a.ab(B.j,"Animation Repository will rename "+o+"/"+l+".json to "+o+"/"+n+".json",new A.L(Date.now(),0,!1))
+p.as=p.a
+n=p.c
+n===$&&A.c()
 o=p.b
 o===$&&A.c()
-s=5
-return A.v(q.nB(p,l,o),$async$wx)
-case 5:s=6
-return A.v(q.BB(p.as),$async$wx)
-case 6:o=p.as
-l=q.ax.a
-l===$&&A.c()
-n=p.a
-m.a.ab(B.j,"Animation Repository will rename "+l+"/"+o+".json to "+l+"/"+n+".json",new A.L(Date.now(),0,!1))
-p.as=p.a
-s=3
+s=6
+return A.v(q.nB(p,n,o),$async$wx)
+case 6:s=3
 break
 case 4:o.ab(B.j,"onSave AnimationEvent save",new A.L(Date.now(),0,!1))
 s=7
