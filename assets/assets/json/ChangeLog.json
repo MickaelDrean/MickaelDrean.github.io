@@ -5,10 +5,42 @@
             "Name": "Beta2",
             "Date": "3/12/20224",
             "Description": [
-                "Ajout vision horizontale des séances",
-                "Ajout barre espace pour jouer/arrêter une musique dans une séance",
-                "Correction …",
-                "Correction …"
+                {
+                    "language": "FR",
+                    "text": [
+                        "Ajout vision horizontale des séances",
+                        "Ajout barre espace pour jouer/arrêter une musique dans une séance",
+                        "Correction …",
+                        "Correction …"
+                    ]
+                },
+                {
+                    "language": "PT",
+                    "text": [
+                        "PT - Ajout vision horizontale des séances",
+                        "PT - Ajout barre espace pour jouer/arrêter une musique dans une séance",
+                        "PT - Correction …",
+                        "PT - Correction …"
+                    ]
+                },
+                {
+                    "language": "ES",
+                    "text": [
+                        "ES - Ajout vision horizontale des séances",
+                        "ES - Ajout barre espace pour jouer/arrêter une musique dans une séance",
+                        "ES - Correction …",
+                        "ES - Correction …"
+                    ]
+                },
+                {
+                    "language": "EN",
+                    "text": [
+                        "EN - Ajout vision horizontale des séances",
+                        "EN - Ajout barre espace pour jouer/arrêter une musique dans une séance",
+                        "EN - Correction …",
+                        "EN - Correction …"
+                    ]
+                }
             ]
         }
     ]
