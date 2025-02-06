@@ -1,517 +1,517 @@
 {
-"DemonstrationsCatalogues": [
-    {
-        "Name": "DEMOSGB2015",
-        "Descriptions": [
-            {
-                "Language": "FR",
-                "Description": "Vidéos de démonstrations- Ecole Méditerranée"
-            },
-            {
-                "Language": "EN",
-                "Description": "Demonstration videos - Nice (FR) school"
-            },
-            {
-                "Language": "SP",
-                "Description": "Vídeos de demostración- Escuela de Nice (FR)"
-            },
-            {
-                "Language": "PT",
-                "Description": "Vídeos de demonstração- Escola de Nice (FR)"
-            }
-        ],
-        "Author": "Guy BELANGER",
-        "BuyLink": "https://www.biodanza-med.com/dvd",
-        "Creation_date": "01/01/2015",
-        "Last_update_date": "01/01/2015",
-        "Videos": [
-            {
-                "Id": "DGB001",
-                "VideoFile": "https://biodanza-dzv.fr/wp-content/uploads/2023/04/BDZMED/DVD4/DVD4_Exo15.mp4",
-                "Copyright": "©Guy Bélanger 2015"
-            },
-            {
-                "Id": "DGB002",
-                "VideoFile": "https://biodanza-dzv.fr/wp-content/uploads/2023/04/BDZMED/DVD4/DVD4_Exo11.mp4",
-                "Copyright": "©Guy Bélanger 2015"
-            },
-            {
-                "Id": "DGB003",
-                "VideoFile": "https://biodanza-dzv.fr/wp-content/uploads/2023/04/BDZMED/DVD1/DVD1_Exo01.mp4",
-                "Copyright": "©Guy Bélanger 2015"
-            },
-            {
-                "Id": "DGB004",
-                "VideoFile": "https://biodanza-dzv.fr/wp-content/uploads/2023/04/BDZMED/DVD3/DVD3_Exo01.mp4",
-                "Copyright": "©Guy Bélanger 2015"
-            },
-            {
-                "Id": "DGB005",
-                "VideoFile": "https://biodanza-dzv.fr/wp-content/uploads/2023/04/BDZMED/DVD4/DVD4_Exo10.mp4",
-                "Copyright": "©Guy Bélanger 2015"
-            },
-            {
-                "Id": "DGB006",
-                "VideoFile": "https://biodanza-dzv.fr/wp-content/uploads/2023/04/BDZMED/DVD4/DVD4_Exo01.mp4",
-                "Copyright": "©Guy Bélanger 2015"
-            },
-            {
-                "Id": "DGB007",
-                "VideoFile": "https://biodanza-dzv.fr/wp-content/uploads/2023/04/BDZMED/DVD4/DVD4_Exo20.mp4",
-                "Copyright": "©Guy Bélanger 2015"
-            },
-            {
-                "Id": "DGB008",
-                "VideoFile": "https://biodanza-dzv.fr/wp-content/uploads/2023/04/BDZMED/DVD1/DVD1_Exo02.mp4",
-                "Copyright": "©Guy Bélanger 2015"
-            },
-            {
-                "Id": "DGB009",
-                "VideoFile": "https://biodanza-dzv.fr/wp-content/uploads/2023/04/BDZMED/DVD1/DVD1_Exo07.mp4",
-                "Copyright": "©Guy Bélanger 2015"
-            },
-            {
-                "Id": "DGB010",
-                "VideoFile": "https://biodanza-dzv.fr/wp-content/uploads/2023/04/BDZMED/DVD1/DVD1_Exo08.mp4",
-                "Copyright": "©Guy Bélanger 2015"
-            },
-            {
-                "Id": "DGB011",
-                "VideoFile": "https://biodanza-dzv.fr/wp-content/uploads/2023/04/BDZMED/DVD2/DVD2_Exo02.mp4",
-                "Copyright": "©Guy Bélanger 2015"
-            },
-            {
-                "Id": "DGB012",
-                "VideoFile": "https://biodanza-dzv.fr/wp-content/uploads/2023/04/BDZMED/DVD1/DVD1_Exo03.mp4",
-                "Copyright": "©Guy Bélanger 2015"
-            },
-            {
-                "Id": "DGB013",
-                "VideoFile": "https://biodanza-dzv.fr/wp-content/uploads/2023/04/BDZMED/DVD1/DVD1_Exo04.mp4",
-                "Copyright": "©Guy Bélanger 2015"
-            },
-            {
-                "Id": "DGB014",
-                "VideoFile": "https://biodanza-dzv.fr/wp-content/uploads/2023/04/BDZMED/DVD2/DVD2_Exo04.mp4",
-                "Copyright": "©Guy Bélanger 2015"
-            },
-            {
-                "Id": "DGB015",
-                "VideoFile": "https://biodanza-dzv.fr/wp-content/uploads/2023/04/BDZMED/DVD3/DVD3_Exo02.mp4",
-                "Copyright": "©Guy Bélanger 2015"
-            },
-            {
-                "Id": "DGB016",
-                "VideoFile": "https://biodanza-dzv.fr/wp-content/uploads/2023/04/BDZMED/DVD3/DVD3_Exo04.mp4",
-                "Copyright": "©Guy Bélanger 2015"
-            },
-            {
-                "Id": "DGB017",
-                "VideoFile": "https://biodanza-dzv.fr/wp-content/uploads/2023/04/BDZMED/DVD3/DVD3_Exo03.mp4",
-                "Copyright": "©Guy Bélanger 2015"
-            },
-            {
-                "Id": "DGB018",
-                "VideoFile": "https://biodanza-dzv.fr/wp-content/uploads/2023/04/BDZMED/DVD3/DVD3_Exo07.mp4",
-                "Copyright": "©Guy Bélanger 2015"
-            },
-            {
-                "Id": "DGB019",
-                "VideoFile": "https://biodanza-dzv.fr/wp-content/uploads/2023/04/BDZMED/DVD2/DVD2_Exo05.mp4",
-                "Copyright": "©Guy Bélanger 2015"
-            },
-            {
-                "Id": "DGB020",
-                "VideoFile": "https://biodanza-dzv.fr/wp-content/uploads/2023/04/BDZMED/DVD3/DVD3_Exo08.mp4",
-                "Copyright": "©Guy Bélanger 2015"
-            },
-            {
-                "Id": "DGB021",
-                "VideoFile": "https://biodanza-dzv.fr/wp-content/uploads/2023/04/BDZMED/DVD1/DVD1_Exo11.mp4",
-                "Copyright": "©Guy Bélanger 2015"
-            },
-            {
-                "Id": "DGB022",
-                "VideoFile": "https://biodanza-dzv.fr/wp-content/uploads/2023/04/BDZMED/DVD1/DVD1_Exo19.mp4",
-                "Copyright": "©Guy Bélanger 2015"
-            },
-            {
-                "Id": "DGB023",
-                "VideoFile": "https://biodanza-dzv.fr/wp-content/uploads/2023/04/BDZMED/DVD3/DVD3_Exo09.mp4",
-                "Copyright": "©Guy Bélanger 2015"
-            },
-            {
-                "Id": "DGB024",
-                "VideoFile": "https://biodanza-dzv.fr/wp-content/uploads/2023/04/BDZMED/DVD1/DVD1_Exo15.mp4",
-                "Copyright": "©Guy Bélanger 2015"
-            },
-            {
-                "Id": "DGB025",
-                "VideoFile": "https://biodanza-dzv.fr/wp-content/uploads/2023/04/BDZMED/DVD2/DVD2_Exo06.mp4",
-                "Copyright": "©Guy Bélanger 2015"
-            },
-            {
-                "Id": "DGB026",
-                "VideoFile": "https://biodanza-dzv.fr/wp-content/uploads/2023/04/BDZMED/DVD3/DVD3_Exo10.mp4",
-                "Copyright": "©Guy Bélanger 2015"
-            },
-            {
-                "Id": "DGB027",
-                "VideoFile": "https://biodanza-dzv.fr/wp-content/uploads/2023/04/BDZMED/DVD3/DVD3_Exo11.mp4",
-                "Copyright": "©Guy Bélanger 2015"
-            },
-            {
-                "Id": "DGB028",
-                "VideoFile": "https://biodanza-dzv.fr/wp-content/uploads/2023/04/BDZMED/DVD2/DVD2_Exo07.mp4",
-                "Copyright": "©Guy Bélanger 2015"
-            },
-            {
-                "Id": "DGB029",
-                "VideoFile": "https://biodanza-dzv.fr/wp-content/uploads/2023/04/BDZMED/DVD1/DVD1_Exo18.mp4",
-                "Copyright": "©Guy Bélanger 2015"
-            },
-            {
-                "Id": "DGB030",
-                "VideoFile": "https://biodanza-dzv.fr/wp-content/uploads/2023/04/BDZMED/DVD1/DVD1_Exo10.mp4",
-                "Copyright": "©Guy Bélanger 2015"
-            },
-            {
-                "Id": "DGB031",
-                "VideoFile": "https://biodanza-dzv.fr/wp-content/uploads/2023/04/BDZMED/DVD1/DVD1_Exo16.mp4",
-                "Copyright": "©Guy Bélanger 2015"
-            },
-            {
-                "Id": "DGB032",
-                "VideoFile": "https://biodanza-dzv.fr/wp-content/uploads/2023/04/BDZMED/DVD1/DVD1_Exo17.mp4",
-                "Copyright": "©Guy Bélanger 2015"
-            },
-            {
-                "Id": "DGB033",
-                "VideoFile": "https://biodanza-dzv.fr/wp-content/uploads/2023/04/BDZMED/DVD3/DVD3_Exo12.mp4",
-                "Copyright": "©Guy Bélanger 2015"
-            },
-            {
-                "Id": "DGB034",
-                "VideoFile": "https://biodanza-dzv.fr/wp-content/uploads/2023/04/BDZMED/DVD1/DVD1_Exo14.mp4",
-                "Copyright": "©Guy Bélanger 2015"
-            },
-            {
-                "Id": "DGB035",
-                "VideoFile": "https://biodanza-dzv.fr/wp-content/uploads/2023/04/BDZMED/DVD3/DVD3_Exo13.mp4",
-                "Copyright": "©Guy Bélanger 2015"
-            },
-            {
-                "Id": "DGB036",
-                "VideoFile": "https://biodanza-dzv.fr/wp-content/uploads/2023/04/BDZMED/DVD3/DVD3_Exo14.mp4",
-                "Copyright": "©Guy Bélanger 2015"
-            },
-            {
-                "Id": "DGB037",
-                "VideoFile": "https://biodanza-dzv.fr/wp-content/uploads/2023/04/BDZMED/DVD1/DVD1_Exo13.mp4",
-                "Copyright": "©Guy Bélanger 2015"
-            },
-            {
-                "Id": "DGB038",
-                "VideoFile": "https://biodanza-dzv.fr/wp-content/uploads/2023/04/BDZMED/DVD1/DVD1_Exo20.mp4",
-                "Copyright": "©Guy Bélanger 2015"
-            },
-            {
-                "Id": "DGB039",
-                "VideoFile": "https://biodanza-dzv.fr/wp-content/uploads/2023/04/BDZMED/DVD1/DVD1_Exo21.mp4",
-                "Copyright": "©Guy Bélanger 2015"
-            },
-            {
-                "Id": "DGB040",
-                "VideoFile": "https://biodanza-dzv.fr/wp-content/uploads/2023/04/BDZMED/DVD1/DVD1_Exo12.mp4",
-                "Copyright": "©Guy Bélanger 2015"
-            },
-            {
-                "Id": "DGB041",
-                "VideoFile": "https://biodanza-dzv.fr/wp-content/uploads/2023/04/BDZMED/DVD4/DVD4_Exo07.mp4",
-                "Copyright": "©Guy Bélanger 2015"
-            },
-            {
-                "Id": "DGB042",
-                "VideoFile": "https://biodanza-dzv.fr/wp-content/uploads/2023/04/BDZMED/DVD1/DVD1_Exo05.mp4",
-                "Copyright": "©Guy Bélanger 2015"
-            },
-            {
-                "Id": "DGB043",
-                "VideoFile": "https://biodanza-dzv.fr/wp-content/uploads/2023/04/BDZMED/DVD4/DVD4_Exo14.mp4",
-                "Copyright": "©Guy Bélanger 2015"
-            },
-            {
-                "Id": "DGB044",
-                "VideoFile": "https://biodanza-dzv.fr/wp-content/uploads/2023/04/BDZMED/DVD4/DVD4_Exo05.mp4",
-                "Copyright": "©Guy Bélanger 2015"
-            },
-            {
-                "Id": "DGB045",
-                "VideoFile": "https://biodanza-dzv.fr/wp-content/uploads/2023/04/BDZMED/DVD2/DVD2_Exo08.mp4",
-                "Copyright": "©Guy Bélanger 2015"
-            },
-            {
-                "Id": "DGB046",
-                "VideoFile": "https://biodanza-dzv.fr/wp-content/uploads/2023/04/BDZMED/DVD2/DVD2_Exo09.mp4",
-                "Copyright": "©Guy Bélanger 2015"
-            },
-            {
-                "Id": "DGB047",
-                "VideoFile": "https://biodanza-dzv.fr/wp-content/uploads/2023/04/BDZMED/DVD2/DVD2_Exo01.mp4",
-                "Copyright": "©Guy Bélanger 2015"
-            },
-            {
-                "Id": "DGB048",
-                "VideoFile": "https://biodanza-dzv.fr/wp-content/uploads/2023/04/BDZMED/DVD1/DVD1_Exo22.mp4",
-                "Copyright": "©Guy Bélanger 2015"
-            },
-            {
-                "Id": "DGB049",
-                "VideoFile": "https://biodanza-dzv.fr/wp-content/uploads/2023/04/BDZMED/DVD4/DVD4_Exo17.mp4",
-                "Copyright": "©Guy Bélanger 2015"
-            },
-            {
-                "Id": "DGB050",
-                "VideoFile": "https://biodanza-dzv.fr/wp-content/uploads/2023/04/BDZMED/DVD3/DVD3_Exo18.mp4",
-                "Copyright": "©Guy Bélanger 2015"
-            },
-            {
-                "Id": "DGB051",
-                "VideoFile": "https://biodanza-dzv.fr/wp-content/uploads/2023/04/BDZMED/DVD3/DVD3_Exo16.mp4",
-                "Copyright": "©Guy Bélanger 2015"
-            },
-            {
-                "Id": "DGB052",
-                "VideoFile": "https://biodanza-dzv.fr/wp-content/uploads/2023/04/BDZMED/DVD3/DVD3_Exo17.mp4",
-                "Copyright": "©Guy Bélanger 2015"
-            },
-            {
-                "Id": "DGB053",
-                "VideoFile": "https://biodanza-dzv.fr/wp-content/uploads/2023/04/BDZMED/DVD3/DVD3_Exo15.mp4",
-                "Copyright": "©Guy Bélanger 2015"
-            },
-            {
-                "Id": "DGB054",
-                "VideoFile": "https://biodanza-dzv.fr/wp-content/uploads/2023/04/BDZMED/DVD4/DVD4_Exo18.mp4",
-                "Copyright": "©Guy Bélanger 2015"
-            },
-            {
-                "Id": "DGB055",
-                "VideoFile": "https://biodanza-dzv.fr/wp-content/uploads/2023/04/BDZMED/DVD4/DVD4_Exo12.mp4",
-                "Copyright": "©Guy Bélanger 2015"
-            },
-            {
-                "Id": "DGB056",
-                "VideoFile": "https://biodanza-dzv.fr/wp-content/uploads/2023/04/BDZMED/DVD4/DVD4_Exo09.mp4",
-                "Copyright": "©Guy Bélanger 2015"
-            },
-            {
-                "Id": "DGB057",
-                "VideoFile": "https://biodanza-dzv.fr/wp-content/uploads/2023/04/BDZMED/DVD1/DVD1_Exo09.mp4",
-                "Copyright": "©Guy Bélanger 2015"
-            },
-            {
-                "Id": "DGB058",
-                "VideoFile": "https://biodanza-dzv.fr/wp-content/uploads/2023/04/BDZMED/DVD3/DVD3_Exo05.mp4",
-                "Copyright": "©Guy Bélanger 2015"
-            },
-            {
-                "Id": "DGB059",
-                "VideoFile": "https://biodanza-dzv.fr/wp-content/uploads/2023/04/BDZMED/DVD3/DVD3_Exo06.mp4",
-                "Copyright": "©Guy Bélanger 2015"
-            },
-            {
-                "Id": "DGB060",
-                "VideoFile": "https://biodanza-dzv.fr/wp-content/uploads/2023/04/BDZMED/DVD4/DVD4_Exo22.mp4",
-                "Copyright": "©Guy Bélanger 2015"
-            },
-            {
-                "Id": "DGB061",
-                "VideoFile": "https://biodanza-dzv.fr/wp-content/uploads/2023/04/BDZMED/DVD4/DVD4_Exo21.mp4",
-                "Copyright": "©Guy Bélanger 2015"
-            },
-            {
-                "Id": "DGB062",
-                "VideoFile": "https://biodanza-dzv.fr/wp-content/uploads/2023/04/BDZMED/DVD1/DVD1_Exo24.mp4",
-                "Copyright": "©Guy Bélanger 2015"
-            },
-            {
-                "Id": "DGB063",
-                "VideoFile": "https://biodanza-dzv.fr/wp-content/uploads/2023/04/BDZMED/DVD1/DVD1_Exo23.mp4",
-                "Copyright": "©Guy Bélanger 2015"
-            },
-            {
-                "Id": "DGB064",
-                "VideoFile": "https://biodanza-dzv.fr/wp-content/uploads/2023/04/BDZMED/DVD4/DVD4_Exo13.mp4",
-                "Copyright": "©Guy Bélanger 2015"
-            },
-            {
-                "Id": "DGB065",
-                "VideoFile": "https://biodanza-dzv.fr/wp-content/uploads/2023/04/BDZMED/DVD3/DVD3_Exo19.mp4",
-                "Copyright": "©Guy Bélanger 2015"
-            },
-            {
-                "Id": "DGB066",
-                "VideoFile": "https://biodanza-dzv.fr/wp-content/uploads/2023/04/BDZMED/DVD4/DVD4_Exo02.mp4",
-                "Copyright": "©Guy Bélanger 2015"
-            },
-            {
-                "Id": "DGB067",
-                "VideoFile": "https://biodanza-dzv.fr/wp-content/uploads/2023/04/BDZMED/DVD1/DVD1_Exo25.mp4",
-                "Copyright": "©Guy Bélanger 2015"
-            },
-            {
-                "Id": "DGB068",
-                "VideoFile": "https://biodanza-dzv.fr/wp-content/uploads/2023/04/BDZMED/DVD4/DVD4_Exo08.mp4",
-                "Copyright": "©Guy Bélanger 2015"
-            },
-            {
-                "Id": "DGB069",
-                "VideoFile": "https://biodanza-dzv.fr/wp-content/uploads/2023/04/BDZMED/DVD3/DVD3_Exo21.mp4",
-                "Copyright": "©Guy Bélanger 2015"
-            },
-            {
-                "Id": "DGB070",
-                "VideoFile": "https://biodanza-dzv.fr/wp-content/uploads/2023/04/BDZMED/DVD4/DVD4_Exo20.mp4",
-                "Copyright": "©Guy Bélanger 2015"
-            },
-            {
-                "Id": "DGB071",
-                "VideoFile": "https://biodanza-dzv.fr/wp-content/uploads/2023/04/BDZMED/DVD1/DVD1_Exo26.mp4",
-                "Copyright": "©Guy Bélanger 2015"
-            },
-            {
-                "Id": "DGB072",
-                "VideoFile": "https://biodanza-dzv.fr/wp-content/uploads/2023/04/BDZMED/DVD1/DVD1_Exo28.mp4",
-                "Copyright": "©Guy Bélanger 2015"
-            },
-            {
-                "Id": "DGB073",
-                "VideoFile": "https://biodanza-dzv.fr/wp-content/uploads/2023/04/BDZMED/DVD1/DVD1_Exo30.mp4",
-                "Copyright": "©Guy Bélanger 2015"
-            },
-            {
-                "Id": "DGB074",
-                "VideoFile": "https://biodanza-dzv.fr/wp-content/uploads/2023/04/BDZMED/DVD1/DVD1_Exo29.mp4",
-                "Copyright": "©Guy Bélanger 2015"
-            },
-            {
-                "Id": "DGB075",
-                "VideoFile": "https://biodanza-dzv.fr/wp-content/uploads/2023/04/BDZMED/DVD1/DVD1_Exo27.mp4",
-                "Copyright": "©Guy Bélanger 2015"
-            },
-            {
-                "Id": "DGB076",
-                "VideoFile": "https://biodanza-dzv.fr/wp-content/uploads/2023/04/BDZMED/DVD1/DVD1_Exo32.mp4",
-                "Copyright": "©Guy Bélanger 2015"
-            },
-            {
-                "Id": "DGB077",
-                "VideoFile": "https://biodanza-dzv.fr/wp-content/uploads/2023/04/BDZMED/DVD2/DVD2_Exo10.mp4",
-                "Copyright": "©Guy Bélanger 2015"
-            },
-            {
-                "Id": "DGB078",
-                "VideoFile": "https://biodanza-dzv.fr/wp-content/uploads/2023/04/BDZMED/DVD1/DVD1_Exo33.mp4",
-                "Copyright": "©Guy Bélanger 2015"
-            },
-            {
-                "Id": "DGB079",
-                "VideoFile": "https://biodanza-dzv.fr/wp-content/uploads/2023/04/BDZMED/DVD1/DVD1_Exo35.mp4",
-                "Copyright": "©Guy Bélanger 2015"
-            },
-            {
-                "Id": "DGB080",
-                "VideoFile": "https://biodanza-dzv.fr/wp-content/uploads/2023/04/BDZMED/DVD2/DVD2_Exo11.mp4",
-                "Copyright": "©Guy Bélanger 2015"
-            },
-            {
-                "Id": "DGB081",
-                "VideoFile": "https://biodanza-dzv.fr/wp-content/uploads/2023/04/BDZMED/DVD1/DVD1_Exo31.mp4",
-                "Copyright": "©Guy Bélanger 2015"
-            },
-            {
-                "Id": "DGB082",
-                "VideoFile": "https://biodanza-dzv.fr/wp-content/uploads/2023/04/BDZMED/DVD2/DVD2_Exo12.mp4",
-                "Copyright": "©Guy Bélanger 2015"
-            },
-            {
-                "Id": "DGB083",
-                "VideoFile": "https://biodanza-dzv.fr/wp-content/uploads/2023/04/BDZMED/DVD1/DVD1_Exo34.mp4",
-                "Copyright": "©Guy Bélanger 2015"
-            },
-            {
-                "Id": "DGB084",
-                "VideoFile": "https://biodanza-dzv.fr/wp-content/uploads/2023/04/BDZMED/DVD2/DVD2_Exo13.mp4",
-                "Copyright": "©Guy Bélanger 2015"
-            },
-            {
-                "Id": "DGB085",
-                "VideoFile": "https://biodanza-dzv.fr/wp-content/uploads/2023/04/BDZMED/DVD2/DVD2_Exo14.mp4",
-                "Copyright": "©Guy Bélanger 2015"
-            },
-            {
-                "Id": "DGB086",
-                "VideoFile": "https://biodanza-dzv.fr/wp-content/uploads/2023/04/BDZMED/DVD4/DVD4_Exo04.mp4",
-                "Copyright": "©Guy Bélanger 2015"
-            },
-            {
-                "Id": "DGB087",
-                "VideoFile": "https://biodanza-dzv.fr/wp-content/uploads/2023/04/BDZMED/DVD3/DVD3_Exo21.mp4",
-                "Copyright": "©Guy Bélanger 2015"
-            },
-            {
-                "Id": "DGB088",
-                "VideoFile": "https://biodanza-dzv.fr/wp-content/uploads/2023/04/BDZMED/DVD4/DVD4_Exo06.mp4",
-                "Copyright": "©Guy Bélanger 2015"
-            },
-            {
-                "Id": "DGB089",
-                "VideoFile": "https://biodanza-dzv.fr/wp-content/uploads/2023/04/BDZMED/DVD4/DVD4_Exo16.mp4",
-                "Copyright": "©Guy Bélanger 2015"
-            },
-            {
-                "Id": "DGB090",
-                "VideoFile": "https://biodanza-dzv.fr/wp-content/uploads/2023/04/BDZMED/DVD2/DVD2_Exo15.mp4",
-                "Copyright": "©Guy Bélanger 2015"
-            },
-            {
-                "Id": "DGB091",
-                "VideoFile": "https://biodanza-dzv.fr/wp-content/uploads/2023/04/BDZMED/DVD2/DVD2_Exo16.mp4",
-                "Copyright": "©Guy Bélanger 2015"
-            },
-            {
-                "Id": "DGB092",
-                "VideoFile": "https://biodanza-dzv.fr/wp-content/uploads/2023/04/BDZMED/DVD1/DVD1_Exo36.mp4",
-                "Copyright": "©Guy Bélanger 2015"
-            },
-            {
-                "Id": "DGB093",
-                "VideoFile": "https://biodanza-dzv.fr/wp-content/uploads/2023/04/BDZMED/DVD1/DVD1_Exo37.mp4",
-                "Copyright": "©Guy Bélanger 2015"
-            },
-            {
-                "Id": "DGB094",
-                "VideoFile": "https://biodanza-dzv.fr/wp-content/uploads/2023/04/BDZMED/DVD2/DVD2_Exo17.mp4",
-                "Copyright": "©Guy Bélanger 2015"
-            },
-            {
-                "Id": "DGB095",
-                "VideoFile": "https://biodanza-dzv.fr/wp-content/uploads/2023/04/BDZMED/DVD2/DVD2_Exo19.mp4",
-                "Copyright": "©Guy Bélanger 2015"
-            },
-            {
-                "Id": "DGB096",
-                "VideoFile": "https://biodanza-dzv.fr/wp-content/uploads/2023/04/BDZMED/DVD4/DVD4_Exo03.mp4",
-                "Copyright": "©Guy Bélanger 2015"
-            },
-            {
-                "Id": "DGB097",
-                "VideoFile": "https://biodanza-dzv.fr/wp-content/uploads/2023/04/BDZMED/DVD1/DVD1_Exo38.mp4",
-                "Copyright": "©Guy Bélanger 2015"
-            }
-        ]
-    }
-]
-}
-
+    "DemonstrationsCatalogues": [
+        {
+            "InterfaceVersion": "V1",
+            "Name": "DEMOSGB2015",
+            "Descriptions": [
+                {
+                    "Language": "FR",
+                    "Description": "Vidéos de démonstrations- Ecole Méditerranée"
+                },
+                {
+                    "Language": "EN",
+                    "Description": "Demonstration videos - Nice (FR) school"
+                },
+                {
+                    "Language": "SP",
+                    "Description": "Vídeos de demostración- Escuela de Nice (FR)"
+                },
+                {
+                    "Language": "PT",
+                    "Description": "Vídeos de demonstração- Escola de Nice (FR)"
+                }
+            ],
+            "Author": "Guy BELANGER",
+            "BuyLink": "https://www.biodanza-med.com/dvd",
+            "Creation_date": "01/01/2015",
+            "Last_update_date": "01/01/2015",
+            "Videos": [
+                {
+                    "Id": "DGB001",
+                    "VideoFile": "https://biodanza-dzv.fr/wp-content/uploads/2023/04/BDZMED/DVD4/DVD4_Exo15.mp4",
+                    "Copyright": "©Guy Bélanger 2015"
+                },
+                {
+                    "Id": "DGB002",
+                    "VideoFile": "https://biodanza-dzv.fr/wp-content/uploads/2023/04/BDZMED/DVD4/DVD4_Exo11.mp4",
+                    "Copyright": "©Guy Bélanger 2015"
+                },
+                {
+                    "Id": "DGB003",
+                    "VideoFile": "https://biodanza-dzv.fr/wp-content/uploads/2023/04/BDZMED/DVD1/DVD1_Exo01.mp4",
+                    "Copyright": "©Guy Bélanger 2015"
+                },
+                {
+                    "Id": "DGB004",
+                    "VideoFile": "https://biodanza-dzv.fr/wp-content/uploads/2023/04/BDZMED/DVD3/DVD3_Exo01.mp4",
+                    "Copyright": "©Guy Bélanger 2015"
+                },
+                {
+                    "Id": "DGB005",
+                    "VideoFile": "https://biodanza-dzv.fr/wp-content/uploads/2023/04/BDZMED/DVD4/DVD4_Exo10.mp4",
+                    "Copyright": "©Guy Bélanger 2015"
+                },
+                {
+                    "Id": "DGB006",
+                    "VideoFile": "https://biodanza-dzv.fr/wp-content/uploads/2023/04/BDZMED/DVD4/DVD4_Exo01.mp4",
+                    "Copyright": "©Guy Bélanger 2015"
+                },
+                {
+                    "Id": "DGB007",
+                    "VideoFile": "https://biodanza-dzv.fr/wp-content/uploads/2023/04/BDZMED/DVD4/DVD4_Exo20.mp4",
+                    "Copyright": "©Guy Bélanger 2015"
+                },
+                {
+                    "Id": "DGB008",
+                    "VideoFile": "https://biodanza-dzv.fr/wp-content/uploads/2023/04/BDZMED/DVD1/DVD1_Exo02.mp4",
+                    "Copyright": "©Guy Bélanger 2015"
+                },
+                {
+                    "Id": "DGB009",
+                    "VideoFile": "https://biodanza-dzv.fr/wp-content/uploads/2023/04/BDZMED/DVD1/DVD1_Exo07.mp4",
+                    "Copyright": "©Guy Bélanger 2015"
+                },
+                {
+                    "Id": "DGB010",
+                    "VideoFile": "https://biodanza-dzv.fr/wp-content/uploads/2023/04/BDZMED/DVD1/DVD1_Exo08.mp4",
+                    "Copyright": "©Guy Bélanger 2015"
+                },
+                {
+                    "Id": "DGB011",
+                    "VideoFile": "https://biodanza-dzv.fr/wp-content/uploads/2023/04/BDZMED/DVD2/DVD2_Exo02.mp4",
+                    "Copyright": "©Guy Bélanger 2015"
+                },
+                {
+                    "Id": "DGB012",
+                    "VideoFile": "https://biodanza-dzv.fr/wp-content/uploads/2023/04/BDZMED/DVD1/DVD1_Exo03.mp4",
+                    "Copyright": "©Guy Bélanger 2015"
+                },
+                {
+                    "Id": "DGB013",
+                    "VideoFile": "https://biodanza-dzv.fr/wp-content/uploads/2023/04/BDZMED/DVD1/DVD1_Exo04.mp4",
+                    "Copyright": "©Guy Bélanger 2015"
+                },
+                {
+                    "Id": "DGB014",
+                    "VideoFile": "https://biodanza-dzv.fr/wp-content/uploads/2023/04/BDZMED/DVD2/DVD2_Exo04.mp4",
+                    "Copyright": "©Guy Bélanger 2015"
+                },
+                {
+                    "Id": "DGB015",
+                    "VideoFile": "https://biodanza-dzv.fr/wp-content/uploads/2023/04/BDZMED/DVD3/DVD3_Exo02.mp4",
+                    "Copyright": "©Guy Bélanger 2015"
+                },
+                {
+                    "Id": "DGB016",
+                    "VideoFile": "https://biodanza-dzv.fr/wp-content/uploads/2023/04/BDZMED/DVD3/DVD3_Exo04.mp4",
+                    "Copyright": "©Guy Bélanger 2015"
+                },
+                {
+                    "Id": "DGB017",
+                    "VideoFile": "https://biodanza-dzv.fr/wp-content/uploads/2023/04/BDZMED/DVD3/DVD3_Exo03.mp4",
+                    "Copyright": "©Guy Bélanger 2015"
+                },
+                {
+                    "Id": "DGB018",
+                    "VideoFile": "https://biodanza-dzv.fr/wp-content/uploads/2023/04/BDZMED/DVD3/DVD3_Exo07.mp4",
+                    "Copyright": "©Guy Bélanger 2015"
+                },
+                {
+                    "Id": "DGB019",
+                    "VideoFile": "https://biodanza-dzv.fr/wp-content/uploads/2023/04/BDZMED/DVD2/DVD2_Exo05.mp4",
+                    "Copyright": "©Guy Bélanger 2015"
+                },
+                {
+                    "Id": "DGB020",
+                    "VideoFile": "https://biodanza-dzv.fr/wp-content/uploads/2023/04/BDZMED/DVD3/DVD3_Exo08.mp4",
+                    "Copyright": "©Guy Bélanger 2015"
+                },
+                {
+                    "Id": "DGB021",
+                    "VideoFile": "https://biodanza-dzv.fr/wp-content/uploads/2023/04/BDZMED/DVD1/DVD1_Exo11.mp4",
+                    "Copyright": "©Guy Bélanger 2015"
+                },
+                {
+                    "Id": "DGB022",
+                    "VideoFile": "https://biodanza-dzv.fr/wp-content/uploads/2023/04/BDZMED/DVD1/DVD1_Exo19.mp4",
+                    "Copyright": "©Guy Bélanger 2015"
+                },
+                {
+                    "Id": "DGB023",
+                    "VideoFile": "https://biodanza-dzv.fr/wp-content/uploads/2023/04/BDZMED/DVD3/DVD3_Exo09.mp4",
+                    "Copyright": "©Guy Bélanger 2015"
+                },
+                {
+                    "Id": "DGB024",
+                    "VideoFile": "https://biodanza-dzv.fr/wp-content/uploads/2023/04/BDZMED/DVD1/DVD1_Exo15.mp4",
+                    "Copyright": "©Guy Bélanger 2015"
+                },
+                {
+                    "Id": "DGB025",
+                    "VideoFile": "https://biodanza-dzv.fr/wp-content/uploads/2023/04/BDZMED/DVD2/DVD2_Exo06.mp4",
+                    "Copyright": "©Guy Bélanger 2015"
+                },
+                {
+                    "Id": "DGB026",
+                    "VideoFile": "https://biodanza-dzv.fr/wp-content/uploads/2023/04/BDZMED/DVD3/DVD3_Exo10.mp4",
+                    "Copyright": "©Guy Bélanger 2015"
+                },
+                {
+                    "Id": "DGB027",
+                    "VideoFile": "https://biodanza-dzv.fr/wp-content/uploads/2023/04/BDZMED/DVD3/DVD3_Exo11.mp4",
+                    "Copyright": "©Guy Bélanger 2015"
+                },
+                {
+                    "Id": "DGB028",
+                    "VideoFile": "https://biodanza-dzv.fr/wp-content/uploads/2023/04/BDZMED/DVD2/DVD2_Exo07.mp4",
+                    "Copyright": "©Guy Bélanger 2015"
+                },
+                {
+                    "Id": "DGB029",
+                    "VideoFile": "https://biodanza-dzv.fr/wp-content/uploads/2023/04/BDZMED/DVD1/DVD1_Exo18.mp4",
+                    "Copyright": "©Guy Bélanger 2015"
+                },
+                {
+                    "Id": "DGB030",
+                    "VideoFile": "https://biodanza-dzv.fr/wp-content/uploads/2023/04/BDZMED/DVD1/DVD1_Exo10.mp4",
+                    "Copyright": "©Guy Bélanger 2015"
+                },
+                {
+                    "Id": "DGB031",
+                    "VideoFile": "https://biodanza-dzv.fr/wp-content/uploads/2023/04/BDZMED/DVD1/DVD1_Exo16.mp4",
+                    "Copyright": "©Guy Bélanger 2015"
+                },
+                {
+                    "Id": "DGB032",
+                    "VideoFile": "https://biodanza-dzv.fr/wp-content/uploads/2023/04/BDZMED/DVD1/DVD1_Exo17.mp4",
+                    "Copyright": "©Guy Bélanger 2015"
+                },
+                {
+                    "Id": "DGB033",
+                    "VideoFile": "https://biodanza-dzv.fr/wp-content/uploads/2023/04/BDZMED/DVD3/DVD3_Exo12.mp4",
+                    "Copyright": "©Guy Bélanger 2015"
+                },
+                {
+                    "Id": "DGB034",
+                    "VideoFile": "https://biodanza-dzv.fr/wp-content/uploads/2023/04/BDZMED/DVD1/DVD1_Exo14.mp4",
+                    "Copyright": "©Guy Bélanger 2015"
+                },
+                {
+                    "Id": "DGB035",
+                    "VideoFile": "https://biodanza-dzv.fr/wp-content/uploads/2023/04/BDZMED/DVD3/DVD3_Exo13.mp4",
+                    "Copyright": "©Guy Bélanger 2015"
+                },
+                {
+                    "Id": "DGB036",
+                    "VideoFile": "https://biodanza-dzv.fr/wp-content/uploads/2023/04/BDZMED/DVD3/DVD3_Exo14.mp4",
+                    "Copyright": "©Guy Bélanger 2015"
+                },
+                {
+                    "Id": "DGB037",
+                    "VideoFile": "https://biodanza-dzv.fr/wp-content/uploads/2023/04/BDZMED/DVD1/DVD1_Exo13.mp4",
+                    "Copyright": "©Guy Bélanger 2015"
+                },
+                {
+                    "Id": "DGB038",
+                    "VideoFile": "https://biodanza-dzv.fr/wp-content/uploads/2023/04/BDZMED/DVD1/DVD1_Exo20.mp4",
+                    "Copyright": "©Guy Bélanger 2015"
+                },
+                {
+                    "Id": "DGB039",
+                    "VideoFile": "https://biodanza-dzv.fr/wp-content/uploads/2023/04/BDZMED/DVD1/DVD1_Exo21.mp4",
+                    "Copyright": "©Guy Bélanger 2015"
+                },
+                {
+                    "Id": "DGB040",
+                    "VideoFile": "https://biodanza-dzv.fr/wp-content/uploads/2023/04/BDZMED/DVD1/DVD1_Exo12.mp4",
+                    "Copyright": "©Guy Bélanger 2015"
+                },
+                {
+                    "Id": "DGB041",
+                    "VideoFile": "https://biodanza-dzv.fr/wp-content/uploads/2023/04/BDZMED/DVD4/DVD4_Exo07.mp4",
+                    "Copyright": "©Guy Bélanger 2015"
+                },
+                {
+                    "Id": "DGB042",
+                    "VideoFile": "https://biodanza-dzv.fr/wp-content/uploads/2023/04/BDZMED/DVD1/DVD1_Exo05.mp4",
+                    "Copyright": "©Guy Bélanger 2015"
+                },
+                {
+                    "Id": "DGB043",
+                    "VideoFile": "https://biodanza-dzv.fr/wp-content/uploads/2023/04/BDZMED/DVD4/DVD4_Exo14.mp4",
+                    "Copyright": "©Guy Bélanger 2015"
+                },
+                {
+                    "Id": "DGB044",
+                    "VideoFile": "https://biodanza-dzv.fr/wp-content/uploads/2023/04/BDZMED/DVD4/DVD4_Exo05.mp4",
+                    "Copyright": "©Guy Bélanger 2015"
+                },
+                {
+                    "Id": "DGB045",
+                    "VideoFile": "https://biodanza-dzv.fr/wp-content/uploads/2023/04/BDZMED/DVD2/DVD2_Exo08.mp4",
+                    "Copyright": "©Guy Bélanger 2015"
+                },
+                {
+                    "Id": "DGB046",
+                    "VideoFile": "https://biodanza-dzv.fr/wp-content/uploads/2023/04/BDZMED/DVD2/DVD2_Exo09.mp4",
+                    "Copyright": "©Guy Bélanger 2015"
+                },
+                {
+                    "Id": "DGB047",
+                    "VideoFile": "https://biodanza-dzv.fr/wp-content/uploads/2023/04/BDZMED/DVD2/DVD2_Exo01.mp4",
+                    "Copyright": "©Guy Bélanger 2015"
+                },
+                {
+                    "Id": "DGB048",
+                    "VideoFile": "https://biodanza-dzv.fr/wp-content/uploads/2023/04/BDZMED/DVD1/DVD1_Exo22.mp4",
+                    "Copyright": "©Guy Bélanger 2015"
+                },
+                {
+                    "Id": "DGB049",
+                    "VideoFile": "https://biodanza-dzv.fr/wp-content/uploads/2023/04/BDZMED/DVD4/DVD4_Exo17.mp4",
+                    "Copyright": "©Guy Bélanger 2015"
+                },
+                {
+                    "Id": "DGB050",
+                    "VideoFile": "https://biodanza-dzv.fr/wp-content/uploads/2023/04/BDZMED/DVD3/DVD3_Exo18.mp4",
+                    "Copyright": "©Guy Bélanger 2015"
+                },
+                {
+                    "Id": "DGB051",
+                    "VideoFile": "https://biodanza-dzv.fr/wp-content/uploads/2023/04/BDZMED/DVD3/DVD3_Exo16.mp4",
+                    "Copyright": "©Guy Bélanger 2015"
+                },
+                {
+                    "Id": "DGB052",
+                    "VideoFile": "https://biodanza-dzv.fr/wp-content/uploads/2023/04/BDZMED/DVD3/DVD3_Exo17.mp4",
+                    "Copyright": "©Guy Bélanger 2015"
+                },
+                {
+                    "Id": "DGB053",
+                    "VideoFile": "https://biodanza-dzv.fr/wp-content/uploads/2023/04/BDZMED/DVD3/DVD3_Exo15.mp4",
+                    "Copyright": "©Guy Bélanger 2015"
+                },
+                {
+                    "Id": "DGB054",
+                    "VideoFile": "https://biodanza-dzv.fr/wp-content/uploads/2023/04/BDZMED/DVD4/DVD4_Exo18.mp4",
+                    "Copyright": "©Guy Bélanger 2015"
+                },
+                {
+                    "Id": "DGB055",
+                    "VideoFile": "https://biodanza-dzv.fr/wp-content/uploads/2023/04/BDZMED/DVD4/DVD4_Exo12.mp4",
+                    "Copyright": "©Guy Bélanger 2015"
+                },
+                {
+                    "Id": "DGB056",
+                    "VideoFile": "https://biodanza-dzv.fr/wp-content/uploads/2023/04/BDZMED/DVD4/DVD4_Exo09.mp4",
+                    "Copyright": "©Guy Bélanger 2015"
+                },
+                {
+                    "Id": "DGB057",
+                    "VideoFile": "https://biodanza-dzv.fr/wp-content/uploads/2023/04/BDZMED/DVD1/DVD1_Exo09.mp4",
+                    "Copyright": "©Guy Bélanger 2015"
+                },
+                {
+                    "Id": "DGB058",
+                    "VideoFile": "https://biodanza-dzv.fr/wp-content/uploads/2023/04/BDZMED/DVD3/DVD3_Exo05.mp4",
+                    "Copyright": "©Guy Bélanger 2015"
+                },
+                {
+                    "Id": "DGB059",
+                    "VideoFile": "https://biodanza-dzv.fr/wp-content/uploads/2023/04/BDZMED/DVD3/DVD3_Exo06.mp4",
+                    "Copyright": "©Guy Bélanger 2015"
+                },
+                {
+                    "Id": "DGB060",
+                    "VideoFile": "https://biodanza-dzv.fr/wp-content/uploads/2023/04/BDZMED/DVD4/DVD4_Exo22.mp4",
+                    "Copyright": "©Guy Bélanger 2015"
+                },
+                {
+                    "Id": "DGB061",
+                    "VideoFile": "https://biodanza-dzv.fr/wp-content/uploads/2023/04/BDZMED/DVD4/DVD4_Exo21.mp4",
+                    "Copyright": "©Guy Bélanger 2015"
+                },
+                {
+                    "Id": "DGB062",
+                    "VideoFile": "https://biodanza-dzv.fr/wp-content/uploads/2023/04/BDZMED/DVD1/DVD1_Exo24.mp4",
+                    "Copyright": "©Guy Bélanger 2015"
+                },
+                {
+                    "Id": "DGB063",
+                    "VideoFile": "https://biodanza-dzv.fr/wp-content/uploads/2023/04/BDZMED/DVD1/DVD1_Exo23.mp4",
+                    "Copyright": "©Guy Bélanger 2015"
+                },
+                {
+                    "Id": "DGB064",
+                    "VideoFile": "https://biodanza-dzv.fr/wp-content/uploads/2023/04/BDZMED/DVD4/DVD4_Exo13.mp4",
+                    "Copyright": "©Guy Bélanger 2015"
+                },
+                {
+                    "Id": "DGB065",
+                    "VideoFile": "https://biodanza-dzv.fr/wp-content/uploads/2023/04/BDZMED/DVD3/DVD3_Exo19.mp4",
+                    "Copyright": "©Guy Bélanger 2015"
+                },
+                {
+                    "Id": "DGB066",
+                    "VideoFile": "https://biodanza-dzv.fr/wp-content/uploads/2023/04/BDZMED/DVD4/DVD4_Exo02.mp4",
+                    "Copyright": "©Guy Bélanger 2015"
+                },
+                {
+                    "Id": "DGB067",
+                    "VideoFile": "https://biodanza-dzv.fr/wp-content/uploads/2023/04/BDZMED/DVD1/DVD1_Exo25.mp4",
+                    "Copyright": "©Guy Bélanger 2015"
+                },
+                {
+                    "Id": "DGB068",
+                    "VideoFile": "https://biodanza-dzv.fr/wp-content/uploads/2023/04/BDZMED/DVD4/DVD4_Exo08.mp4",
+                    "Copyright": "©Guy Bélanger 2015"
+                },
+                {
+                    "Id": "DGB069",
+                    "VideoFile": "https://biodanza-dzv.fr/wp-content/uploads/2023/04/BDZMED/DVD3/DVD3_Exo21.mp4",
+                    "Copyright": "©Guy Bélanger 2015"
+                },
+                {
+                    "Id": "DGB070",
+                    "VideoFile": "https://biodanza-dzv.fr/wp-content/uploads/2023/04/BDZMED/DVD4/DVD4_Exo20.mp4",
+                    "Copyright": "©Guy Bélanger 2015"
+                },
+                {
+                    "Id": "DGB071",
+                    "VideoFile": "https://biodanza-dzv.fr/wp-content/uploads/2023/04/BDZMED/DVD1/DVD1_Exo26.mp4",
+                    "Copyright": "©Guy Bélanger 2015"
+                },
+                {
+                    "Id": "DGB072",
+                    "VideoFile": "https://biodanza-dzv.fr/wp-content/uploads/2023/04/BDZMED/DVD1/DVD1_Exo28.mp4",
+                    "Copyright": "©Guy Bélanger 2015"
+                },
+                {
+                    "Id": "DGB073",
+                    "VideoFile": "https://biodanza-dzv.fr/wp-content/uploads/2023/04/BDZMED/DVD1/DVD1_Exo30.mp4",
+                    "Copyright": "©Guy Bélanger 2015"
+                },
+                {
+                    "Id": "DGB074",
+                    "VideoFile": "https://biodanza-dzv.fr/wp-content/uploads/2023/04/BDZMED/DVD1/DVD1_Exo29.mp4",
+                    "Copyright": "©Guy Bélanger 2015"
+                },
+                {
+                    "Id": "DGB075",
+                    "VideoFile": "https://biodanza-dzv.fr/wp-content/uploads/2023/04/BDZMED/DVD1/DVD1_Exo27.mp4",
+                    "Copyright": "©Guy Bélanger 2015"
+                },
+                {
+                    "Id": "DGB076",
+                    "VideoFile": "https://biodanza-dzv.fr/wp-content/uploads/2023/04/BDZMED/DVD1/DVD1_Exo32.mp4",
+                    "Copyright": "©Guy Bélanger 2015"
+                },
+                {
+                    "Id": "DGB077",
+                    "VideoFile": "https://biodanza-dzv.fr/wp-content/uploads/2023/04/BDZMED/DVD2/DVD2_Exo10.mp4",
+                    "Copyright": "©Guy Bélanger 2015"
+                },
+                {
+                    "Id": "DGB078",
+                    "VideoFile": "https://biodanza-dzv.fr/wp-content/uploads/2023/04/BDZMED/DVD1/DVD1_Exo33.mp4",
+                    "Copyright": "©Guy Bélanger 2015"
+                },
+                {
+                    "Id": "DGB079",
+                    "VideoFile": "https://biodanza-dzv.fr/wp-content/uploads/2023/04/BDZMED/DVD1/DVD1_Exo35.mp4",
+                    "Copyright": "©Guy Bélanger 2015"
+                },
+                {
+                    "Id": "DGB080",
+                    "VideoFile": "https://biodanza-dzv.fr/wp-content/uploads/2023/04/BDZMED/DVD2/DVD2_Exo11.mp4",
+                    "Copyright": "©Guy Bélanger 2015"
+                },
+                {
+                    "Id": "DGB081",
+                    "VideoFile": "https://biodanza-dzv.fr/wp-content/uploads/2023/04/BDZMED/DVD1/DVD1_Exo31.mp4",
+                    "Copyright": "©Guy Bélanger 2015"
+                },
+                {
+                    "Id": "DGB082",
+                    "VideoFile": "https://biodanza-dzv.fr/wp-content/uploads/2023/04/BDZMED/DVD2/DVD2_Exo12.mp4",
+                    "Copyright": "©Guy Bélanger 2015"
+                },
+                {
+                    "Id": "DGB083",
+                    "VideoFile": "https://biodanza-dzv.fr/wp-content/uploads/2023/04/BDZMED/DVD1/DVD1_Exo34.mp4",
+                    "Copyright": "©Guy Bélanger 2015"
+                },
+                {
+                    "Id": "DGB084",
+                    "VideoFile": "https://biodanza-dzv.fr/wp-content/uploads/2023/04/BDZMED/DVD2/DVD2_Exo13.mp4",
+                    "Copyright": "©Guy Bélanger 2015"
+                },
+                {
+                    "Id": "DGB085",
+                    "VideoFile": "https://biodanza-dzv.fr/wp-content/uploads/2023/04/BDZMED/DVD2/DVD2_Exo14.mp4",
+                    "Copyright": "©Guy Bélanger 2015"
+                },
+                {
+                    "Id": "DGB086",
+                    "VideoFile": "https://biodanza-dzv.fr/wp-content/uploads/2023/04/BDZMED/DVD4/DVD4_Exo04.mp4",
+                    "Copyright": "©Guy Bélanger 2015"
+                },
+                {
+                    "Id": "DGB087",
+                    "VideoFile": "https://biodanza-dzv.fr/wp-content/uploads/2023/04/BDZMED/DVD3/DVD3_Exo21.mp4",
+                    "Copyright": "©Guy Bélanger 2015"
+                },
+                {
+                    "Id": "DGB088",
+                    "VideoFile": "https://biodanza-dzv.fr/wp-content/uploads/2023/04/BDZMED/DVD4/DVD4_Exo06.mp4",
+                    "Copyright": "©Guy Bélanger 2015"
+                },
+                {
+                    "Id": "DGB089",
+                    "VideoFile": "https://biodanza-dzv.fr/wp-content/uploads/2023/04/BDZMED/DVD4/DVD4_Exo16.mp4",
+                    "Copyright": "©Guy Bélanger 2015"
+                },
+                {
+                    "Id": "DGB090",
+                    "VideoFile": "https://biodanza-dzv.fr/wp-content/uploads/2023/04/BDZMED/DVD2/DVD2_Exo15.mp4",
+                    "Copyright": "©Guy Bélanger 2015"
+                },
+                {
+                    "Id": "DGB091",
+                    "VideoFile": "https://biodanza-dzv.fr/wp-content/uploads/2023/04/BDZMED/DVD2/DVD2_Exo16.mp4",
+                    "Copyright": "©Guy Bélanger 2015"
+                },
+                {
+                    "Id": "DGB092",
+                    "VideoFile": "https://biodanza-dzv.fr/wp-content/uploads/2023/04/BDZMED/DVD1/DVD1_Exo36.mp4",
+                    "Copyright": "©Guy Bélanger 2015"
+                },
+                {
+                    "Id": "DGB093",
+                    "VideoFile": "https://biodanza-dzv.fr/wp-content/uploads/2023/04/BDZMED/DVD1/DVD1_Exo37.mp4",
+                    "Copyright": "©Guy Bélanger 2015"
+                },
+                {
+                    "Id": "DGB094",
+                    "VideoFile": "https://biodanza-dzv.fr/wp-content/uploads/2023/04/BDZMED/DVD2/DVD2_Exo17.mp4",
+                    "Copyright": "©Guy Bélanger 2015"
+                },
+                {
+                    "Id": "DGB095",
+                    "VideoFile": "https://biodanza-dzv.fr/wp-content/uploads/2023/04/BDZMED/DVD2/DVD2_Exo19.mp4",
+                    "Copyright": "©Guy Bélanger 2015"
+                },
+                {
+                    "Id": "DGB096",
+                    "VideoFile": "https://biodanza-dzv.fr/wp-content/uploads/2023/04/BDZMED/DVD4/DVD4_Exo03.mp4",
+                    "Copyright": "©Guy Bélanger 2015"
+                },
+                {
+                    "Id": "DGB097",
+                    "VideoFile": "https://biodanza-dzv.fr/wp-content/uploads/2023/04/BDZMED/DVD1/DVD1_Exo38.mp4",
+                    "Copyright": "©Guy Bélanger 2015"
+                }
+            ]
+        }
+    ]
+}

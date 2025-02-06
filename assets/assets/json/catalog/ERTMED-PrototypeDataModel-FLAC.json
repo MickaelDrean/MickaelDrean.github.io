@@ -1,6 +1,7 @@
 {
   "Catalogues": [
     {
+      "InterfaceVersion": "V1",
       "Name": "ERTMED-FLAC",
       "Author": "Hélène LEVY BENSEFT",
       "Creation_date": "07/04/2021",
@@ -53026,5 +53027,4 @@
       ]
     }
   ]
-  }
-  
+}

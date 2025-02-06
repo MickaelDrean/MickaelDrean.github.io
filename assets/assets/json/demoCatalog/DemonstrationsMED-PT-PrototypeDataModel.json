@@ -1,6 +1,7 @@
 {
   "DemonstrationsCatalogues": [
     {
+      "InterfaceVersion": "V1",
       "Name": "Vídeos de demonstração da Ecole Méditerranée",
       "Author": "Guy BELANGER",
       "BuyLink": "https://www.biodanza-med.com/dvd",
@@ -485,5 +486,4 @@
       ]
     }
   ]
-  }
-  
+}
