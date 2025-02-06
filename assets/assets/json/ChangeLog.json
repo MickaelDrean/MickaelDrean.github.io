@@ -1,4 +1,15 @@
 {
     "Version_date": "07-10-2024 21h",
-    "ChangeLog": []
+    "ChangeLog": [
+        {
+            "Name": "Beta2",
+            "Date": "3/12/20224",
+            "Description": [
+                "Ajout vision horizontale des séances",
+                "Ajout barre espace pour jouer/arrêter une musique dans une séance",
+                "Correction …",
+                "Correction …"
+            ]
+        }
+    ]
 }
