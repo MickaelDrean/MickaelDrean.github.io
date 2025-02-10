@@ -118658,12 +118658,14 @@ s=a.b
 r=B.b.p(n.r,s)
 q=B.b.ev(n.r,s)
 if(r){p=n.r
-if(p.length===2)n.y=0
+o=p.length
+if(o===2)n.y=0
 else if(q===n.y)n.y=0
-o=n.x
-if(q<=o)n.x=o-1
-B.b.F(p,s)
-n.r[n.y].d.z=!0
+if(o===1)n.y=n.x=-1
+else{o=n.x
+if(q<=o)n.x=Math.max(o-1,0)}B.b.F(p,s)
+p=n.r
+if(p.length!==0)p[n.y].d.z=!0
 n.tp()}this.at.lJ()
 if(!b.d)b.a.$1(new A.l6(n,B.lE,s,null))},
 aMJ(a,b){var s,r,q,p=$.aw().a
