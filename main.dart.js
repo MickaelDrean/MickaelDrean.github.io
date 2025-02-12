@@ -102327,8 +102327,8 @@ gx0(){return"Unsaved changes"},
 gCm(){return"Do you want to apply and save the changes?"},
 xz(a,b){return'A session named "'+a+'" already exists.\nPlease confirm the renaming to "'+b+'".'},
 G3(a,b){return"Version "+a+" from "+b},
-gFN(){return"Automatic renaming of session"},
-FM(a,b){return"From "+a+" to "+b}}
+gFN(){return"Automatic renaming of imported session"},
+FM(a,b){return'From "'+a+'" to "'+b+'"'}}
 A.T_.prototype={
 gkn(){return"dd/MM/yyyy"},
 Ib(a){return"\xdaltima apertura: "+A.j8(this.a).du(a)},
@@ -102492,8 +102492,8 @@ gx0(){return"Cambios no guardados"},
 gCm(){return"\xbfDesea aplicar y guardar los cambios?"},
 xz(a,b){return'Ya existe una sesi\xf3n llamada "'+a+'".\nPor favor, confirme el cambio de nombre a "'+b+'".'},
 G3(a,b){return"Versi\xf3n "+a+" de "+b},
-gFN(){return"Automatic renaming of session"},
-FM(a,b){return"From "+a+" to "+b}}
+gFN(){return"Cambio de nombre autom\xe1tico de la sesi\xf3n importada"},
+FM(a,b){return'De "'+a+'" a "'+b+'"'}}
 A.T0.prototype={
 gkn(){return"dd/MM/yyyy"},
 Ib(a){return"Derni\xe8re ouverture : "+A.j8(this.a).du(a)},
@@ -102657,8 +102657,8 @@ gx0(){return"Changements non appliqu\xe9s"},
 gCm(){return"Voulez vous appliquer et enregistrer les changements ?"},
 xz(a,b){return'Il existe d\xe9j\xe0 une s\xe9ance "'+a+'".\nVeuillez confirmer le renommage en "'+b+'".'},
 G3(a,b){return"Version "+a+" from "+b},
-gFN(){return"Automatic renaming of session"},
-FM(a,b){return"From "+a+" to "+b}}
+gFN(){return"Renommage automatique de la s\xe9ance import\xe9e"},
+FM(a,b){return'De "'+a+'" en "'+b+'"'}}
 A.T1.prototype={
 gkn(){return"dd/MM/yyyy"},
 Ib(a){return"\xdaltima abertura: "+A.j8(this.a).du(a)},
@@ -102822,8 +102822,8 @@ gx0(){return"Altera\xe7\xf5es n\xe3o salvas"},
 gCm(){return"Deseja aplicar e salvar as altera\xe7\xf5es?"},
 xz(a,b){return'J\xe1 existe uma sess\xe3o chamada "'+a+'".\nPor favor, confirme a renomea\xe7\xe3o para "'+b+'".'},
 G3(a,b){return"Vers\xe3o "+a+" de "+b},
-gFN(){return"Automatic renaming of session"},
-FM(a,b){return"From "+a+" to "+b}}
+gFN(){return"Renomea\xe7\xe3o autom\xe1tica da sess\xe3o importada"},
+FM(a,b){return'De "'+a+'" para "'+b+'"'}}
 A.b6U.prototype={
 $2(a,b){return this.a.a(a+b)},
 $S(){return this.a.h("0(0,0)")}}
