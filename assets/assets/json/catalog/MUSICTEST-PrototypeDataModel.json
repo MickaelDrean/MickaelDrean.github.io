@@ -1,0 +1,369 @@
+{
+"Catalogues": [
+  {
+    "InterfaceVersion": "V1",
+    "Name": "MUSICTEST",
+    "Author": "Thierry",
+    "Creation_date": "17/02/2025",
+    "Last_update_date": "17/02/2025",
+    "Language": "FR",
+    "Demo_catalogue": "DemonstrationsMED-PrototypeDataModel.json",
+    "Propositions": [
+      {
+        "Id": "PRP001",
+        "Exercise_id": "EXE001",
+        "Music_id": "TMF2025-0001",
+        "Instruction": [
+          ""
+        ]
+      },
+      {
+        "Id": "PRP002",
+        "Exercise_id": "EXE002",
+        "Music_id": "TMF2025-0002",
+        "Instruction": [
+          ""
+        ]
+      },
+      {
+        "Id": "PRP003",
+        "Exercise_id": "EXE003",
+        "Music_id": "TMF2025-0003",
+        "Instruction": [
+          ""
+        ]
+      },
+      {
+        "Id": "PRP004",
+        "Exercise_id": "EXE004",
+        "Music_id": "TMF2025-0004",
+        "Instruction": [
+          ""
+        ]
+      },
+      {
+        "Id": "PRP005",
+        "Exercise_id": "EXE005",
+        "Music_id": "TMF2025-0005",
+        "Instruction": [
+          ""
+        ]
+      }
+    ],
+    "Exercises": [
+      {
+        "Id": "EXE001",
+        "Name": "FLAC",
+        "Category": "TEST FICHIERS MUSIQUE",
+        "Introduction": [
+          "Test fichier musical flac"
+        ],
+        "Description": [
+          ""
+        ],
+        "Observation": [
+          ""
+        ],
+        "Objective": [
+          ""
+        ],
+        "Poetic_element": [
+          ""
+        ],
+        "Remark": [
+          ""
+        ],
+        "Existential_projection": [
+          ""
+        ],
+        "CIMEBNote": [
+          ""
+        ],
+        "Definition": [
+          ""
+        ],
+        "DanceStages": [
+          ""
+        ],
+        "Tags": [
+          {
+            "VivenciaLine": ""
+          },
+          {
+            "Usage": ""
+          },
+          {
+            "SessionStage": ""
+          },
+          {
+            "GroupLevel": ""
+          }
+        ]
+      },
+      {
+        "Id": "EXE002",
+        "Name": "M4A-AAC",
+        "Category": "TEST FICHIERS MUSIQUE",
+        "Introduction": [
+          "Test fichier musical M4A basse résolution"
+        ],
+        "Description": [
+          ""
+        ],
+        "Observation": [
+          ""
+        ],
+        "Objective": [
+          ""
+        ],
+        "Poetic_element": [
+          ""
+        ],
+        "Remark": [
+          ""
+        ],
+        "Existential_projection": [
+          ""
+        ],
+        "CIMEBNote": [
+          ""
+        ],
+        "Definition": [
+          ""
+        ],
+        "DanceStages": [
+          ""
+        ],
+        "Tags": [
+          {
+            "VivenciaLine": ""
+          },
+          {
+            "Usage": ""
+          },
+          {
+            "SessionStage": ""
+          },
+          {
+            "GroupLevel": ""
+          }
+        ]
+      },
+      {
+        "Id": "EXE003",
+        "Name": "M4A-ALAC",
+        "Category": "TEST FICHIERS MUSIQUE",
+        "Introduction": [
+          "Test fichier musical M4A looseless"
+        ],
+        "Description": [
+          ""
+        ],
+        "Observation": [
+          ""
+        ],
+        "Objective": [
+          ""
+        ],
+        "Poetic_element": [
+          ""
+        ],
+        "Remark": [
+          ""
+        ],
+        "Existential_projection": [
+          ""
+        ],
+        "CIMEBNote": [
+          ""
+        ],
+        "Definition": [
+          ""
+        ],
+        "DanceStages": [
+          ""
+        ],
+        "Tags": [
+          {
+            "VivenciaLine": ""
+          },
+          {
+            "Usage": ""
+          },
+          {
+            "SessionStage": ""
+          },
+          {
+            "GroupLevel": ""
+          }
+        ]
+      },
+      {
+        "Id": "EXE004",
+        "Name": "MP3",
+        "Category": "TEST FICHIERS MUSIQUE",
+        "Introduction": [
+          "Test fichier musical mp3"
+        ],
+        "Description": [
+          ""
+        ],
+        "Observation": [
+          ""
+        ],
+        "Objective": [
+          ""
+        ],
+        "Poetic_element": [
+          ""
+        ],
+        "Remark": [
+          ""
+        ],
+        "Existential_projection": [
+          ""
+        ],
+        "CIMEBNote": [
+          ""
+        ],
+        "Definition": [
+          ""
+        ],
+        "DanceStages": [
+          ""
+        ],
+        "Tags": [
+          {
+            "VivenciaLine": ""
+          },
+          {
+            "Usage": ""
+          },
+          {
+            "SessionStage": ""
+          },
+          {
+            "GroupLevel": ""
+          }
+        ]
+      },
+      {
+        "Id": "EXE005",
+        "Name": "WAV",
+        "Category": "TEST FICHIERS MUSIQUE",
+        "Introduction": [
+          "Test fichier musical wav"
+        ],
+        "Description": [
+          ""
+        ],
+        "Observation": [
+          ""
+        ],
+        "Objective": [
+          ""
+        ],
+        "Poetic_element": [
+          ""
+        ],
+        "Remark": [
+          ""
+        ],
+        "Existential_projection": [
+          ""
+        ],
+        "CIMEBNote": [
+          ""
+        ],
+        "Definition": [
+          ""
+        ],
+        "DanceStages": [
+          ""
+        ],
+        "Tags": [
+          {
+            "VivenciaLine": ""
+          },
+          {
+            "Usage": ""
+          },
+          {
+            "SessionStage": ""
+          },
+          {
+            "GroupLevel": ""
+          }
+        ]
+      }
+    ],
+    "Musics": [
+      {
+        "Id": "TMF2025-0001",
+        "Title": "Flac",
+        "Artist": "LooseLess",
+        "Duration": "02:00",
+        "Origin_code": "TCO 01-01",
+        "File": "MUSICTEST/TestMusicFile.flac",
+        "Tags": [
+          ""
+        ],
+        "BPM": 100,
+        "Music_Sha256": ""
+      },
+      {
+        "Id": "TMF2025-0002",
+        "Title": "M4A-AAC",
+        "Artist": "LowRes",
+        "Duration": "02:00",
+        "Origin_code": "TCO 01-02",
+        "File": "MUSICTEST/TestMusicFile-AAC.m4a",
+        "Tags": [
+          ""
+        ],
+        "BPM": 100,
+        "Music_Sha256": ""
+      },
+      {
+        "Id": "TMF2025-0003",
+        "Title": "M4A-ALAC",
+        "Artist": "LooseLess",
+        "Duration": "02:00",
+        "Origin_code": "TCO 01-03",
+        "File": "MUSICTEST/TestMusicFile-ALAC.m4a",
+        "Tags": [
+          ""
+        ],
+        "BPM": 100,
+        "Music_Sha256": ""
+      },
+      {
+        "Id": "TMF2025-0004",
+        "Title": "MP3",
+        "Artist": "LowRes",
+        "Duration": "02:00",
+        "Origin_code": "TCO 01-04",
+        "File": "MUSICTEST/TestMusicFile.mp3",
+        "Tags": [
+          ""
+        ],
+        "BPM": 100,
+        "Music_Sha256": ""
+      },
+      {
+        "Id": "TMF2025-0005",
+        "Title": "WAV",
+        "Artist": "HighRes",
+        "Duration": "02:00",
+        "Origin_code": "TCO 01-05",
+        "File": "MUSICTEST/TestMusicFile.wav",
+        "Tags": [
+          ""
+        ],
+        "BPM": 100,
+        "Music_Sha256": ""
+      }
+    ]
+  }
+]
+}
