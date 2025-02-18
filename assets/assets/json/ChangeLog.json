@@ -3,7 +3,7 @@
     "ChangeLog": [
         {
             "Name": "Beta3",
-            "Date": "11/02/2025",
+            "Date": "21/02/2025",
             "Description": [
                 {
                     "language": "FR",
@@ -13,7 +13,11 @@
                         "Recherche avec mots clés, contenus de champs, ou expression exacte entre guillemets dans les séances et le catalogue",
                         "Maintien visible des informations de la séances quand la fenêtre est retaillée",
                         "Gestion des sauvegardes des informations d'une séance : automatique ou avec messages de confirmation",
-                        "Correction du renommage et de la suppression des séances"
+                        "Correction du renommage et de la suppression des séances",
+                        "Problèmes connus :",
+                        " - Pour les fichiers FLAC, sur Macos, la musique continue à jouer après que la durée de la musique est atteinte et la courbe d'intensité colorée en jaune",
+                        " - Le déplacement des propositions avec la souris ne fonctionne pas. Pour contourner, utiliser Maj + Flèche haut et Maj + Flèche bas",
+                        " - Impossible de créer deux propositions identique dans une séance. Pour contourner, mettre des consignes différentes."
                     ]
                 },
                 {
@@ -24,7 +28,11 @@
                         "Pesquisa com palavras-chave, conteúdo de campos ou expressão exata entre aspas nas sessões e no catálogo",  
                         "Manter visíveis as informações da sessão ao redimensionar a janela",  
                         "Gerenciamento do salvamento das informações de uma sessão: automático ou com mensagens de confirmação",  
-                        "Correção da renomeação e exclusão de sessões"  
+                        "Correção da renomeação e exclusão de sessões",
+                        "Problemas conhecidos:",  
+                        " - Para arquivos FLAC no macOS, a música continua tocando após atingir a duração da faixa, e a curva de intensidade permanece colorida em amarelo",  
+                        " - Mover as proposições com o mouse não funciona. Como solução alternativa, use Shift + Seta para cima e Shift + Seta para baixo",  
+                        " - Não é possível criar duas proposições idênticas em uma sessão. Como solução alternativa, use instruções diferentes."  
                     ]
                 },
                 {
@@ -35,7 +43,11 @@
                         "Búsqueda con palabras clave, contenido de campos o expresión exacta entre comillas en sesiones y en el catálogo",  
                         "Mantener visible la información de la sesión al redimensionar la ventana",  
                         "Gestión de guardado de información de una sesión: automática o con mensajes de confirmación",  
-                        "Corrección del cambio de nombre y eliminación de sesiones"  
+                        "Corrección del cambio de nombre y eliminación de sesiones",
+                        "Problemas conocidos:",  
+                        " - Para los archivos FLAC en macOS, la música sigue reproduciéndose después de alcanzar la duración de la pista, y la curva de intensidad sigue coloreada en amarillo",  
+                        " - Mover las proposiciones con el ratón no funciona. Como solución alternativa, usa Mayús + Flecha arriba y Mayús + Flecha abajo",  
+                        " - No es posible crear dos proposiciones idénticas en una sesión. Como solución alternativa, usa dos instrucciones diferentes."  
                     ]
                 },
                 {
@@ -46,7 +58,11 @@
                         "Search with keywords, field contents, or exact expression in quotes in session list aas weel as in the catalog",  
                         "Session information remains visible when resizing the window",  
                         "Management of session information saves: automatic or with confirmation messages",  
-                        "Fixed renaming and deleting sessions"
+                        "Fixed renaming and deleting sessions",
+                        "Known issues:",  
+                        " - For FLAC files on macOS, the music continues playing after the track duration is reached, and the intensity curve remains colored in yellow",  
+                        " - Moving propositions with the mouse does not work. As a workaround, use Shift + Up Arrow and Shift + Down Arrow",  
+                        " - It is not possible to create two identical propositions in a session. As a workaround, enter two different instructions."
                     ]
                 }
             ]
