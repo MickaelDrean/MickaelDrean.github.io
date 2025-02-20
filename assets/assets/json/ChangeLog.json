@@ -1,9 +1,9 @@
 {
-    "Version_date": "07-10-2024 21h",
+    "Version_date": "20-02-2025 21h",
     "ChangeLog": [
         {
             "Name": "Beta3",
-            "Date": "21/02/2025",
+            "Date": "20/02/2025",
             "Description": [
                 {
                     "language": "FR",
@@ -16,6 +16,7 @@
                         "Correction du renommage et de la suppression des séances",
                         "Problèmes connus :",
                         " - Pour les fichiers FLAC, sur Macos, la musique continue à jouer après que la durée de la musique est atteinte et la courbe d'intensité colorée en jaune",
+                        " - Quand la répétition automatique de la musique est sélectionnée, les boutons et la courbe d'intensité ne sont pas mis à jour au moment ou la musique est rejouée",
                         " - Le déplacement des propositions avec la souris ne fonctionne pas. Pour contourner, utiliser Maj + Flèche haut et Maj + Flèche bas",
                         " - Impossible de créer deux propositions identique dans une séance. Pour contourner, mettre des consignes différentes."
                     ]
@@ -31,6 +32,7 @@
                         "Correção da renomeação e exclusão de sessões",
                         "Problemas conhecidos:",  
                         " - Para arquivos FLAC no macOS, a música continua tocando após atingir a duração da faixa, e a curva de intensidade permanece colorida em amarelo",  
+                        " - Quando a repetição automática da música é selecionada, o botão play/pause e a curva de intensidade não são atualizados quando a música é reproduzida novamente",
                         " - Mover as proposições com o mouse não funciona. Como solução alternativa, use Shift + Seta para cima e Shift + Seta para baixo",  
                         " - Não é possível criar duas proposições idênticas em uma sessão. Como solução alternativa, use instruções diferentes."  
                     ]
@@ -46,6 +48,7 @@
                         "Corrección del cambio de nombre y eliminación de sesiones",
                         "Problemas conocidos:",  
                         " - Para los archivos FLAC en macOS, la música sigue reproduciéndose después de alcanzar la duración de la pista, y la curva de intensidad sigue coloreada en amarillo",  
+                        " - Cuando se selecciona la repetición automática de la música, el botón play/pause y la curva de intensidad no se actualizan cuando la música se reproduce nuevamente",
                         " - Mover las proposiciones con el ratón no funciona. Como solución alternativa, usa Mayús + Flecha arriba y Mayús + Flecha abajo",  
                         " - No es posible crear dos proposiciones idénticas en una sesión. Como solución alternativa, usa dos instrucciones diferentes."  
                     ]
@@ -60,7 +63,8 @@
                         "Management of session information saves: automatic or with confirmation messages",  
                         "Fixed renaming and deleting sessions",
                         "Known issues:",  
-                        " - For FLAC files on macOS, the music continues playing after the track duration is reached, and the intensity curve remains colored in yellow",  
+                        " - For FLAC files on macOS, the music continues playing after the track duration is reached, and the intensity curve remains colored in yellow",
+                        " - When music loop is selected, the play/pause button as well as the intensity curve are not updated when the music is replayed",
                         " - Moving propositions with the mouse does not work. As a workaround, use Shift + Up Arrow and Shift + Down Arrow",  
                         " - It is not possible to create two identical propositions in a session. As a workaround, enter two different instructions."
                     ]
