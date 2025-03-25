@@ -1,0 +1,395 @@
+{
+    "InterfaceVersion": "V1",
+    "Title": "Les couleurs de la rencontre",
+    "CatalogueName": "ERTMED",
+    "CatalogueVersion": "07/04/2021",
+    "CreationDate": "2024/11/27",
+    "SessionDate": "2022/09/05",
+    "Description": [
+        "Pour préparer cette première séance, je suis reparti de ce qui résonnait en moi après quelques années de pratique en Biodanza.",
+        "Le mot qui est venu spontanément est « Rencontres », plus exactement feu d’artifice de rencontres !",
+        "En fait toute la palette des couleurs des rencontres.",
+        " • La rencontre avec soi-même : redécouvrir les potentialités de notre corps, redécouvrir le plaisir de se mouvoir et agir à partir d'une impulsion qui part du corps, du cœur et  de la tête et oser ses aspirations, ses élans, son expression.  ",
+        " • La rencontre avec l’autre, les autres, le groupe en s'ajustant pour vivre des relations respectueuses de chacun.",
+        " • La rencontre avec plus que nous, les autres espèces, le monde vivant, l'univers, ...",
+        "Dans un groupe de biodanza, et dans chaque séance de biodanza nous créons la possibilité de telles rencontres dans un cadre bienveillant.",
+        "Ces rencontres nous amènent à nous découvrir, à mieux nous connaître dans l’interaction, l’altérité.",
+        "Nous avons besoin de l'autre pour nous révéler à nous-mêmes, découvrir et inventer notre identité.",
+        "Elles peuvent nous amener à changer notre regard sur nous même, sur l’autre et sur le monde.",
+        "Mon invitation dans cette séance est de gouter différentes saveurs, couleurs de la rencontre."
+    ],
+    "SessionPropositions": [
+        {
+            "Title": "RONDE D'INITIATION (aussi nommée «RONDE D'INTEGRATION INITIALE»)",
+            "Description": [
+                "Je vous invite à former un cercle.",
+                "La ronde, un rituel de rencontre, de rassemblement de notre communauté humaine. Chacun y a sa place, peut voir les autres et apprécier la diversité de la beauté qui nous entoure..",
+                "La rencontre commence par la présence à vous même puis établir un contact dans le regard avec un compagnons à gauche ou à droite et tendre la main.",
+                "Prenez le temps de rentrer dans le rythme.",
+                "Nous nous déplacerons vers la droite en entrant ensemble dans un même rythme.",
+                "Si c'est bon pour vous, vous pourrez échanger un regard ou un sourire pour accueillir les autres compagnons"
+            ],
+            "Music": {
+                "Id": "01-57",
+                "Title": "Aganju",
+                "Artist": "Gilberto, Bebel",
+                "Duration": "04:02",
+                "Origin_code": "BA48-02",
+                "File": "BDZMED/PI01/BA48 - 02 - Gilberto, Bebel - Aganju.wav",
+                "BPM": 92,
+                "AcousticID": "",
+                "Tags": [
+                    "Vitalité",
+                    "Créativité"
+                ],
+                "LoopMode": false
+            },
+            "Video": null,
+            "Observation": [
+                ""
+            ]
+        },
+        {
+            "Title": "MARCHE EN SYNERGIE (Marche synergique)",
+            "Description": [
+                "Retrouver le plaisir de marcher  au sein de notre communauté humaine en retrouvant votre mouvement naturel.",
+                "Aller en avant, en posant vos pas sur le rythme de la musique en alternant jambe et bras. ",
+                "Quand la musique commence, prenez le temps de sentir le rythme avant de vous lancer.",
+                "En marchant vous aller croiser d'autres humains en chemin. Autant d'opportunités de croiser le regard ou de vous sourire."
+            ],
+            "Music": {
+                "Id": "02-08",
+                "Title": "Andar con fé",
+                "Artist": "Gil, Gilberto",
+                "Duration": "03:18",
+                "Origin_code": "MMU12-01",
+                "File": "BDZMED/PI02/MMU12 - 01 - Gil, Gilberto - Andar con fé.mp3",
+                "BPM": 96,
+                "AcousticID": "",
+                "Tags": [
+                    ""
+                ],
+                "LoopMode": false
+            },
+            "Video": {
+                "Title": "MARCHE EN SYNERGIE (Marche synergique)",
+                "File": "BDZMED/DVD1/DVD1_Exo30.mp4"
+            },
+            "Observation": [
+                "Gabriela et Christine gardent les bras le long du corps. Les épaules \"figées\"."
+            ]
+        },
+        {
+            "Title": "COORDINATION RYTHMIQUE A DEUX (appelée aussi marcher à deux)",
+            "Description": [
+                "En tant qu'humains nous avons besoin des autres pour nous construire, pour trouver nos motivations profondes. Un bébé n'apprend à marcher qu'avec le soutient et la présence d'un autre humain.",
+                "Je vais vous proposer maintenant de faire un bout de chemin à deux, de marcher à deux.",
+                "L'invitation dans cette marche est, dans un dialogue sensible, de vous ajuster, sur la base du rythme de la musique, et trouver l'intensité et la direction qui vous conviennent.",
+                "Nous n'arrivons pas aujourd'hui tous dans la même énergie. Chacun doit veiller à trouver une intensité qui conviennent aux deux.",
+                "Invitez une personne, établissez une connexion et, quand la musique commence prenez le temps de laisser le rythme vous imprégner de trouvez votre marche commune.",
+                "Si vous ressentez que vous êtes décalés, tout va bien  ! Vous vous arrêtez et vous vous resynchronisez. C'est comme dans la vraie vie, des fois il faut du temps pour se mettre au diapason !",
+                "Je vais vous proposer des changements pour goûter plusieurs rencontres. Quand je dirais changer, vous prenez le temps de remercier votre partenaire avant d'aller partager un nouveau bout de chemin.",
+                "Si vous êtes seul, levez la main"
+            ],
+            "Music": {
+                "Id": "09-59",
+                "Title": "Olodum Força Divina",
+                "Artist": "Brandão, Leci",
+                "Duration": "04:52",
+                "Origin_code": "HLBC25-37",
+                "File": "BDZMED/PI09/HLBC25 - 37 - Brandão, Leci - Olodum Força Divina.mp3",
+                "BPM": 96,
+                "AcousticID": "",
+                "Tags": [
+                    ""
+                ],
+                "LoopMode": false
+            },
+            "Video": {
+                "Title": "COORDINATION RYTHMIQUE A DEUX (appelée aussi marcher à deux)",
+                "File": "BDZMED/DVD1/DVD1_Exo02.mp4"
+            },
+            "Observation": [
+                ""
+            ]
+        },
+        {
+            "Title": "JEUX DE SAMBA ET DE VITALITE EN GROUPE",
+            "Description": [
+                "Dans nos vies trépidantes, ils nous  arrive de nous concentrer tellement sur nos engagements professionnels et familiaux que nous ne prenons plus le temps de  jouer. Le jeu qui permet notamment aux enfants   de découvrir le monde d'pprendre à vivre avec les autres et de prendre du plaisir.",
+                "Je vous propose un jeu maintenant. Le principe est simple. Nous commencerons à danser sur la musique. Quand je nommerai une partie du corps vous poserez les deux mains sur cette partie du corps des deux compagnons les plus proches de vous en prenant soin de la qualité du contact. Quand je dirai \"individuellement\" vous continuerez à danser en vous déplaçant en restant proche des autres compagnons."
+            ],
+            "Music": {
+                "Id": "09-24",
+                "Title": "No Som da Sanfona",
+                "Artist": "Ramalho, Elba",
+                "Duration": "02:41",
+                "Origin_code": "IBF05-06",
+                "File": "BDZMED/PI09/IBF05 - 06 - Ramalho, Elba - No Som da sanfona.mp3",
+                "BPM": 101,
+                "AcousticID": "",
+                "Tags": [
+                    ""
+                ],
+                "LoopMode": false
+            },
+            "Video": null,
+            "Observation": [
+                ""
+            ]
+        },
+        {
+            "Title": "DANSE RYTHMIQUE",
+            "Description": [
+                "La musique et son rythme nous accompagnent depuis le début de cette séance. Adapter notre propre rythme au rythme extérieur",
+                "Le rythme qui  vient de nous guider de nous donner de l'élan dans nos marches, nos jeux je vous propose maintenant de le recontrer chez vous en echo à la musique. Dans la danse rythmique,   ",
+                "Je vous invite maintenant dans  une danse individuelle à suivre au rythme de la musique, sa saveur et la laisser s'exprimer dans votre danse.  ",
+                "Tout au long de cette danse rythmique veillez à gardez une base stable et mobile (et laisser naître les mouvements du reste du corps à partir de cette base.)"
+            ],
+            "Music": {
+                "Id": "12-12",
+                "Title": "Te aven baxtale",
+                "Artist": "Urs Karpatz",
+                "Duration": "02:45",
+                "Origin_code": "HLB10-03",
+                "File": "BDZMED/PI12/HLB10 - 03 - Urs Karpatz - Te aven baxtale.mp3",
+                "BPM": 141,
+                "AcousticID": "",
+                "Tags": [
+                    ""
+                ],
+                "LoopMode": false
+            },
+            "Video": {
+                "Title": "DANSE RYTHMIQUE",
+                "File": "BDZMED/DVD1/DVD1_Exo14.mp4"
+            },
+            "Observation": [
+                ""
+            ]
+        },
+        {
+            "Title": "SYNCHRONISATION RYTHMIQUE DOUCE",
+            "Description": [
+                "Nous allons maintenant ralentir notre mouvement. ",
+                "La proposition est d'entrer en communication avec un autre compagnon.",
+                "Dans un premier temps vous allez sentir comment être ensemble, trouver une base commune, sur le tempo plus lent de la musique.",
+                "En étant pleinement présent à l'autre, à la musique, à sa mélodie, vous pourrez enrichir votre dialogue dans un mouvement plus rond.",
+                "Vous vous tenez par les mains qui alternent avec douceur.",
+                "Les yeux sont ouverts mais quand l'émotion monte, on peut les fermer et ce dans une pulsation (on ouvre puis on ferme).",
+                "Vous resterez avec le même partenaire durant toute la danse."
+            ],
+            "Music": {
+                "Id": "04-49",
+                "Title": "Dream A Little Dream Of Me (feat. The Beautiful South)",
+                "Artist": "OST French Kiss",
+                "Duration": "03:33",
+                "Origin_code": "HLB04-06",
+                "File": "BDZMED/PI04/HLB04 - 06 - OST French Kiss - Dream A Little Dream Of Me.mp3",
+                "BPM": 90,
+                "AcousticID": "",
+                "Tags": [
+                    "Affectivité"
+                ],
+                "LoopMode": false
+            },
+            "Video": null,
+            "Observation": [
+                ""
+            ]
+        },
+        {
+            "Title": "FLUIDITE : SERIE I",
+            "Description": [
+                "La fluidité est une catégorie de mouvement contraire à la rigidité. Les personnes qui possèdent de la fluidité évitent facilement les obstacles, tandis que les personnes rigides s'y heurtent et vivent avec un gaspillage d'énergie inutile.",
+                "Ralentir et trouver un équillibre entre agir et sentir, c'est la voie que je vous propose d'explorer vers la fluidité.",
+                "Voici une danse qui se réalisera sans déplacement en 3 temps. A partir d'une base à la fois stable et souple, 1) les jambes sont flexibles, les bras et les mains s'élèvent délicatement de l'avant jusqu'aux épaules , vers l'arrière dans un mouvement naturel et continu. Les mains caressent l'air  et les jambes  accompagnent le mouvement. 2), le mouvement s'alterne en synergie, tandis que la main droite s'élève vers l'avant, l'autre main réalise le mouvement vers l'arrière en gardant pour boussole le plaisir du mouvement lent et continu.3) Les mouvements s'intègrent l'un à l'autre de façon complémentaire.",
+                "Les yeux sont ouverts avec la possibilité de les fermer quand on sent l'émotion de la musique (désir d'abandon) puis on les ouvre de nouveau en pulsation"
+            ],
+            "Music": {
+                "Id": "03-06",
+                "Title": "Breathe In The Air",
+                "Artist": "Pink Floyd",
+                "Duration": "02:44",
+                "Origin_code": "SCR06-14",
+                "File": "BDZMED/PI03/SCR06 - 14 - Pink Floyd - Breathe In The Air.mp3",
+                "BPM": 129,
+                "AcousticID": "",
+                "Tags": [
+                    ""
+                ],
+                "LoopMode": false
+            },
+            "Video": {
+                "Title": "FLUIDITE : SERIE I",
+                "File": "BDZMED/DVD1/DVD1_Exo09.mp4"
+            },
+            "Observation": [
+                ""
+            ]
+        },
+        {
+            "Title": "DANSE LIBRE DE FLUIDITE",
+            "Description": [
+                "A partir de cette ouverture, je vous propose de vous mouvoir de manière fluide et continue dans le monde dans une danse libre de fluidité.",
+                "Le déplacement s'effectue à partir d'une base stable (poser le pied par le talon, glisser les pieds) en répondant à l'invitation de la musique.",
+                "Le mouvement est rond, lent et continu  sans rechercher à toucher les autres et en accueillant les éventuels contact avec sensibilité. Comme l'eau qui trouve son chemin en fluant entre les rochers.",
+                "Si cela vous aide, vous pouvez commencer par un des mouvements de la danse précédente.",
+                "Gillsser le pied pour garder l'équilibre."
+            ],
+            "Music": {
+                "Id": "11-32",
+                "Title": "She",
+                "Artist": "Zamfir, Gheorghe",
+                "Duration": "04:01",
+                "Origin_code": "IBF09-05",
+                "File": "BDZMED/PI11/IBF09 - 05 - Zamfir, Gheorghe - She.mp3",
+                "BPM": 145,
+                "AcousticID": "",
+                "Tags": [
+                    "Minotaure"
+                ],
+                "LoopMode": false
+            },
+            "Video": {
+                "Title": "DANSE LIBRE DE FLUIDITE",
+                "File": "BDZMED/DVD3/DVD3_Exo12.mp4"
+            },
+            "Observation": [
+                ""
+            ]
+        },
+        {
+            "Title": "RONDE DE FLUIDITE",
+            "Description": [
+                "En restant dans la sensibilté, je vous invite à reformer une ronde en veillant à avoir un espace d'environ la taille d'un avant bras entre vous. Trouvez votre propre stabilité en mettant les jambes dans l'écartement du bassin (ou des épaules pour les hommes). Prenez le temps de rentrer en connexion sensibles par les mains avec vos compagnons. Prenez les mains avec beaucoup de délicatesse.",
+                "Les genous sont souples, la machoire est relachée.",
+                "A l'invitation de la musique, vous pouvez fermer les yeux et laisser émerger des mouvements lent, fluides et continus dans l'écoute sensible de vos compagnons (de droite et de gauche)."
+            ],
+            "Music": {
+                "Id": "07-91",
+                "Title": "Love Theme Blade Runner [Reprise]",
+                "Artist": "Vangelis",
+                "Duration": "06:05",
+                "Origin_code": "HLBC31-02",
+                "File": "BDZMED/PI07/HLBC31 - 02 - Vangelis, Nocturne -Love Theme (From _Blade Runner).mp3",
+                "BPM": 143,
+                "AcousticID": "",
+                "Tags": [
+                    ""
+                ],
+                "LoopMode": false
+            },
+            "Video": null,
+            "Observation": [
+                ""
+            ]
+        },
+        {
+            "Title": "CARESSES DES PROPRES MAINS",
+            "Description": [
+                "Je vous propose une rencontre plus intime avec vous-même, avec vos mains. Ces mains au combien précieuses qui vous accompagnent à chaque instant de votre vie pour caresser, écrire, cuisiner, travailler. Je vous invite à honorer, à les remercier dans une auto caresse.",
+                "Quand la musique commence, prenez le temps d'une connexion profonde avec vous-même, rapprochez lentement vos mains l'une de l'autre et laissez les dialoguer avec tendresse par des caresses sensibles et délicates. Les deux mains peuvent par moment s'étreindre, se bercer. Votre regard peut accompagner la caresse ou alors, vous pouvez fermer les yeux en fonction de votre ressenti."
+            ],
+            "Music": {
+                "Id": "09-49",
+                "Title": "Ode To Simplicity",
+                "Artist": "Secret Garden",
+                "Duration": "03:52",
+                "Origin_code": "HLBC26-65",
+                "File": "BDZMED/PI09/HLBC26 - 65 - Secret Garden - Ode To Simplicity.mp3",
+                "BPM": 116,
+                "AcousticID": "",
+                "Tags": [
+                    ""
+                ],
+                "LoopMode": false
+            },
+            "Video": null,
+            "Observation": [
+                "Jean-Luc garde les yeux ouverts. Très grande vigilance."
+            ]
+        },
+        {
+            "Title": "CARESSES ANONYMES DES MAINS EN GROUPE DE CINQ",
+            "Description": [
+                "Nous allons maintenant partager cette sensibilité avec d'autres compagnons dans une caresse des mains à 5. ",
+                "La danse se réalise en formant des rondes de 5 personnes assez proches pour que les mains puissent se toucher en ayant bras relâchés et les avant-bras pliés . ",
+                "Vous prenez le temps d'une connexion dans le regard avec les autres compagnons puis vous fermez les yeux. ",
+                "Nous allons créer ensemble une source dans laquelle nous allons plonger Vous posez délicatement les mains sur les mains de vos compagnons. ",
+                "Quand la musique commence, vos mains se mettent en mouvement avec la sensibilité des ailes d'un papillon sans chercher à attraper ou retenir les mains des compagnons.  ",
+                "Pour le confort des épaules laisser les mains plustôt basses"
+            ],
+            "Music": {
+                "Id": "10-03",
+                "Title": "Photographs",
+                "Artist": "Mouskouri, Nana (Nάνα Μούσχουρη)",
+                "Duration": "03:17",
+                "Origin_code": "IBF11-18",
+                "File": "BDZMED/PI10/IBF11 - 18 - Mouskouri, Nana - Photographs.mp3",
+                "BPM": 141,
+                "AcousticID": "",
+                "Tags": [
+                    "Sexualité",
+                    "Affectivité"
+                ],
+                "LoopMode": false
+            },
+            "Video": null,
+            "Observation": [
+                ""
+            ]
+        },
+        {
+            "Title": "RONDE D'ACTIVATION",
+            "Description": [
+                "Prendre une inspiration profonde et tout doucement réouvrir les yeux vers nos camarades... Reculer doucement d'un pas. ",
+                "Je vous invite à reformer une grande ronde.",
+                "Sur cette musique, se remettre doucement en mouvement. Un temps de reconnexion dans les regards avec nos camarades et progressivement la ronde se déplacera vers la droite."
+            ],
+            "Music": {
+                "Id": "13-73",
+                "Title": "Waters Of March",
+                "Artist": "Jarreau, Al & Adams, Oleta",
+                "Duration": "04:37",
+                "Origin_code": "HLBC27-07",
+                "File": "BDZMED/PI13/HLBC27 - 07 - Jarreau, Al & Adams, Oleta - Waters Of March.mp3",
+                "BPM": 125,
+                "AcousticID": "",
+                "Tags": [
+                    ""
+                ],
+                "LoopMode": false
+            },
+            "Video": null,
+            "Observation": [
+                ""
+            ]
+        },
+        {
+            "Title": "RONDE FINALE",
+            "Description": [
+                "La chanson dit je veux te tenir la main !",
+                "A vous de continuer à goûter le potentiel de transformation des rencontres en dehors de cette salle que se soit en vous tenant la main ou pas !"
+            ],
+            "Music": {
+                "Id": "06-24",
+                "Title": "I Wanna Hold Your Hand",
+                "Artist": "Lee, Rita",
+                "Duration": "02:18",
+                "Origin_code": "HLB20-01",
+                "File": "BDZMED/PI06/HLB20 - 01 - Lee, Rita - I Wanna Hold Your Hand.mp3",
+                "BPM": 92,
+                "AcousticID": "",
+                "Tags": [
+                    ""
+                ],
+                "LoopMode": false
+            },
+            "Video": null,
+            "Observation": [
+                ""
+            ]
+        }
+    ]
+}

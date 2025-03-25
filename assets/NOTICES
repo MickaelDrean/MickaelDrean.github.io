@@ -33555,9 +33555,7 @@ material_color_utilities
 
 --------------------------------------------------------------------------------
 media_kit
-media_kit_libs_android_video
 media_kit_libs_ios_video
-media_kit_libs_linux
 media_kit_libs_macos_video
 media_kit_libs_video
 media_kit_video
@@ -33586,6 +33584,8 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
 --------------------------------------------------------------------------------
+media_kit_libs_android_video
+media_kit_libs_linux
 media_kit_libs_windows_video
 media_kit_native_event_loop
 
