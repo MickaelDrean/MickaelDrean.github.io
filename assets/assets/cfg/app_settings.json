@@ -1,6 +1,6 @@
 {
   "forceWebmail": false,
-  "cataloguePath": "assets/json/catalog/MUSICTEST-PrototypeDataModel.json",
+  "cataloguePath": "assets/json/catalog/ERTMED-PrototypeDataModel.json",
   "demoCataloguePath": "assets/json/demoCatalog/DemonstrationsMED-PrototypeDataModel.json",
   "appDataDirectory": "",
   "logFilePath": "",
@@ -13,5 +13,7 @@
   "disable_maximize_at_startup": false,
   "multi_catalogue": false,
   "autosave": true,
-  "debug": false
+  "debug": false,
+  "FPS_REFRESH": 20,
+  "LOAD_AUDIO_JSON": true
 }
