@@ -15,5 +15,7 @@
   "autosave": true,
   "debug": false,
   "FPS_REFRESH": 20,
-  "LOAD_AUDIO_JSON": true
+  "LOAD_AUDIO_JSON": true,
+  "SHOW_PERF_OVERLAY": false,
+  "PLAYLIST_MODE": true
 }
