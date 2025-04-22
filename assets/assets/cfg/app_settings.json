@@ -3,7 +3,7 @@
   "cataloguePath": "assets/json/catalog/ERTMED-PrototypeDataModel.json",
   "demoCataloguePath": "assets/json/demoCatalog/DemonstrationsMED-PrototypeDataModel.json",
   "appDataDirectory": "",
-  "logFilePath": "",
+  "logFilePath": "./test_logs/",
   "logLevel": "all",
   "online": true,
   "onlineMusicPath": "https://biodanza-dzv.fr/wp-content/uploads/vivenciapp/Music/",
@@ -17,5 +17,6 @@
   "FPS_REFRESH": 20,
   "LOAD_AUDIO_JSON": true,
   "SHOW_PERF_OVERLAY": false,
-  "PLAYLIST_MODE": true
+  "PLAYLIST_MODE": false,
+  "WITH_COMPUTE": false
 }
