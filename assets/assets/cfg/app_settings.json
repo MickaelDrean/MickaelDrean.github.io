@@ -13,10 +13,11 @@
   "disable_maximize_at_startup": false,
   "multi_catalogue": false,
   "autosave": true,
-  "debug": false,
+  "debug": true,
   "FPS_REFRESH": 20,
   "LOAD_AUDIO_JSON": true,
   "SHOW_PERF_OVERLAY": false,
-  "PLAYLIST_MODE": false,
-  "WITH_COMPUTE": false
+  "PLAYLIST_MODE": true,
+  "WITH_COMPUTE": true,
+  "AUDIO_MEDIA_KIT": true
 }
