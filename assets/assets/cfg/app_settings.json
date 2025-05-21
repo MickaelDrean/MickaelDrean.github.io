@@ -18,6 +18,5 @@
   "LOAD_AUDIO_JSON": true,
   "SHOW_PERF_OVERLAY": false,
   "PLAYLIST_MODE": true,
-  "WITH_COMPUTE": true,
-  "AUDIO_MEDIA_KIT": true
+  "WITH_COMPUTE": true
 }
