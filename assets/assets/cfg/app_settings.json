@@ -2,21 +2,9 @@
   "forceWebmail": false,
   "cataloguePath": "assets/json/catalog/ERTMED-PrototypeDataModel.json",
   "demoCataloguePath": "assets/json/demoCatalog/DemonstrationsMED-PrototypeDataModel.json",
-  "appDataDirectory": "",
   "logFilePath": "./test_logs/",
   "logLevel": "all",
-  "online": true,
-  "onlineMusicPath": "https://biodanza-dzv.fr/wp-content/uploads/vivenciapp/Music/",
-  "onlineDemoPath": "https://biodanza-dzv.fr/wp-content/uploads/vivenciapp/Music/",
   "localMusicPath": "C:/WORK/Save_Site",
   "localDemoPath": "C:/WORK/Save_Site",
-  "disable_maximize_at_startup": false,
-  "multi_catalogue": false,
-  "autosave": true,
-  "debug": true,
-  "FPS_REFRESH": 20,
-  "LOAD_AUDIO_JSON": true,
-  "SHOW_PERF_OVERLAY": false,
-  "PLAYLIST_MODE": true,
-  "WITH_COMPUTE": true
+  "autosave": true
 }
