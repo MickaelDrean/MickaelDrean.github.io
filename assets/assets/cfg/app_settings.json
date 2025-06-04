@@ -1,7 +1,7 @@
 {
   "forceWebmail": false,
   "cataloguePath": "assets/json/catalog/ERTMED-PrototypeDataModel.json",
-  "demoCataloguePath": "assets/json/demoCatalog/DemonstrationsMED-PrototypeDataModel.json",
+  "demoCataloguePath": "assets/json/demoCatalog",
   "logFilePath": "./test_logs/",
   "logLevel": "all",
   "localMusicPath": "C:/WORK/Save_Site",
