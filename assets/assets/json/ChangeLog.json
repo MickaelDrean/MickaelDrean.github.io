@@ -2,6 +2,128 @@
     "Version_date": "20-02-2025 21h",
     "ChangeLog": [
         {
+            "Name": "Beta6",
+            "Date": "05/06/2025",
+            "Description": [
+                {
+                    "language": "FR",
+                    "text": [
+                        "Ajout mécanisme de licences.",
+                        "Ajout pages d'aide.",
+                        "Possibilité de créer des séances avec dont les noms contiennent des guillemets.",
+                        "Ajout curseur pour le lecteur audio dans le catalogue."
+                    ]
+                },
+                {
+                    "language": "PT",
+                    "text": [
+                        "Adição de um  mecanismo de licença.",
+                        "Adição de páginas de ajuda.",
+                        "Possibilidade de criar sessões com nomes que contenham vírgulas invertidas.",
+                        "Adição de um cursor para o leitor de áudio no catálogo."
+                    ]
+                },
+                {
+                    "language": "ES",
+                    "text": [
+                        "Adición de un mecanismo de licencia.",
+                        "Adición de páginas de ayuda.",
+                        "Posibilidad de crear sesiones con nombres que contengan comillas.", 
+                        "Adición de un cursor para el player audio en el catálogo."  
+                    ]
+                },
+                {
+                    "language": "EN",
+                    "text": [
+                        "Adding licence mechanism.",
+                        "Adding help pages.",
+                        "Ability to create sessions with names containing inverted commas.",
+                        "Adding a cursor for the audio player in the catalogue."
+                    ]
+                }
+            ]
+        },
+        {
+            "Name": "Beta5",
+            "Date": "08/05/2025",
+            "Description": [
+                {
+                    "language": "FR",
+                    "text": [
+                        "Correction du freeze de l'interfacce Windows : gestion du focus dans l'éditeur de sessions.",
+                        "Correction bugs :",
+                        " - date début > date de fin dans le filtre des séances,",
+                        " - suppression de séances fantômes."
+                    ]
+                },
+                {
+                    "language": "PT",
+                    "text": [
+                        "Correção do freeze da interface do Windows: gestão do foco no editor de sessão.",
+                        "Bugs corrigidos:",
+                        " - Data de início > data de fim no filtro de sessão,",
+                        " - Eliminação de sessões fantasma."
+                    ]
+                },
+                {
+                    "language": "ES",
+                    "text": [
+                        "Arreglado el bloqueo de la interfaz de Windows: gestión del enfoque en el editor de sesiones",
+                        "Corregidos errores:",
+                        " - Fecha de inicio > fecha de fin en el filtro de sesiones,", 
+                        " - Eliminación de sesiones fantasma."  
+                    ]
+                },
+                {
+                    "language": "EN",
+                    "text": [
+                        "Fixing the windows interface freeze: focus management in session editor.",
+                        "Bug fixing:",
+                        " - start date < end date in sessions filter,", 
+                        " - deleting ghost sessions."
+                    ]
+                }
+            ]
+        },
+        {
+            "Name": "Beta4",
+            "Date": "28/04/2025",
+            "Description": [
+                {
+                    "language": "FR",
+                    "text": [
+                        "Changement de composant pour le player audio.",
+                        "Amélioration performances graphiques.",
+                        "Création installeur Windows."
+                    ]
+                },
+                {
+                    "language": "PT",
+                    "text": [
+                        "Mudança de componente para o leitor de áudio.",
+                        "Melhorar o desempenho gráfico.",
+                        "Criação do instalador do Windows"
+                    ]
+                },
+                {
+                    "language": "ES",
+                    "text": [
+                        "Cambio de componente para el player audio.",
+                        "Mejorando el rendimiento de los gráficos.",
+                        "Creación del instalador para Windows"
+                    ]
+                },
+                {
+                    "language": "EN",
+                    "text": [
+                        "Change of component for the audio player.",
+                        "Improve graphics performance.",
+                        "Windows installer creation."
+                    ]
+                }
+            ]
+        },
+        {
             "Name": "Beta3",
             "Date": "20/02/2025",
             "Description": [

@@ -1,9 +1,12 @@
 # Gestion des Licences
 
-La licence est annuelle et liée à un poste spécifique (Windows, macOS ou Linux). Le logiciel permet de :
+La licence est liée à un poste spécifique (Windows, macOS ou Linux).
+Par défaut la licence a une durée d'un an. 
+Elle peut être plus courte lorsquelle est activée au cours de l'année de méthodologie. 
 
-- Afficher l'état de la licence (invalide, valide, ou expiration dans X mois à partir de 2 mois avant l'échéance)
-- Mettre à jour la clé de licence
+Le logiciel permet :
+- d'afficher l'état de la licence (invalide, valide, ou expiration dans X mois à partir de 2 mois avant l'échéance)
+- de mettre à jour la clé de licence
 
 ## Types de Licences
 
@@ -11,17 +14,7 @@ Il existe plusieurs types de licences, chacune offrant des fonctionnalités diff
 
 ## Demande de Licence
 
-Pour obtenir une licence, deux conditions doivent être remplies :
-
-### Prérequis
-
-- Règlement annuel effectué
-- Envoi d'un email à aide.vivenciapp@gmail.com
-
-### Informations Requises
-
-Votre email doit contenir les éléments suivants :
-
+Pour obtenir une licence, nous vous invitons à envoyer un mail à l'adresse aide.vivenciapp@gmail.com contenant les informations suivantes :
 - Nom
 - Prénom
 - Adresse email de contact
@@ -29,9 +22,9 @@ Votre email doit contenir les éléments suivants :
 - École d'origine
 - Référence du virement (si règlement par virement)
 - Type de licence demandée
-- Capture d'écran avec les informations de la machine et la version du logiciel
+- Capture d'écran avec les informations de la machine et la version du logiciel installée sur votre machine
 
-Pour obtenir ces informations, accédez au menu "Paramètres" :
+Pour obtenir ces informations, accédez au menu "Paramètres" (roue crantée en haut à droite de la fenêtre de VivenciApp) :
 
 ![screenshot1](assets/help/fr/images/image_license.png)
 

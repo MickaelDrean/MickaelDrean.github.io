@@ -1,44 +1,37 @@
 # License Management
 
-The license is annual and tied to a specific workstation (Windows, macOS, or Linux). The software allows you to:
+The license is tied to a specific workstation (Windows, macOS, or Linux).
+By default, the license has a duration of one year.
+It may be shorter when activated during the methodology year.
 
-- Display the license status (invalid, valid, or expiring in X months starting from 2 months before the due date)
+The software allows you to:
+- Display the license status (invalid, valid, or expiring in X months starting from 2 months before expiration)
 - Update the license key
 
-## Types of Licenses
+## License Types
 
-There are several types of licenses, each offering different features according to your needs.
+There are several types of licenses available, each offering different features depending on your needs.
 
 ## License Request
 
-To obtain a license, two conditions must be met:
-
-### Prerequisites
-
-- Annual payment completed
-- Sending an email to aide.vivenciapp@gmail.com
-
-### Required Information
-
-Your email must contain the following elements:
-
-- First Name
+To obtain a license, please send an email to aide.vivenciapp@gmail.com containing the following information:
 - Last Name
+- First Name
 - Contact email address
 - Phone number
 - School of origin
-- Transfer reference (if payment is made by transfer)
-- Type of license requested
-- Screenshot with machine information and software version
+- Bank transfer reference (if paying by transfer)
+- Requested license type
+- Screenshot with machine information and installed software version
 
-To obtain this information, access the "Settings" menu:
+To obtain this information, go to the "Settings" menu (gear icon in the top right corner of the VivenciApp window):
 
-![screenshot1](assets/help/en/images/image_license.png)
+![screenshot1](assets/help/fr/images/image_license.png)
 
 ## Processing Time
 
-If all information is complete, our support team will respond within a week by sending you the license key adapted to your machine.
+If all information is complete, our support team will respond within one week by sending you the license key adapted to your machine.
 
 ## Activation
 
-Once the key is received, simply enter it in the software's license management window (via the "Settings" menu)
+Once you receive the key, simply enter it in the software's license management window (via the "Settings" menu).
