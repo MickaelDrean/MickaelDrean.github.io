@@ -26,7 +26,7 @@ Para obtener una licencia, le invitamos a enviar un correo a aide.vivenciapp@gma
 
 Para obtener esta información, acceda al menú "Configuración" (icono de engranaje en la esquina superior derecha de la ventana de VivenciApp):
 
-![screenshot1](assets/help/fr/images/image_license.png)
+![screenshot1](assets/help/es/images/image_license.png)
 
 ## Tiempo de Procesamiento
 

@@ -26,7 +26,7 @@ Para obter uma licença, envie um e-mail para aide.vivenciapp@gmail.com contendo
 
 Para obter essas informações, acesse o menu "Configurações" (ícone de engrenagem no canto superior direito da janela do VivenciApp):
 
-![screenshot1](assets/help/fr/images/image_license.png)
+![screenshot1](assets/help/pt/images/image_license.png)
 
 ## Tempo de Processamento
 

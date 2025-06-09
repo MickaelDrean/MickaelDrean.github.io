@@ -16,8 +16,8 @@ No campo de pesquisa de exercícios, você pode:
     - o conteúdo das seções de instruções do catálogo (descrição, objetivo, projeção existencial, ...),
 - uma frase exata entre aspas pesquisada nos mesmos itens,
 - um campo específico (ou uma série de campos específicos): pelo menos três letras do nome do campo, seguidas de ":" e a palavra pesquisada
-    - exe:sinerg or exer:sinerg or ... or exercício:sinerg
-    - cat:s or caté:RODA or ... or categoria:RODA
+    - *exe:sinerg* ou *exer:sinerg* ou ... ou *exercício:sinerg*
+    - *cat:RODA* ou *cate:RODA* ou ... ou *categoria:RODA*
 
 #### Pesquisa no campo Música
 No campo de pesquisa de músicas, você pode:
@@ -27,9 +27,9 @@ No campo de pesquisa de músicas, você pode:
     - os códigos de origem das músicas (HLB, IBF, ...),
 - uma frase exata entre aspas pesquisada nos mesmos itens,
 - um campo específico (ou uma série de campos específicos): pelo menos três letras do nome do campo, seguidas de ":" e a palavra pesquisada
-    - tit:canta or titr:canta or título:canta
-    - art:vangelis or arti:vangelis or ... or artista:vangelis
-    - ori:HLB or orig:IBF or ... origem:HLB
+    - *tit:canta* ou *titr:canta* ou *título:canta*
+    - *art:vangelis$ ou $arti:vangelis* ou ... ou *artista:vangelis*
+    - *ori:HLB* ou *orig:IBF* ou ... ou *origem:HLB*
 
 ## Exploração de sessões
 A completar
@@ -41,21 +41,33 @@ No campo de pesquisa de sessões, você pode:
     - os nomes dos artistas,
     - os códigos de origem das músicas (HLB, IBF, ...),
     - o conteúdo das instruções pessoais das propostas,
-    - o conteúdo das observações das propostas, o tema da sessão, quem faltou, o título da sessão!
+    - o conteúdo das observações das propostas, 
+    - o tema da sessão, 
+    - o título da sessão,
 - uma frase exata entre aspas pesquisada nos mesmos itens,
 - um campo específico (ou uma série de campos específicos): pelo menos três letras do nome do campo, seguidas de ":" e a palavra pesquisada
-    - tit:canta or titu:canta or título:canta
-    - art:vangelis or arti:vangelis or ... or artista:vangelis
-    - exe:marcha or exer:marcha or ... exercício:marcha
-    - obs:robert or ... or observações:robert
-    - ins:abertura or ... or instrução:abertura
-    - tem:sexo or ... or tema:sexo
-    - ses:alteridade or ... or sessão:alteridade
+    - *tit:canta* ou *titu:canta* ou *título:canta*
+    - *art:vangelis* ou *arti:vangelis* ou ... ou *artista:vangelis*
+    - *exe:marcha* ou *exer:marcha* ou ... ou *exercício:marcha*
+    - *obs:robert* ou ... ou *observações:robert*
+    - *ins:abertura* ou ... ou *instrução:abertura*
+    - *tem:sexo* ou ... ou *tema:sexo*
+    - *ses:alteridade* ou ... ou *sessão:alteridade*
 
 ### Filtragem de sessões
 Você pode filtrar as sessões exibidas por:
 - data: sessões entre duas datas,
 - conteúdo: sessões que contêm observações;
 
-## Edição / Animação de sessão
+## Edição/Animação de sessão
 A completar
+
+### Atalhos de teclado
+- **Espaço**:
+    - se a proposta selecionada não é a que está tocando ou a anterior, começa a música desde o início
+    - se a proposta selecionada foi a última tocada, retoma a música onde foi pausada
+    - se a música da proposta selecionada está tocando, pausa a reprodução
+- Tecla **<**: para a música e volta ao início da faixa
+- **Seta para Baixo** / **Seta para Cima**: navega entre as diferentes propostas da sua sessão
+- **Shift+Seta para Cima**: move a proposta selecionada para cima na sua lista
+- **Shift+Seta para Baixo**: move a proposta selecionada para baixo na sua lista
