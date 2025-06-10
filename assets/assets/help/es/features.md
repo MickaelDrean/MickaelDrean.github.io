@@ -16,8 +16,8 @@ En el campo de búsqueda de ejercicios puedes:
     - el contenido de las secciones de instrucciones del catálogo (descripción, objetivo, proyección existencial, ...),
 - una frase exacta entre comillas buscada en los mismos elementos,
 - un campo específico (o una serie de campos específicos): al menos tres letras del nombre del campo, seguidas de ":" y la palabra buscada
-    - eje:sinerg or ejer:sinerg or ... or ejercicio:sinerg
-    - cat:s or caté:RONDA or ... or categoría:RONDA
+    - *eje:sinerg* or *ejer:sinerg* o ... o *ejercicio:sinerg*
+    - *cat:s* or *cate:RONDA* o ... o *categoría:RONDA*
 
 #### Búsqueda en el campo Música
 En el campo de búsqueda de música puedes:
@@ -27,9 +27,9 @@ En el campo de búsqueda de música puedes:
     - los códigos de origen de las músicas (HLB, IBF, ...),
 - una frase exacta entre comillas buscada en los mismos elementos,
 - un campo específico (o una serie de campos específicos): al menos tres letras del nombre del campo, seguidas de ":" y la palabra buscada
-    - tit:canta or titr:canta or título:canta
-    - art:vangelis or arti:vangelis or ... or artista:vangelis
-    - ori:HLB or orig:IBF or ... origen:HLB
+    - *tit:canta* o *titr:canta* or *título:canta*
+    - *art:vangelis* or *arti:vangelis* o ... o *artista:vangelis*
+    - *ori:HLB* or *orig:IBF* o ... o *origen:HLB*
 
 ## Exploración de sesiones
 Por completar

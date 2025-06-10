@@ -30,7 +30,7 @@ Dans le champ de recherche des exercices vous pouvez :
  - un champ particulier (ou une suite de champs particuliers) : au moins trois lettres du nom du champ, suivies de ":" suivi du mot recherché
    + *tit:cantar* ou *titr:cantar* ou *titre:cantar*
    + *art:vangelis$ ou *arti:vangelis* ou ... ou *artiste:vangelis* 
-   + $ori:HLB* ou *ORIG:IBF* ou ... *origine:HLB*
+   + $ori:HLB* ou *ORIG:IBF* ou ... ou *origine:HLB*
 
 ## Exploration séances
 À compléter

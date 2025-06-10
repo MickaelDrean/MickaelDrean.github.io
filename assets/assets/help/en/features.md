@@ -16,8 +16,8 @@ In the exercise search field, you can:
     - the content of catalog instruction sections (description, objective, existential projection, ...),
 - an exact phrase in quotes searched in the same items,
 - a specific field (or a series of specific fields): at least three letters of the field name, followed by ":" and the searched word
-    - exe:synerg or exer:synerg or ... or exercise:synerg
-    - cat:s or caté:CIRCLE or ... or category:CIRCLE
+    - *exe:synerg* or *exer:synerg* or ... or *exercise:synerg*
+    - *cat:CIRCLE* or *cate:CIRCLE* or ... or *category:CIRCLE*
 
 #### Music Field Search
 In the music search field, you can:
@@ -27,9 +27,9 @@ In the music search field, you can:
     - music origin codes (HLB, IBF, ...),
 - an exact phrase in quotes searched in the same items,
 - a specific field (or a series of specific fields): at least three letters of the field name, followed by ":" and the searched word
-    - tit:sing or titl:sing or title:sing
-    - art:vangelis or arti:vangelis or ... or artist:vangelis
-    - ori:HLB or orig:IBF or ... origin:HLB
+    - *tit:sing* or *titl:sing* or *title:sing*
+    - *art:vangelis* or *arti:vangelis* or ... or *artist:vangelis*
+    - *ori:HLB* or *orig:IBF* or ... or *origin:HLB*
 
 ## Session Exploration
 To be completed
