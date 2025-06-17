@@ -1,15 +1,16 @@
 {
-    "Version_date": "20-02-2025 21h",
+    "Version_date": "17-06-2025 18h",
     "ChangeLog": [
         {
             "Name": "Beta6",
-            "Date": "05/06/2025",
+            "Date": "17/06/2025",
             "Description": [
                 {
                     "language": "FR",
                     "text": [
                         "Ajout mécanisme de licences.",
                         "Ajout pages d'aide.",
+                        "Ajout impression de la séance",
                         "Possibilité de créer des séances avec dont les noms contiennent des guillemets.",
                         "Ajout curseur pour le lecteur audio dans le catalogue."
                     ]
@@ -19,6 +20,7 @@
                     "text": [
                         "Adição de um  mecanismo de licença.",
                         "Adição de páginas de ajuda.",
+                        "Adição impressão da sessão",
                         "Possibilidade de criar sessões com nomes que contenham vírgulas invertidas.",
                         "Adição de um cursor para o leitor de áudio no catálogo."
                     ]
@@ -28,6 +30,7 @@
                     "text": [
                         "Adición de un mecanismo de licencia.",
                         "Adición de páginas de ayuda.",
+                        "Adición de la impresión de la sesión",
                         "Posibilidad de crear sesiones con nombres que contengan comillas.", 
                         "Adición de un cursor para el player audio en el catálogo."  
                     ]
@@ -37,6 +40,7 @@
                     "text": [
                         "Adding licence mechanism.",
                         "Adding help pages.",
+                        "Adding print session",
                         "Ability to create sessions with names containing inverted commas.",
                         "Adding a cursor for the audio player in the catalogue."
                     ]
