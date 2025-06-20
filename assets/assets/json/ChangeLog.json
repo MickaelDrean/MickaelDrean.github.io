@@ -3,7 +3,7 @@
     "ChangeLog": [
         {
             "Name": "Beta6",
-            "Date": "17/06/2025",
+            "Date": "20/06/2025",
             "Description": [
                 {
                     "language": "FR",
@@ -31,8 +31,8 @@
                         "Adición de un mecanismo de licencia.",
                         "Adición de páginas de ayuda.",
                         "Adición de la impresión de la sesión",
-                        "Posibilidad de crear sesiones con nombres que contengan comillas.", 
-                        "Adición de un cursor para el player audio en el catálogo."  
+                        "Posibilidad de crear sesiones con nombres que contengan comillas.",
+                        "Adición de un cursor para el player audio en el catálogo."
                     ]
                 },
                 {
@@ -74,8 +74,8 @@
                     "text": [
                         "Arreglado el bloqueo de la interfaz de Windows: gestión del enfoque en el editor de sesiones",
                         "Corregidos errores:",
-                        " - Fecha de inicio > fecha de fin en el filtro de sesiones,", 
-                        " - Eliminación de sesiones fantasma."  
+                        " - Fecha de inicio > fecha de fin en el filtro de sesiones,",
+                        " - Eliminación de sesiones fantasma."
                     ]
                 },
                 {
@@ -83,7 +83,7 @@
                     "text": [
                         "Fixing the windows interface freeze: focus management in session editor.",
                         "Bug fixing:",
-                        " - start date < end date in sessions filter,", 
+                        " - start date < end date in sessions filter,",
                         " - deleting ghost sessions."
                     ]
                 }
@@ -150,48 +150,48 @@
                 {
                     "language": "PT",
                     "text": [
-                        "Três modos para criar/modificar uma proposta: eu exploro (catálogo), eu sei (autocompletar), eu aprimoro (tabela com escuta anterior e seguinte)",  
-                        "Melhoria no funcionamento da lista de propostas: rolagem automática, mover uma proposta por atalho de teclado, destacar a proposta sob o cursor",  
-                        "Pesquisa com palavras-chave, conteúdo de campos ou expressão exata entre aspas nas sessões e no catálogo",  
-                        "Manter visíveis as informações da sessão ao redimensionar a janela",  
-                        "Gerenciamento do salvamento das informações de uma sessão: automático ou com mensagens de confirmação",  
+                        "Três modos para criar/modificar uma proposta: eu exploro (catálogo), eu sei (autocompletar), eu aprimoro (tabela com escuta anterior e seguinte)",
+                        "Melhoria no funcionamento da lista de propostas: rolagem automática, mover uma proposta por atalho de teclado, destacar a proposta sob o cursor",
+                        "Pesquisa com palavras-chave, conteúdo de campos ou expressão exata entre aspas nas sessões e no catálogo",
+                        "Manter visíveis as informações da sessão ao redimensionar a janela",
+                        "Gerenciamento do salvamento das informações de uma sessão: automático ou com mensagens de confirmação",
                         "Correção da renomeação e exclusão de sessões",
-                        "Problemas conhecidos:",  
-                        " - Para arquivos FLAC no macOS, a música continua tocando após atingir a duração da faixa, e a curva de intensidade permanece colorida em amarelo",  
+                        "Problemas conhecidos:",
+                        " - Para arquivos FLAC no macOS, a música continua tocando após atingir a duração da faixa, e a curva de intensidade permanece colorida em amarelo",
                         " - Quando a repetição automática da música é selecionada, o botão play/pause e a curva de intensidade não são atualizados quando a música é reproduzida novamente",
-                        " - Mover as proposições com o mouse não funciona. Como solução alternativa, use Shift + Seta para cima e Shift + Seta para baixo",  
-                        " - Não é possível criar duas proposições idênticas em uma sessão. Como solução alternativa, use instruções diferentes."  
+                        " - Mover as proposições com o mouse não funciona. Como solução alternativa, use Shift + Seta para cima e Shift + Seta para baixo",
+                        " - Não é possível criar duas proposições idênticas em uma sessão. Como solução alternativa, use instruções diferentes."
                     ]
                 },
                 {
                     "language": "ES",
                     "text": [
-                        "Tres modos para crear/modificar una propuesta: exploro (catálogo), sé (autocompletado), refino (tabla con escucha de las músicas anterior y siguiente)",  
-                        "Mejorado el funcionamiento de la lista de propuestas: desplazamiento automático, mover una propuesta con atajo de teclado, resaltar la propuesta sobre la que se pasa el cursor",  
-                        "Búsqueda con palabras clave, contenido de campos o expresión exacta entre comillas en sesiones y en el catálogo",  
-                        "Mantener visible la información de la sesión al redimensionar la ventana",  
-                        "Gestión de guardado de información de una sesión: automática o con mensajes de confirmación",  
+                        "Tres modos para crear/modificar una propuesta: exploro (catálogo), sé (autocompletado), refino (tabla con escucha de las músicas anterior y siguiente)",
+                        "Mejorado el funcionamiento de la lista de propuestas: desplazamiento automático, mover una propuesta con atajo de teclado, resaltar la propuesta sobre la que se pasa el cursor",
+                        "Búsqueda con palabras clave, contenido de campos o expresión exacta entre comillas en sesiones y en el catálogo",
+                        "Mantener visible la información de la sesión al redimensionar la ventana",
+                        "Gestión de guardado de información de una sesión: automática o con mensajes de confirmación",
                         "Corrección del cambio de nombre y eliminación de sesiones",
-                        "Problemas conocidos:",  
-                        " - Para los archivos FLAC en macOS, la música sigue reproduciéndose después de alcanzar la duración de la pista, y la curva de intensidad sigue coloreada en amarillo",  
+                        "Problemas conocidos:",
+                        " - Para los archivos FLAC en macOS, la música sigue reproduciéndose después de alcanzar la duración de la pista, y la curva de intensidad sigue coloreada en amarillo",
                         " - Cuando se selecciona la repetición automática de la música, el botón play/pause y la curva de intensidad no se actualizan cuando la música se reproduce nuevamente",
-                        " - Mover las proposiciones con el ratón no funciona. Como solución alternativa, usa Mayús + Flecha arriba y Mayús + Flecha abajo",  
-                        " - No es posible crear dos proposiciones idénticas en una sesión. Como solución alternativa, usa dos instrucciones diferentes."  
+                        " - Mover las proposiciones con el ratón no funciona. Como solución alternativa, usa Mayús + Flecha arriba y Mayús + Flecha abajo",
+                        " - No es posible crear dos proposiciones idénticas en una sesión. Como solución alternativa, usa dos instrucciones diferentes."
                     ]
                 },
                 {
                     "language": "EN",
                     "text": [
-                        "Three modes to create/modify a proposition: I explore (catalog), I know (autocomplete), I refine (table with previous and next proposition music listening)",  
-                        "Improved functionality of the propositions list: automatic scrolling, moving a proposition via keyboard shortcut, highlighting the hovered proposition",  
-                        "Search with keywords, field contents, or exact expression in quotes in session list aas weel as in the catalog",  
-                        "Session information remains visible when resizing the window",  
-                        "Management of session information saves: automatic or with confirmation messages",  
+                        "Three modes to create/modify a proposition: I explore (catalog), I know (autocomplete), I refine (table with previous and next proposition music listening)",
+                        "Improved functionality of the propositions list: automatic scrolling, moving a proposition via keyboard shortcut, highlighting the hovered proposition",
+                        "Search with keywords, field contents, or exact expression in quotes in session list aas weel as in the catalog",
+                        "Session information remains visible when resizing the window",
+                        "Management of session information saves: automatic or with confirmation messages",
                         "Fixed renaming and deleting sessions",
-                        "Known issues:",  
+                        "Known issues:",
                         " - For FLAC files on macOS, the music continues playing after the track duration is reached, and the intensity curve remains colored in yellow",
                         " - When music loop is selected, the play/pause button as well as the intensity curve are not updated when the music is replayed",
-                        " - Moving propositions with the mouse does not work. As a workaround, use Shift + Up Arrow and Shift + Down Arrow",  
+                        " - Moving propositions with the mouse does not work. As a workaround, use Shift + Up Arrow and Shift + Down Arrow",
                         " - It is not possible to create two identical propositions in a session. As a workaround, enter two different instructions."
                     ]
                 }
@@ -215,33 +215,33 @@
                 {
                     "language": "PT",
                     "text": [
-                        "Adicionada visão horizontal das sessões",  
-                        "Adicionada barra de espaço para tocar/parar uma música em uma sessão",  
-                        "Corrigida a janela não visível no Windows",  
-                        "Destacadas as linhas de músicas e exercícios no catálogo",  
-                        "Não é mais possível tocar duas músicas ao mesmo tempo",  
+                        "Adicionada visão horizontal das sessões",
+                        "Adicionada barra de espaço para tocar/parar uma música em uma sessão",
+                        "Corrigida a janela não visível no Windows",
+                        "Destacadas as linhas de músicas e exercícios no catálogo",
+                        "Não é mais possível tocar duas músicas ao mesmo tempo",
                         "Adicionados atalhos de teclado para navegar entre as propostas"
                     ]
                 },
                 {
                     "language": "ES",
                     "text": [
-                        "Se agregó la vista horizontal de sesiones",  
-                        "Se agregó la barra espaciadora para reproducir/detener una pista de música en una sesión",  
-                        "Se corrigió el problema de la ventana no visible en Windows",  
-                        "Se resaltaron las líneas de música y ejercicios en el catálogo",  
-                        "Ya no es posible reproducir dos pistas de música al mismo tiempo",  
+                        "Se agregó la vista horizontal de sesiones",
+                        "Se agregó la barra espaciadora para reproducir/detener una pista de música en una sesión",
+                        "Se corrigió el problema de la ventana no visible en Windows",
+                        "Se resaltaron las líneas de música y ejercicios en el catálogo",
+                        "Ya no es posible reproducir dos pistas de música al mismo tiempo",
                         "Se agregaron atajos de teclado para navegar entre las propuestas"
                     ]
                 },
                 {
                     "language": "EN",
                     "text": [
-                        "Added horizontal view of sessions",  
-                        "Added spacebar to play/stop a music track in a session",  
-                        "Fixed window not visible on Windows",  
-                        "Highlighted music and exercise lines in the catalog",  
-                        "No longer possible to play two music tracks at the same time",  
+                        "Added horizontal view of sessions",
+                        "Added spacebar to play/stop a music track in a session",
+                        "Fixed window not visible on Windows",
+                        "Highlighted music and exercise lines in the catalog",
+                        "No longer possible to play two music tracks at the same time",
                         "Added keyboard shortcuts to navigate through propositions"
                     ]
                 }
