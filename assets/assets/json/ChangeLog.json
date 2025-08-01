@@ -1,6 +1,44 @@
 {
     "Version_date": "17-06-2025 18h",
     "ChangeLog": [
+                {
+            "Name": "Beta7",
+            "Date": "30/08/2025",
+            "Description": [
+                {
+                    "language": "FR",
+                    "text": [
+                        "Ajout montée/baisse progressive du volume sur les musiques.",
+                        "Ajout édition des séances sur la courbe.",
+                        "Enrichissement aide en ligne"
+                    ]
+                },
+                {
+                    "language": "PT",
+                    "text": [
+                        "Adicionado aumento/diminuição progressiva do volume nas músicas.",
+                        "Adicionada edição de sessões na curva.",
+                        "Ajuda online enriquecida."
+                    ]
+                },
+                {
+                    "language": "ES",
+                    "text": [
+                        "Añadido aumento/disminución gradual del volumen en las pistas musicales.",
+                        "Añadida edición de sesiones en la curva.",
+                        "Ayuda en línea mejorada."
+                    ]
+                },
+                {
+                    "language": "EN",
+                    "text": [
+                        "Added fade-in/fade-out for music tracks.",
+                        "Added session editing on the curve.",
+                        "Enhanced online help."
+                    ]
+                }
+            ]
+        },
         {
             "Name": "Beta6",
             "Date": "20/06/2025",
