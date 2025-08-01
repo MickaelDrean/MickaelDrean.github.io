@@ -1,10 +1,9 @@
 {
   "forceWebmail": false,
-  "cataloguePath": "assets/json/catalog/ERTMED-PrototypeDataModel.json",
-  "demoCataloguePath": "assets/json/demoCatalog",
+  "catalogueFilename": "CIMEB2012-PrototypeDataModel.json",
   "logFilePath": "./test_logs/",
   "logLevel": "all",
-  "localMusicPath": "C:/WORK/Save_Site",
-  "localDemoPath": "C:/WORK/Save_Site",
+  "localMusicPath": "C:/WORK/Flutter",
+  "localDemoPath": "C:/WORK/Flutter",
   "autosave": true
 }
