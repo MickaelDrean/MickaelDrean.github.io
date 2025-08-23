@@ -32,7 +32,7 @@ En el campo de búsqueda de música puedes:
     - *ori:HLB* or *orig:IBF* o ... o *origen:HLB*
 
 ## Sesiones
-Para acceder a la página que permite gestionar las sesiones, haga clic en el menú principal (tres líneas horizontales en la parte superior izquierda) y luego en **Sesiones**.
+Para acceder a la página que permite gestionar las sesiones, haga clic en el menú principal ![screenshot1](assets/help/es/images/MainMenu.png)(en la parte superior izquierda) y luego en **Sesiones**.
 Se mostrará una lista de sesiones.
 Por defecto, esta lista contiene todas sus sesiones, pero puede filtrar las sesiones mostradas mediante búsqueda (ver ***Buscar en sesiones***) o filtros avanzados (ver ***Filtrar sesiones***).
 El orden de presentación de las sesiones en pantalla puede modificarse ordenando las sesiones en orden ascendente o descendente por:
@@ -107,6 +107,10 @@ Consulte el capítulo ***Edición/Animación de sesión*** para más detalles.
 Para pasar al modo de edición en una sesión, haga clic en el botón ![screenshot1](assets/help/es/images/SessionExplorationEditSessionButton.png) situado en la línea de la sesión a editar.
 Consulte el capítulo ***Edición/Animación de sesión*** para más detalles.
 
+### Editar una sesión en la curva
+Para editar una sesión en la curva, haga clic en el botón  ![screenshot1](assets/help/es/images/SessionExplorationEditCurveSessionButton.png) ubicado en la línea de la sesión que desea editar.
+Consulte el capítulo ***Edición de una sesión en la curva*** para más detalles.
+
 ### Ver el contenido de una sesión
 Un clic en el título de una sesión muestra dos columnas:
 - una a la izquierda que contiene el tema de la sesión,
@@ -132,10 +136,52 @@ En el campo de búsqueda de sesiones puedes:
     - *tem:sexo* o ... o *tema:sexo*
     - *ses:alteridad* o ... o *sesión:alteridad*
 
-## Edición/Animación de sesión
-Por completar
+## Edición / Animación de sesión
+
+### Edición de sesión
+El modo de edición permite principalmente crear tu sesión añadiendo, modificando o eliminando propuestas (asociaciones ejercicio-música), y redactar tu propia consigna para cada propuesta, partiendo si es necesario de una parte de las consignas del catálogo para ese ejercicio.
+También permite modificar el título, la fecha y el tema de la sesión.
+
+En modo edición puedes:
+ - **Crear una nueva propuesta** después de una existente haciendo clic en el botón ![screenshot1](assets/help/es/images/SessionEditionAddPropositionButton.png) situado en la línea de la propuesta existente,
+ - **Crear una nueva propuesta** en la última posición de la sesión haciendo clic en el botón ![screenshot1](assets/help/es/images/SessionEditionAddPropositionButton.png) situado en la banda inferior de la pantalla,
+ - **Editar una propuesta** haciendo clic en el botón ![screenshot1](assets/help/es/images/SessionEditionEditPropositionButton.png) situado en la línea de esa propuesta,
+ - **Eliminar una propuesta** haciendo clic en el botón ![screenshot1](assets/help/es/images/SessionEditionDeletePropositionButton.png) situado en la línea de esa propuesta,
+ - **Ver la demostración** del ejercicio de una propuesta (cuando existe el video) haciendo clic en el botón ![screenshot1](assets/help/es/images/SessionEditionVideoButton.png) situado en la línea de esa propuesta,
+ - **Activar la subida/bajada progresiva del volumen (fade)** de la música de una propuesta haciendo clic en el botón ![screenshot1](assets/help/es/images/SessionEditionFadeButton.png) situado en la línea de esa propuesta,
+ - **Activar la reproducción en bucle** de la música de una propuesta haciendo clic en el botón ![screenshot1](assets/help/es/images/SessionEditionLoopButton.png) situado en la línea de esa propuesta,
+ - **Mostrar las consignas del catálogo** del ejercicio de una propuesta haciendo clic en el botón ![screenshot1](assets/help/es/images/SessionEditionCatalogInstructionsButton.png) situado en la línea de esa propuesta,
+ - **Editar el título de la sesión** haciendo clic en el texto del título visible en la parte superior derecha de la ventana.
+ ![screenshot1](assets/help/es/images/SessionEditionTitleEditor.png)
+ - **Editar la fecha de la sesión** haciendo clic en el texto de la fecha visible en la parte superior derecha de la ventana.
+ ![screenshot1](assets/help/es/images/SessionEditionDatePicker.png)
+ - **Imprimir la sesión** haciendo clic en el botón ![screenshot1](assets/help/es/images/SessionEditionPrintButton.png) situado debajo de la fecha de la sesión,
+ - **Compartir la sesión** haciendo clic en el botón ![screenshot1](assets/help/es/images/SessionEditionShareSessionButton.png) situado debajo de la fecha de la sesión,
+ - **Editar la consigna** de la propuesta seleccionada (resaltada en azul) haciendo clic en el texto de la consigna
+  ![screenshot1](assets/help/es/images/SessionEditionInsctructionEditionArea.png)
+ - **Cambiar a Animación** haciendo clic en el interruptor ![screenshot1](assets/help/es/images/SessionEditionAnimationToggleButton.png)
+ - **Salir de la pantalla de edición/animación** y volver a la lista de sesiones haciendo clic en el botón ![screenshot1](assets/help/es/images/SessionEditionExitButton.png) situado debajo de la fecha de la sesión.
+
+![screenshot1](assets/help/es/images/SessionEdition.png)
+
+### Animación de sesión
+El modo animación es un estado en el que todas las acciones de edición, añadido o eliminación ya no están presentes para evitar una manipulación accidental mientras facilitas tu sesión.
+
+En modo animación puedes:
+ - **Activar la subida/bajada progresiva del volumen (fade)** de la música de una propuesta haciendo clic en el botón ![screenshot1](assets/help/es/images/SessionEditionFadeButton.png) situado en la línea de esa propuesta,
+ - **Activar la reproducción en bucle** de la música de una propuesta haciendo clic en el botón ![screenshot1](assets/help/es/images/SessionEditionLoopButton.png) situado en la línea de esa propuesta,
+ - **Mostrar las consignas del catálogo** del ejercicio de una propuesta haciendo clic en el botón ![screenshot1](assets/help/es/images/SessionEditionCatalogInstructionsButton.png) situado en la línea de esa propuesta,
+ - **Editar observaciones** sobre los participantes, la elección musical o la construcción de la sesión haciendo clic en el botón ![screenshot1](assets/help/es/images/SessionEditionAnotateButton.png) situado en la línea de una propuesta,
+ - **Salir de la pantalla de edición/animación** y volver a la lista de sesiones haciendo clic en el botón ![screenshot1](assets/help/es/images/SessionEditionExitButton.png) situado debajo de la fecha de la sesión,
+ - **Imprimir la sesión** haciendo clic en el botón ![screenshot1](assets/help/es/images/SessionEditionPrintButton.png) situado debajo de la fecha de la sesión,
+ - **Compartir la sesión** haciendo clic en el botón ![screenshot1](assets/help/es/images/SessionEditionShareSessionButton.png) situado debajo de la fecha de la sesión,
+ - **Editar la consigna** de la propuesta seleccionada (resaltada en azul) haciendo clic en el texto de la consigna
+  ![screenshot1](assets/help/es/images/SessionEditionInsctructionEditionArea.png)
+
+![screenshot1](assets/help/es/images/SessionAnimation.png)
 
 ### Atajos de teclado
+Los siguientes atajos están activos tanto en **Edición** como en **Animación**:
 - **Espacio**:
     - si la propuesta seleccionada no es la que se está reproduciendo o la anterior, comienza la música desde el inicio
     - si la propuesta seleccionada es la que se reprodujo anteriormente, reanuda la música donde se pausó
@@ -144,3 +190,16 @@ Por completar
 - **Flecha Abajo** / **Flecha Arriba**: navega entre las diferentes propuestas de tu sesión
 - **Mayús+Flecha Arriba**: mueve la propuesta seleccionada hacia arriba en tu lista
 - **Mayús+Flecha Abajo**: mueve la propuesta seleccionada hacia abajo en tu lista
+
+## Edición de una sesión en la curva
+En el editor de sesión en la curva puedes:
+ - **Crear una nueva propuesta** haciendo clic en la curva,
+ - **Editar una propuesta** haciendo doble clic en la caja de descripción de una propuesta,
+ - **Escuchar la música de una propuesta** haciendo clic en el botón ![screenshot1](assets/help/es/images/PlayButton.png) de esa propuesta,
+ - **Mover una propuesta dentro de la sesión**: haz clic en el punto de anclaje de la propuesta (punto de color) y, manteniendo el botón presionado, mueve el ratón hacia la derecha o izquierda para reposicionar el punto de anclaje de la propuesta en su nueva ubicación en la sesión,
+ - **Designar una o más propuestas clave** de la sesión: haz clic en el botón ![screenshot1](assets/help/es/images/SessionEditionOnCurveKeyButton.png)
+   Las propuestas clave se enmarcan con un borde verde.
+ - **Eliminar una propuesta** haciendo clic en el botón ![screenshot1](assets/help/es/images/SessionEditionOnCurveDeleteButton.png) de esa propuesta
+ - **Redistribuir automáticamente las propuestas** en la curva haciendo clic en el botón ![screenshot1](assets/help/es/images/SessionEditionOnCurveRedistributeButton.png) ubicado en la parte superior derecha
+
+![screenshot1](assets/help/fr/images/SessionEditionOnCurve.png)
