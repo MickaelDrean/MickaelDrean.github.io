@@ -148,48 +148,48 @@ In editing mode you can:
  - **Edit a proposition** by clicking the button ![screenshot1](assets/help/en/images/SessionEditionEditPropositionButton.png) located on that proposition's line,
  - **Delete a proposition** by clicking the button ![screenshot1](assets/help/en/images/SessionEditionDeletePropositionButton.png) located on that proposition's line,
  - **Watch the demonstration** of a proposition's exercise (when the video exists) by clicking the button ![screenshot1](assets/help/en/images/SessionEditionVideoButton.png) located on that proposition's line,
- - **Enable fade-in/fade-out** for a proposition's music by clicking the button ![screenshot1](assets/help/en/images/SessionEditionFadeButton.png) located on that proposition's line,
- - **Enable loop playback** of a proposition's music by clicking the button ![screenshot1](assets/help/en/images/SessionEditionLoopButton.png) located on that proposition's line,
- - **Display the catalog instructions** for a proposition's exercise by clicking the button ![screenshot1](assets/help/en/images/SessionEditionCatalogInstructionsButton.png) located on that proposition's line,
  - **Edit the session title** by clicking on the title text visible at the top right of the window.
  ![screenshot1](assets/help/en/images/SessionEditionTitleEditor.png)
  - **Edit the session date** by clicking on the date text visible at the top right of the window.
  ![screenshot1](assets/help/en/images/SessionEditionDatePicker.png)
- - **Print the session** by clicking the button ![screenshot1](assets/help/en/images/SessionEditionPrintButton.png) located below the session date,
- - **Share the session** by clicking the button ![screenshot1](assets/help/en/images/SessionEditionShareSessionButton.png) located below the session date,
- - **Edit the instruction** of the selected proposition (highlighted in blue) by clicking on the instruction text
-  ![screenshot1](assets/help/en/images/SessionEditionInsctructionEditionArea.png)
  - **Switch to Animation mode** by clicking the toggle ![screenshot1](assets/help/en/images/SessionEditionAnimationToggleButton.png)
  - **Exit the editing/animation screen** and return to the session list by clicking the button ![screenshot1](assets/help/en/images/SessionEditionExitButton.png) located below the session date.
 
 ![screenshot1](assets/help/en/images/SessionEdition.png)
 
 ### Session Animation
-In animation mode all editing, adding, or deleting actions are no longer available to prevent accidental manipulation while you are facilitating your session.
+Animation mode is a mode where all editing, adding, or deleting actions are no longer present to avoid any unfortunate manipulation while you are facilitating your session.
 
 In animation mode you can:
- - **Enable fade-in/fade-out** for a proposition's music by clicking the button ![screenshot1](assets/help/en/images/SessionEditionFadeButton.png) located on that proposition's line,
- - **Enable loop playback** of a proposition's music by clicking the button ![screenshot1](assets/help/en/images/SessionEditionLoopButton.png) located on that proposition's line,
- - **Display the catalog instructions** for a proposition's exercise by clicking the button ![screenshot1](assets/help/en/images/SessionEditionCatalogInstructionsButton.png) located on that proposition's line,
- - **Edit observations** on participants, musical choices, or session construction by clicking the button ![screenshot1](assets/help/en/images/SessionEditionAnotateButton.png) located on a proposition's line,
- - **Exit the editing/animation screen** and return to the session list by clicking the button ![screenshot1](assets/help/en/images/SessionEditionExitButton.png) located below the session date,
- - **Print the session** by clicking the button ![screenshot1](assets/help/en/images/SessionEditionPrintButton.png) located below the session date,
- - **Share the session** by clicking the button ![screenshot1](assets/help/en/images/SessionEditionShareSessionButton.png) located below the session date,
- - **Edit the instruction** of the selected proposition (highlighted in blue) by clicking on the instruction text
-  ![screenshot1](assets/help/en/images/SessionEditionInsctructionEditionArea.png)
+ - **Edit observations** about the participants, music choice, or session structure by clicking the button ![screenshot1](assets/help/en/images/SessionEditionAnotateButton.png) located on a proposal's line,
+ - **Switch to Edit mode** by clicking the toggle switch ![screenshot1](assets/help/en/images/SessionEditionAnimationToggleButton.png)
 
 ![screenshot1](assets/help/en/images/SessionAnimation.png)
 
-### Keyboard Shortcuts
-The following shortcuts are active in both **Editing** and **Animation** modes:
-- **Space**:
-    - if the selected item is not currently playing or wasn't the last one played, starts playing the selected item's music from the beginning
-    - if the selected item was the last one played, resumes playback from where it was paused
-    - if the selected item's music is currently playing, pauses playback
-- **<** key: stops playback and returns to the beginning of the track
-- **Down Arrow** / **Up Arrow**: navigate between different items in your session
-- **Shift+Up Arrow**: moves the selected item up in your list
-- **Shift+Down Arrow**: moves the selected item down in your list
+### Features available in both Edit and Animation modes
+In both **Edit** and **Animation** modes you can:
+ - **Enable gradual volume increase/decrease** for a proposal's music by clicking the button ![screenshot1](assets/help/en/images/SessionEditionFadeButton.png) located on that proposal's line,
+ - **Enable loop playback** for a proposal's music by clicking the button ![screenshot1](assets/help/en/images/SessionEditionLoopButton.png) located on that proposal's line,
+ - **Display the catalog instructions** for a proposal's exercise by clicking the button ![screenshot1](assets/help/en/images/SessionEditionCatalogInstructionsButton.png) located on that proposal's line,
+ - **Exit the edition/animation screen** and return to the session list by clicking the button ![screenshot1](assets/help/en/images/SessionEditionExitButton.png) located below the session date,
+ - **Print the session** by clicking the button ![screenshot1](assets/help/en/images/SessionEditionPrintButton.png) located below the session date,
+ - **Share the session** by clicking the button ![screenshot1](assets/help/en/images/SessionEditionShareSessionButton.png) located below the session date,
+ - **Edit the instruction** of the selected proposal (highlighted in blue) by clicking on the instruction text
+  ![screenshot1](assets/help/en/images/SessionEditionInsctructionEditionArea.png)
+ - **Move a proposal** in the proposals list:
+   - Downwards with the *Shift-Down Arrow* shortcut,
+   - Upwards with the *Shift-Up Arrow* shortcut,
+ - **Select a proposal** in the proposals list by:
+   - *Clicking* (single click) on that proposal,
+   - pressing the **Down Arrow** and **Up Arrow** keys,
+ - **Play or pause a proposal's music** by:
+   - *Double-clicking* on that proposal's line,
+   - *clicking* the button ![screenshot1](assets/help/en/images/PlayButton.png)/![screenshot1](assets/help/en/images/PauseButton.png) located in front of the music intensity curve at the top left of the window,
+   - pressing the *Space* key
+     - if the selected proposal is not the one currently playing or previously played, plays the selected proposal's music from the beginning
+     - if the selected proposal is the one whose music was previously played, resumes the music from where it was paused
+     - if the selected proposal's music is currently playing, pauses it
+ - **Return to the beginning of the music and stop playback** (after demonstrating to participants), by pressing the *<* key
 
 ## Editing a Session on the Curve
 In the session editor on the curve you can:
@@ -204,4 +204,45 @@ In the session editor on the curve you can:
 
 ![screenshot1](assets/help/fr/images/SessionEditionOnCurve.png)
 
+## Editing a proposition
+From the **editing/animation** mode or the **editing on the curve** mode, you can create or modify your *propositions*, meaning your associations between an exercise and a piece of music.
 
+![screenshot1](assets/help/en/images/PropositionEditionWidget.png)
+
+### The three modes for creating a proposition
+The proposition editing window provides access to three complementary modes:
+ - **I explore** to seek inspiration by browsing the catalog loaded into VivenciApp,
+ - **I act** when you know which exercise you want to select by typing a few letters of the exercise name you are looking for to reduce the displayed list,
+ - **I refine** when your session is already partially built and you want to fine-tune the musical flow between your propositions
+
+### Explore
+To navigate through the catalog in search of an exercise and/or an association of an exercise with a piece of music, click on the button ![screenshot1](assets/help/en/images/PropositionEditionExplorationButton.png) located on the left of the proposition editing box.
+The catalog then opens and allows you to search by exercise or by music (see the **Catalog Exploration** chapter).
+
+### Act
+To quickly select an exercise whose name you know, simply type the first letters or even a sequence of letters contained in the name of that exercise. A reduced list of selectable exercises is displayed, in which you can click to select the desired exercise.
+![screenshot1](assets/help/en/images/PropositionEditionAutocompletion.png)
+Once the exercise is selected, you can repeat the same operation to select the music you wish to associate with this exercise in your session.
+
+### Refine
+To allow you to refine the fluidity of your musical choices, click on the button ![screenshot1](assets/help/en/images/PropositionEditionRefineButton.png) located on the right of the music input/selection line.
+
+The window that opens then allows you to:
+ - see the previous proposition and listen to its music
+ - see the next proposition and listen to its music
+ - chain the listening of the previous music with a possible music for the proposition to refine,
+ - chain the listening of a possible music for the proposition to refine with the next music,
+ - pre-select a few potential alternatives for the proposition to refine before chaining again:
+   - play the previous music,
+   - play the alternative I'm hesitating about,
+   - play the next music.
+
+Step by step, you can eliminate alternatives until you keep the music that flows best between the previous and the next one.
+
+![screenshot1](assets/help/en/images/RefineMusic.png)
+
+### Editing the proposition's instructions
+To draft the instruction elements that you will use to present the proposition to the participants, you have the option to copy sections from the catalog's instructions and to modify and enrich them.
+The sections available in the catalog for the selected exercise are colored. A click on the title of one of the sections copies the content of that section into the instruction editing field for the proposition.
+
+![screenshot1](assets/help/en/images/PropositioneditionInstructions.png)

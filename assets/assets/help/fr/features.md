@@ -149,9 +149,6 @@ En mode édition vous pouvez :
  - **Modifier une proposition** en cliquant sur sur le bouton ![screenshot1](assets/help/fr/images/SessionEditionEditPropositionButton.png) situé sur la ligne de cette proposition,
   - **Supprimer une proposition** en cliquant sur le bouton ![screenshot1](assets/help/fr/images/SessionEditionDeletePropositionButton.png) situé sur la ligne de cette proposition,
  - **Regarder la démonstration** de l'exercice d'une proposition (quand la vidéo existe) en cliquant sur le bouton ![screenshot1](assets/help/fr/images/SessionEditionVideoButton.png) situé sur la ligne de cette proposition,
-  - **Activer la montée/baisse progressive du volume** de la musique d'une proposition en cliquant sur le bouton ![screenshot1](assets/help/fr/images/SessionEditionFadeButton.png) situé sur la ligne de cette proposition,
- - **Activer la lecture en boucle** de la musique d'une proposition en cliquant sur le bouton ![screenshot1](assets/help/fr/images/SessionEditionLoopButton.png) situé sur la ligne de cette proposition,
- - **Afficher les consignes du catalogue** de l'exercice d'une proposition en cliquant sur le bouton ![screenshot1](assets/help/fr/images/SessionEditionCatalogInstructionsButton.png) situé sur la ligne de cette proposition,
  - **Editer le titre de la séance** en cliquant dans le texte du titre visible en haut à droite de la fenêtre. 
  ![screenshot1](assets/help/fr/images/SessionEditionTitleEditor.png)
  - **Editer la date de la séance** en cliquant dans le texte de la date visible en haut à droite de la fenêtre. 
@@ -169,28 +166,34 @@ En mode édition vous pouvez :
 Le mode animation est un mode dans lequel, toutes les actions d'édition, de rajout ou de suppression ne sont plus présentes afin d'éviter une manipulation malencontreuse pendant que vous facilitez votre séance.
 
 En mode animation vous pouvez :
+ - **Editer des observations** sur les participants, le choix musical ou la construction de la séance en cliquant sur le bouton ![screenshot1](assets/help/fr/images/SessionEditionAnotateButton.png) situé sur la ligne d'une proposition,
+ - **Basculer en Édition** en cliquant sur l'interrupteur ![screenshot1](assets/help/fr/images/SessionEditionAnimationToggleButton.png)
+
+![screenshot1](assets/help/fr/images/SessionAnimation.png)
+
+### Fonctionalités présentes en Édition et en Animation
+Dans les modes **Édition** et **Animation** vous pouvez :
  - **Activer la montée/baisse progressive du volume** de la musique d'une proposition en cliquant sur le bouton ![screenshot1](assets/help/fr/images/SessionEditionFadeButton.png) situé sur la ligne de cette proposition,
  - **Activer la lecture en boucle** de la musique d'une proposition en cliquant sur le bouton ![screenshot1](assets/help/fr/images/SessionEditionLoopButton.png) situé sur la ligne de cette proposition,
- - **Afficher les consignes du catalogue** de l'exercice d'une proposition en cliquant sur le bouton ![screenshot1](assets/help/fr/images/SessionEditionCatalogInstructionsButton.png) situé sur la ligne de cette proposition,
- - **Editer des observations** sur les participants, le choix musical ou la construction de la séance en cliquant sur le bouton ![screenshot1](assets/help/fr/images/SessionEditionAnotateButton.png) situé sur la ligne d'une proposition,
- - **Quitter l'écran édition/anaimation** et revenir à la liste des séances en cliquant sur le bouton ![screenshot1](assets/help/fr/images/SessionEditionExitButton.png) situé en dessous de la date de la séance,
+ - **Afficher les consignes du catalogue** de l'exercice d'une proposition en cliquant sur le bouton ![screenshot1](assets/help/fr/images/SessionEditionCatalogInstructionsButton.png) situé sur la ligne de cette proposition, - **Quitter l'écran édition/anaimation** et revenir à la liste des séances en cliquant sur le bouton ![screenshot1](assets/help/fr/images/SessionEditionExitButton.png) situé en dessous de la date de la séance,
  - **Imprimer la séance** en cliquant sur le bouton ![screenshot1](assets/help/fr/images/SessionEditionPrintButton.png) situé en dessous de la date de la séance,
  - **Partager la séance** en cliquant sur le bouton ![screenshot1](assets/help/fr/images/SessionEditionShareSessionButton.png) situé en dessous de la date de la séance,
  - **Editer la consigne** de la proposition sélectionnée (surligée en bleu) en cliquant dans le texte de la consigne 
   ![screenshot1](assets/help/fr/images/SessionEditionInsctructionEditionArea.png)
-
-![screenshot1](assets/help/fr/images/SessionAnimation.png)
-
-### Raccourcis clavier
-Les raccourcis suivants sont actifs en **Édition** et en **Animation** :
-- **Espace** : 
-    - si la proposition sélectionnée n'est pas celle entrain d'être jouée ou jouée précédemment, joue la musique de la proposition sélectionnée depuis le début
-    - si la proposition sélectionnée est celle dont la musique a été jouée précédement, relance la musique à l'endroit elle avait était mise en pause
-    - si la musique de la proposition sélectionnée est en train de jouer, met en pause
-- Touche **<** : arrête la musique et revient au début du morceau
-- **Flèche Bas** / **Flèche haut** : permet de naviguer entre les différentes propositions de votre séance
-- **Maj-Flèche haut** : déplace la proposition sélectionnée vers le haut dans votre liste
-- **Maj-Flèche bas** : déplace la proposition sélectionnée vers le bas dans votre liste
+ - **Déplacer une proposition** dans la liste des propostions :
+   - Vers le bas avec le raccourci *Maj-Flèche bas*,
+   - Vers le haut avec le raccourci *Maj-Flèche haut*,
+ - **Sélectionner une proposition** dans la liste des propositions en :
+   - *Cliquant* (simple clic) sur cette proposition,
+   - tapant sur les touches **Flèche Bas** et **Flèche haut**,
+ - **Jouer ou mettre en pause la musique d'une proposition** en :
+   - *Double-cliquant* sur la ligne de cette proposition,
+   - *cliquant* sur le bouton ![screenshot1](assets/help/fr/images/PlayButton.png)/![screenshot1](assets/help/fr/images/PauseButton.png) situé devant la courbe d'intensité de la musique en haut à gauche de la fenêtre,
+   - tapant sur la touche *Espace*
+     - si la proposition sélectionnée n'est pas celle entrain d'être jouée ou jouée précédemment, joue la musique de la proposition sélectionnée depuis le début
+     - si la proposition sélectionnée est celle dont la musique a été jouée précédement, relance la musique à l'endroit elle avait était mise en pause
+     - si la musique de la proposition sélectionnée est en train de jouer, met en pause
+ - **Revenir au début de la musique et stopper la lecture** (après la démonstration aux participants), en tapant sur la touche *<*
 
 ## Edition d'une séance sur la courbe
 Dans l'éditeur de séance sur la courbe vous pouvez :
@@ -205,3 +208,45 @@ Dans l'éditeur de séance sur la courbe vous pouvez :
 
 ![screenshot1](assets/help/fr/images/SessionEditionOnCurve.png)
 
+## Édition d'une proposition
+Depuis le mode d'**édition/animatio** ou d'**édition sur la courbe**, vous pouvez créer ou modifier vos *propositions*, c'est à dire vos associations entre un exercice et une musique.
+
+![screenshot1](assets/help/fr/images/PropositionEditionWidget.png)
+
+### Les trois mode de création d'une proposition
+La fenêtre d'édition d'une proposition donne accès à trois modes complémentaires :
+ - **J'explore** pour chercher l'inspiration en parcourant le catalogue chargé dans VivenciApp,
+ - **J'agis** quand vous savez quel exercice vous souhaitez sélectionner en tapant quelques lettres du nom d'exercice que vous cherchez pour réduire la liste présentée,
+ - **J'affine** quand votre séance est déjà en partie construite et que vous souhaitez peaufiner l'harmonie des enchainement musicaux entre vos propositions
+
+### Explorer
+Pour naviguer dans le catalogue à le recherche d'un exercice et/ou d'une association d'un exercice avec une musique, cliquez sur le bouton ![screenshot1](assets/help/fr/images/PropositionEditionExplorationButton.png) situé à gauche de la boîte d'édition de proposition.
+Le catalogue s'ouvre alors et permet de rechercher par exercice ou par musique (voir chapitre **Exploration Catalogue**)
+
+### Agir
+Pour sélectionner rapidement un exercice dont vous connaissez le nom, tapez simplement les premières lettres ou même une suite de lettres contenu dans le nom de cet exercice. Une liste réduite des exercices sélectionnable est présentée dans laquelle vous pouvez cliquer pour sélectionner l'exercice souhaité.
+![screenshot1](assets/help/fr/images/PropositionEditionAutocompletion.png)
+Une fois l'exercice sélectionné, vous pouvez répéter la même opération pour sélectionner la musique que vous souhaitez associer à cet exercice dans votre séance.
+
+### Affiner
+Pour vous permettre d'affiner la fluidité de vos choix musicaux, cliquez sur le bouton ![screenshot1](assets/help/fr/images/PropositionEditionRefineButton.png) situé à droite de la ligne de saisie/sélection d'une musique.
+
+La fenêtre qui s'ouvre alors permet :
+ - de voir la proposition précédente et d'écouter sa musique
+ - de voir la proposition suivante et d'écouter sa musique
+ - d'enchaîner l'écoute de la musique précédente avec une musiques possible pour la proposition à affiner,
+ - d'enchaîner l'écoute d'une musiques possible pour la proposition à affiner avec la musique suivante,
+ - de préselectionner quelques alternatives potentielles pour la proposition à affiner avant d'enchaîner à nouveau :
+  - lecture de la musique précédente,
+  - lecture de l'alternative sur laquelle j'hésite,
+  - lecture de la musique suivante.
+
+De proche en proche vous pouvez éléminez les alternatives jusqu'à retenir la musique qui s'enchâine le mieux entre la précédente te la suivante.
+
+![screenshot1](assets/help/fr/images/RefineMusic.png)
+
+### Edition de la consigne de la proposition
+Pour rédiger les éléments de consignes qui vous serviront à présenter la proposition aux participants, vous avez la possibilité de copier des rubriques de la consigne du catalogue et de modifier et d'enrichir celles-ci.
+Les rubriques disponible dans le catalogue pour l'exercice sélectionné sont colorés. Un clic sur le titre d'une des rubrique, recopie le contenu de cette rubrique dans le champ d'édition de la consigne pour la proposition.
+
+![screenshot1](assets/help/fr/images/PropositioneditionInstructions.png)
