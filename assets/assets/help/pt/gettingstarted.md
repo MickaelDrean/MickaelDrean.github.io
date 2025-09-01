@@ -60,6 +60,7 @@ O modo edição permite-lhe:
 
 ### Atalhos de teclado úteis
 - **Espaço**: Reproduzir/Pausar música
+- **Enter**: Tocar a música da proposta selecionada
 - **Setas ↑↓**: Navegar entre propostas
 - **Shift + Setas ↑↓**: Mover uma proposta
 - **<**: Voltar ao início e parar

@@ -59,7 +59,8 @@ Le mode édition vous permet de :
 | **Supprimer une proposition** | ![Delete](assets/help/fr/images/SessionEditionDeletePropositionButton.png) |
 
 ### Raccourcis clavier utiles
-- **Espace** : Jouer/Pause la musique
+- **Espace** : Joue/Met en pause la musique
+- **Entrée** : Joue la musique de la proposition sélectionnée
 - **Flèches ↑↓** : Naviguer entre les propositions
 - **Maj + Flèches ↑↓** : Déplacer une proposition
 - **<** : Revenir au début et arrêter

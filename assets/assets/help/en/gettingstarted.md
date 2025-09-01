@@ -60,6 +60,7 @@ Edit mode allows you to:
 
 ### Useful keyboard shortcuts
 - **Space**: Play/Pause music
+- **Enter** : Play the music of the proposition currently selected
 - **Arrows ↑↓**: Navigate between propositions
 - **Shift + Arrows ↑↓**: Move a proposition
 - **<**: Return to beginning and stop

@@ -60,6 +60,7 @@ El modo edición le permite:
 
 ### Atajos de teclado útiles
 - **Espacio**: Reproducir/Pausar música
+- **Enter** : reproducir la música de la propuesta selectionada
 - **Flechas ↑↓**: Navegar entre propuestas
 - **Mayús + Flechas ↑↓**: Mover una propuesta
 - **<**: Volver al principio y detener
