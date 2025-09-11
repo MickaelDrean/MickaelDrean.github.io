@@ -1,6 +1,6 @@
 {
   "forceWebmail": false,
-  "catalogueFilename": "CIMEB2012-PrototypeDataModel.json",
+  "catalogueFilename": "ERTMED-PrototypeDataModel-FLAC2025.vab",
   "logFilePath": "./test_logs/",
   "logLevel": "all",
   "localMusicPath": "C:/WORK/Flutter",
