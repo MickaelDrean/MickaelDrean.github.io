@@ -1,8 +1,8 @@
 {
   "forceWebmail": false,
   "catalogueFilename": "ERTMED-PrototypeDataModel-FLAC2025.vab",
-  "logFilePath": "./test_logs/",
-  "logLevel": "all",
+  "logFilePath": "$appDataRoamingPath/biodanza-dzv/vivenciapp",
+  "logLevel": "error",
   "localMusicPath": "C:/WORK/Flutter",
   "localDemoPath": "C:/WORK/Flutter",
   "autosave": true
