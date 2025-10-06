@@ -10,7 +10,11 @@ The software allows you to:
 
 ## License Types
 
-There are several types of licenses available, each offering different features depending on your needs.
+There are several types of licenses, each offering different features according to your needs:
+- **Student**: license during the methodology year mainly to discover the catalog provided by your school, build and animate your first sessions within this framework.
+- **Under supervision**: license that allows you to build and animate your sessions, note your observations on participants, and pay attention to progression between sessions.
+- **Graduated**: license that additionally allows you to add your own exercises and music.
+- **Supervisor**: license that allows you to import sessions from facilitators you supervise, and create catalogs.
 
 ## License Request
 
@@ -22,9 +26,7 @@ To obtain a license, please send an email to aide.vivenciapp@gmail.com containin
 - School of origin
 - Bank transfer reference (if paying by transfer)
 - Requested license type
-- Screenshot with machine information and installed software version
-
-To obtain this information, go to the "Settings" menu (gear icon in the top right corner of the VivenciApp window):
+- Screenshot with machine information and installed software version. To obtain this information, go to the "Settings" menu (gear icon in the top right corner of the VivenciApp window):
 
 ![screenshot1](assets/help/en/images/image_license.png)
 

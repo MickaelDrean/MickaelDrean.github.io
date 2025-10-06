@@ -10,7 +10,11 @@ El software permite:
 
 ## Tipos de Licencias
 
-Existen varios tipos de licencias, cada una ofrece diferentes funcionalidades según sus necesidades.
+Existen varios tipos de licencias, cada una ofrece diferentes funcionalidades según sus necesidades:
+- **Alumno**: licencia durante el año de metodología principalmente para descubrir el catálogo proporcionado por su escuela, construir y animar sus primeras sesiones en este marco.
+- **En supervisión**: licencia que permite construir y animar sus sesiones, anotar sus observaciones sobre los participantes, y prestar atención a la progresión entre sesiones.
+- **Titulado**: licencia que además permite agregar sus propios ejercicios y músicas.
+- **Supervisor**: licencia que permite importar las sesiones de los facilitadores que supervisa, y crear catálogos.
 
 ## Solicitud de Licencia
 
@@ -22,9 +26,7 @@ Para obtener una licencia, le invitamos a enviar un correo a aide.vivenciapp@gma
 - Escuela de origen
 - Referencia de transferencia (si pago por transferencia)
 - Tipo de licencia solicitada
-- Captura de pantalla con la información de la máquina y la versión del software instalado
-
-Para obtener esta información, acceda al menú "Configuración" (icono de engranaje en la esquina superior derecha de la ventana de VivenciApp):
+- Captura de pantalla con la información de la máquina y la versión del software instalado. Para obtener esta información, acceda al menú "Configuración" (icono de engranaje en la esquina superior derecha de la ventana de VivenciApp):
 
 ![screenshot1](assets/help/es/images/image_license.png)
 
