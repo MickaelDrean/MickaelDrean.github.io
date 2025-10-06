@@ -1,16 +1,20 @@
 {
-    "Version_date": "xx/xx/xxxx xxh",
+    "Version_date": "06/10/2025 18h",
     "ChangeLog": [
         {
             "Name": "V1.0.2",
-            "Date": "xx/xx/xxxx",
+            "Date": "06/10/2025",
             "Description": [
                 {
                     "language": "FR",
                     "text": [
                         "Impossible de jouer la musique au premier clic dans le catalogue.",
                         "Modification informations proposition dans l'éditeur courbe : remplacement code d'origine par le BPM",
-                        "Ajout du BPM pour chaque musique dans l'éditeur standard"
+                        "Ajout du BPM pour chaque musique dans l'éditeur standard",
+                        "Suppression erreurs lors des recherches dans le catalogue",
+                        "Vérification du bon chargement du catalogue",
+                        "Message explicite en cas de musique non trouvée",
+                        "Une seule instance de l'application permise"
                     ]
                 },
                 {
@@ -18,7 +22,11 @@
                     "text": [
                         "Impossível reproduzir a música no primeiro clique no catálogo.",
                         "Modificação das informações da proposta no editor de curva: substituição do código original pelo BPM",
-                        "Adição do BPM para cada música no editor padrão"
+                        "Adição do BPM para cada música no editor padrão",
+                        "Correção de erros durante as pesquisas no catálogo",
+                        "Verificação do carregamento correto do catálogo",
+                        "Mensagem explícita em caso de música não encontrada",
+                        "Apenas uma instância da aplicação permitida"
                     ]
                 },
                 {
@@ -26,7 +34,11 @@
                     "text": [
                         "Imposible reproducir la música al primer clic en el catálogo.",
                         "Modificación de información de propuesta en el editor de curva: reemplazo de código original por BPM",
-                        "Adición del BPM para cada música en el editor estándar"
+                        "Adición del BPM para cada música en el editor estándar",
+                        "Corrección de errores durante las búsquedas en el catálogo",
+                        "Verificación de la correcta carga del catálogo",
+                        "Mensaje explícito en caso de no encontrar música",
+                        "Solo se permite una instancia de la aplicación"
                     ]
                 },
                 {
@@ -34,7 +46,11 @@
                     "text": [
                         "Unable to play music on first click in the catalog.",
                         "Modifying proposal information in the curve editor: replacing original code with BPM",
-                        "Adding BPM for each music track in the standard editor"
+                        "Adding BPM for each music track in the standard editor",
+                        "Fixed errors during catalog searches",
+                        "Verification that the catalogue has loaded correctly",
+                        "Explicit message if a music cannot be found",
+                        "Only one instance of the application permitted"
                     ]
                 }
             ]
