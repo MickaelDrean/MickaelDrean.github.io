@@ -2,6 +2,52 @@
     "Version_date": "06/10/2025 18h",
     "ChangeLog": [
         {
+            "Name": "V1.1.0",
+            "Date": "XX/10/2025",
+            "Description": [
+                {
+                    "language": "FR",
+                    "text": [
+                        "Désactivation de la mise en veille de l'ordinateur en mode animation",
+                        "Accès unique pour les enregistrements et partage en vab, csv et pdf",
+                        "Blocage à l'impression sur macos",
+                        "Correction problèmes de renommage et séances qui disparaissent",
+                        "Amélioration des temps de recherche dans le catalogue"
+                    ]
+                },
+                {
+                    "language": "PT",
+                    "text": [
+                        "Desativação da suspensão do computador no modo animação",
+                        "Acesso único para gravações e partilha em formatos vab, csv e pdf",
+                        "Correção do bloqueio de impressão no macOS",
+                        "Correção de problemas de renomeação e sessões que desaparecem",
+                        "Melhoria dos tempos de pesquisa no catálogo"
+                    ]
+                },
+                {
+                    "language": "ES",
+                    "text": [
+                        "Desactivación del modo suspensión del ordenador en modo animación",
+                        "Acceso único para grabaciones y compartir en formatos vab, csv y pdf",
+                        "Corrección del bloqueo de impresión en macOS",
+                        "Corrección de problemas de renombrado y sesiones que desaparecen",
+                        "Mejora de los tiempos de búsqueda en el catálogo"
+                    ]
+                },
+                {
+                    "language": "EN",
+                    "text": [
+                        "Disabling computer sleep mode in animation mode",
+                        "Single access for saving and sharing in vab, csv and pdf formats",
+                        "Fixed printing blocking on macOS",
+                        "Fixed renaming issues and disappearing sessions", 
+                        "Improved search times in the catalog"
+                    ]
+                }
+            ]
+        },
+        {
             "Name": "V1.0.2",
             "Date": "06/10/2025",
             "Description": [
