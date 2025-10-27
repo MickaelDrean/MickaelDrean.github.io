@@ -139,9 +139,10 @@ You can search in:
 - *observations:resistance* → where you noted resistances
 
 ### Save and share
-- **Export to CSV**: ![ExportCSV](assets/help/en/images/SessionExplorationExportToCSVButton.png) Retrieve your data
-- **Share a session**: ![Share](assets/help/en/images/SessionEditionShareSessionButton.png) Send to a colleague
-- **Print**: ![Print](assets/help/en/images/SessionEditionPrintButton.png) Complete paper handout
+Click on ![Save or Share](assets/help/fr/images/SessionSaveOrShareButton.png) to Save or share your session in one of the following formats:
+- **Vivenciapp format** (.vab): to send to a colleague who will reload it in VivenciApp
+- **Spreadsheet format** (.csv): to keep your session in an open text format
+- **Document format** (.pdf): to have a printed version
 
 ---
 

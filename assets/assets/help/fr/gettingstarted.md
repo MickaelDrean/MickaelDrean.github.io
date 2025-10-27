@@ -139,9 +139,10 @@ Vous pouvez chercher dans :
 - *observations:resistance* → où vous avez noté des résistances
 
 ### Sauvegarder et partager
-- **Exporter en CSV** : ![ExportCSV](assets/help/fr/images/SessionExplorationExportToCSVButton.png) Récupérez vos données
-- **Partager une séance** : ![Share](assets/help/fr/images/SessionEditionShareSessionButton.png) Envoyez à un collègue
-- **Imprimer** : ![Print](assets/help/fr/images/SessionEditionPrintButton.png) Fiche papier complète
+Cliquez sur ![Save or Share](assets/help/fr/images/SessionSaveOrShareButton.png) pour Sauvegarder ou partager votre séance dans un des formats suivants : 
+- **Format Vivenciapp** (.vab) : pour envoyer à un collègue qui la rechargera dans VivenciApp
+- **Format tableur** (.csv) : pour conserver votre séance dans un format texte ouvert
+- **Format document** (.pdf) : pour avoir une version imprimée.
 
 ---
 

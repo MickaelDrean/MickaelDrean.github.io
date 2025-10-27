@@ -1,7 +1,22 @@
 # Fonctionnalités
 
 ## Exploration catalogue
-À compléter
+Pour accéder à la page permettant d'explorer le catalogue, cliquez sur le menu principal ![screenshot1](assets/help/fr/images/MainMenu.png)(en haut à gauche), puis sur **Catalogue**.
+
+### Exploration par exercice ou musique
+Le catalogue peut être exploré de deux façons :
+ - **Par les exercices** : quelles musiques sont possibles pour un exercice ? (C'est le mode par défaut).
+ - **Par les musiques** : quelles exercices sont possibles pour une musique ? Passer de l'exploration par exercice à l'exploration par musique en cliquant sur le bouton ![screenshot1](assets/help/fr/images/CatalogMusicButton.png).
+
+Pour chaque exercice vous pouvez :
+ - **Afficher les musiques** possibles pour cet exercice en cliquant sur le nom de l'exercice,
+ - **Regarder la démonstration** de cet exercice (quand la vidéo existe) en cliquant sur le bouton ![screenshot1](assets/help/fr/images/SessionEditionVideoButton.png) situé sur la ligne de l'exercice,
+ - **Consulter les consignes** catalogue de cet exercice en cliquant sur le bouton ![screenshot1](assets/help/fr/images/SessionEditionCatalogInstructionsButton.png) situé sur la ligne de l'exercice.
+
+Pour chaque musique vous pouvez :
+ - **Afficher les exercices** possibles pour cette musique en cliquant sur le nom de l'exercice,
+ - **Jouer la musique** en cliquant sur le bouton ![screenshot1](assets/help/fr/images/PlayButton.png) situé sur la ligne de la musique
+ - **Mettre en pause la musique** en cliquant sur le bouton ![screenshot1](assets/help/fr/images/PauseButton.png) situé sur la ligne de la musique
 
 ### Recherche dans le catalogue
 Trois modes de recherches sont possibles dans les champs de recherche **Exercice** et **Musique** :

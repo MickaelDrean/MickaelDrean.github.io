@@ -139,9 +139,10 @@ Pode pesquisar em:
 - *observações:resistência* → onde anotou resistências
 
 ### Guardar e partilhar
-- **Exportar para CSV**: ![ExportCSV](assets/help/pt/images/SessionExplorationExportToCSVButton.png) Recuperar os seus dados
-- **Partilhar uma sessão**: ![Share](assets/help/pt/images/SessionEditionShareSessionButton.png) Enviar para um colega
-- **Imprimir**: ![Print](assets/help/pt/images/SessionEditionPrintButton.png) Ficha em papel completa
+Clique em ![Save or Share](assets/help/fr/images/SessionSaveOrShareButton.png) para Guardar ou partilhar a sua sessão num dos seguintes formatos:
+- **Formato Vivenciapp** (.vab): para enviar a um colega que a recarregará no Vivenciapp
+- **Formato folha de cálculo** (.csv): para conservar a sua sessão num formato de texto aberto
+- **Formato documento** (.pdf): para ter uma versão impressa
 
 ---
 
