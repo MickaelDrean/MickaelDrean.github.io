@@ -1,6 +1,24 @@
 # Funcionalidades
+
 ## Exploração do catálogo
-A completar
+Para aceder à página que permite explorar o catálogo, clique no menu principal ![screenshot1](assets/help/pt/images/MainMenu.png) (no canto superior esquerdo) e depois em **Catálogo**.
+
+### Exploração por exercício ou música
+O catálogo pode ser explorado de duas formas:
+ - **Por exercícios**: que músicas são possíveis para um exercício? (Este é o modo predefinido).
+ - **Por músicas**: que exercícios são possíveis para uma música? 
+ Mude da exploração por exercício para a exploração por música clicando no botão ![screenshot1](assets/help/pt/images/CatalogMusicButton.png).
+ Mude da exploração por música para a exploração por exercício clicando no botão ![screenshot1](assets/help/pt/images/CatalogExerciseButton.png).
+
+Para cada exercício pode:
+ - **Mostrar as músicas** possíveis para este exercício clicando no nome do exercício,
+ - **Ver a demonstração** deste exercício (quando o vídeo existe) clicando no botão ![screenshot1](assets/help/pt/images/SessionEditionVideoButton.png) situado na linha do exercício,
+ - **Consultar as instruções** do catálogo deste exercício clicando no botão ![screenshot1](assets/help/pt/images/SessionEditionCatalogInstructionsButton.png) situado na linha do exercício.
+
+Para cada música pode:
+ - **Mostrar os exercícios** possíveis para esta música clicando no nome do exercício,
+ - **Reproduzir a música** clicando no botão ![screenshot1](assets/help/pt/images/PlayButton.png) situado na linha da música
+ - **Pausar a música** clicando no botão ![screenshot1](assets/help/pt/images/PauseButton.png) situado na linha da música
 
 ### Pesquisa no catálogo
 Três modos de pesquisa são possíveis nos campos Exercício e Música:
@@ -10,26 +28,26 @@ Três modos de pesquisa são possíveis nos campos Exercício e Música:
 
 #### Pesquisa no campo Exercício
 No campo de pesquisa de exercícios, você pode:
-- inserir uma ou várias palavras pesquisadas em:
-    - os nomes dos exercícios,
-    - os nomes das categorias de exercícios (RODA, MARCHA, ...),
-    - o conteúdo das seções de instruções do catálogo (descrição, objetivo, projeção existencial, ...),
-- uma frase exata entre aspas pesquisada nos mesmos itens,
-- um campo específico (ou uma série de campos específicos): pelo menos três letras do nome do campo, seguidas de ":" e a palavra pesquisada
-    - *exe:sinerg* ou *exer:sinerg* ou ... ou *exercício:sinerg*
-    - *cat:RODA* ou *cate:RODA* ou ... ou *categoria:RODA*
+ - inserir uma ou várias palavras pesquisadas em: 
+   + os nomes dos exercícios,
+   + os nomes das categorias de exercícios (RODA, MARCHA, ...),
+   + o conteúdo das seções de instruções do catálogo (descrição, objetivo, projeção existencial, ...),
+ - uma frase exata entre aspas pesquisada nos mesmos itens,
+ - um campo específico (ou uma série de campos específicos): pelo menos três letras do nome do campo, seguidas de ":" e a palavra pesquisada
+   + *exe:sinerg* ou *exer:sinerg* ou ... ou *exercício:sinerg*
+   + *cat:RODA* ou *cate:RODA* ou ... ou *categoria:RODA*
 
 #### Pesquisa no campo Música
-No campo de pesquisa de músicas, você pode:
-- inserir uma ou várias palavras pesquisadas em:
-    - os títulos das músicas,
-    - os nomes dos artistas,
-    - os códigos de origem das músicas (HLB, IBF, ...),
-- uma frase exata entre aspas pesquisada nos mesmos itens,
-- um campo específico (ou uma série de campos específicos): pelo menos três letras do nome do campo, seguidas de ":" e a palavra pesquisada
-    - *tit:canta* ou *titr:canta* ou *título:canta*
-    - *art:vangelis$ ou $arti:vangelis* ou ... ou *artista:vangelis*
-    - *ori:HLB* ou *orig:IBF* ou ... ou *origem:HLB*
+ No campo de pesquisa de músicas, você pode:
+ - inserir uma ou várias palavras pesquisadas em: 
+   + os títulos das músicas, 
+   + os nomes dos artistas, 
+   + os códigos de origem das músicas (HLB, IBF, ...),
+ - uma frase exata entre aspas pesquisada nos mesmos itens,
+ - um campo específico (ou uma série de campos específicos): pelo menos três letras do nome do campo, seguidas de ":" e a palavra pesquisada
+   + *tit:canta* ou *titr:canta* ou *título:canta*
+   + *art:vangelis* ou *arti:vangelis* ou ... ou *artista:vangelis*
+   + *ori:HLB* ou *orig:IBF* ou ... ou *origem:HLB*
 
 ## Sessões
 Para aceder à página que permite gerir as sessões, clique no menu principal ![screenshot1](assets/help/pt/images/MainMenu.png) (no canto superior esquerdo) e depois em **Sessões**.
@@ -72,9 +90,20 @@ A filtragem pode ser feita:
 ### Exportar sessões em formato texto (CSV)
 Você é proprietário dos seus dados.
 A qualquer momento, pode recuperar as suas sessões num formato de texto aberto (CSV), clicando no botão ![screenshot1](assets/help/pt/images/SessionExplorationExportToCSVButton.png) (situado no cabeçalho superior direito do ecrã de exploração das sessões).
-Isto permite-lhe reimportar as suas sessões noutra aplicação que não a VivenciApp ou gerar playlists iTunes para as suas sessões.
+Isto permite-lhe reimportar as suas sessões noutra aplicação que não a VivenciApp ou gerar playlists para aplicações como VLC, Windows Media Player, Clementine ou iTunes para as suas sessões.
 
-### Imprimir uma sessão
+### Funcionalidades disponíveis para cada sessão
+![Guardar ou Partilhar](assets/help/pt/images/SessionLine.png)
+
+#### Guardar ou Partilhar a sessão
+Ao clicar no botão ![Guardar ou Partilhar](assets/help/pt/images/SessionSaveOrShareButton.png) situado na linha de uma sessão, pode guardar ou partilhar a sua sessão num dos seguintes formatos: 
+- **Formato Vivenciapp** (.vab): para enviar a um colega que a recarregará na VivenciApp
+- **Formato folha de cálculo** (.csv): para conservar a sua sessão num formato de texto aberto
+- **Formato documento** (.pdf): para ter uma versão impressa.
+
+![Guardar ou Partilhar](assets/help/pt/images/SessionSaveOrShareDialog.png)
+
+#### Imprimir a sessão
 Ao clicar no botão ![screenshot1](assets/help/pt/images/SessionExplorationPrintSessionButton.png) situado na linha de uma sessão, pode imprimir a sua sessão.
 A impressão inclui os seguintes elementos:
 - o nome do utilizador da Vivenciapp,
@@ -92,49 +121,50 @@ Opcionalmente, pode também incluir na impressão:
 - as observações eventuais para as propostas,
 - um espaço para notas manuais para cada proposta.
 
-### Duplicar uma sessão
+#### Duplicar uma sessão
 Para duplicar uma sessão existente, clique no botão ![screenshot1](assets/help/pt/images/SessionExplorationDuplicateSessionButton.png) situado na linha da sessão a duplicar.
 Uma nova sessão é criada com o mesmo título (com um número de versão), a mesma data, o mesmo tema e as mesmas propostas.
 
-### Eliminar uma sessão
+#### Eliminar uma sessão
 Para eliminar uma sessão, clique no botão ![screenshot1](assets/help/pt/images/SessionExplorationDeleteSessionButton.png) situado na linha da sessão a eliminar.
+Atenção: a eliminação é definitiva!
 
-### Animar uma sessão
+#### Animar uma sessão
 Para passar para o modo de animação numa sessão, clique no botão ![screenshot1](assets/help/pt/images/SessionExplorationAnimateSessionButton.png) situado na linha da sessão a animar.
 Consulte o capítulo ***Edição/Animação de sessão*** para mais detalhes.
 
-### Editar uma sessão
+#### Editar uma sessão
 Para passar para o modo de edição numa sessão, clique no botão ![screenshot1](assets/help/pt/images/SessionExplorationEditSessionButton.png) situado na linha da sessão a editar.
 Consulte o capítulo ***Edição/Animação de sessão*** para mais detalhes.
 
-### Editar uma sessão na curva
+#### Editar uma sessão na curva
 Para editar uma sessão na curva, clique no botão ![screenshot1](assets/help/pt/images/SessionExplorationEditCurveSessionButton.png) situado na linha da sessão que deseja editar.
 Consulte o capítulo ***Edição de uma sessão na curva*** para obter mais detalhes.
 
-### Ver o conteúdo de uma sessão
+#### Ver o conteúdo de uma sessão
 Um clique no título de uma sessão permite visualizar duas colunas:
 - uma à esquerda contendo o tema da sessão,
 - outra à direita contendo a lista de propostas da sessão. Um clique numa proposta permite visualizar/ocultar as instruções dessa proposta.
 
 ### Pesquisas nas sessões
 No campo de pesquisa de sessões, você pode:
-- inserir uma ou várias palavras pesquisadas em:
-    - os títulos das músicas,
-    - os nomes dos artistas,
-    - os códigos de origem das músicas (HLB, IBF, ...),
-    - o conteúdo das instruções pessoais das propostas,
-    - o conteúdo das observações das propostas, 
-    - o tema da sessão, 
-    - o título da sessão,
-- uma frase exata entre aspas pesquisada nos mesmos itens,
-- um campo específico (ou uma série de campos específicos): pelo menos três letras do nome do campo, seguidas de ":" e a palavra pesquisada
-    - *tit:canta* ou *titu:canta* ou *título:canta*
-    - *art:vangelis* ou *arti:vangelis* ou ... ou *artista:vangelis*
-    - *exe:marcha* ou *exer:marcha* ou ... ou *exercício:marcha*
-    - *obs:robert* ou ... ou *observações:robert*
-    - *ins:abertura* ou ... ou *instrução:abertura*
-    - *tem:sexo* ou ... ou *tema:sexo*
-    - *ses:alteridade* ou ... ou *sessão:alteridade*
+ - inserir uma ou várias palavras pesquisadas em: 
+   + os títulos das músicas,
+   + os nomes dos artistas,
+   + os códigos de origem das músicas (HLB, IBF, ...),
+   + o conteúdo das instruções pessoais das propostas,
+   + o conteúdo das observações das propostas, 
+   + o tema da sessão, 
+   + o título da sessão,
+ - uma frase exata entre aspas pesquisada nos mesmos itens,
+ - um campo específico (ou uma série de campos específicos): pelo menos três letras do nome do campo, seguidas de ":" e a palavra pesquisada
+   + *tit:canta* ou *titu:canta* ou *título:canta*
+   + *art:vangelis* ou *arti:vangelis* ou ... ou *artista:vangelis*
+   + *exe:marcha* ou *exer:marcha* ou ... ou *exercício:marcha*
+   + *obs:robert* ou ... ou *observações:robert*
+   + *ins:abertura* ou ... ou *instrução:abertura*
+   + *tem:sexo* ou ... ou *tema:sexo*
+   + *ses:alteridade* ou ... ou *sessão:alteridade*
 
 ## Edição / Animação de sessão
 
@@ -143,17 +173,21 @@ O modo de edição permite principalmente criar sua sessão adicionando, modific
 Também permite modificar o título, a data e o tema da sessão.
 
 No modo edição você pode:
- - **Criar uma nova proposta** após uma existente clicando no botão ![screenshot1](assets/help/pt/images/SessionEditionAddPropositionButton.png) localizado na linha da proposta existente,
- - **Criar uma nova proposta** na última posição da sessão clicando no botão ![screenshot1](assets/help/pt/images/SessionEditionAddPropositionButton.png) localizado na faixa inferior da tela,
- - **Editar uma proposta** clicando no botão ![screenshot1](assets/help/pt/images/SessionEditionEditPropositionButton.png) localizado na linha dessa proposta,
- - **Excluir uma proposta** clicando no botão ![screenshot1](assets/help/pt/images/SessionEditionDeletePropositionButton.png) localizado na linha dessa proposta,
- - **Assistir à demonstração** do exercício de uma proposta (quando o vídeo existe) clicando no botão ![screenshot1](assets/help/pt/images/SessionEditionVideoButton.png) localizado na linha dessa proposta,
- - **Editar o título da sessão** clicando no texto do título visível no canto superior direito da janela.
+- **Editar o título da sessão** clicando no texto do título visível no canto superior direito da janela. 
  ![screenshot1](assets/help/pt/images/SessionEditionTitleEditor.png)
- - **Editar a data da sessão** clicando no texto da data visível no canto superior direito da janela.
+ - **Editar a data da sessão** clicando no texto da data visível no canto superior direito da janela. 
  ![screenshot1](assets/help/pt/images/SessionEditionDatePicker.png)
+ - **Editar o tema da sessão** clicando no botão ![screenshot1](assets/help/pt/images/SessionEditionEditThemeButton.png)
  - **Alternar para Animação** clicando no interruptor ![screenshot1](assets/help/pt/images/SessionEditionAnimationToggleButton.png)
- - **Sair da tela de edição/animação** e voltar para a lista de sessões clicando no botão ![screenshot1](assets/help/pt/images/SessionEditionExitButton.png) localizado abaixo da data da sessão.
+ - **Criar uma nova proposta** na última posição da sessão clicando no botão ![screenshot1](assets/help/pt/images/SessionEditionAddPropositionButton.png) localizado na faixa inferior da tela.
+
+ Para cada proposta presente na sessão, pode:
+  - **Criar uma nova proposta** após uma existente clicando no botão ![screenshot1](assets/help/pt/images/SessionEditionAddPropositionButton.png) localizado na linha da proposta existente,
+ - **Editar uma proposta** clicando no botão ![screenshot1](assets/help/pt/images/SessionEditionEditPropositionButton.png) localizado na linha dessa proposta,
+  - **Excluir uma proposta** clicando no botão ![screenshot1](assets/help/pt/images/SessionEditionDeletePropositionButton.png) localizado na linha dessa proposta,
+ - **Assistir à demonstração** do exercício de uma proposta (quando o vídeo existe) clicando no botão ![screenshot1](assets/help/pt/images/SessionEditionVideoButton.png) localizado na linha dessa proposta,
+ - **Editar a instrução** do exercício para a proposta selecionada (destacada em azul) clicando no texto da instrução 
+  ![screenshot1](assets/help/pt/images/SessionEditionInsctructionEditionArea.png),
 
 ![screenshot1](assets/help/pt/images/SessionEdition.png)
 
@@ -161,6 +195,7 @@ No modo edição você pode:
 O modo animação é um modo no qual todas as ações de edição, adição ou exclusão não estão mais presentes, para evitar uma manipulação inadequada enquanto você facilita sua sessão.
 
 No modo animação você pode:
+ - **Consultar o tema da sessão** clicando no botão ![screenshot1](assets/help/pt/images/SessionEditionEditThemeButton.png)
  - **Editar observações** sobre os participantes, escolha musical ou estrutura da sessão clicando no botão ![screenshot1](assets/help/pt/images/SessionEditionAnotateButton.png) localizado na linha de uma proposta,
  - **Alternar para o modo Edição** clicando no interruptor ![screenshot1](assets/help/pt/images/SessionEditionAnimationToggleButton.png)
 
@@ -170,39 +205,44 @@ No modo animação você pode:
 Nos modos **Edição** e **Animação** você pode:
  - **Ativar aumento/diminuição progressiva do volume** da música de uma proposta clicando no botão ![screenshot1](assets/help/pt/images/SessionEditionFadeButton.png) localizado na linha dessa proposta,
  - **Ativar reprodução em loop** da música de uma proposta clicando no botão ![screenshot1](assets/help/pt/images/SessionEditionLoopButton.png) localizado na linha dessa proposta,
- - **Exibir as instruções do catálogo** do exercício de uma proposta clicando no botão ![screenshot1](assets/help/pt/images/SessionEditionCatalogInstructionsButton.png) localizado na linha dessa proposta,
+ - **Exibir as instruções do catálogo** do exercício de uma proposta clicando no botão ![screenshot1](assets/help/pt/images/SessionEditionCatalogInstructionsButton.png) localizado na linha dessa proposta, 
  - **Sair da tela de edição/animação** e voltar para a lista de sessões clicando no botão ![screenshot1](assets/help/pt/images/SessionEditionExitButton.png) localizado abaixo da data da sessão,
  - **Imprimir a sessão** clicando no botão ![screenshot1](assets/help/pt/images/SessionEditionPrintButton.png) localizado abaixo da data da sessão,
  - **Compartilhar a sessão** clicando no botão ![screenshot1](assets/help/pt/images/SessionEditionShareSessionButton.png) localizado abaixo da data da sessão,
- - **Editar a instrução** da proposta selecionada (destacada em azul) clicando no texto da instrução
+ - **Editar a instrução** da proposta selecionada (destacada em azul) clicando no texto da instrução 
   ![screenshot1](assets/help/pt/images/SessionEditionInsctructionEditionArea.png)
- - **Mover uma proposta** na lista de propostas:
-   - Para baixo com o atalho *Shift-Seta para baixo*,
-   - Para cima com o atalho *Shift-Seta para cima*,
+ - **Mover uma proposta** na lista de propostas: 
+   - usando o teclado:
+     - Para baixo com o atalho *Shift-Seta para baixo*,
+     - Para cima com o atalho *Shift-Seta para cima*,
+   - usando o rato: clique no botão ![screenshot1](assets/help/pt/images/SessionEditionDragAndDropButton.png) da proposta a mover e mantenha o botão pressionado enquanto move a proposta para sua nova posição na sessão.
  - **Selecionar uma proposta** na lista de propostas:
-   - *Clicando* (clique simples) nessa proposta,
-   - pressionando as teclas **Seta para Baixo** e **Seta para Cima**,
+   - usando o teclado: pressione as teclas **Seta para Baixo** e **Seta para Cima** para selecionar a proposta seguinte ou anterior à atualmente selecionada.
+   - usando o rato: um clique esquerdo numa proposta seleciona-a
  - **Reproduzir ou pausar a música de uma proposta**:
-   - *Clicando duas vezes* na linha dessa proposta,
-   - *clicando* no botão ![screenshot1](assets/help/pt/images/PlayButton.png)/![screenshot1](assets/help/pt/images/PauseButton.png) localizado em frente à curva de intensidade da música no canto superior esquerdo da janela,
-   - pressionando a tecla *Espaço*
-     - se a proposta selecionada não for a que está sendo reproduzida ou foi reproduzida anteriormente, reproduz a música da proposta selecionada desde o início
-     - se a proposta selecionada for aquela cuja música foi reproduzida anteriormente, retoma a música de onde foi pausada
-     - se a música da proposta selecionada estiver sendo reproduzida, pausa-a
- - **Voltar ao início da música e parar a reprodução** (após a demonstração para os participantes), pressionando a tecla *<*
+   - usando o teclado:
+      - pressione a tecla *Espaço*
+        - se a proposta selecionada não for a que está sendo reproduzida ou foi reproduzida anteriormente, reproduz a música da proposta selecionada desde o início
+        - se a proposta selecionada for aquela cuja música foi reproduzida anteriormente, retoma a música de onde foi pausada
+        - se a música da proposta selecionada estiver sendo reproduzida, pausa-a
+      - pressione a tecla *Enter*: reproduz a música da proposta selecionada (destacada em azul)
+    - usando o rato: 
+      - *Duplo clique* na linha da proposta a reproduzir.
+      - *Clique* no botão ![screenshot1](assets/help/pt/images/PlayButton.png)/![screenshot1](assets/help/pt/images/PauseButton.png) localizado em frente à curva de intensidade da música no canto superior esquerdo da janela,
+ - **Voltar ao início da música e parar a reprodução** (após a demonstração para os participantes), pressionando a tecla *<* ("menor que")
 
 ## Edição de uma sessão na curva
 No editor de sessão na curva você pode:
  - **Criar uma nova proposta** clicando na curva,
  - **Editar uma proposta** clicando duas vezes na caixa de descrição de uma proposta,
  - **Ouvir a música de uma proposta** clicando no botão ![screenshot1](assets/help/pt/images/PlayButton.png) dessa proposta,
- - **Mover uma proposta dentro da sessão**: clique no ponto de ancoragem da proposta (ponto colorido) e, mantendo o botão pressionado, mova o mouse para a direita ou esquerda para reposicionar o ponto de ancoragem da proposta em sua nova localização na sessão,
+ - **Mover uma proposta dentro da sessão**: clique no ponto de ancoragem da proposta (ponto colorido) e, mantendo o botão pressionado, mova o rato para a direita ou esquerda para reposicionar o ponto de ancoragem da proposta em sua nova localização na sessão,
  - **Designar uma ou mais propostas-chave** da sessão: clique no botão ![screenshot1](assets/help/pt/images/SessionEditionOnCurveKeyButton.png)
    As propostas-chave são destacadas com uma borda verde.
  - **Excluir uma proposta** clicando no botão ![screenshot1](assets/help/pt/images/SessionEditionOnCurveDeleteButton.png) dessa proposta
  - **Redistribuir automaticamente as propostas** na curva clicando no botão ![screenshot1](assets/help/pt/images/SessionEditionOnCurveRedistributeButton.png) localizado no canto superior direito
 
-![screenshot1](assets/help/fr/images/SessionEditionOnCurve.png)
+![screenshot1](assets/help/pt/images/SessionEditionOnCurve.png)
 
 ## Edição de uma proposta
 A partir do modo de **edição/animação** ou de **edição na curva**, pode criar ou modificar as suas *propostas*, ou seja, as suas associações entre um exercício e uma música.
@@ -233,9 +273,9 @@ A janela que se abre então permite:
  - encadear a audição da música anterior com uma música possível para a proposta a afinar,
  - encadear a audição de uma música possível para a proposta a afinar com a música seguinte,
  - pré-selecionar algumas alternativas potenciais para a proposta a afinar antes de encadear novamente:
-   - reproduzir a música anterior,
-   - reproduzir a alternativa sobre a qual hesito,
-   - reproduzir a música seguinte.
+  - reproduzir a música anterior,
+  - reproduzir a alternativa sobre a qual hesito,
+  - reproduzir a música seguinte.
 
 Pouco a pouco pode eliminar alternativas até ficar com a música que melhor se encadeia entre a anterior e a seguinte.
 
