@@ -1,18 +1,19 @@
 {
-    "Version_date": "06/10/2025 18h",
+    "Version_date": "XX/11/2025 18h",
     "ChangeLog": [
         {
             "Name": "V1.1.0",
-            "Date": "XX/10/2025",
+            "Date": "XX/11/2025",
             "Description": [
                 {
                     "language": "FR",
                     "text": [
                         "Désactivation de la mise en veille de l'ordinateur en mode animation",
                         "Accès unique pour les enregistrements et partage en vab, csv et pdf",
-                        "Blocage à l'impression sur macos",
+                        "Corection blocage à l'impression sur macos",
                         "Correction problèmes de renommage et séances qui disparaissent",
-                        "Amélioration des temps de recherche dans le catalogue"
+                        "Amélioration des temps de recherche dans le catalogue",
+                        "Correction déplacement des propositions par glisser/déposer"
                     ]
                 },
                 {
@@ -22,7 +23,8 @@
                         "Acesso único para gravações e partilha em formatos vab, csv e pdf",
                         "Correção do bloqueio de impressão no macOS",
                         "Correção de problemas de renomeação e sessões que desaparecem",
-                        "Melhoria dos tempos de pesquisa no catálogo"
+                        "Melhoria dos tempos de pesquisa no catálogo",
+                        "Correção do deslocamento das propostas por arrastar e soltar"
                     ]
                 },
                 {
@@ -32,7 +34,8 @@
                         "Acceso único para grabaciones y compartir en formatos vab, csv y pdf",
                         "Corrección del bloqueo de impresión en macOS",
                         "Corrección de problemas de renombrado y sesiones que desaparecen",
-                        "Mejora de los tiempos de búsqueda en el catálogo"
+                        "Mejora de los tiempos de búsqueda en el catálogo",
+                        "Corrección del desplazamiento de las propuestas mediante arrastrar y soltar"
                     ]
                 },
                 {
@@ -42,7 +45,8 @@
                         "Single access for saving and sharing in vab, csv and pdf formats",
                         "Fixed printing blocking on macOS",
                         "Fixed renaming issues and disappearing sessions", 
-                        "Improved search times in the catalog"
+                        "Improved search times in the catalog",
+                        "Fixed proposals move using drag and drop"
                     ]
                 }
             ]
