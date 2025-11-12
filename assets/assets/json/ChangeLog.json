@@ -13,7 +13,9 @@
                         "Corection blocage à l'impression sur macos",
                         "Correction problèmes de renommage et séances qui disparaissent",
                         "Amélioration des temps de recherche dans le catalogue",
-                        "Correction déplacement des propositions par glisser/déposer"
+                        "Amélioration affichage et navigation des résultats de recherche dans le catalogue",
+                        "Correction déplacement des propositions par glisser/déposer",
+                        "Amélioration des couleurs du mode clair"
                     ]
                 },
                 {
@@ -24,7 +26,9 @@
                         "Correção do bloqueio de impressão no macOS",
                         "Correção de problemas de renomeação e sessões que desaparecem",
                         "Melhoria dos tempos de pesquisa no catálogo",
-                        "Correção do deslocamento das propostas por arrastar e soltar"
+                        "Melhoria da visualização e navegação dos resultados de pesquisa no catálogo",
+                        "Correção do deslocamento das propostas por arrastar e soltar",
+                        "Melhoria das cores do modo claro"
                     ]
                 },
                 {
@@ -35,7 +39,9 @@
                         "Corrección del bloqueo de impresión en macOS",
                         "Corrección de problemas de renombrado y sesiones que desaparecen",
                         "Mejora de los tiempos de búsqueda en el catálogo",
-                        "Corrección del desplazamiento de las propuestas mediante arrastrar y soltar"
+                        "Mejora de la visualización y navegación de los resultados de búsqueda en el catálogo",
+                        "Corrección del desplazamiento de las propuestas mediante arrastrar y soltar",
+                        "Mejora de los colores del modo claro"
                     ]
                 },
                 {
@@ -46,7 +52,9 @@
                         "Fixed printing blocking on macOS",
                         "Fixed renaming issues and disappearing sessions", 
                         "Improved search times in the catalog",
-                        "Fixed proposals move using drag and drop"
+                        "Improved display and navigation of search results in the catalog",
+                        "Fixed proposals move using drag and drop",
+                        "Improved light mode colors"
                     ]
                 }
             ]
