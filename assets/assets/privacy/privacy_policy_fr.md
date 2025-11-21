@@ -1,0 +1,135 @@
+# Politique de confidentialité de VivenciApp
+
+*Dernière mise à jour : [Date]*
+
+## 1. Introduction
+
+VivenciApp est une application dédiée à la pratique de la Biodanza. Nous respectons votre vie privée et nous nous engageons à protéger vos données personnelles.
+
+## 2. Responsable du traitement
+
+[Votre nom/entreprise]
+[Adresse]
+Email : aide.vivenciapp@gmail.com
+
+## 3. Données collectées
+
+**💡 Contrôle de vos données**
+
+VivenciApp vous demande explicitement votre consentement au premier lancement pour :
+- L'envoi automatique des rapports d'erreurs
+- Le partage des statistiques d'usage
+
+**Vous gardez le contrôle :**
+- Vous pouvez accepter l'une, l'autre, les deux, ou aucune de ces options
+- Vous pouvez modifier vos choix à tout moment dans les préférences de l'application
+- Le refus ou la révocation de votre consentement n'affecte en rien l'utilisation de VivenciApp
+
+### Consentement lié aux fonctionnalités optionnelles
+
+En activant les options de **rapports d’erreurs** ou de **statistiques d’usage**, vous consentez au traitement des données décrit dans les sections correspondantes de cette politique.
+Vous pouvez retirer ce consentement à tout moment dans les préférences de l’application, sans affecter votre utilisation de VivenciApp.
+
+---
+
+### 3.1 Données liées à votre licence
+
+**Données collectées :**
+- Identifiant de licence
+- Email (fourni lors de l'achat)
+- Numéro de téléphone
+- Informations système (OS, version, numéro de série)
+
+**Finalité :** Gestion de votre licence, communication sur les mises à jour et support technique.
+**Base légale :** Exécution du contrat
+**Conservation :** Durée de validité de la licence + 5 ans
+
+---
+
+### 3.2 Rapports d'erreurs (optionnel)
+
+**⚙️ Collecte conditionnée à votre consentement explicite.** Vous pouvez activer/désactiver cette fonctionnalité au premier lancement et la modifier à tout moment dans les préférences.
+
+**Données collectées :**
+- Messages d'erreur et traces d'exécution
+- Contexte de l'erreur
+- Identifiant de licence
+- Informations système (OS, version)
+
+**Données JAMAIS collectées :**
+- Le contenu de vos séances
+- Les informations de vos participants
+- Vos fichiers personnels
+
+**Finalité :** Identifier et corriger les bugs
+
+**Prestataire :** Sentry.io
+
+**Transfert et stockage :**
+- Sentry adhère au *Data Privacy Framework* (DPF) validé par la Commission européenne.
+- Le service est configuré pour que **toutes les données soient stockées sur les serveurs européens de Sentry**.
+
+**Conservation :** 90 jours maximum
+**Révocation :** Désactivez cette option dans Préférences > Confidentialité et données. Les données déjà collectées seront supprimées dans un délai de 30 jours.
+
+---
+
+### 3.3 Statistiques d'usage (optionnel)
+
+**⚙️ Collecte conditionnée à votre consentement explicite.** Vous pouvez activer/désactiver cette fonctionnalité au premier lancement et la modifier à tout moment dans les préférences.
+
+**Données collectées :**
+- Fonctionnalités utilisées et fréquence
+- Navigation dans l'interface
+- Identifiant de licence
+
+**Finalité :** Améliorer l'application
+
+**Prestataire :** Sentry.io
+
+**Transfert et stockage :**
+- Sentry adhère au *Data Privacy Framework* (DPF).
+- Les données générées par VivenciApp sont **stockées dans l’infrastructure européenne de Sentry**.
+
+**Conservation :** 90 jours maximum
+**Révocation :** Désactivez cette option dans Préférences > Confidentialité et données.
+
+---
+
+## 4. Vos droits
+
+Conformément au RGPD, vous disposez des droits suivants :
+- **Droit d'accès** : obtenir une copie de vos données
+- **Droit de rectification** : corriger des données inexactes
+- **Droit à l'effacement** : demander la suppression de vos données
+- **Droit d'opposition** : vous opposer à un traitement
+- **Droit à la limitation** : limiter le traitement dans certains cas
+- **Droit à la portabilité** : recevoir vos données dans un format structuré
+- **Droit de retirer votre consentement** : à tout moment dans les préférences pour les traitements optionnels
+
+Pour exercer ces droits : aide.vivenciapp@gmail.com
+
+Vous disposez également du droit d'introduire une réclamation auprès de la CNIL : https://www.cnil.fr
+
+---
+
+## 5. Sécurité
+
+Nous mettons en œuvre des mesures techniques et organisationnelles appropriées pour protéger vos données :
+- Chiffrement des communications (TLS/SSL)
+- Accès restreint aux données
+- Serveurs sécurisés
+
+---
+
+## 6. Modifications de cette politique
+
+Nous pouvons mettre à jour cette politique de confidentialité. Toute modification significative vous sera notifiée via l'application ou par email.
+
+---
+
+## 7. Contact
+
+Pour toute question concernant cette politique ou vos données personnelles :
+
+Email : aide.vivenciapp@gmail.com

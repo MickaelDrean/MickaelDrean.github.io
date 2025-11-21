@@ -1,4 +1,12 @@
 {
+
+
+  "consent_error_reporting" : false,
+  "consent_usage_stat" : false,
+  "consent_date" : "",
+  "consent_version" : "0",
+  "consent_asked" : false,
+
   "forceWebmail": false,
   "catalogueFilename": "ERTMED-PrototypeDataModel-FLAC2025.vab",
   "logFilePath": "biodanza-dzv/vivenciapp",
