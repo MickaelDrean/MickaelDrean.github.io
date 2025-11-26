@@ -158,13 +158,13 @@ Dans le champ de recherche des séances vous pouvez :
    + le titre de la séance,
  - une expression exacte entre guillemets recherchée sur les mêmes items,
  - un champ particulier (ou une suite de champs particuliers) : au moins trois lettres du nom du champ, suivies de ":" suivi du mot recherché
-   + *tit:cantar* ou *titr:cantar* ou *titre:cantar*
-   + *art:vangelis* ou *arti:vangelis* ou ... ou *artiste:vangelis* 
-   + *exe:marche* ou *exer:marche* ou ... ou *exercice:marche*
-   + *obs:robert* ou ... ou *observations:robert*
-   + *con:ouverture* ou ... ou *consigne:ouverture*
-   + *the:sex* ou ... ou *thème:sex*
-   + *sea:altérité* ou ... ou *séance:altérité*
+   + titres des musiques : *tit:cantar* ou *titr:cantar* ou *titre:cantar*
+   + artistes des musiques : *art:vangelis* ou *arti:vangelis* ou ... ou *artiste:vangelis* 
+   + nom des exercices : *exe:marche* ou *exer:marche* ou ... ou *exercice:marche*
+   + observations sur des exercices : *obs:robert* ou ... ou *observations:robert*
+   + consignes des propositions : *con:ouverture* ou ... ou *consigne:ouverture*
+   + thèmes des séances : *the:sex* ou ... ou *thème:sex*
+   + noms des séances : *sea:altérité* ou ... ou *séance:altérité*
 
 ## Édition / animation séance
 
