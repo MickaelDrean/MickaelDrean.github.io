@@ -6,7 +6,7 @@
   "consent_date" : "",
   "consent_version" : "0",
   "consent_asked" : false,
-  "dsn": "https://a5d5d94b866a8b3f6366a176c99287de@o4510115325411328.ingest.de.sentry.io/4510396637577296",
+  "dsn" : "https://c6ba46c202a9e65796d498ce2eee4069@o4510560653082624.ingest.de.sentry.io/4510562421178448",
   "sentry_trace_transitions": false,
   "sentry_trace_cubit_changes": false,
   "sentry_include_event_details": false,
