@@ -1,9 +1,9 @@
 {
-    "Version_date": "XX/11/2025 18h",
+    "Version_date": "XX/12/2025 18h",
     "ChangeLog": [
         {
             "Name": "V1.1.0",
-            "Date": "XX/11/2025",
+            "Date": "XX/12/2025",
             "Description": [
                 {
                     "language": "FR",
@@ -15,7 +15,10 @@
                         "Amélioration des temps de recherche dans le catalogue",
                         "Amélioration affichage et navigation des résultats de recherche dans le catalogue",
                         "Correction déplacement des propositions par glisser/déposer",
-                        "Amélioration des couleurs du mode clair"
+                        "Amélioration des couleurs du mode clair",
+                        "Ouverture automatique VivenciApp à partir d'une séance exportée (fichier .vab)",
+                        "Gestion des conflits à l'import de séance en cas de séance existante avec le même nom",
+                        "Télémétrie des traces en cas de plantage de VivenciApp"
                     ]
                 },
                 {
@@ -28,7 +31,10 @@
                         "Melhoria dos tempos de pesquisa no catálogo",
                         "Melhoria da visualização e navegação dos resultados de pesquisa no catálogo",
                         "Correção do deslocamento das propostas por arrastar e soltar",
-                        "Melhoria das cores do modo claro"
+                        "Melhoria das cores do modo claro",
+                        "Abertura automática do VivenciApp a partir de uma sessão exportada (ficheiro .vab)",
+                        "Gestão de conflitos na importação de sessões no caso de existir uma sessão com o mesmo nome",
+                        "Telemetria de rastreios em caso de falha do VivenciApp"
                     ]
                 },
                 {
@@ -41,7 +47,10 @@
                         "Mejora de los tiempos de búsqueda en el catálogo",
                         "Mejora de la visualización y navegación de los resultados de búsqueda en el catálogo",
                         "Corrección del desplazamiento de las propuestas mediante arrastrar y soltar",
-                        "Mejora de los colores del modo claro"
+                        "Mejora de los colores del modo claro",
+                        "Apertura automática de VivenciApp desde una sesión exportada (archivo .vab)",
+                        "Gestión de conflictos al importar una sesión en caso de que exista una sesión con el mismo nombre",
+                        "Telemetría de trazas en caso de fallo de VivenciApp"
                     ]
                 },
                 {
@@ -54,7 +63,10 @@
                         "Improved search times in the catalog",
                         "Improved display and navigation of search results in the catalog",
                         "Fixed proposals move using drag and drop",
-                        "Improved light mode colors"
+                        "Improved light mode colors",
+                        "Automatic opening of VivenciApp from an exported session (.vab file)",
+                        "Conflict management when importing sessions in case of an existing session with the same name",
+                        "Telemetry of traces in case of VivenciApp crash"
                     ]
                 }
             ]
