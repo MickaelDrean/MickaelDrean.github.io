@@ -1,164 +1,161 @@
-# Guia de Início Rápido
+# Guia de Início
 
-## 🎭 **Gerir as suas sessões**
+## **Gerir as Tuas Sessões**
 
-### Aceder às suas sessões
-1. Clique no **menu principal** ![MainMenu](assets/help/pt/images/MainMenu.png) (canto superior esquerdo)
-2. Selecione **"Sessões"**
+### Criar uma Nova Sessão
 
-### Criar uma nova sessão
-
-**Passos simples:**
-1. Clique em ![CreateSession](assets/help/pt/images/SessionExplorationCreateSessionButton.png) **"Nova sessão"**
+**Passos Simples:**
+1. Clique em ![CreateSession](assets/help/pt/images/SessionExplorationCreateSessionButton.png) **"Nova Sessão"**
 2. Dê um **nome** à sua sessão
 3. Escolha a **data**
 4. Adicione um **tema** (opcional):
    - A sua intenção para esta sessão
-   - Elementos teóricos para apresentar
+   - Os elementos teóricos a apresentar
 
-### Importar uma sessão
-Se um colega partilhar uma sessão consigo:
-1. Clique em ![LoadSession](assets/help/pt/images/SessionExplorationLoadSessionButton.png) **"Carregar uma sessão"**
+### Importar uma Sessão
+Se um colega partilhar consigo uma sessão:
+1. Clique em ![LoadSession](assets/help/pt/images/SessionExplorationLoadSessionButton.png) **"Carregar uma Sessão"**
 2. Selecione o ficheiro `.vab` recebido
 
-### Ações sobre as suas sessões
+### Ações nas Tuas Sessões
 
 | Ação | Botão | Descrição |
 |--------|--------|-------------|
-| **Animar** | ![Animate](assets/help/pt/images/SessionExplorationAnimateSessionButton.png) | Modo facilitador durante a sua sessão |
+| **Animar** | ![Animate](assets/help/pt/images/SessionExplorationAnimateSessionButton.png) | Um modo simplificado para facilitar |
 | **Editar** | ![Edit](assets/help/pt/images/SessionExplorationEditSessionButton.png) | Preparar e ajustar a sua sessão |
+| **Editar na Curva** | ![Edit](assets/help/pt/images/SessionExplorationEditCurveSessionButton.png) | Preparar a sua sessão na curva fisiológica |
 | **Duplicar** | ![Duplicate](assets/help/pt/images/SessionExplorationDuplicateSessionButton.png) | Criar uma cópia para modificar |
-| **Imprimir** | ![Print](assets/help/pt/images/SessionExplorationPrintSessionButton.png) | Ficha em papel da sua sessão |
+| **Imprimir** | ![Print](assets/help/pt/images/SessionExplorationPrintSessionButton.png) | Obter a sua sessão em papel ou num PDF para partilhar |
 | **Eliminar** | ![Delete](assets/help/pt/images/SessionExplorationDeleteSessionButton.png) | ⚠️ Eliminar permanentemente |
 
 ---
 
-## ✏️ **Preparar uma sessão (Modo Edição)**
+## ![Edit](assets/help/pt/images/SessionExplorationEditSessionButton.png) **Preparar uma Sessão (Modo Edição)**
 
-### Visão geral
-O modo edição permite-lhe:
+### Visão Geral
+O modo de edição permite-lhe:
 - ✅ Adicionar exercícios e as suas músicas
 - ✅ Escrever as suas instruções pessoais
 - ✅ Organizar a ordem das propostas
 - ✅ Modificar título, data e tema
 
-### Adicionar uma proposta (exercício + música)
+### Adicionar uma Proposta (exercício + música)
 
-**Duas opções:**
+**Duas Possibilidades:**
 - **Inserir após** uma proposta existente: ![AddAfter](assets/help/pt/images/SessionEditionAddPropositionButton.png)
 - **Adicionar no final**: ![AddEnd](assets/help/pt/images/SessionEditionAddPropositionButton.png) (no fundo do ecrã)
 
-### Modificar o conteúdo da sua sessão
+### Modificar o Conteúdo da Sua Sessão
 
 | O que pretende fazer | Como proceder |
 |--------------------------|------------------|
-| **Alterar título** | Clique diretamente no título (canto superior direito) |
-| **Modificar data** | Clique na data (canto superior direito) |
+| **Alterar o título** | Clique diretamente no título (canto superior direito) |
+| **Modificar a data** | Clique na data (canto superior direito) |
 | **Editar uma instrução** | Clique no texto da instrução |
 | **Ver uma demonstração** | ![Video](assets/help/pt/images/SessionEditionVideoButton.png) (se vídeo disponível) |
 | **Eliminar uma proposta** | ![Delete](assets/help/pt/images/SessionEditionDeletePropositionButton.png) |
 
-### Atalhos de teclado úteis
+### Atalhos de Teclado Úteis
 - **Espaço**: Reproduzir/Pausar música
-- **Enter**: Tocar a música da proposta selecionada
+- **Enter**: Reproduzir a música da proposta selecionada
 - **Setas ↑↓**: Navegar entre propostas
 - **Shift + Setas ↑↓**: Mover uma proposta
-- **<**: Voltar ao início e parar
+- **<**: Voltar ao início da música e pausar
 
 ---
 
-## 🎵 **Durante a sua sessão (Modo Animação)**
+## ![Animate](assets/help/pt/images/SessionExplorationAnimateSessionButton.png) **Durante a Sua Sessão (Modo Animação)**
 
-### Mudar para modo animação
-Ative o interruptor ![ToggleAnimation](assets/help/pt/images/SessionEditionAnimationToggleButton.png) para:
+### Mudar para Modo Animação
+Mude para o modo de animação para:
 - ✅ Evitar modificações acidentais
-- ✅ Concentrar-se na animação
-- ✅ Tomar notas de observação
+- ✅ Concentrar-se na facilitação
+- ✅ Anotar o que observa
 
-### Funções disponíveis
+### Funções Disponíveis
 - **Tomar notas**: ![Annotate](assets/help/pt/images/SessionEditionAnotateButton.png) em cada proposta
 - **Reprodução de áudio avançada**:
-  - ![Fade](assets/help/pt/images/SessionEditionFadeButton.png) Subida/descida gradual de volume
+  - ![Fade](assets/help/pt/images/SessionEditionFadeButton.png) Aumento/diminuição progressiva do volume
   - ![Loop](assets/help/pt/images/SessionEditionLoopButton.png) Reprodução em loop
-- **Consultar instruções**: ![CatalogInstructions](assets/help/pt/images/SessionEditionCatalogInstructionsButton.png)
+- **Consultar as instruções**: ![CatalogInstructions](assets/help/pt/images/SessionEditionCatalogInstructionsButton.png)
 
 ---
 
-## 📈 **Edição na curva fisiológica**
+## ![Edit](assets/help/pt/images/SessionExplorationEditCurveSessionButton.png) **Edição na Curva Fisiológica**
 
 Este editor permite-lhe posicionar as suas propostas (exercício + música) na curva da sua sessão.
 
-### Ações possíveis
+### Ações Possíveis
 - **Adicionar**: Clique na curva
 - **Modificar**: Duplo clique numa proposta
 - **Mover**: Arraste o ponto colorido da proposta na curva
-- **Marcar como chave**: ![Key](assets/help/pt/images/SessionEditionOnCurveKeyButton.png) (contorno verde)
-- **Distribuir automaticamente**: ![Redistribute](assets/help/pt/images/SessionEditionOnCurveRedistributeButton.png)
+- **Marcar como proposta-chave**: ![Key](assets/help/pt/images/SessionEditionOnCurveKeyButton.png) (moldura verde)
+- **Redistribuir automaticamente**: ![Redistribute](assets/help/pt/images/SessionEditionOnCurveRedistributeButton.png)
 
 ---
 
-## 🎯 **Criar uma proposta (Exercício + Música)**
+## ![Add proposition](assets/help/pt/images/SessionEditionAddPropositionButton.png) **Criar uma Proposta (Exercício + Música)**
 
-### As 3 abordagens
+### As 3 Abordagens
 
-#### 🔍 **"Exploro"** - Quando procura inspiração
+#### 🔍 **"Eu Exploro"** - Quando procura inspiração
 Clique em ![Explore](assets/help/pt/images/PropositionEditionExplorationButton.png) para explorar o catálogo completo
 
-#### ⚡ **"Ajo"** - Quando sabe o que quer
+#### ☑️ **"Eu Ajo"** - Quando sabe o que quer
 Digite as primeiras letras do nome do exercício → a lista reduz-se automaticamente
 
-#### 🎵 **"Afino"** - Para harmonizar as suas transições
+#### 🎵 **"Eu Refino"** - Para harmonizar as suas sequências
 Clique em ![Refine](assets/help/pt/images/PropositionEditionRefineButton.png) para:
 - Ouvir a proposta anterior
-- Testar diferentes faixas musicais
+- Testar músicas diferentes
 - Ouvir a proposta seguinte
 - Encontrar a melhor transição
 
-### Escrever as suas instruções
-As secções do catálogo aparecem a cores. **Clique numa secção** para a copiar para a sua instrução, depois personalize-a.
+### Escrever as Suas Instruções
+As categorias do catálogo aparecem a cores. **Clique numa categoria** para copiá-la para a sua instrução, depois personalize-a.
 
 ---
 
-## 🔧 **Funções práticas**
+## 🔧 **Funções Práticas**
 
-### Organizar as suas sessões
+### Organizar as Suas Sessões
 - **Ordenar por**: Data, última modificação, nome, criação
 - **Filtrar**: Por período ou presença de observações
-- **Vista progresso**: ![HorizontalView](assets/help/pt/images/SessionExplorationHorizontalSessionNavigationButton.png) para ver evolução entre sessões
+- **Vista de progresso**: ![HorizontalView](assets/help/pt/images/SessionExplorationHorizontalSessionNavigationButton.png) para ver a evolução entre sessões
 
-### Pesquisa avançada nas suas sessões
+### Pesquisa Avançada nas Suas Sessões
 Pode pesquisar em:
-- Títulos e artistas de música
-- Temas e títulos de sessões
+- Títulos e artistas das músicas
+- Temas e títulos das sessões
 - Instruções e observações pessoais
 - Nomes de exercícios
 
 **Exemplos:**
-- *artista:vangelis* → todas as suas sessões usando Vangelis
+- *artista:vangelis* → todas as suas sessões que usam Vangelis
 - *tema:criatividade* → sessões sobre criatividade
-- *observações:resistência* → onde anotou resistências
+- *observações:resistência* → onde anotou resistência
 
-### Guardar e partilhar
-Clique em ![Save or Share](assets/help/fr/images/SessionSaveOrShareButton.png) para Guardar ou partilhar a sua sessão num dos seguintes formatos:
-- **Formato Vivenciapp** (.vab): para enviar a um colega que a recarregará no Vivenciapp
-- **Formato folha de cálculo** (.csv): para conservar a sua sessão num formato de texto aberto
-- **Formato documento** (.pdf): para ter uma versão impressa
+### Guardar e Partilhar
+Clique em ![Save or Share](assets/help/pt/images/SessionSaveOrShareButton.png) para Guardar ou partilhar a sua sessão num dos seguintes formatos:
+- **Formato Vivenciapp** (.vab): para enviar a um colega que a carregará no VivenciApp
+- **Formato de folha de cálculo** (.csv): para manter a sua sessão num formato de texto aberto
+- **Formato de documento** (.pdf): para ter uma versão imprimível.
 
 ---
 
-## 💡 **Dicas para começar**
+## 💡 **Dicas para Começar Bem**
 
-### Para a sua primeira sessão
-1. **Crie** uma nova sessão com nome simples
+### Para a Sua Primeira Sessão
+1. **Crie** uma nova sessão com um nome simples
 2. **Explore** o catálogo para se familiarizar
 3. **Adicione** 2-3 propostas simples
-4. **Teste** o modo animação sem participantes
+4. **Teste** o modo de animação sem participantes
 
-### Boas práticas
-- ✅ Nomeie as suas sessões claramente (ex: "Identidade - Grupo principiantes - Nov 2024")
-- ✅ Use temas para anotar as suas intenções
-- ✅ Tome notas de observação após cada sessão
+### Boas Práticas
+- ✅ Nomeie claramente as suas sessões (ex: "Identidade - Grupo iniciante")
+- ✅ Use os temas para anotar as suas intenções
+- ✅ Anote as suas observações após cada sessão
 
 ---
 
-*Com VivenciApp, crie, anime e partilhe as suas sessões de Biodanza com fluidez.*
+*Com o VivenciApp, crie, facilite e partilhe as suas sessões de Biodanza com fluidez.*

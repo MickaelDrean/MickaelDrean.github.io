@@ -5,26 +5,32 @@ Pour accéder à la page permettant d'explorer le catalogue, cliquez sur le menu
 
 ### Exploration par exercice ou musique
 Le catalogue peut être exploré de deux façons :
- - **Par les exercices** : quelles musiques sont possibles pour un exercice ? (C'est le mode par défaut).
- - **Par les musiques** : quels exercices sont possibles pour une musique ? 
- Passez de l'exploration par exercice à l'exploration par musique en cliquant sur le bouton ![screenshot1](assets/help/fr/images/CatalogMusicButton.png).
- Passez de l'exploration par musique à l'exploration par exercice en cliquant sur le bouton ![screenshot1](assets/help/fr/images/CatalogExerciseButton.png).
+ - **Exploration par les exercices** : quelles musiques sont possibles pour un exercice ? (C'est le mode par défaut). 
+    Pour chaque exercice vous pouvez :
+    + **Afficher les musiques** possibles pour cet exercice en cliquant sur le nom de l'exercice,
+    + **Regarder la démonstration** de cet exercice (quand la vidéo existe) en cliquant sur le bouton ![Bouton démonstration](assets/help/fr/images/SessionEditionVideoButton.png) situé sur la ligne de l'exercice,
+    + **Consulter les consignes** catalogue de cet exercice en cliquant sur le bouton ![Bouton consignes](assets/help/fr/images/SessionEditionCatalogInstructionsButton.png) situé sur la ligne de l'exercice.
 
-Pour chaque exercice vous pouvez :
- - **Afficher les musiques** possibles pour cet exercice en cliquant sur le nom de l'exercice,
- - **Regarder la démonstration** de cet exercice (quand la vidéo existe) en cliquant sur le bouton ![screenshot1](assets/help/fr/images/SessionEditionVideoButton.png) situé sur la ligne de l'exercice,
- - **Consulter les consignes** catalogue de cet exercice en cliquant sur le bouton ![screenshot1](assets/help/fr/images/SessionEditionCatalogInstructionsButton.png) situé sur la ligne de l'exercice.
+![Exploration catalogue par exercice](assets/help/fr/images/CatalogExplorationByExercise.png)
 
-Pour chaque musique vous pouvez :
- - **Afficher les exercices** possibles pour cette musique en cliquant sur le nom de l'exercice,
- - **Jouer la musique** en cliquant sur le bouton ![screenshot1](assets/help/fr/images/PlayButton.png) situé sur la ligne de la musique
- - **Mettre en pause la musique** en cliquant sur le bouton ![screenshot1](assets/help/fr/images/PauseButton.png) situé sur la ligne de la musique
+ - **Exploration par les musiques** : quels exercices sont possibles pour une musique ? 
+    Pour chaque musique vous pouvez :
+    + **Afficher les exercices** possibles pour cette musique en cliquant sur le nom de l'exercice,
+    + **Jouer la musique** en cliquant sur le bouton ![Bouton jouer la musique](assets/help/fr/images/PlayButton.png) situé sur la ligne de la musique
+    + **Mettre en pause la musique** en cliquant sur le bouton ![Bouton mise en pause](assets/help/fr/images/PauseButton.png) situé sur la ligne de la musique
+   
+![Exploration catalogue par musique](assets/help/fr/images/CatalogExplorationByMusic.png)
+ 
+Pour passer de l'exploration par exercice à l'exploration par musique, cliquez sur le bouton ![Bouton Musique](assets/help/fr/images/CatalogMusicButton.png).
+Pour passer de l'exploration par musique à l'exploration par exercice, cliquez sur le bouton ![Bouton Exercice](assets/help/fr/images/CatalogExerciseButton.png).
 
 ### Recherche dans le catalogue
 Trois modes de recherches sont possibles dans les champs de recherche **Exercice** et **Musique** :
 - un ou plusieurs mots,
 - une expression exacte entre guillemets,
 - un mot dans un attribut particulier.
+
+![Recherche dans le catalogue](assets/help/fr/images/CatalogSearch.png)
 
 #### Recherche dans le champ Exercice
 Dans le champ de recherche des exercices vous pouvez :
@@ -60,18 +66,32 @@ L'ordre de présentation des séances à l'écran peut être modifié en triant 
 - Date de création.
 
 ### Créer une séance
-Pour créer une nouvelle séance, cliquez sur le bouton ![screenshot1](assets/help/fr/images/SessionExplorationCreateSessionButton.png) situé dans le bandeau supérieur droit de l'écran d'exploration des séances.
+Pour créer une nouvelle séance, cliquez sur le bouton ![Bouton créer une séance](assets/help/fr/images/SessionExplorationCreateSessionButton.png) situé dans le bandeau supérieur droit de l'écran d'exploration des séances.
+
+![Création nouvelle séance](assets/help/fr/images/CreateNewSession.png)
+
 Donnez un nom à votre séance et la date à laquelle cette séance aura lieu.
 Vous pouvez compléter avec un thème pour cette séance :
 - votre intention,
 - les éléments de théorie que vous souhaitez développer en introduction à cette séance.
 
-### Charger une séance
-Vous pouvez charger une séance créée par un autre facilitateur en cliquant sur le bouton ![screenshot1](assets/help/fr/images/SessionExplorationLoadSessionButton.png) situé dans le bandeau supérieur droit de l'écran d'exploration des séances.
+### Importer une séance
+Vous pouvez importer une séance créée par un autre facilitateur en cliquant sur le bouton ![Bouton importer une séance](assets/help/fr/images/SessionExplorationLoadSessionButton.png) situé dans le bandeau supérieur droit de l'écran d'exploration des séances.
 Sélectionnez alors le fichier de la séance que vous souhaitez importer (fichier avec une extension *.vab*).
 
+Vous pouvez également importer une séance avec un double clic sur le fichier de cette séance (fichier avec une extension *.vab*).
+
+Si il y a déjà dans VivenciApp une séance avec le même nom que celle de la séance importée, vous pouvez :
+- Renommer la séance importer et coserver la séance existante,
+- Remplacer la séance existante par la séance importée,
+- Annuler l'import.
+
+Pour vous aider à choisir, vous pouvez comparer la séance existante avec la séance que vous souhaitez importer.
+
+![Gestion de conflit import séance](assets/help/fr/images/SessionImportConflictResolution.png)
+
 ### Voir la progression entre séances
-En cliquant sur le bouton ![screenshot1](assets/help/fr/images/SessionExplorationHorizontalSessionNavigationButton.png) (situé dans le bandeau supérieur droit de l'écran d'exploration des séances), vous accédez à une vue horizontale des séances.
+En cliquant sur le bouton ![Bouton vue horizontale](assets/help/fr/images/SessionExplorationHorizontalSessionNavigationButton.png) (situé dans le bandeau supérieur droit de l'écran d'exploration des séances), vous accédez à une vue horizontale des séances.
 Dans cette vue, chaque séance est représentée par une colonne avec :
 - le titre de la séance,
 - sa date,
@@ -82,29 +102,29 @@ Un clic sur le titre d'une séance ouvre une fenêtre qui présente :
 - les éventuelles observations notées suite à la séance.
 
 ### Filtrer les séances
-En cliquant sur le bouton ![screenshot1](assets/help/fr/images/SessionExplorationAdvancedFilterButton.png) (situé dans le bandeau supérieur droit de l'écran d'exploration des séances), vous pouvez activer ou désactiver le filtrage des séances présentées.
+En cliquant sur le bouton ![Bouton filtrer les séances](assets/help/fr/images/SessionExplorationAdvancedFilterButton.png) (situé dans le bandeau supérieur droit de l'écran d'exploration des séances), vous pouvez activer ou désactiver le filtrage des séances présentées.
 Le filtrage peut se faire :
 - par date : filtrage des séances comprises entre deux dates,
 - par la présence ou non d'observations : filtrage des séances contenant des observations.
 
 ### Exporter les séances au format texte (CSV)
 Vous restez propriétaires de vos données.
-À tout moment, vous pouvez récupérer vos séances dans un format texte ouvert (CSV), en cliquant sur le bouton ![screenshot1](assets/help/fr/images/SessionExplorationExportToCSVButton.png) (situé dans le bandeau supérieur droit de l'écran d'exploration des séances).
+À tout moment, vous pouvez récupérer vos séances dans un format texte ouvert (CSV), en cliquant sur le bouton ![Bouton exporter au format CSV](assets/help/fr/images/SessionExplorationExportToCSVButton.png) (situé dans le bandeau supérieur droit de l'écran d'exploration des séances).
 Cela vous offre la possibilité de réimporter vos séances dans une autre application que VivenciApp ou encore de générer des listes de lecture musicales pour des applications comme VLC, Windows Media Player, Clementine ou iTunes pour vos séances.
 
 ### Fonctionnalités disponibles pour chaque séance
-![Save or Share](assets/help/fr/images/SessionLine.png)
+![Informations et boutons séance](assets/help/fr/images/SessionLine.png)
 
 #### Enregistrer ou Partager la séance
-En cliquant sur le bouton ![Save or Share](assets/help/fr/images/SessionSaveOrShareButton.png) situé sur la ligne d'une séance, vous pouvez sauvegarder ou partager votre séance dans un des formats suivants : 
+En cliquant sur le bouton ![Bouton enregistrer / partager](assets/help/fr/images/SessionSaveOrShareButton.png) situé sur la ligne d'une séance, vous pouvez sauvegarder ou partager votre séance dans un des formats suivants : 
 - **Format Vivenciapp** (.vab) : pour envoyer à un collègue qui la rechargera dans VivenciApp
 - **Format tableur** (.csv) : pour conserver votre séance dans un format texte ouvert
 - **Format document** (.pdf) : pour avoir une version imprimée.
 
-![Save or Share](assets/help/fr/images/SessionSaveOrShareDialog.png)
+![Enregistrer / Partager](assets/help/fr/images/SessionSaveOrShareDialog.png)
 
 #### Imprimer la séance
-En cliquant sur le bouton ![screenshot1](assets/help/fr/images/SessionExplorationPrintSessionButton.png) situé sur la ligne d'une séance, vous pouvez imprimer votre séance.
+En cliquant sur le bouton ![Bouton imprimer](assets/help/fr/images/SessionExplorationPrintSessionButton.png) situé sur la ligne d'une séance, vous pouvez imprimer votre séance.
 L'impression reprend les éléments suivants :
 - le nom de l'utilisateur de Vivenciapp,
 - le titre de la séance,
@@ -115,36 +135,40 @@ L'impression reprend les éléments suivants :
   + le nom de la musique (titre et artiste),
   + la durée de la musique.
 
-En option vous pouvez également inclure dans l'impression :
+![Imprimer](assets/help/fr/images/SessionPrint.png)
+
+En cliquant sur les boutons ![Boutons options impression](assets/help/fr/images/SessionPrintIcons.png) vous pouvez également ajouter ou enlever de l'impression :
 - le thème de la séance,
 - les consignes de chaque proposition,
 - les observations éventuelles pour les propositions,
 - un espace de prise de note manuelle pour chaque proposition.
 
 #### Dupliquer la séance
-Pour dupliquer une séance existante, cliquez sur le bouton ![screenshot1](assets/help/fr/images/SessionExplorationDuplicateSessionButton.png) situé sur la ligne de la séance à dupliquer.
+Pour dupliquer une séance existante, cliquez sur le bouton ![Bouton dupliquer la séance](assets/help/fr/images/SessionExplorationDuplicateSessionButton.png) situé sur la ligne de la séance à dupliquer.
 Une nouvelle séance est créée avec le même titre (avec un numéro de version), la même date, le même thème et les mêmes propositions.
 
 #### Supprimer la séance
-Pour supprimer une séance, cliquez sur le bouton ![screenshot1](assets/help/fr/images/SessionExplorationDeleteSessionButton.png) situé sur la ligne de la séance à supprimer.
+Pour supprimer une séance, cliquez sur le bouton ![Bouton supprimer la séance](assets/help/fr/images/SessionExplorationDeleteSessionButton.png) situé sur la ligne de la séance à supprimer.
 Attention : la suppression est définitive !
 
 #### Animer la séance
-Pour passer en mode animation sur une séance, cliquez sur le bouton ![screenshot1](assets/help/fr/images/SessionExplorationAnimateSessionButton.png) situé sur la ligne de la séance à animer.
-Voir le chapitre ***Édition / animation séance*** pour plus de détails.
+Pour passer en mode animation sur une séance, cliquez sur le bouton ![Bouton animer la séance](assets/help/fr/images/SessionExplorationAnimateSessionButton.png) situé sur la ligne de la séance à animer.
+Voir le chapitre ***Animation / Edition / Edition sur la courbe*** pour plus de détails.
 
 #### Éditer la séance
-Pour passer en mode édition sur une séance, cliquez sur le bouton ![screenshot1](assets/help/fr/images/SessionExplorationEditSessionButton.png) situé sur la ligne de la séance à éditer.
-Voir le chapitre ***Édition / animation séance*** pour plus de détails.
+Pour passer en mode édition sur une séance, cliquez sur le bouton ![Bouton éditer la séance](assets/help/fr/images/SessionExplorationEditSessionButton.png) situé sur la ligne de la séance à éditer.
+Voir le chapitre ***Animation / Edition / Edition sur la courbe** pour plus de détails.
 
 #### Éditer la séance sur la courbe
-Pour éditer une séance sur la courbe, cliquez sur le bouton ![screenshot1](assets/help/fr/images/SessionExplorationEditCurveSessionButton.png) situé sur la ligne de la séance à éditer.
-Voir le chapitre ***Édition séance sur la courbe*** pour plus de détails.
+Pour éditer une séance sur la courbe, cliquez sur le bouton ![Bouton éditer sur la courbe](assets/help/fr/images/SessionExplorationEditCurveSessionButton.png) situé sur la ligne de la séance à éditer.
+Voir le chapitre ***Animation / Edition / Edition sur la courbee*** pour plus de détails.
 
 #### Voir le contenu de la séance
 Un clic sur le titre d'une séance permet d'afficher deux colonnes :
 - une à gauche contenant le thème de la séance,
 - l'autre à droite contenant la liste des propositions de la séance. Un clic sur une proposition permet d'afficher/masquer la consigne de cette proposition.
+
+![Voir le contenu](assets/help/fr/images/SessionView.png)
 
 ### Recherches dans les séances
 Dans le champ de recherche des séances vous pouvez :
@@ -163,59 +187,57 @@ Dans le champ de recherche des séances vous pouvez :
    + nom des exercices : *exe:marche* ou *exer:marche* ou ... ou *exercice:marche*
    + observations sur des exercices : *obs:robert* ou ... ou *observations:robert*
    + consignes des propositions : *con:ouverture* ou ... ou *consigne:ouverture*
-   + thèmes des séances : *the:sex* ou ... ou *thème:sex*
+   + thèmes des séances : *thè:sex* ou ... ou *thème:sex*
    + noms des séances : *sea:altérité* ou ... ou *séance:altérité*
 
-## Édition / animation séance
+## Animation / Edition / Edition sur la courbe
 
 ### Édition séance
 Le mode édition permet principalement de créer sa séance en rajoutant, modifiant ou supprimant des propositions (associations exercice-musique), de rédiger sa propre consigne pour chaque proposition en repartant si besoin d'une partie des consignes du catalogue pour cet exercice.
 Il permet également de modifier les titre, date et thème de la séance. 
 
 En mode édition vous pouvez :
+- **Basculer en Animation ou en Edition sur la courbe** en cliquant sur les boutons du bandeau supérieur de la fenêtre ![Boutons animation / édition / édition sur la courbe](assets/help/fr/images/AnimateEditEditOnCurve.png)
 - **Éditer le titre de la séance** en cliquant dans le texte du titre visible en haut à droite de la fenêtre. 
- ![screenshot1](assets/help/fr/images/SessionEditionTitleEditor.png)
+ ![Edition titre de la séance](assets/help/fr/images/SessionEditionTitleEditor.png)
  - **Éditer la date de la séance** en cliquant dans le texte de la date visible en haut à droite de la fenêtre. 
- ![screenshot1](assets/help/fr/images/SessionEditionDatePicker.png)
- - **Éditer le thème de la séance** en cliquant sur le bouton ![screenshot1](assets/help/fr/images/SessionEditionEditThemeButton.png)
- - **Basculer en Animation** en cliquant sur l'interrupteur ![screenshot1](assets/help/fr/images/SessionEditionAnimationToggleButton.png)
- - **Créer une nouvelle proposition** en dernière position de la séance en cliquant sur le bouton ![screenshot1](assets/help/fr/images/SessionEditionAddPropositionButton.png) situé dans le bandeau au bas de l'écran.
+ ![Edition date de la séance](assets/help/fr/images/SessionEditionDatePicker.png)
+ - **Éditer le thème de la séance** en cliquant sur le bouton ![Edition thème de la séance](assets/help/fr/images/SessionEditionEditThemeButton.png)
+ - **Créer une nouvelle proposition** en dernière position de la séance en cliquant sur le bouton ![Bouton ajouter une proposition](assets/help/fr/images/SessionEditionAddPropositionButton.png) situé dans le bandeau au bas de l'écran.
 
  Pour chaque proposition présente dans la séance, vous pouvez :
-  - **Créer une nouvelle proposition** après une proposition existante en cliquant sur le bouton ![screenshot1](assets/help/fr/images/SessionEditionAddPropositionButton.png) situé sur la ligne de la proposition existante,
- - **Modifier une proposition** en cliquant sur le bouton ![screenshot1](assets/help/fr/images/SessionEditionEditPropositionButton.png) situé sur la ligne de cette proposition,
-  - **Supprimer une proposition** en cliquant sur le bouton ![screenshot1](assets/help/fr/images/SessionEditionDeletePropositionButton.png) situé sur la ligne de cette proposition,
- - **Regarder la démonstration** de l'exercice d'une proposition (quand la vidéo existe) en cliquant sur le bouton ![screenshot1](assets/help/fr/images/SessionEditionVideoButton.png) situé sur la ligne de cette proposition,
- - **Éditer la consigne** de l'exercice pour la proposition sélectionnée (surlignée en bleu) en cliquant dans le texte de la consigne 
-  ![screenshot1](assets/help/fr/images/SessionEditionInsctructionEditionArea.png),
+  - **Créer une nouvelle proposition** après une proposition existante en cliquant sur le bouton ![outon ajouter une proposition]](assets/help/fr/images/SessionEditionAddPropositionButton.png) situé sur la ligne de la proposition existante,
+ - **Modifier une proposition** en cliquant sur le bouton ![Bouton éditer une proposition](assets/help/fr/images/SessionEditionEditPropositionButton.png) situé sur la ligne de cette proposition,
+  - **Supprimer une proposition** en cliquant sur le bouton ![Bouton supprimer une proposition](assets/help/fr/images/SessionEditionDeletePropositionButton.png) situé sur la ligne de cette proposition,
+ - **Regarder la démonstration** de l'exercice d'une proposition (quand la vidéo existe) en cliquant sur le bouton ![Bouton regarder la démonstration](assets/help/fr/images/SessionEditionVideoButton.png) situé sur la ligne de cette proposition,
+ - **Déplacer une proposition** dans la liste des propositions : 
+   - en utilisant le clavier :
+     - Vers le bas avec le raccourci *Maj-Flèche bas*,
+     - Vers le haut avec le raccourci *Maj-Flèche haut*,
+   - en utilisant la souris : cliquez sur le bouton ![Bouton déplacre la proposition](assets/help/fr/images/SessionEditionDragAndDropButton.png) de la proposition à déplacer et maintenez le bouton enfoncé pendant le déplacement de la proposition vers sa nouvelle position dans la séance.
 
-![screenshot1](assets/help/fr/images/SessionEdition.png)
+![Edition séance](assets/help/fr/images/SessionEdition.png)
 
 ### Animation séance
 Le mode animation est un mode dans lequel toutes les actions d'édition, de rajout ou de suppression ne sont plus présentes afin d'éviter une manipulation malencontreuse pendant que vous facilitez votre séance.
 
 En mode animation vous pouvez :
- - **Consulter le thème de la séance** en cliquant sur le bouton ![screenshot1](assets/help/fr/images/SessionEditionEditThemeButton.png)
- - **Éditer des observations** sur les participants, le choix musical ou la construction de la séance en cliquant sur le bouton ![screenshot1](assets/help/fr/images/SessionEditionAnnotateButton.png) situé sur la ligne d'une proposition,
- - **Basculer en Édition** en cliquant sur l'interrupteur ![screenshot1](assets/help/fr/images/SessionEditionAnimationToggleButton.png)
+- **Basculer en Edition ou en Edition sur la courbe** en cliquant sur les boutons du bandeau supérieur de la fenêtre ![Boutons animation / édition / édition sur la courbe](assets/help/fr/images/AnimateEditEditOnCurve.png)
+- **Consulter le thème de la séance** en cliquant sur le bouton ![Bouton consulter thème séance](assets/help/fr/images/SessionEditionEditThemeButton.png)
+- **Éditer des observations** sur les participants, le choix musical ou la construction de la séance en cliquant sur le bouton ![Boutons éditer les observations](assets/help/fr/images/SessionEditionAnnotateButton.png) situé sur la ligne d'une proposition,
 
-![screenshot1](assets/help/fr/images/SessionAnimation.png)
+![Animation séance](assets/help/fr/images/SessionAnimation.png)
 
 ### Fonctionnalités présentes en Édition et en Animation
 Dans les modes **Édition** et **Animation** vous pouvez :
- - **Activer la montée/baisse progressive du volume** de la musique d'une proposition en cliquant sur le bouton ![screenshot1](assets/help/fr/images/SessionEditionFadeButton.png) situé sur la ligne de cette proposition,
- - **Activer la lecture en boucle** de la musique d'une proposition en cliquant sur le bouton ![screenshot1](assets/help/fr/images/SessionEditionLoopButton.png) situé sur la ligne de cette proposition,
- - **Afficher les consignes du catalogue** de l'exercice d'une proposition en cliquant sur le bouton ![screenshot1](assets/help/fr/images/SessionEditionCatalogInstructionsButton.png) situé sur la ligne de cette proposition, 
- - **Quitter l'écran édition/animation** et revenir à la liste des séances en cliquant sur le bouton ![screenshot1](assets/help/fr/images/SessionEditionExitButton.png) situé en dessous de la date de la séance,
- - **Imprimer la séance** en cliquant sur le bouton ![screenshot1](assets/help/fr/images/SessionEditionPrintButton.png) situé en dessous de la date de la séance,
- - **Partager la séance** en cliquant sur le bouton ![screenshot1](assets/help/fr/images/SessionEditionShareSessionButton.png) situé en dessous de la date de la séance,
+ - **Activer la montée/baisse progressive du volume** de la musique d'une proposition en cliquant sur le bouton ![Bouton montée / baisse son](assets/help/fr/images/SessionEditionFadeButton.png) situé sur la ligne de cette proposition,
+ - **Activer la lecture en boucle** de la musique d'une proposition en cliquant sur le bouton ![Bouton lecture en boucle](assets/help/fr/images/SessionEditionLoopButton.png) situé sur la ligne de cette proposition,
+ - **Afficher les consignes du catalogue** de l'exercice d'une proposition en cliquant sur le bouton ![Bouton consignes catalogue](assets/help/fr/images/SessionEditionCatalogInstructionsButton.png) situé sur la ligne de cette proposition, 
+ - **Quitter l'écran animation/edition** et revenir à la liste des séances en cliquant sur le bouton ![Bouton fermer la séance](assets/help/fr/images/SessionEditionExitButton.png) situé en dessous de la date de la séance,
+ - **Imprimer la séance** en cliquant sur le bouton ![Bouton imprimer la séance](assets/help/fr/images/SessionEditionPrintButton.png) situé en dessous de la date de la séance,
+ - **Enregistrer / partager la séance** en cliquant sur le bouton ![Bouton enregistrer / partager](assets/help/fr/images/SessionEditionShareSessionButton.png) situé en dessous de la date de la séance (voir **Enregistrer ou Partager la séance**),
  - **Éditer la consigne** de la proposition sélectionnée (surlignée en bleu) en cliquant dans le texte de la consigne 
-  ![screenshot1](assets/help/fr/images/SessionEditionInsctructionEditionArea.png)
- - **Déplacer une proposition** dans la liste des propositions : 
-   - en utilisant le clavier :
-     - Vers le bas avec le raccourci *Maj-Flèche bas*,
-     - Vers le haut avec le raccourci *Maj-Flèche haut*,
-   - en utilisant la souris : cliquez sur le bouton ![screenshot1](assets/help/fr/images/SessionEditionDragAndDropButton.png) de la proposition à déplacer et maintenez le bouton enfoncé pendant le déplacement de la proposition vers sa nouvelle position dans la séance.
+  ![Editer la consigne](assets/help/fr/images/SessionEditionInsctructionEditionArea.png)
  - **Sélectionner une proposition** dans la liste des propositions :
    - en utilisant le clavier : tapez sur les touches **Flèche Bas** et **Flèche Haut** pour sélectionner la proposition suivante ou précédente de celle couramment sélectionnée.
    - en utilisant la souris : un clic gauche sur une proposition sélectionne celle-ci
@@ -228,26 +250,27 @@ Dans les modes **Édition** et **Animation** vous pouvez :
       - tapez sur la touche *Entrée* : joue la musique de la proposition sélectionnée (surlignée en bleu)
     - en utilisant la souris : 
       - *Double-clic* sur la ligne de la proposition à jouer.
-      - *Clic* sur le bouton ![screenshot1](assets/help/fr/images/PlayButton.png)/![screenshot1](assets/help/fr/images/PauseButton.png) situé devant la courbe d'intensité de la musique en haut à gauche de la fenêtre,
+      - *Clic* sur le bouton ![Bouton jouer](assets/help/fr/images/PlayButton.png)/![Bouton mettre en pause](assets/help/fr/images/PauseButton.png) situé devant la courbe d'intensité de la musique en haut à gauche de la fenêtre,
  - **Revenir au début de la musique et stopper la lecture** (après la démonstration aux participants), en tapant sur la touche *<* ("inférieur à")
 
-## Édition d'une séance sur la courbe
+### Édition d'une séance sur la courbe
 Dans l'éditeur de séance sur la courbe vous pouvez :
+- **Basculer en Animation ou en Edition** en cliquant sur les boutons du bandeau supérieur de la fenêtre ![Boutons animation / édition / édition sur la courbe](assets/help/fr/images/AnimateEditEditOnCurve.png)
  - **Créer une nouvelle proposition** en cliquant sur la courbe,
  - **Modifier une proposition** en double-cliquant sur la boîte de description d'une proposition,
- - **Écouter la musique d'une proposition** en cliquant sur le bouton ![screenshot1](assets/help/fr/images/PlayButton.png) de cette proposition,
+ - **Écouter la musique d'une proposition** en cliquant sur le bouton ![Bouton jouer](assets/help/fr/images/PlayButton.png) de cette proposition,
  - **Déplacer une proposition dans la séance** : cliquez sur le point d'ancrage de la proposition (point de couleur) et tout en restant appuyé, déplacez la souris vers la droite ou la gauche pour déplacer le point d'ancrage de la proposition vers sa nouvelle position dans la séance,
- - **Désigner une (ou des) propositions clés** de la séance : cliquez sur le bouton ![screenshot1](assets/help/fr/images/SessionEditionOnCurveKeyButton.png)
+ - **Désigner une (ou des) propositions clés** de la séance : cliquez sur le bouton ![Bouton proposition clé](assets/help/fr/images/SessionEditionOnCurveKeyButton.png)
    Les propositions clés sont encadrées en vert.
- - **Supprimer une proposition** en cliquant sur le bouton ![screenshot1](assets/help/fr/images/SessionEditionOnCurveDeleteButton.png) de cette proposition
- - **Répartir automatiquement les propositions** sur la courbe en cliquant sur le bouton ![screenshot1](assets/help/fr/images/SessionEditionOnCurveRedistributeButton.png) situé en haut à droite
+ - **Supprimer une proposition** en cliquant sur le bouton ![Bouton supprimer](assets/help/fr/images/SessionEditionOnCurveDeleteButton.png) de cette proposition
+ - **Répartir automatiquement les propositions** sur la courbe en cliquant sur le bouton ![Bouton répartir automatiquement](assets/help/fr/images/SessionEditionOnCurveRedistributeButton.png) situé en haut à droite
 
-![screenshot1](assets/help/fr/images/SessionEditionOnCurve.png)
+![Edition sur la courbe](assets/help/fr/images/SessionEditionOnCurve.png)
 
 ## Édition d'une proposition
 Depuis le mode d'**édition/animation** ou d'**édition sur la courbe**, vous pouvez créer ou modifier vos *propositions*, c'est-à-dire vos associations entre un exercice et une musique.
 
-![screenshot1](assets/help/fr/images/PropositionEditionWidget.png)
+![Eidtion d'une proposition](assets/help/fr/images/PropositionEditionWidget.png)
 
 ### Les trois modes de création d'une proposition
 La fenêtre d'édition d'une proposition donne accès à trois modes complémentaires :
@@ -261,11 +284,11 @@ Le catalogue s'ouvre alors et permet de rechercher par exercice ou par musique (
 
 ### Agir
 Pour sélectionner rapidement un exercice dont vous connaissez le nom, tapez simplement les premières lettres ou même une suite de lettres contenu dans le nom de cet exercice. Une liste réduite des exercices sélectionnables est présentée dans laquelle vous pouvez cliquer pour sélectionner l'exercice souhaité.
-![screenshot1](assets/help/fr/images/PropositionEditionAutocompletion.png)
+![Autocomplétion](assets/help/fr/images/PropositionEditionAutocompletion.png)
 Une fois l'exercice sélectionné, vous pouvez répéter la même opération pour sélectionner la musique que vous souhaitez associer à cet exercice dans votre séance.
 
 ### Affiner
-Pour vous permettre d'affiner la fluidité de vos choix musicaux, cliquez sur le bouton ![screenshot1](assets/help/fr/images/PropositionEditionRefineButton.png) situé à droite de la ligne de saisie/sélection d'une musique.
+Pour vous permettre d'affiner la fluidité de vos choix musicaux, cliquez sur le bouton ![Bouton raffiner musiques](assets/help/fr/images/PropositionEditionRefineButton.png) situé à droite de la ligne de saisie/sélection d'une musique.
 
 La fenêtre qui s'ouvre alors permet :
  - de voir la proposition précédente et d'écouter sa musique
@@ -279,10 +302,10 @@ La fenêtre qui s'ouvre alors permet :
 
 De proche en proche vous pouvez éliminez les alternatives jusqu'à retenir la musique qui s'enchaîne le mieux entre la précédente et la suivante.
 
-![screenshot1](assets/help/fr/images/RefineMusic.png)
+![Raffiner les musiques](assets/help/fr/images/RefineMusic.png)
 
 ### Édition de la consigne de la proposition
 Pour rédiger les éléments de consignes qui vous serviront à présenter la proposition aux participants, vous avez la possibilité de copier des rubriques de la consigne du catalogue et de modifier et d'enrichir celles-ci.
 Les rubriques disponibles dans le catalogue pour l'exercice sélectionné sont colorées. Un clic sur le titre d'une des rubriques recopie le contenu de cette rubrique dans le champ d'édition de la consigne pour la proposition.
 
-![screenshot1](assets/help/fr/images/PropositioneditionInstructions.png)
+![Copier consignes](assets/help/fr/images/PropositioneditionInstructions.png)

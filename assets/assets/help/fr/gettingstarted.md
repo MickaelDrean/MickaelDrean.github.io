@@ -1,10 +1,6 @@
 # Guide de démarrage
 
-## 🎭 **Gérer vos séances**
-
-### Accéder à vos séances
-1. Cliquez sur le **menu principal** ![MainMenu](assets/help/fr/images/MainMenu.png) (coin supérieur gauche)
-2. Sélectionnez **"Séances"**
+## **Gérer vos séances**
 
 ### Créer une nouvelle séance
 
@@ -25,15 +21,16 @@ Si un collègue vous partage une séance :
 
 | Action | Bouton | Description |
 |--------|--------|-------------|
-| **Animer** | ![Animate](assets/help/fr/images/SessionExplorationAnimateSessionButton.png) | Mode facilitateur pendant votre séance |
-| **Modifier** | ![Edit](assets/help/fr/images/SessionExplorationEditSessionButton.png) | Préparer et ajuster votre séance |
+| **Animer** | ![Animate](assets/help/fr/images/SessionExplorationAnimateSessionButton.png) | Un mode épuré pour animer |
+| **Editer** | ![Edit](assets/help/fr/images/SessionExplorationEditSessionButton.png) | Préparer et ajuster votre séance |
+| **Editer sur la courbe** | ![Edit](assets/help/fr/images/SessionExplorationEditCurveSessionButton.png) | Préparer votre séance sur la courbe physiologique |
 | **Dupliquer** | ![Duplicate](assets/help/fr/images/SessionExplorationDuplicateSessionButton.png) | Créer une copie à modifier |
-| **Imprimer** | ![Print](assets/help/fr/images/SessionExplorationPrintSessionButton.png) | Fiche papier de votre séance |
+| **Imprimer** | ![Print](assets/help/fr/images/SessionExplorationPrintSessionButton.png) | Obtenir votre séance sur papier ou dans un PDF à partager |
 | **Supprimer** | ![Delete](assets/help/fr/images/SessionExplorationDeleteSessionButton.png) | ⚠️ Effacer définitivement |
 
 ---
 
-## ✏️ **Préparer une séance (Mode Édition)**
+## ![Edit](assets/help/fr/images/SessionExplorationEditSessionButton.png) **Préparer une séance (Mode Édition)**
 
 ### Vue d'ensemble
 Le mode édition vous permet de :
@@ -59,21 +56,21 @@ Le mode édition vous permet de :
 | **Supprimer une proposition** | ![Delete](assets/help/fr/images/SessionEditionDeletePropositionButton.png) |
 
 ### Raccourcis clavier utiles
-- **Espace** : Joue/Met en pause la musique
-- **Entrée** : Joue la musique de la proposition sélectionnée
+- **Espace** : Jouer/Mettte en pause la musique
+- **Entrée** : Jouer la musique de la proposition sélectionnée
 - **Flèches ↑↓** : Naviguer entre les propositions
 - **Maj + Flèches ↑↓** : Déplacer une proposition
-- **<** : Revenir au début et arrêter
+- **<** : Revenir au début de la musique et mettre en pause
 
 ---
 
-## 🎵 **Pendant votre séance (Mode Animation)**
+## ![Animate](assets/help/fr/images/SessionExplorationAnimateSessionButton.png) **Pendant votre séance (Mode Animation)**
 
 ### Passer en mode animation
-Activez l'interrupteur ![ToggleAnimation](assets/help/fr/images/SessionEditionAnimationToggleButton.png) pour :
+Passer en mode animation pour :
 - ✅ Éviter les modifications accidentelles
 - ✅ Se concentrer sur l'animation
-- ✅ Prendre des notes d'observation
+- ✅ Noter ce que vous observer
 
 ### Fonctions disponibles
 - **Prendre des notes** : ![Annotate](assets/help/fr/images/SessionEditionAnotateButton.png) sur chaque proposition
@@ -84,7 +81,7 @@ Activez l'interrupteur ![ToggleAnimation](assets/help/fr/images/SessionEditionAn
 
 ---
 
-## 📈 **Édition sur la courbe physiologique**
+## ![Edit](assets/help/fr/images/SessionExplorationEditCurveSessionButton.png) **Édition sur la courbe physiologique**
 
 Cette éditeur vous permet de positionner vos propositions (exercice + musique) sur la courbe de votre séance.
 
@@ -92,19 +89,19 @@ Cette éditeur vous permet de positionner vos propositions (exercice + musique) 
 - **Ajouter** : Cliquez sur la courbe
 - **Modifier** : Double-cliquez sur une proposition
 - **Déplacer** : Faites glisser le point coloré de la proposition sur la courbe
-- **Marquer comme clé** : ![Key](assets/help/fr/images/SessionEditionOnCurveKeyButton.png) (encadré vert)
+- **Marquer comme proposition clé** : ![Key](assets/help/fr/images/SessionEditionOnCurveKeyButton.png) (encadré vert)
 - **Répartir automatiquement** : ![Redistribute](assets/help/fr/images/SessionEditionOnCurveRedistributeButton.png)
 
 ---
 
-## 🎯 **Créer une proposition (Exercice + Musique)**
+## ![Add proposition](assets/help/fr/images/SessionEditionAddPropositionButton.png) **Créer une proposition (Exercice + Musique)**
 
 ### Les 3 approches
 
 #### 🔍 **"J'explore"** - Quand vous cherchez l'inspiration
 Cliquez sur ![Explore](assets/help/fr/images/PropositionEditionExplorationButton.png) pour parcourir le catalogue complet
 
-#### ⚡ **"J'agis"** - Quand vous savez ce que vous voulez
+#### ☑️ **"J'agis"** - Quand vous savez ce que vous voulez
 Tapez les premières lettres du nom de l'exercice → la liste se réduit automatiquement
 
 #### 🎵 **"J'affine"** - Pour harmoniser vos enchaînements
@@ -155,9 +152,9 @@ Cliquez sur ![Save or Share](assets/help/fr/images/SessionSaveOrShareButton.png)
 4. **Testez** le mode animation sans participants
 
 ### Bonnes pratiques
-- ✅ Nommez clairement vos séances (ex: "Identité - Groupe débutant - Nov 2024")
+- ✅ Nommez clairement vos séances (ex: "Identité - Groupe débutant")
 - ✅ Utilisez les thèmes pour noter vos intentions
-- ✅ Prenez des notes d'observation après chaque séance
+- ✅ Notez vos observations après chaque séance
 
 ---
 

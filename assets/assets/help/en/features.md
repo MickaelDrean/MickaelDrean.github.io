@@ -1,288 +1,341 @@
 # Features
 
 ## Catalog Exploration
-To access the page for exploring the catalog, click on the main menu ![screenshot1](assets/help/en/images/MainMenu.png)(at the top left), then on **Catalog**.
+To access the page for exploring the catalog, click on the main menu ![screenshot1](assets/help/en/images/MainMenu.png) (top left), then on **Catalog**.
 
 ### Exploration by Exercise or Music
 The catalog can be explored in two ways:
- - **By exercises**: which music is possible for an exercise? (This is the default mode).
- - **By music**: which exercises are possible for a piece of music? 
- Switch from exercise exploration to music exploration by clicking on the button ![screenshot1](assets/help/en/images/CatalogMusicButton.png).
- Switch from music exploration to exercise exploration by clicking on the button ![screenshot1](assets/help/en/images/CatalogExerciseButton.png).
+ - **Exploration by exercises**: which music is possible for an exercise? (This is the default mode).
+   For each exercise you can:
+   + **Display possible music** for this exercise by clicking on the exercise name,
+   + **Watch the demonstration** of this exercise (when a video exists) by clicking on the button ![Demo button](assets/help/en/images/SessionEditionVideoButton.png) located on the exercise line,
+   + **Consult the catalog instructions** for this exercise by clicking on the button ![Instructions button](assets/help/en/images/SessionEditionCatalogInstructionsButton.png) located on the exercise line.
 
-For each exercise you can:
- - **Display possible music** for this exercise by clicking on the exercise name,
- - **Watch the demonstration** of this exercise (when the video exists) by clicking on the button ![screenshot1](assets/help/en/images/SessionEditionVideoButton.png) located on the exercise line,
- - **Consult the catalog instructions** for this exercise by clicking on the button ![screenshot1](assets/help/en/images/SessionEditionCatalogInstructionsButton.png) located on the exercise line.
+![Catalog exploration by exercise](assets/help/en/images/CatalogExplorationByExercise.png)
 
-For each piece of music you can:
- - **Display possible exercises** for this music by clicking on the exercise name,
- - **Play the music** by clicking on the button ![screenshot1](assets/help/en/images/PlayButton.png) located on the music line
- - **Pause the music** by clicking on the button ![screenshot1](assets/help/en/images/PauseButton.png) located on the music line
+ - **Exploration by music**: which exercises are possible for a piece of music?
+   For each piece of music you can:
+   + **Display possible exercises** for this music by clicking on the exercise name,
+   + **Play the music** by clicking on the button ![Play button](assets/help/en/images/PlayButton.png) located on the music line,
+   + **Pause the music** by clicking on the button ![Pause button](assets/help/en/images/PauseButton.png) located on the music line
+
+![Catalog exploration by music](assets/help/en/images/CatalogExplorationByMusic.png)
+
+To switch from exercise exploration to music exploration, click on the button ![Music button](assets/help/en/images/CatalogMusicButton.png).  
+To switch from music exploration to exercise exploration, click on the button ![Exercise button](assets/help/en/images/CatalogExerciseButton.png).
+
+---
 
 ### Catalog Search
-Three search modes are possible in the Exercise and Music search fields:
+Three search modes are available in the **Exercise** and **Music** search fields:
 - one or more words,
 - an exact phrase in quotes,
 - a word in a specific attribute.
 
+![Catalog search](assets/help/en/images/CatalogSearch.png)
+
 #### Exercise Field Search
 In the exercise search field, you can:
- - enter one or more words searched in: 
+ - enter one or more words searched in:
    + exercise names,
    + exercise category names (CIRCLE, WALK, ...),
    + the content of catalog instruction sections (description, objective, existential projection, ...),
  - an exact phrase in quotes searched in the same items,
  - a specific field (or a series of specific fields): at least three letters of the field name, followed by ":" and the searched word
    + *exe:synerg* or *exer:synerg* or ... or *exercise:synerg*
-   + *cat:CIRCLE* or *cate:CIRCLE* or ... or *category:CIRCLE* 
+   + *cat:CIRCLE* or *cate:CIRCLE* or ... or *category:CIRCLE*
 
 #### Music Field Search
- In the music search field, you can:
- - enter one or more words searched in: 
-   + music titles, 
-   + artist names, 
+In the music search field, you can:
+ - enter one or more words searched in:
+   + music titles,
+   + artist names,
    + music origin codes (HLB, IBF, ...),
  - an exact phrase in quotes searched in the same items,
  - a specific field (or a series of specific fields): at least three letters of the field name, followed by ":" and the searched word
    + *tit:sing* or *titl:sing* or *title:sing*
-   + *art:vangelis* or *arti:vangelis* or ... or *artist:vangelis* 
+   + *art:vangelis* or *arti:vangelis* or ... or *artist:vangelis*
    + *ori:HLB* or *orig:IBF* or ... or *origin:HLB*
 
 ## Sessions
-To access the page for managing sessions, click on the main menu ![screenshot1](assets/help/en/images/MainMenu.png)(at the top left), then on **Sessions**.
-A list of sessions is then displayed.
-By default, this list contains all your sessions, but you can filter the displayed sessions either by search (see ***Searching in sessions***), or by advanced filters (see ***Filtering sessions***)
-The order of the sessions on the screen can be modified by sorting them in ascending or descending order of:
+To access the page for managing sessions, click on the main menu ![screenshot1](assets/help/en/images/MainMenu.png) (top left), then on **Sessions**.
+
+A list of sessions is displayed.  
+By default, it contains all your sessions, but you can filter them either by search (see ***Searching in sessions***) or by advanced filters (see ***Filtering sessions***).
+
+The order of sessions can be changed by sorting them by:
 - Session date,
 - Last modification date,
 - Session name,
 - Creation date.
 
 ### Create a session
-To create a new session, click on the button ![screenshot1](assets/help/en/images/SessionExplorationCreateSessionButton.png) located in the top right banner of the session exploration screen.
-Give your session a name and the date on which it will take place.
-You can add a theme for this session:
-- Your intention,
-- The theoretical elements you wish to develop as an introduction to this session.
+To create a new session, click on the button ![Create session button](assets/help/en/images/SessionExplorationCreateSessionButton.png) located in the top-right banner of the session exploration screen.
 
-### Load a session
-You can load a session created by another facilitator by clicking on the button ![screenshot1](assets/help/en/images/SessionExplorationLoadSessionButton.png) located in the top right banner of the session exploration screen.
-Then select the session file you wish to import (a file with the extension *.vab*).
+![Create new session](assets/help/en/images/CreateNewSession.png)
+
+Give your session a name and select its date.  
+You can also add a theme:
+- your intention,
+- the theoretical elements you want to develop as an introduction.
+
+### Import a session
+You can import a session created by another facilitator by clicking on the button ![Import session button](assets/help/en/images/SessionExplorationLoadSessionButton.png) located in the top-right banner.
+
+Select the session file to import (*.vab*).
+
+You can also import a session by double-clicking directly on the *.vab* file.
+
+If a session with the same name already exists in VivenciApp, you can:
+- rename the imported session and keep the existing one,
+- replace the existing session,
+- cancel the import.
+
+A comparison view helps you choose.
+
+![Session import conflict resolution](assets/help/en/images/SessionImportConflictResolution.png)
 
 ### View progress between sessions
-By clicking on the button ![screenshot1](assets/help/en/images/SessionExplorationHorizontalSessionNavigationButton.png) (located in the top right banner of the session exploration screen), you access a horizontal view of the sessions.
-In this view, each session is represented by a column with:
-- The session title,
-- Its date,
-- The list of all exercises in the session.
-In the session where an exercise is proposed for the first time, its name appears in color.
-A click on the title of a session opens a window that displays:
-- The session theme,
-- Any observations noted after the session.
+Click on the button ![Horizontal view button](assets/help/en/images/SessionExplorationHorizontalSessionNavigationButton.png) to access a horizontal view of sessions.
+
+Each session is displayed as a column containing:
+- the session title,
+- its date,
+- the list of all exercises.
+
+Exercises appearing for the first time are highlighted in color.
+
+Clicking on a session title opens a window displaying:
+- the session theme,
+- observations noted after the session.
 
 ### Filter sessions
-By clicking on the button ![screenshot1](assets/help/en/images/SessionExplorationAdvancedFilterButton.png) (located in the top right banner of the session exploration screen), you can activate or deactivate the filtering of the displayed sessions.
-Filtering can be done:
-- by date: filtering sessions between two dates,
-- by the presence or absence of observations: filtering sessions containing observations.
+Click on the button ![Filter sessions button](assets/help/en/images/SessionExplorationAdvancedFilterButton.png) to enable or disable filtering.
 
-### Export sessions to text format (CSV)
-You remain the owner of your data.
-At any time, you can retrieve your sessions in an open text format (CSV) by clicking on the button ![screenshot1](assets/help/en/images/SessionExplorationExportToCSVButton.png) (located in the top right banner of the session exploration screen).
-This allows you to reimport your sessions into another application than VivenciApp or to generate playlists for applications like VLC, Windows Media Player, Clementine, or iTunes for your sessions.
+Filtering can be done:
+- by date range,
+- by presence or absence of observations.
+
+### Export sessions to CSV
+You remain the owner of your data.  
+At any time, you can export your sessions in CSV format by clicking on the button ![Export CSV button](assets/help/en/images/SessionExplorationExportToCSVButton.png).
+
+This allows you to reimport sessions into another application or generate playlists for applications such as VLC, Windows Media Player, Clementine, or iTunes.
 
 ### Features available for each session
-![Save or Share](assets/help/en/images/SessionLine.png)
+![Session line](assets/help/en/images/SessionLine.png)
 
-#### Save or Share the session
-By clicking on the button ![Save or Share](assets/help/en/images/SessionSaveOrShareButton.png) located on a session's line, you can save or share your session in one of the following formats: 
-- **Vivenciapp format** (.vab): to send to a colleague who will reload it into VivenciApp
-- **Spreadsheet format** (.csv): to keep your session in an open text format
-- **Document format** (.pdf): to have a printed version.
+#### Save or Share a session
+Click on the button ![Save or Share](assets/help/en/images/SessionSaveOrShareButton.png) to save or share a session in one of the following formats:
+- **VivenciApp format** (.vab)
+- **Spreadsheet format** (.csv)
+- **Document format** (.pdf)
 
-![Save or Share](assets/help/en/images/SessionSaveOrShareDialog.png)
+![Save or Share dialog](assets/help/en/images/SessionSaveOrShareDialog.png)
 
-#### Print the session
-By clicking on the button ![screenshot1](assets/help/en/images/SessionExplorationPrintSessionButton.png) located on the line of a session, you can print your session.
-The printout includes the following elements:
-- The name of the VivenciApp user,
-- The session title,
-- The session date,
-- The print date,
-- The list of session proposals with for each proposal:
-  + the exercise name,
-  + the music name (title and artist),
-  + the music duration.
+#### Print a session
+Click on the button ![Print session button](assets/help/en/images/SessionExplorationPrintSessionButton.png).
 
-Optionally, you can also include in the printout:
-- the session theme,
-- the instructions for each proposal,
-- any observations for the proposals,
-- a space for manual notes for each proposal.
+The printout includes:
+- user name,
+- session title,
+- session date,
+- print date,
+- list of proposals with:
+  + exercise name,
+  + music title and artist,
+  + music duration.
+
+![Print session](assets/help/en/images/SessionPrint.png)
+
+Optional elements can be included or excluded using the icons:
+- session theme,
+- instructions,
+- observations,
+- space for handwritten notes.
+
+![Print options](assets/help/en/images/SessionPrintIcons.png)
 
 #### Duplicate a session
-To duplicate an existing session, click on the button ![screenshot1](assets/help/en/images/SessionExplorationDuplicateSessionButton.png) located on the line of the session to duplicate.
-A new session is created with the same title (with a version number), the same date, the same theme and the same proposals.
+To duplicate an existing session, click on the button ![Duplicate session button](assets/help/en/images/SessionExplorationDuplicateSessionButton.png) located on the session line.
+A new session is created with the same title (with a version number), the same date, the same theme, and the same proposals.
 
 #### Delete a session
-To delete a session, click on the button ![screenshot1](assets/help/en/images/SessionExplorationDeleteSessionButton.png) located on the line of the session to delete.
+To delete a session, click on the button ![Delete session button](assets/help/en/images/SessionExplorationDeleteSessionButton.png) located on the session line.
 Warning: deletion is permanent!
 
 #### Animate a session
-To switch to animation mode for a session, click on the button ![screenshot1](assets/help/en/images/SessionExplorationAnimateSessionButton.png) located on the line of the session to animate.
-See the chapter ***Session editing/animation*** for more details.
+To switch a session to animation mode, click on the button ![Animate session button](assets/help/en/images/SessionExplorationAnimateSessionButton.png) located on the session line.
+See the chapter ***Animation / Editing / Curve Editing*** for more details.
 
 #### Edit a session
-To switch to edit mode for a session, click on the button ![screenshot1](assets/help/en/images/SessionExplorationEditSessionButton.png) located on the line of the session to edit.
-See the chapter ***Session editing/animation*** for more details.
+To switch a session to editing mode, click on the button ![Edit session button](assets/help/en/images/SessionExplorationEditSessionButton.png) located on the session line.
+See the chapter ***Animation / Editing / Curve Editing*** for more details.
 
 #### Edit a session on the curve
-To edit a session on the curve, click on the button ![screenshot1](assets/help/en/images/SessionExplorationEditCurveSessionButton.png) located on the line of the session to edit.
-See the chapter ***Editing session on the curve*** for more details.
+To edit a session on the curve, click on the button ![Edit curve session button](assets/help/en/images/SessionExplorationEditCurveSessionButton.png) located on the session line.
+See the chapter ***Animation / Editing / Curve Editing*** for more details.
 
 #### View session content
-A click on the title of a session displays two columns:
-- one on the left containing the session theme,
-- the other on the right containing the list of session proposals. A click on a proposal displays/hides the instructions for that proposal.
+Clicking on a session title displays two columns:
+- the left column shows the session theme,
+- the right column shows the list of session proposals.  
+Clicking on a proposal displays or hides its instructions.
+
+![View session content](assets/help/en/images/SessionView.png)
 
 ### Searching in sessions
 In the session search field, you can:
- - enter one or more words searched in: 
-   + music titles, 
-   + artist names, 
+ - enter one or more words searched in:
+   + music titles,
+   + artist names,
    + music origin codes (HLB, IBF, ...),
-   + the content of personal instructions for proposals, 
-   + the content of proposal observations, 
-   + the session theme, 
-   + the session title,
+   + personal instruction content for proposals,
+   + proposal observation content,
+   + session theme,
+   + session title,
  - an exact phrase in quotes searched in the same items,
  - a specific field (or a series of specific fields): at least three letters of the field name, followed by ":" and the searched word
-   + *tit:sing* or *titl:sing* or *title:sing*
-   + *art:vangelis* or *arti:vangelis* or ... or *artist:vangelis* 
-   + *exe:walk* or *exer:walk* or ... or *exercise:walk*
-   + *obs:robert* or ... or *observations:robert*
-   + *ins:opening* or ... or *instruction:opening*
-   + *the:sex* or ... or *theme:sex*
-   + *sea:alterity* or ... or *session:alterity*
+   + music titles: *tit:sing* or *titl:sing* or *title:sing*
+   + music artists: *art:vangelis* or *arti:vangelis* or ... or *artist:vangelis*
+   + exercise names: *exe:walk* or *exer:walk* or ... or *exercise:walk*
+   + exercise observations: *obs:robert* or ... or *observations:robert*
+   + proposal instructions: *ins:opening* or ... or *instruction:opening*
+   + session themes: *the:sex* or ... or *theme:sex*
+   + session names: *sea:alterity* or ... or *session:alterity*
 
-## Session Editing / Animation
+## Animation / Editing / Curve Editing
 
 ### Session Editing
-The editing mode primarily allows you to create your session by adding, modifying, or deleting propositions (exercise-music associations), and to write your own instructions for each proposition, optionally starting from parts of the catalog instructions for that exercise.
-It also allows you to modify the session's title, date, and theme. 
+Editing mode mainly allows you to build your session by adding, modifying, or deleting proposals (exercise–music associations), and to write your own instructions for each proposal, optionally starting from parts of the catalog instructions.
+It also allows you to edit the session title, date, and theme.
 
-In editing mode you can:
-- **Edit the session title** by clicking on the title text visible at the top right of the window. 
- ![screenshot1](assets/help/en/images/SessionEditionTitleEditor.png)
- - **Edit the session date** by clicking on the date text visible at the top right of the window. 
- ![screenshot1](assets/help/en/images/SessionEditionDatePicker.png)
- - **Edit the session theme** by clicking on the button ![screenshot1](assets/help/en/images/SessionEditionEditThemeButton.png)
- - **Switch to Animation mode** by clicking the toggle ![screenshot1](assets/help/en/images/SessionEditionAnimationToggleButton.png)
- - **Create a new proposition** in the last position of the session by clicking on the button ![screenshot1](assets/help/en/images/SessionEditionAddPropositionButton.png) located in the banner at the bottom of the screen.
+In editing mode, you can:
+- **Switch to Animation or Curve Editing mode** using the buttons in the top banner  
+  ![Animation / Editing / Curve Editing buttons](assets/help/en/images/AnimateEditEditOnCurve.png)
+- **Edit the session title** by clicking on the title text displayed at the top right of the window  
+  ![Edit session title](assets/help/en/images/SessionEditionTitleEditor.png)
+- **Edit the session date** by clicking on the date text displayed at the top right of the window  
+  ![Edit session date](assets/help/en/images/SessionEditionDatePicker.png)
+- **Edit the session theme** by clicking on the button ![Edit session theme](assets/help/en/images/SessionEditionEditThemeButton.png)
+- **Create a new proposal** at the end of the session by clicking on the button  
+  ![Add proposal button](assets/help/en/images/SessionEditionAddPropositionButton.png) located in the bottom banner
 
- For each proposal present in the session, you can:
-  - **Create a new proposition** after an existing one by clicking on the button ![screenshot1](assets/help/en/images/SessionEditionAddPropositionButton.png) located on the existing proposition's line,
- - **Edit a proposition** by clicking on the button ![screenshot1](assets/help/en/images/SessionEditionEditPropositionButton.png) located on that proposition's line,
-  - **Delete a proposition** by clicking on the button ![screenshot1](assets/help/en/images/SessionEditionDeletePropositionButton.png) located on that proposition's line,
- - **Watch the demonstration** of a proposition's exercise (when the video exists) by clicking on the button ![screenshot1](assets/help/en/images/SessionEditionVideoButton.png) located on that proposition's line,
- - **Edit the instruction** of the selected proposal (highlighted in blue) by clicking on the instruction text 
-  ![screenshot1](assets/help/en/images/SessionEditionInsctructionEditionArea.png),
+For each proposal in the session, you can:
+- **Create a new proposal** after an existing one by clicking on the button  
+  ![Add proposal button](assets/help/en/images/SessionEditionAddPropositionButton.png)
+- **Edit a proposal** by clicking on the button  
+  ![Edit proposal button](assets/help/en/images/SessionEditionEditPropositionButton.png)
+- **Delete a proposal** by clicking on the button  
+  ![Delete proposal button](assets/help/en/images/SessionEditionDeletePropositionButton.png)
+- **Watch the exercise demonstration** (when available) by clicking on the button  
+  ![Demo button](assets/help/en/images/SessionEditionVideoButton.png)
+- **Edit the instruction** of the selected proposal (highlighted in blue) by clicking in the instruction text  
+  ![Edit instruction](assets/help/en/images/SessionEditionInsctructionEditionArea.png)
+- **Move a proposal** in the list:
+  - using the keyboard:
+    - *Shift + Down Arrow* to move down
+    - *Shift + Up Arrow* to move up
+  - using the mouse: click and hold the button  
+    ![Drag and drop button](assets/help/en/images/SessionEditionDragAndDropButton.png)
 
-![screenshot1](assets/help/en/images/SessionEdition.png)
+![Session editing](assets/help/en/images/SessionEdition.png)
 
 ### Session Animation
-The animation mode is a mode where all editing, adding, or deleting actions are no longer present to avoid any unfortunate manipulation while you are facilitating your session.
+Animation mode disables all editing, adding, or deleting actions to avoid accidental changes while facilitating a session.
 
-In animation mode you can:
- - **Consult the session theme** by clicking on the button ![screenshot1](assets/help/en/images/SessionEditionEditThemeButton.png)
- - **Edit observations** about the participants, music choice, or session structure by clicking on the button ![screenshot1](assets/help/en/images/SessionEditionAnotateButton.png) located on a proposal's line,
- - **Switch to Edit mode** by clicking the toggle switch ![screenshot1](assets/help/en/images/SessionEditionAnimationToggleButton.png)
+In animation mode, you can:
+- **Switch to Editing or Curve Editing mode** using the buttons in the top banner  
+  ![Animation / Editing / Curve Editing buttons](assets/help/en/images/AnimateEditEditOnCurve.png)
+- **View the session theme** by clicking on the button  
+  ![View session theme](assets/help/en/images/SessionEditionEditThemeButton.png)
+- **Edit observations** about participants, music choice, or session structure by clicking on the button  
+  ![Annotate button](assets/help/en/images/SessionEditionAnnotateButton.png)
 
-![screenshot1](assets/help/en/images/SessionAnimation.png)
+![Session animation](assets/help/en/images/SessionAnimation.png)
 
-### Features available in both Edit and Animation modes
-In both **Edit** and **Animation** modes you can:
- - **Enable gradual volume increase/decrease** for a proposal's music by clicking on the button ![screenshot1](assets/help/en/images/SessionEditionFadeButton.png) located on that proposal's line,
- - **Enable loop playback** for a proposal's music by clicking on the button ![screenshot1](assets/help/en/images/SessionEditionLoopButton.png) located on that proposal's line,
- - **Display the catalog instructions** for a proposal's exercise by clicking on the button ![screenshot1](assets/help/en/images/SessionEditionCatalogInstructionsButton.png) located on that proposal's line, 
- - **Exit the edition/animation screen** and return to the session list by clicking on the button ![screenshot1](assets/help/en/images/SessionEditionExitButton.png) located below the session date,
- - **Print the session** by clicking on the button ![screenshot1](assets/help/en/images/SessionEditionPrintButton.png) located below the session date,
- - **Share the session** by clicking on the button ![screenshot1](assets/help/en/images/SessionEditionShareSessionButton.png) located below the session date,
- - **Edit the instruction** of the selected proposal (highlighted in blue) by clicking on the instruction text 
-  ![screenshot1](assets/help/en/images/SessionEditionInsctructionEditionArea.png)
- - **Move a proposal** in the list of proposals: 
-   - using the keyboard:
-     - Downwards with the *Shift-Down Arrow* shortcut,
-     - Upwards with the *Shift-Up Arrow* shortcut,
-   - using the mouse: click on the button ![screenshot1](assets/help/en/images/SessionEditionDragAndDropButton.png) of the proposal to move and hold the button down while moving the proposal to its new position in the session.
- - **Select a proposal** in the list of proposals:
-   - using the keyboard: press the **Down Arrow** and **Up Arrow** keys to select the next or previous proposal from the currently selected one.
-   - using the mouse: a left click on a proposal selects it
- - **Play or pause a proposal's music**:
-   - using the keyboard:
-      - press the *Space* key
-        - if the selected proposal is not the one currently playing or previously played, plays the selected proposal's music from the beginning
-        - if the selected proposal is the one whose music was previously played, resumes the music from where it was paused
-        - if the selected proposal's music is currently playing, pauses it
-      - press the *Enter* key: plays the music of the selected proposal (highlighted in blue)
-    - using the mouse: 
-      - *Double-click* on the proposal's line to play.
-      - *Click* on the button ![screenshot1](assets/help/en/images/PlayButton.png)/![screenshot1](assets/help/en/images/PauseButton.png) located in front of the music intensity curve at the top left of the window,
- - **Return to the beginning of the music and stop playback** (after demonstrating to participants), by pressing the *<* key
+### Features available in both Editing and Animation modes
+In both **Editing** and **Animation** modes, you can:
+- **Enable gradual volume fade in/out** for a proposal’s music by clicking on the button  
+  ![Fade button](assets/help/en/images/SessionEditionFadeButton.png)
+- **Enable loop playback** for a proposal’s music by clicking on the button  
+  ![Loop button](assets/help/en/images/SessionEditionLoopButton.png)
+- **Display catalog instructions** for a proposal’s exercise by clicking on the button  
+  ![Catalog instructions button](assets/help/en/images/SessionEditionCatalogInstructionsButton.png)
+- **Exit the editing/animation screen** and return to the session list by clicking on the button  
+  ![Exit session button](assets/help/en/images/SessionEditionExitButton.png)
+- **Print the session** by clicking on the button  
+  ![Print session button](assets/help/en/images/SessionEditionPrintButton.png)
+- **Save or share the session** by clicking on the button  
+  ![Share session button](assets/help/en/images/SessionEditionShareSessionButton.png)
+- **Edit the instruction** of the selected proposal by clicking in the instruction text  
+  ![Edit instruction](assets/help/en/images/SessionEditionInsctructionEditionArea.png)
+- **Select a proposal**:
+  - with the keyboard: **Up Arrow / Down Arrow**
+  - with the mouse: left click on a proposal
+- **Play or pause a proposal’s music**:
+  - keyboard:
+    - *Space* → play / pause
+    - *Enter* → play selected proposal
+  - mouse:
+    - double-click on the proposal line
+    - click on the ![Play button](assets/help/en/images/PlayButton.png) / ![Pause button](assets/help/en/images/PauseButton.png) near the intensity curve
+- **Return to the beginning of the music and stop playback** by pressing the *<* key
 
-## Editing a session on the curve
-In the session editor on the curve you can:
- - **Create a new proposition** by clicking on the curve,
- - **Edit a proposition** by double-clicking on the description box of a proposition,
- - **Listen to a proposition's music** by clicking on the button ![screenshot1](assets/help/en/images/PlayButton.png) of that proposition,
- - **Move a proposition within the session**: click on the proposition's anchor point (colored dot) and, while holding the button down, move the mouse to the right or left to reposition the proposition's anchor point to its new location in the session,
- - **Designate one or more key propositions** of the session: click on the button ![screenshot1](assets/help/en/images/SessionEditionOnCurveKeyButton.png)
-   Key propositions are highlighted with a green border.
- - **Delete a proposition** by clicking on the button ![screenshot1](assets/help/en/images/SessionEditionOnCurveDeleteButton.png) of that proposition
- - **Automatically redistribute propositions** on the curve by clicking on the button ![screenshot1](assets/help/en/images/SessionEditionOnCurveRedistributeButton.png) located at the top right
+### Editing a session on the curve
+In the curve session editor, you can:
+- **Create a new proposal** by clicking on the curve
+- **Edit a proposal** by double-clicking its description box
+- **Listen to a proposal’s music** by clicking on the  
+  ![Play button](assets/help/en/images/PlayButton.png)
+- **Move a proposal** by dragging its anchor point along the curve
+- **Designate one or more key proposals** by clicking on the button  
+  ![Key proposal button](assets/help/en/images/SessionEditionOnCurveKeyButton.png)  
+  Key proposals are highlighted with a green border
+- **Delete a proposal** by clicking on the button  
+  ![Delete proposal button](assets/help/en/images/SessionEditionOnCurveDeleteButton.png)
+- **Automatically redistribute proposals** by clicking on the button  
+  ![Redistribute button](assets/help/en/images/SessionEditionOnCurveRedistributeButton.png)
 
-![screenshot1](assets/help/en/images/SessionEditionOnCurve.png)
+![Curve editing](assets/help/en/images/SessionEditionOnCurve.png)
 
-## Editing a proposition
-From the **editing/animation** mode or the **editing on the curve** mode, you can create or modify your *propositions*, meaning your associations between an exercise and a piece of music.
+## Editing a proposal
+From **editing/animation mode** or **curve editing mode**, you can create or modify your *proposals*, meaning your exercise–music associations.
 
-![screenshot1](assets/help/en/images/PropositionEditionWidget.png)
+![Proposal editing](assets/help/en/images/PropositionEditionWidget.png)
 
-### The three modes for creating a proposition
-The proposition editing window provides access to three complementary modes:
- - **I explore** to seek inspiration by browsing the catalog loaded into VivenciApp,
- - **I act** when you know which exercise you want to select by typing a few letters of the exercise name you are looking for to reduce the displayed list,
- - **I refine** when your session is already partially built and you want to fine-tune the musical flow between your propositions
+### The three modes for creating a proposal
+The proposal editing window provides three complementary modes:
+- **I explore** to find inspiration by browsing the catalog
+- **I act** when you know which exercise you want to select by typing part of its name
+- **I refine** when your session is already partially built and you want to fine-tune musical transitions
 
 ### Explore
-To navigate through the catalog in search of an exercise and/or an association of an exercise with a piece of music, click on the button ![screenshot1](assets/help/en/images/PropositionEditionExplorationButton.png) located on the left of the proposition editing box.
-The catalog then opens and allows you to search by exercise or by music (see the **Catalog Exploration** chapter).
+To browse the catalog in search of an exercise or an exercise–music association, click on the button  
+![Explore button](assets/help/en/images/PropositionEditionExplorationButton.png)  
+located on the left of the proposal editing box.
 
 ### Act
-To quickly select an exercise whose name you know, simply type the first letters or even a sequence of letters contained in the name of that exercise. A reduced list of selectable exercises is displayed, in which you can click to select the desired exercise.
-![screenshot1](assets/help/en/images/PropositionEditionAutocompletion.png)
-Once the exercise is selected, you can repeat the same operation to select the music you wish to associate with this exercise in your session.
+To quickly select a known exercise, type the first letters (or any sequence of letters) contained in its name.
+A reduced list of selectable exercises appears.
+
+![Autocompletion](assets/help/en/images/PropositionEditionAutocompletion.png)
+
+Once the exercise is selected, repeat the operation to select the music to associate with it.
 
 ### Refine
-To allow you to refine the fluidity of your musical choices, click on the button ![screenshot1](assets/help/en/images/PropositionEditionRefineButton.png) located on the right of the music input/selection line.
+To refine the musical flow, click on the button  
+![Refine button](assets/help/en/images/PropositionEditionRefineButton.png)
 
-The window that opens then allows you to:
- - see the previous proposition and listen to its music
- - see the next proposition and listen to its music
- - chain the listening of the previous music with a possible music for the proposition to refine,
- - chain the listening of a possible music for the proposition to refine with the next music,
- - pre-select a few potential alternatives for the proposition to refine before chaining again:
- - play the previous music,
- - play the alternative I'm hesitating about,
- - play the next music.
+The window allows you to:
+- listen to the previous and next proposals,
+- chain listening between alternatives,
+- progressively eliminate options until the best transition is found.
 
-Step by step, you can eliminate alternatives until you keep the music that flows best between the previous and the next one.
+![Refine music](assets/help/en/images/RefineMusic.png)
 
-![screenshot1](assets/help/en/images/RefineMusic.png)
+### Editing the proposal’s instructions
+To write the instructions you will use with participants, you can copy sections from the catalog instructions and adapt them.
+Available catalog sections are color-coded. Clicking on a section title copies its content into the proposal instruction field.
 
-### Editing the proposition's instructions
-To draft the instruction elements that you will use to present the proposition to the participants, you have the option to copy sections from the catalog's instructions and to modify and enrich them.
-The sections available in the catalog for the selected exercise are colored. A click on the title of one of the sections copies the content of that section into the instruction editing field for the proposition.
-
-![screenshot1](assets/help/en/images/PropositioneditionInstructions.png)
+![Copy catalog instructions](assets/help/en/images/PropositioneditionInstructions.png)
