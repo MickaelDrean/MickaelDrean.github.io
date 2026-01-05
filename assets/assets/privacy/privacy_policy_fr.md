@@ -1,16 +1,18 @@
 # Politique de confidentialité de VivenciApp
 
-*Dernière mise à jour : [Date]*
+*Dernière mise à jour : 27/12/2025
 
 ## 1. Introduction
 
-VivenciApp est une application dédiée à la pratique de la Biodanza. Nous respectons votre vie privée et nous nous engageons à protéger vos données personnelles.
+VivenciApp est une application dédiée à la pratique de la Biodanza.
+Cette politique de confidentialité s’applique à tous les utilisateurs de VivenciApp.
+Nous respectons votre vie privée et nous nous engageons à protéger vos données personnelles dans le respect des réglementations en vigueur, notamment le Règlement Général sur la Protection des Données (RGPD) et la loi française Informatique et Libertés.
 
 ## 2. Responsable du traitement
 
-[Votre nom/entreprise]
-[Adresse]
-Email : aide.vivenciapp@gmail.com
+Thierry CONTER - Autoentrepreneur
+11 Rue du Petit Gazinet 33600 PESSAC
+aide.vivenciapp@gmail.com
 
 ## 3. Données collectées
 
@@ -41,8 +43,7 @@ Vous pouvez retirer ce consentement à tout moment dans les préférences de l�
 - Informations système (OS, version, numéro de série)
 
 **Finalité :** Gestion de votre licence, communication sur les mises à jour et support technique.
-**Base légale :** Exécution du contrat
-**Conservation :** Durée de validité de la licence + 5 ans
+**Base légale :** Exécution du contrat (article 6.1.b du RGPD). Vos données sont conservées pendant la durée de validité de votre licence, puis archivées pendant 5 ans pour répondre à d’éventuelles obligations légales. Passé ce délai, elles sont supprimées.
 
 ---
 
@@ -58,12 +59,13 @@ Vous pouvez retirer ce consentement à tout moment dans les préférences de l�
 
 **Données JAMAIS collectées :**
 - Le contenu de vos séances
-- Les informations de vos participants
+- Les observations sur vos participants
 - Vos fichiers personnels
 
 **Finalité :** Identifier et corriger les bugs
 
-**Prestataire :** Sentry.io
+**Prestataire :** Sentry.io 
+Pour en savoir plus sur le traitement des données par Sentry.io, consultez leur politique de confidentialité : https://sentry.io/privacy. Les données collectées sont pseudonymisées et ne permettent pas de vous identifier directement.
 
 **Transfert et stockage :**
 - Sentry adhère au *Data Privacy Framework* (DPF) validé par la Commission européenne.
@@ -83,7 +85,9 @@ Vous pouvez retirer ce consentement à tout moment dans les préférences de l�
 - Navigation dans l'interface
 - Identifiant de licence
 
-**Finalité :** Améliorer l'application
+**Finalité :** Les données collectées sont agrégées et anonymisées pour améliorer l’expérience utilisateur. 
+
+**Consentement :** Vous pouvez retirer votre consentement à tout moment dans les préférences de l’application.
 
 **Prestataire :** Sentry.io
 
@@ -107,6 +111,8 @@ Conformément au RGPD, vous disposez des droits suivants :
 - **Droit à la portabilité** : recevoir vos données dans un format structuré
 - **Droit de retirer votre consentement** : à tout moment dans les préférences pour les traitements optionnels
 
+Nous nous engageons à répondre à votre demande dans un délai d’un mois. Pour des raisons de sécurité, nous pourrions vous demander une preuve d’identité avant de traiter votre demande.
+ 
 Pour exercer ces droits : aide.vivenciapp@gmail.com
 
 Vous disposez également du droit d'introduire une réclamation auprès de la CNIL : https://www.cnil.fr
@@ -124,7 +130,9 @@ Nous mettons en œuvre des mesures techniques et organisationnelles appropriées
 
 ## 6. Modifications de cette politique
 
-Nous pouvons mettre à jour cette politique de confidentialité. Toute modification significative vous sera notifiée via l'application ou par email.
+Nous pouvons mettre à jour cette politique de confidentialité.
+Toute modification significative de cette politique vous sera notifiée par email ou via une alerte dans l’application. 
+Vous pourrez consulter les versions précédentes sur demande à aide.vivenciapp@gmail.com.
 
 ---
 
